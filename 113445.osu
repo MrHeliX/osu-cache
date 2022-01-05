@@ -1,0 +1,104 @@
+osu file format v9
+
+[General]
+AudioFilename: I=fantasy.mp3
+AudioLeadIn: 3000
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:I=fantasy
+Artist:vocaloid
+Creator:qead954
+Version:Easy
+Source:
+Tags:
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:5
+ApproachRate:7
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"2011-08-09 21;58;05.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,128,128,128
+
+[TimingPoints]
+0,521.920668058455,4,1,0,100,1,0
+
+[Colours]
+Combo1 : 255,128,64
+Combo2 : 255,128,128
+Combo3 : 255,149,202
+Combo4 : 255,0,102
+Combo5 : 119,187,255
+Combo6 : 104,133,249
+Combo7 : 202,255,149
+Combo8 : 128,255,128
+
+[HitObjects]
+56,120,9003,1,0
+112,64,10046,1,0
+168,120,11090,1,0
+112,176,12134,1,8
+384,56,13178,5,0
+320,112,14091,1,0
+448,112,15135,1,0
+376,168,16179,1,8
+248,224,17353,5,0
+184,280,18397,1,0
+248,336,19441,1,0
+304,280,20485,1,8
+256,192,21398,1,0
+192,144,22442,1,0
+192,248,23486,1,0
+312,248,24530,1,0
+312,136,25574,1,8
+0,104,26226,5,0
+56,104,26487,1,0
+112,104,26748,1,0
+168,104,27009,1,0
+224,104,27270,1,0
+280,104,27531,1,0
+336,104,27792,1,0
+392,104,28053,1,0
+448,104,28314,1,4
+496,104,28575,1,4
+496,184,29097,2,6,B|328:184,1,140
+0,184,29879,2,6,B|160:184,1,140
+216,192,30662,2,6,B|256:88|368:192|264:280|208:192,1,210
+256,192,31706,1,14
+512,312,34316,5,0
+456,312,34577,1,0
+400,312,34838,1,0
+344,312,35099,1,0
+288,312,35360,1,0
+232,312,35621,1,0
+176,312,35882,1,0
+120,312,36143,1,0
+64,312,36403,1,4
+8,312,36664,1,4
+8,216,37317,2,6,B|176:216,1,140
+512,216,38491,2,6,B|344:216,1,140
+208,184,39665,2,6,B|272:88|384:208|272:272|208:208,1,245
+256,192,41101,1,14

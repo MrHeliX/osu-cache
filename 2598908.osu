@@ -1,0 +1,84 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:Letshe Quote
+TitleUnicode:Letshe Quote
+Artist:Atlantis Letshe
+ArtistUnicode:Atlantis Letshe
+Creator:bhopped
+Version:You have to do sometimes
+Source:
+Tags:
+BeatmapID:2598908
+BeatmapSetID:1250500
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:5
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Ed9YK5WWoAEdzqM.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1813.90560934296,240,4,1,0,100,1,0
+
+
+[HitObjects]
+256,192,13,12,0,1393,0:0:0:0:
+357,117,1393,5,0,0:0:0:0:
+219,144,1633,1,0,0:0:0:0:
+317,242,1873,1,0,0:0:0:0:
+214,265,2053,2,0,L|-18:117,1,245
+26,103,2533,5,0,0:0:0:0:
+85,66,2653,1,0,0:0:0:0:
+150,41,2773,1,0,0:0:0:0:
+219,35,2893,2,0,B|335:47|340:80|341:80,1,105
+391,125,3193,1,0,0:0:0:0:
+166,202,3493,5,0,0:0:0:0:
+326,293,3673,1,0,0:0:0:0:
+239,70,3913,1,0,0:0:0:0:
+407,167,4153,1,0,0:0:0:0:
+151,215,4273,1,0,0:0:0:0:
+248,207,4513,2,0,L|266:243,1,35
+345,296,4633,2,0,B|87:152,1,280
+100,159,5113,1,0,0:0:0:0:
+141,103,5233,6,0,B|386:173|391:212|391:211,1,245
+227,247,5893,1,0,0:0:0:0:
+82,224,6073,1,0,0:0:0:0:
+183,87,6253,1,0,0:0:0:0:
+382,145,6493,1,0,0:0:0:0:
+216,189,6733,6,0,P|288:204|301:226,5,105
+221,286,7753,1,0,0:0:0:0:
+81,222,8053,5,0,0:0:0:0:
+236,117,8293,1,0,0:0:0:0:
+236,117,8413,1,0,0:0:0:0:
+448,238,8833,5,0,0:0:0:0:

@@ -1,0 +1,93 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 55209
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 575,8379,23989,39599,55209,70818,88379
+DistanceSpacing: 0.3
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Yume wo Kanaete Doraemon (TV Size)
+TitleUnicode:夢をかなえてドラえもん (TV Size)
+Artist:mao
+ArtistUnicode:mao
+Creator:marksman666
+Version:Beginner
+Source:ドラえもん
+Tags:Anime Japanese taikosu
+BeatmapID:2983413
+BeatmapSetID:1451137
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:2
+OverallDifficulty:1
+ApproachRate:1
+SliderMultiplier:0.480000005960465
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+Video,0,"doravideo.avi"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+575,487.80487804878,4,1,1,80,1,0
+55209,-100,4,1,1,80,0,1
+88379,-100,4,1,1,80,0,0
+
+
+[Colours]
+Combo1 : 255,255,91
+Combo2 : 243,89,34
+Combo3 : 112,196,193
+
+[HitObjects]
+196,144,575,37,0,1:0:0:0:
+316,148,4477,1,0,1:0:0:0:
+256,252,8379,5,0,1:0:0:0:
+256,252,12282,1,8,1:0:0:0:
+256,132,16184,5,0,1:0:0:0:
+256,132,20087,1,8,1:0:0:0:
+156,192,23989,21,0,1:0:0:0:
+256,252,27892,1,8,1:0:0:0:
+356,192,31794,5,0,1:0:0:0:
+256,132,35696,1,0,1:0:0:0:
+156,192,39599,21,8,1:0:0:0:
+156,192,43501,1,8,1:0:0:0:
+356,192,47404,5,8,1:0:0:0:
+356,192,51306,1,8,1:0:0:0:
+480,192,55209,21,0,1:0:0:0:
+422,192,57160,1,0,0:0:0:0:
+368,192,59111,1,0,1:0:0:0:
+312,192,61062,1,0,0:0:0:0:
+256,192,63014,5,8,1:0:0:0:
+214,232,64966,1,8,0:0:0:0:
+172,268,66916,2,0,P|123:191|172:116,1,192.000002384186,8|4,1:0|1:0,1:0:0:0:
+256,116,70818,21,0,1:0:0:0:
+312,116,72770,1,0,0:0:0:0:
+371,116,74721,1,0,1:0:0:0:
+412,156,76672,1,0,0:0:0:0:
+456,192,78623,5,8,1:0:0:0:
+412,228,80574,1,8,0:0:0:0:
+371,268,82526,1,8,1:0:0:0:
+312,268,84477,1,8,0:0:0:0:
+256,192,86428,12,2,88217,1:0:0:0:

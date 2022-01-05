@@ -1,0 +1,71 @@
+osu file format v5
+
+[General]
+AudioFilename: offsetfinder.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Metadata]
+Title:Offset Wizard
+Artist:peppy
+Creator:peppy
+Version:-
+Source:
+Tags:
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Failing)
+//Storyboard Layer 2 (Passing)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+-6,500,4,1,1,100,1
+
+[HitObjects]
+256,192,994,1,0
+256,192,1994,1,0
+256,192,2994,1,0
+256,192,3994,1,0
+256,192,4994,1,0
+256,192,5994,1,0
+256,192,6994,1,0
+256,192,7994,1,0
+256,192,8994,1,0
+256,192,9994,1,0
+256,192,10994,1,0
+256,192,11994,1,0
+256,192,12994,1,0
+256,192,13994,1,0
+256,192,14994,1,0
+256,192,15994,1,0
+256,192,16994,1,0
+256,192,17994,1,0
+256,192,18994,1,0
+256,192,19994,1,0
+256,192,20994,1,0
+256,192,21994,1,0
+256,192,22994,1,0
+256,192,23994,1,0
+256,192,24994,1,0
+256,192,25994,1,0
+256,192,26994,1,0
+256,192,27994,1,0
+256,192,28994,1,0

@@ -1,0 +1,109 @@
+osu file format v12
+
+[General]
+AudioFilename: Jeff Williams feat Casey Lee Williams - - This Will Be the Day (Rooster Teeth RWBY) (With Lyrics).mp3
+AudioLeadIn: 0
+PreviewTime: 38276
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 2928,38296,66086,98928,124171,154486,181033
+DistanceSpacing: 1.2
+BeatDivisor: 4
+GridSize: 4
+
+[Metadata]
+Title:This Will Be the Day
+TitleUnicode:This Will Be the Day
+Artist:Jeff Williams feat. Casey Lee Williams
+ArtistUnicode:Jeff Williams feat. Casey Lee Williams
+Creator:Hellzero
+Version:Black
+Source:RWBY
+Tags:
+BeatmapID:288824
+BeatmapSetID:110961
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:2
+OverallDifficulty:2
+ApproachRate:4
+SliderMultiplier:0.8
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG.jpg",0,0
+//Break Periods
+2,28366,122688
+2,124208,143056
+2,144576,150635
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+2903,315.789473684211,4,1,1,40,1,0
+7881,-100,4,1,1,40,0,0
+17981,-100,4,1,1,40,0,0
+38271,-100,4,1,1,40,0,1
+63376,-100,4,1,1,40,0,0
+88723,-100,4,2,1,30,0,0
+93692,-100,4,1,1,40,0,0
+124329,-100,4,2,1,30,0,0
+153776,-100,4,1,1,30,0,0
+154486,-100,4,1,1,40,0,1
+179587,-100,4,1,1,40,0,0
+
+
+[Colours]
+Combo1 : 242,106,154
+Combo2 : 255,0,0
+Combo3 : 255,128,64
+Combo4 : 255,255,0
+
+[HitObjects]
+208,240,2903,2,0,L|120:328,2,120
+304,240,4166,2,0,L|392:328,2,120
+256,156,5429,2,0,L|168:68,2,120
+352,156,6692,2,0,L|440:68,2,120
+304,240,7955,6,0,L|192:284,2,120
+400,240,9218,2,0,L|464:184,1,80
+460,90,9850,2,0,L|396:34,1,80
+316,84,10481,6,0,P|256:116|200:116,2,120
+384,152,11745,2,0,L|348:224,1,80
+256,248,12376,2,0,L|220:320,1,80
+124,336,13008,6,0,P|72:304|48:252,2,120
+152,244,14271,1,0,0:0:0:0:
+200,160,14587,1,0,0:0:0:0:
+256,84,14903,1,0,0:0:0:0:
+312,160,15218,1,0,0:0:0:0:
+368,84,15534,6,0,P|408:40|468:40,2,120
+390,178,16797,2,0,P|424:164|452:132,2,80,0|0|2,0:0|0:0|2:2,0:0:0:0:
+436,193,18060,6,0,L|191:277,1,240
+159,207,19324,1,0,0:0:0:0:
+98,155,19639,1,0,0:0:0:0:
+161,106,19955,1,0,0:0:0:0:
+240,97,20271,1,0,0:0:0:0:
+436,193,20587,2,0,L|191:277,1,240
+191,192,21850,2,0,L|123:126,1,80
+202,94,22481,2,0,L|288:51,1,80
+338,105,23113,2,0,L|168:289,1,240
+254,274,24376,2,0,L|401:195,1,160
+341,138,25324,1,0,0:0:0:0:
+267,170,25639,2,0,L|101:213,1,160
+133,132,26587,1,0,0:0:0:0:
+202,91,26903,2,0,L|248:62,8,40
+252,192,124008,5,0,0:0:0:0:
+256,192,144376,5,0,0:0:0:0:
+256,192,151955,12,0,153692,0:0:0:0:

@@ -1,0 +1,78 @@
+osu file format v6
+
+[General]
+AudioFilename: Itou Kanako - Find the Blue.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Find The Blue(Short ver.)
+Artist:Itou Kanako
+Creator:sk3dnip
+Version:Normal
+Source:
+Tags:
+
+[Difficulty]
+HPDrainRate:4
+CircleSize:4
+OverallDifficulty:4
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"ch6.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+777,352.941176470588,4,2,0,79,1,0
+
+[Colours]
+Combo1 : 0,0,0
+Combo2 : 255,255,128
+Combo3 : 128,128,255
+Combo4 : 255,128,255
+
+[HitObjects]
+112,56,12600,1,0
+112,56,12776,1,0
+256,56,13129,1,0
+392,56,13482,1,0
+392,56,13659,1,0
+392,192,14012,2,0,B|176:192,2,210
+392,336,15424,5,0
+392,336,15600,1,0
+256,336,15953,1,0
+112,336,16306,1,0
+112,336,16482,1,0
+112,192,16835,2,0,B|344:192,2,210
+248,192,18247,5,0
+248,192,18424,1,0
+384,192,18776,1,0
+384,48,19129,1,0
+384,48,19306,1,0
+240,48,19659,2,0,B|96:48,3,140
+104,192,21071,5,0
+104,192,21247,1,0
+248,192,21600,1,0
+392,192,21953,1,0
+392,192,22129,1,0
+392,328,22482,2,0,B|224:328,3,140

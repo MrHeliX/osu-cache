@@ -1,0 +1,84 @@
+osu file format v9
+
+[General]
+AudioFilename: 30 Alexander Rybak - Fairytale [Norway] .mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Fairytale
+Artist:Alexander Rybak
+Creator:silitradragos
+Version:Easy
+Source:
+Tags:fairytale eurovision contest alexander rybak
+
+[Difficulty]
+HPDrainRate:1
+CircleSize:3
+OverallDifficulty:0
+ApproachRate:3
+SliderMultiplier:2.1
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"Eurovision_Alexander Rybak.jpg"
+//Break Periods
+2,19350,19932
+2,21572,22154
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+1933.36605333592,555.401277422938,4,1,0,100,1,0
+
+[HitObjects]
+256,192,9014,12,4,17484
+256,192,19150,5,8
+96,192,21372,5,8
+376,64,23594,5,8
+104,152,25260,6,2,B|448:152,3,315
+240,320,29425,5,0
+304,320,30258,1,0
+456,320,30814,1,0
+472,192,32480,5,8
+256,192,33035,1,8
+40,192,33868,1,0
+280,96,34979,5,4
+416,112,36923,2,0,B|416:368,1,210
+288,352,38034,1,0
+288,312,38589,1,0
+288,272,39145,1,0
+288,224,39700,2,0,B|288:48|272:40|272:40|24:40,1,420,0|4
+40,96,41366,5,8
+48,160,41922,2,8,B|88:160|88:160|88:160|88:176|88:168|96:152|96:152|104:168|104:168|96:176|96:176|104:176|112:168|120:168|120:168|176:96|192:104|192:120|192:128|192:136|192:144|192:152|192:160|192:168|192:168|192:176|192:176|136:256|120:256|104:256|64:256|48:248|32:224,1,420,8|12
+360,120,44143,1,8
+296,120,44699,1,8
+240,120,45254,1,8
+256,240,45810,1,4
+256,144,46365,1,4
+256,192,47476,5,2
+256,192,48031,1,2
+256,192,48587,1,4
+200,184,50253,6,0,B|328:184,3,105
+416,168,51641,1,0
+480,144,52197,2,0,B|480:368,1,210
+408,352,53307,2,0,B|149:358,2,210
+256,192,54696,12,4,59695
+256,192,63582,12,4,71913

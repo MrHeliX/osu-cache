@@ -1,0 +1,90 @@
+osu file format v13
+
+[General]
+AudioFilename: The Amazing World of Gumball - Full Intro.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:The Amazing World of Gumball
+TitleUnicode:The Amazing World of Gumball
+Artist:Cartoon Network
+ArtistUnicode:Cartoon Network
+Creator:RdManebog
+Version:Tina REX!
+Source:
+Tags:
+BeatmapID:495283
+BeatmapSetID:210572
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:7
+OverallDifficulty:10
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"GDA.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+4269.92932862191,212.014134275618,4,1,0,100,1,0
+
+
+[Colours]
+Combo1 : 255,128,192
+Combo2 : 64,0,128
+Combo3 : 0,128,255
+Combo4 : 255,128,0
+
+[HitObjects]
+251,195,877,5,0,0:0:0:0:
+209,174,1301,1,0,0:0:0:0:
+296,172,1725,1,0,0:0:0:0:
+258,197,2997,1,0,0:0:0:0:
+226,214,3209,1,0,0:0:0:0:
+283,221,4057,1,0,0:0:0:0:
+250,191,4905,1,0,0:0:0:0:
+221,171,5330,1,0,0:0:0:0:
+256,188,5966,1,0,0:0:0:0:
+280,174,6178,1,0,0:0:0:0:
+256,193,7026,1,0,0:0:0:0:
+238,212,7238,1,0,0:0:0:0:
+263,193,7874,1,0,0:0:0:0:
+273,216,8086,1,0,0:0:0:0:
+261,190,8934,5,0,0:0:0:0:
+157,191,9570,1,0,0:0:0:0:
+256,187,9994,1,0,0:0:0:0:
+317,184,10418,1,0,0:0:0:0:
+254,184,11054,5,0,0:0:0:0:
+188,193,11690,1,0,0:0:0:0:
+254,184,11902,1,0,0:0:0:0:
+301,186,12326,1,0,0:0:0:0:
+179,148,13174,5,0,0:0:0:0:
+256,178,13598,1,0,0:0:0:0:
+321,145,14022,1,0,0:0:0:0:
+176,238,14446,1,0,0:0:0:0:
+256,178,14870,1,0,0:0:0:0:
+309,228,15082,1,0,0:0:0:0:

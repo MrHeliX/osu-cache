@@ -1,0 +1,80 @@
+osu file format v14
+
+[General]
+AudioFilename: The General%E2%80%8E Flying a Wing Suit.mp3
+AudioLeadIn: 0
+PreviewTime: 0
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.2
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 2
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 0.8999997
+
+[Metadata]
+Title:The General's Salute
+TitleUnicode:The General's Salute
+Artist:The General Insurance Company
+ArtistUnicode:The General Insurance Company
+Creator:Hpocks
+Version:Spiral is NOT HanzeR
+Source:
+Tags:
+BeatmapID:905158
+BeatmapSetID:372271
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:0
+ApproachRate:9
+SliderMultiplier:2.39999990463257
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"wingsuit-241x175.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+100,444.444444444444,4,1,0,50,1,0
+
+
+[Colours]
+Combo1 : 0,128,0
+Combo2 : 255,255,0
+
+[HitObjects]
+144,128,100,6,2,P|192:96|336:112,1,179.999992847443,0|0,0:0|0:0,0:3:0:0:
+368,256,544,2,2,P|320:288|176:272,1,179.999992847443,0|0,0:0|0:0,0:3:0:0:
+256,192,988,5,0,0:0:0:0:
+96,136,1211,1,0,0:0:0:0:
+88,152,1322,1,0,0:0:0:0:
+16,208,1433,2,0,B|24:272|24:272|72:312,1,119.999995231629,8|8,0:0|0:0,0:0:0:0:
+80,320,1766,1,0,0:0:0:0:
+184,312,1877,5,0,0:0:0:0:
+200,304,1988,1,0,0:0:0:0:
+304,296,2099,1,2,0:3:0:0:
+320,288,2210,1,0,0:0:0:0:
+424,280,2322,2,0,L|444:153,1,119.999995231629,8|8,0:0|0:0,0:0:0:0:
+368,56,2766,5,0,0:0:0:0:
+176,104,2988,1,0,0:0:0:0:
+136,88,3099,1,0,0:0:0:0:
+224,176,3211,1,8,0:0:0:0:
+264,160,3322,1,0,0:0:0:0:
+176,248,3433,1,8,0:0:0:0:
+136,232,3544,1,0,0:0:0:0:
+24,352,3655,5,0,0:0:0:0:
+456,240,3877,1,2,0:3:0:0:
+160,16,4099,1,4,0:2:0:0:

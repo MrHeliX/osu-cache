@@ -1,0 +1,94 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:
+TitleUnicode:
+Artist:Carla's Dreams [Remix]
+ArtistUnicode:Carla's Dreams [Remix]
+Creator:Miszcz_RudeBoy
+Version:Very Easy
+Source:
+Tags:
+BeatmapID:1189744
+BeatmapSetID:562782
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+4116,1000,4,1,0,100,1,0
+
+
+[Colours]
+Combo1 : 62,51,62
+Combo2 : 192,192,192
+Combo3 : 64,67,58
+Combo4 : 40,40,40
+
+[HitObjects]
+160,128,54116,5,0,0:0:0:0:
+384,224,56116,1,0,0:0:0:0:
+288,256,57116,1,0,0:0:0:0:
+352,192,58116,1,0,0:0:0:0:
+256,192,59116,1,0,0:0:0:0:
+416,64,61116,1,4,0:0:0:0:
+320,96,62116,1,4,0:0:0:0:
+352,192,63116,1,4,0:0:0:0:
+256,224,64116,1,4,0:0:0:0:
+192,160,65116,1,4,0:0:0:0:
+256,160,66116,1,4,0:0:0:0:
+160,96,67116,1,4,0:0:0:0:
+192,192,68116,1,4,0:0:0:0:
+288,160,69116,1,4,0:0:0:0:
+224,128,70116,1,4,0:0:0:0:
+320,128,71116,1,4,0:0:0:0:
+256,192,72116,1,4,0:0:0:0:
+192,224,73116,1,4,0:0:0:0:
+256,224,74116,1,4,0:0:0:0:
+160,160,75116,1,0,0:0:0:0:
+192,256,76116,1,0,0:0:0:0:
+256,192,77116,1,0,0:0:0:0:
+192,160,78116,1,0,0:0:0:0:
+288,224,79116,1,0,0:0:0:0:
+352,160,80116,1,0,0:0:0:0:
+256,128,81116,1,0,0:0:0:0:
+160,160,82116,1,0,0:0:0:0:
+96,96,83116,1,0,0:0:0:0:
+160,96,84116,1,0,0:0:0:0:
+224,128,85116,1,0,0:0:0:0:
+96,96,86116,2,0,B|416:320|128:320|64:256|-32:160|-32:160|64:224,4,560
+320,128,101116,2,0,B|96:128|0:160|-32:160,2,280
+160,128,106116,1,0,0:0:0:0:
+256,192,107116,1,0,0:0:0:0:
+288,96,108116,1,0,0:0:0:0:

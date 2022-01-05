@@ -1,0 +1,97 @@
+osu file format v12
+
+[General]
+AudioFilename: Terraria 1.2 Music - Ocean.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 32
+
+[Metadata]
+Title:Terraria 1.2 Music - Ocean
+TitleUnicode:Terraria 1.2 Music - Ocean
+Artist:Moustiluigi
+ArtistUnicode:Moustiluigi
+Creator:BlyderX
+Version:Normal
+Source:
+Tags:
+BeatmapID:337527
+BeatmapSetID:134578
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:4
+
+[Events]
+//Background and Video events
+0,0,"BiomeBannerSea.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,0,0,255
+
+[TimingPoints]
+10481.2122152948,645.855758880517,4,3,0,25,1,0
+
+
+[HitObjects]
+256,192,10481,1,0,0:0:0:0:
+352,96,11772,1,0,0:0:0:0:
+160,96,13064,1,0,0:0:0:0:
+256,192,14356,1,0,0:0:0:0:
+352,256,15648,1,0,0:0:0:0:
+352,96,16939,1,0,0:0:0:0:
+288,96,17585,1,0,0:0:0:0:
+192,96,18231,1,0,0:0:0:0:
+256,192,20814,1,0,0:0:0:0:
+224,64,22106,1,0,0:0:0:0:
+320,64,23398,1,0,0:0:0:0:
+256,192,24690,1,0,0:0:0:0:
+224,288,26627,1,0,0:0:0:0:
+224,256,27273,1,0,0:0:0:0:
+224,224,27919,1,0,0:0:0:0:
+224,160,28565,1,0,0:0:0:0:
+224,160,29211,1,0,0:0:0:0:
+224,192,30502,1,0,0:0:0:0:
+256,288,31148,1,0,0:0:0:0:
+256,192,31794,12,0,36315,0:0:0:0:
+256,192,40190,5,0,0:0:0:0:
+256,192,42128,1,0,0:0:0:0:
+256,192,43419,1,0,0:0:0:0:
+256,192,44711,1,0,0:0:0:0:
+384,192,47294,1,0,0:0:0:0:
+160,192,49878,1,0,0:0:0:0:
+256,192,52461,1,0,0:0:0:0:
+384,192,53107,1,0,0:0:0:0:
+256,192,55691,1,0,0:0:0:0:
+96,192,56336,1,0,0:0:0:0:
+256,192,60212,1,0,0:0:0:0:
+416,192,62795,1,0,0:0:0:0:
+352,192,64087,1,0,0:0:0:0:
+288,192,65378,1,0,0:0:0:0:
+224,192,66670,1,0,0:0:0:0:
+160,192,67962,1,0,0:0:0:0:
+224,192,69254,1,0,0:0:0:0:
+288,192,69899,1,0,0:0:0:0:
+352,192,70545,1,0,0:0:0:0:
+352,128,71837,1,0,0:0:0:0:
+288,128,72483,1,0,0:0:0:0:
+256,192,76358,12,0,88629,0:0:0:0:

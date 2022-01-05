@@ -1,0 +1,98 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 18
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:Linus tech tips intro
+TitleUnicode:Linus tech tips intro
+Artist:Laszlo
+ArtistUnicode:Laszlo
+Creator:Sytho
+Version:Extra
+Source:
+Tags:Linus Sebastian selfie Linus Tech Tips how much does YOUR selfie cam distort near the edge of the frame okbuddyretard ok buddy retard osu I Showed You My Dick Please Respond meme
+BeatmapID:2296217
+BeatmapSetID:1099140
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:4
+OverallDifficulty:9
+ApproachRate:10
+SliderMultiplier:1.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"D7ShRPYXoAA-XXB.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+2831,468.75,4,2,0,50,1,0
+2831,-37.037037037037,4,2,0,50,0,1
+6581,-45.4545454545455,4,2,0,50,0,0
+
+
+[HitObjects]
+46,138,18,5,0,0:0:0:0:
+255,103,252,1,0,0:0:0:0:
+404,194,487,1,0,0:0:0:0:
+255,266,721,1,0,0:0:0:0:
+249,259,838,1,0,0:0:0:0:
+243,252,956,6,0,L|248:180,1,40
+347,77,1190,1,0,0:0:0:0:
+465,293,1424,1,0,0:0:0:0:
+166,143,1659,1,0,0:0:0:0:
+394,7,1893,1,0,0:0:0:0:
+488,137,2127,2,0,P|435:157|424:152,1,40
+330,135,2362,2,0,P|379:214|365:268,1,120
+244,350,2831,6,0,B|194:370|194:370|74:344,1,108.000000411987
+67,130,3065,2,0,B|119:118|119:118|169:138,1,108.000000411987
+434,38,3299,1,0,0:0:0:0:
+241,27,3416,1,0,0:0:0:0:
+477,118,3534,1,0,0:0:0:0:
+248,165,3651,1,0,0:0:0:0:
+423,25,3768,1,0,0:0:0:0:
+363,260,3885,1,0,0:0:0:0:
+150,60,4002,2,0,B|192:44|192:44|317:77,1,108.000000411987
+451,289,4237,5,0,0:0:0:0:
+101,372,4354,1,0,0:0:0:0:
+324,118,4471,1,0,0:0:0:0:
+273,370,4588,1,0,0:0:0:0:
+53,96,4706,2,0,P|174:137|203:262,1,216.000000823975
+233,379,5057,5,0,0:0:0:0:
+215,44,5174,1,0,0:0:0:0:
+369,373,5291,1,0,0:0:0:0:
+348,9,5409,1,0,0:0:0:0:
+295,282,5526,1,0,0:0:0:0:
+488,117,5643,2,0,P|416:72|364:117,1,108.000000411987
+141,266,5877,5,0,0:0:0:0:
+234,15,5995,1,0,0:0:0:0:
+392,227,6112,2,0,B|420:243|420:243|507:230,1,108.000000411987
+171,129,6346,2,0,L|17:123,1,108.000000411987
+329,32,6581,2,0,P|297:236|297:291,1,176.000005371094
+148,96,7049,2,0,P|184:250|191:300,1,176.000005371094
+481,142,7518,6,0,P|366:87|292:122,1,176.000005371094
+188,220,7870,1,0,0:0:0:0:
+352,353,7987,2,0,P|438:307|528:328,2,176.000005371094

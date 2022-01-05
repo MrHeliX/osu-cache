@@ -1,0 +1,61 @@
+osu file format v6
+
+[General]
+AudioFilename: Need_for_Speed_Underground_2_-_Spiderbait_-_Black_Betty.mp3
+AudioLeadIn: 0
+PreviewTime: 62105
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+Bookmarks: 29172,77801
+DistanceSpacing: 0.600000023841858
+BeatDivisor: 2
+GridSize: 16
+
+[Metadata]
+Title:Black Betty
+Artist:Spiderbait
+Creator:JarJarJacob
+Version:Dairy Farmer
+Source:
+Tags:cow strobe
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:4
+OverallDifficulty:4
+SliderMultiplier:2.2
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"betty.jpg"
+//Break Periods
+2,31094,77231
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+4283,241.935483870968,4,1,0,100,1,0
+50734,-100,4,1,0,100,0,1
+58446,-100,4,1,0,100,0,0
+58476,-100,4,1,0,100,0,1
+60381,-100,4,1,0,100,0,0
+60412,-100,4,1,0,100,0,1
+62105,-100,4,1,0,100,0,0
+84605,250,4,1,0,100,1,0
+87480,241.935483870968,4,1,0,100,1,0
+
+[HitObjects]
+48,64,29202,2,0,B|48:176|48:176|176:176,1,220
+192,192,29686,2,0,B|192:16|192:16|320:16|320:16|320:208|320:208|144:208,1,660
+384,64,30653,2,0,B|384:176|384:176|512:176,1,220

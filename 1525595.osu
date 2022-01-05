@@ -1,0 +1,57 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 1289
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:SEN NO TSUBASA (Spinner Map)
+TitleUnicode:SEN NO TSUBASA (Spinner Map)
+Artist:livetune adding Takuro Sugawara
+ArtistUnicode:livetune adding Takuro Sugawara
+Creator:Sundae
+Version:Short Spinner
+Source:Re: Hamatora
+Tags:hamatora opening spinner spin warmup warm up
+BeatmapID:1525595
+BeatmapSetID:722684
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:2
+OverallDifficulty:0
+ApproachRate:0
+SliderMultiplier:1.1
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"maxresdefault.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+231,352.941176470588,4,1,0,100,1,0
+1289,-100,4,1,0,100,0,1
+21054,-100,4,1,0,100,0,0
+
+
+[HitObjects]
+256,192,1113,12,0,11260,0:0:0:0:

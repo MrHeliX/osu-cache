@@ -1,0 +1,90 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+SkinPreference:++Miyazono+Kaori+v3
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 16
+GridSize: 8
+TimelineZoom: 0.8
+
+[Metadata]
+Title:Shigatsu wa Kimi no Uso ED 2 Final Version 7!! Orange
+TitleUnicode:Shigatsu wa Kimi no Uso ED 2 Final Version 7!! Orange
+Artist:7!!
+ArtistUnicode:7!!
+Creator:AkemiMoon8
+Version:When I First Met You
+Source:Shigatsu wa Kimi no Uso
+Tags:Shigatsu wa Kimi no Uso ED 2 Final Version 7!! Orange Acoustic Guitar Your Lie in April TV SIZE
+BeatmapID:952409
+BeatmapSetID:442948
+
+[Difficulty]
+HPDrainRate:1
+CircleSize:4
+OverallDifficulty:1
+ApproachRate:4
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Miyazono.Kaori.full.1856710.jpg",0,0
+Video,0,"Shigatsu wa Kimi no Uso Ending Ep 22.mp4"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+542.854735674819,728.191566265061,4,2,0,25,1,0
+
+
+[Colours]
+Combo1 : 0,128,192
+Combo2 : 255,128,192
+
+[HitObjects]
+144,232,997,6,0,P|328:272|384:80,2,420
+80,152,6095,2,0,P|192:56|400:184,2,420
+184,248,11920,2,0,L|304:168,2,140
+136,192,14879,2,0,P|224:96|360:136,1,280
+128,256,17063,2,0,P|272:272|272:272,1,140
+120,176,18884,2,0,P|232:104|384:232,1,358.75
+216,176,23981,2,0,L|360:128,3,148.75
+72,224,26575,2,0,L|120:288,1,78.75
+208,312,27303,2,0,P|344:312|384:216,1,253.75
+144,144,28987,1,0,0:0:0:0:
+168,272,29488,2,0,P|232:208|424:160,2,288.75
+280,272,33174,2,0,P|384:240|416:248,2,140
+88,224,35405,2,0,P|144:120|296:144,1,288.75
+416,240,37498,1,0,0:0:0:0:
+240,320,37771,2,0,P|136:136|240:112,1,402.5
+160,272,40729,2,0,P|288:160|288:160,4,166.25
+376,272,45281,1,0,0:0:0:0:
+152,208,47010,2,0,P|248:136|400:208,2,297.5
+168,200,51789,22,0,P|248:160|304:168,1,148.75
+200,304,52836,2,0,P|264:336|400:288,2,218.75
+192,240,55885,2,0,P|256:160|376:232,1,262.5
+160,248,58752,2,0,P|192:192|264:160,2,140
+112,224,61710,2,0,P|160:160|336:128,1,262.5
+144,232,64714,2,0,P|184:168|232:128,2,131.25
+216,96,67217,1,0,0:0:0:0:
+192,208,67581,2,0,P|328:288|408:224,1,280
+272,96,70085,2,0,P|224:160|216:160,2,96.25
+176,208,71723,2,0,P|240:248|456:216,2,297.5
+168,160,75546,2,0,P|240:112|296:96,2,140
+128,152,79915,2,0,P|200:264|384:128,1,420

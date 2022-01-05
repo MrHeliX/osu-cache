@@ -1,0 +1,89 @@
+osu file format v14
+
+[General]
+AudioFilename: eroge songs.mp3
+AudioLeadIn: 0
+PreviewTime: 605846
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 0
+
+[Editor]
+Bookmarks: 10645,64045,92565,120781,170111,215180,248667,302150,380630,418038,457863,507027,556878,606585,648504,706900
+DistanceSpacing: 1.3
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1.5
+
+[Metadata]
+Title:Eroge Songs Compilation
+TitleUnicode:Eroge Songs Compilation
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:eINess
+Version:Timing
+Source:
+Tags:Karia Marathon Duca solfa feat. Chata Sakakibara Yui ave;new feat sakura saori Marika Sasaki Sayaka Katakiri Rekka & Suzuyu KOTOKO Sagara Kokoro Hashimoto Miyuki marina Colorful Diary With you My Little Glory Knowing World End share the thoughts (^3^)chu Dere Rhapsody Kiss no Hitotsu de Scarlet Kanransha ~ Anohi to Kinou to Kyou to Ashita to ~ Colorful precious life U Girl meets Love Hoshizora no Ima Sakura Synchronicity Towa yori Towa ni
+BeatmapID:745312
+BeatmapSetID:336805
+
+[Difficulty]
+HPDrainRate:6.5
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:9
+SliderMultiplier:1.9
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Hentai.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+57,705.882352941176,4,1,1,40,1,0
+2174,705.882352941176,4,1,1,40,1,0
+49115,800,4,1,1,40,1,0
+49515,857.142857142857,4,1,1,60,1,0
+49943,1142.85714285714,4,1,1,60,1,0
+50514,1034.48275862069,4,1,1,60,1,0
+58893,571.428571428571,4,1,1,60,1,0
+59464,571.428571428571,4,1,1,60,1,0
+86922,468.75,4,1,1,60,1,0
+117340,428.571428571429,4,1,1,60,1,0
+163708,400,4,1,1,60,1,0
+211902,363.636363636364,4,1,1,60,1,0
+212265,363.636363636364,4,1,1,60,1,0
+244382,357.142857142857,4,1,1,60,1,0
+296652,342.857142857143,4,1,1,60,1,0
+327166,342.857142857143,4,1,1,40,1,0
+373247,342.857142857143,4,1,1,40,1,0
+373932,342.857142857143,4,1,1,40,1,0
+409802,342.857142857143,4,1,1,40,1,0
+452520,333.333333333333,4,1,1,40,1,0
+501686,333.333333333333,4,1,1,40,1,0
+551671,324.324324324324,4,1,1,40,1,0
+601379,324.324324324324,4,1,1,40,1,0
+643496,312.5,4,1,1,40,1,0
+703890,300,4,1,1,40,1,0
+704490,300,4,1,1,40,1,0
+
+
+[Colours]
+Combo1 : 0,128,255
+Combo2 : 255,128,128
+Combo3 : 128,255,128
+Combo4 : 255,128,64
+Combo5 : 128,255,255
+Combo6 : 255,255,128
+
+[HitObjects]
+296,204,10644,1,0,0:0:0:0:

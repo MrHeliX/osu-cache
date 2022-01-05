@@ -1,0 +1,108 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 157584
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.4
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 90854
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 4
+TimelineZoom: 2.4
+
+[Metadata]
+Title:Koigokoro to Beat!
+TitleUnicode:コイゴコロ to Beat!
+Artist:Yui Sakakibara
+ArtistUnicode:榊原ゆい
+Creator:Alexsander
+Version:Easy
+Source:PURELY×CATION
+Tags:
+BeatmapID:2331933
+BeatmapSetID:1116278
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3.2
+OverallDifficulty:2
+ApproachRate:3
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Easy.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1260,324.324324324324,4,2,0,30,1,0
+1260,-100,4,2,0,30,0,0
+12935,-100,4,2,0,40,0,0
+18124,-100,4,2,0,40,0,0
+20557,-100,4,2,0,60,0,0
+23314,-100,4,2,0,70,0,0
+33692,-100,4,2,0,45,0,0
+44070,-100,4,2,0,55,0,0
+54449,-100,4,2,0,48,0,0
+61422,-100,4,2,0,48,0,0
+62557,-100,4,2,0,48,0,0
+64827,-100,4,2,0,38,0,0
+69368,-100,4,2,0,55,0,0
+72611,-100,4,2,0,65,0,0
+74557,-100,4,2,0,30,0,0
+75205,-100,4,2,0,80,0,1
+90854,-100,4,2,0,50,0,1
+93368,-100,4,2,0,70,0,1
+94989,-100,4,2,0,30,0,0
+95962,-100,4,2,0,70,0,0
+116719,-100,4,2,0,55,0,0
+137476,-100,4,2,0,48,0,0
+144449,-100,4,2,0,48,0,0
+146557,-100,4,2,0,48,0,0
+147854,-100,4,2,0,38,0,0
+152395,-100,4,2,0,38,0,0
+152881,-100,4,2,0,55,0,0
+155638,-100,4,2,0,30,0,0
+158232,-100,4,2,0,80,0,1
+173800,-100,4,2,0,50,0,1
+176395,-100,4,2,0,70,0,1
+178341,-100,4,2,0,60,0,1
+178665,-100,4,2,0,50,0,1
+178989,-100,4,2,0,40,0,0
+189368,-100,4,2,0,50,0,0
+194395,-100,4,2,0,50,0,0
+204287,-100,4,2,0,30,0,0
+204935,-100,4,2,0,80,0,1
+220584,-100,4,2,0,50,0,1
+223097,-100,4,2,0,70,0,1
+224719,-100,4,2,0,30,0,0
+225692,-100,4,2,0,70,0,0
+247746,-100,4,2,0,60,0,0
+249043,-100,4,2,0,40,0,0
+250341,-100,4,2,0,20,0,0
+251638,-100,4,2,0,5,0,0
+
+
+[Colours]
+Combo1 : 235,5,230
+Combo2 : 43,43,255
+Combo3 : 255,62,62
+Combo4 : 154,78,78
+Combo5 : 37,210,13
+
+[HitObjects]

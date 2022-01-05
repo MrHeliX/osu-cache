@@ -1,0 +1,66 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.5
+BeatDivisor: 16
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Xexxar's mic ft. Willy
+TitleUnicode:Xexxar's mic ft. Willy
+Artist:Xexxar
+ArtistUnicode:Xexxar
+Creator:MBmasher
+Version:Buffed After Rework
+Source:pp dev discord server
+Tags:727
+BeatmapID:3311808
+BeatmapSetID:1622064
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:10
+ApproachRate:10
+SliderMultiplier:2.8
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Discord_7zFoh9lmhz.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+7,500,4,1,0,100,1,0
+1632,-66.6666666666667,4,1,0,100,0,0
+2694,-10,4,1,0,100,0,0
+
+
+[HitObjects]
+121,76,69,5,0,0:0:0:0:
+176,252,382,1,0,0:0:0:0:
+281,110,569,1,0,0:0:0:0:
+281,110,882,1,0,0:0:0:0:
+243,168,1632,2,0,P|260:195|261:178,1,87.5
+61,64,2694,6,0,P|171:98|513:363,25,490
+33,364,5007,2,0,L|488:51,10,525
+33,364,6100,2,0,L|488:51,2,525
+33,364,6507,2,0,L|488:51,37,525

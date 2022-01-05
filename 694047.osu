@@ -1,0 +1,90 @@
+osu file format v14
+
+[General]
+AudioFilename: -Nightcore-- Catch Fire.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 39850
+DistanceSpacing: 0.9
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 0.8
+
+[Metadata]
+Title:Catch Fire
+TitleUnicode:Catch Fire
+Artist:Jenix
+ArtistUnicode:Jenix
+Creator:LeXeR2
+Version:Hard+
+Source:
+Tags:
+BeatmapID:694047
+BeatmapSetID:310548
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:6
+ApproachRate:8
+SliderMultiplier:2.4
+SliderTickRate:4
+
+[Events]
+//Background and Video events
+0,0,"Konachan.com - 199890 sample.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+19799,612.244897959184,4,1,0,10,1,0
+
+
+[HitObjects]
+96,0,19799,6,0,P|32:56|88:112,1,180
+160,144,20411,1,0,0:0:0:0:
+232,184,20564,2,0,P|264:248|184:312,1,180
+104,312,21176,1,0,0:0:0:0:
+104,256,21329,1,0,0:0:0:0:
+104,208,21482,1,0,0:0:0:0:
+104,160,21635,1,0,0:0:0:0:
+104,104,21941,2,0,L|224:64,3,120
+224,224,24084,5,0,0:0:0:0:
+352,96,24390,1,0,0:0:0:0:
+416,288,24696,1,0,0:0:0:0:
+224,96,25615,5,0,0:0:0:0:
+384,192,25921,1,0,0:0:0:0:
+320,256,26227,1,0,0:0:0:0:
+352,96,26533,1,0,0:0:0:0:
+224,224,26839,1,0,0:0:0:0:
+416,288,27145,2,0,L|288:160,1,180
+480,32,28676,6,0,L|416:96,1,60
+416,32,28982,2,0,L|352:96,1,60
+352,32,29288,2,0,L|288:96,1,60
+288,32,29594,2,0,L|224:96,2,60
+96,96,30513,6,0,L|96:160,1,60
+160,192,30819,2,0,L|288:256,1,120
+384,224,31278,1,0,0:0:0:0:
+384,224,31431,2,0,P|416:160|352:96,1,120
+256,64,31890,1,0,0:0:0:0:
+256,64,32043,2,0,L|256:128,5,60
+192,320,33574,6,0,L|256:320,1,60
+320,256,33880,2,0,L|256:256,1,60
+192,192,34186,2,0,L|256:192,1,60
+320,128,34492,2,0,B|288:64|256:32|224:64|192:128,1,180
+256,224,35411,2,0,L|256:288,1,60
+224,160,35717,2,0,L|160:96,3,60
+288,160,36329,2,0,L|352:96,3,60
+256,192,36941,12,0,39237,0:0:0:0:

@@ -1,0 +1,94 @@
+osu file format v12
+
+[General]
+AudioFilename: Unperfect Seconds.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 32
+
+[Metadata]
+Title:tuntematon
+TitleUnicode:tuntematon
+Artist:Lonelone
+ArtistUnicode:Lonelone
+Creator:LoneLone
+Version:Easy
+Source:
+Tags:
+BeatmapID:327392
+BeatmapSetID:129590
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+0,500,4,1,0,100,1,0
+
+
+[HitObjects]
+256,192,0,12,0,4000,0:0:0:0:
+160,192,6000,6,0,B|480:128|448:160|448:160,1,280
+128,160,8500,5,0,0:0:0:0:
+256,160,9500,1,0,0:0:0:0:
+320,96,10500,1,0,0:0:0:0:
+352,96,11000,1,0,0:0:0:0:
+384,96,11500,1,0,0:0:0:0:
+384,224,12000,1,0,0:0:0:0:
+224,192,13000,1,0,0:0:0:0:
+224,192,13500,1,0,0:0:0:0:
+129,195,16500,5,0,0:0:0:0:
+386,193,17500,1,0,0:0:0:0:
+126,190,18500,1,0,0:0:0:0:
+382,191,19500,1,0,0:0:0:0:
+251,193,20000,1,0,0:0:0:0:
+251,193,20500,1,0,0:0:0:0:
+221,329,21340,1,0,0:0:0:0:
+160,128,24000,1,0,0:0:0:0:
+224,128,25500,1,0,0:0:0:0:
+224,128,26500,1,0,0:0:0:0:
+224,128,27000,1,0,0:0:0:0:
+224,128,27500,1,0,0:0:0:0:
+224,128,28000,1,0,0:0:0:0:
+224,128,28500,1,0,0:0:0:0:
+224,128,29000,1,0,0:0:0:0:
+224,128,29500,1,0,0:0:0:0:
+384,192,30000,1,0,0:0:0:0:
+384,192,30500,1,0,0:0:0:0:
+384,192,31000,1,0,0:0:0:0:
+384,192,31500,1,0,0:0:0:0:
+128,224,32000,1,0,0:0:0:0:
+128,224,32500,1,0,0:0:0:0:
+160,128,34000,1,0,0:0:0:0:
+192,128,34500,1,0,0:0:0:0:
+256,128,35000,1,0,0:0:0:0:
+416,160,35500,1,0,0:0:0:0:
+352,192,36000,1,0,0:0:0:0:
+288,224,36500,1,0,0:0:0:0:
+160,224,37000,1,0,0:0:0:0:
+256,192,37500,12,0,40000,0:0:0:0:
