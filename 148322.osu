@@ -1,0 +1,1971 @@
+osu file format v9
+
+[General]
+AudioFilename: only my railgun.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 1.3
+BeatDivisor: 4
+GridSize: 4
+
+[Metadata]
+Title:only my railgun (Jubeatsu)
+Artist:fripSide
+Creator:Lybydose
+Version:Extreme
+Source:Toaru Kagaku no Railgun
+Tags:jubeat
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:0
+OverallDifficulty:7
+ApproachRate:10
+SliderMultiplier:1.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"railgun.png"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"sb\copious.png",320,240
+ S,0,-4000,,1.152
+ M,0,-4000,109494,559,251
+Sprite,Foreground,Centre,"sb\ready.png",320,240
+ S,0,-1400,,0.6919998
+ M,0,-1400,-200,325,-10,323,251
+Sprite,Foreground,Centre,"sb\go.png",320,240
+ M,0,-200,,319,250
+ S,0,-200,0,0.7920002,1.872
+ S,0,0,50,1.872,1.728
+ F,0,100,329,1,0
+Sprite,Foreground,Centre,"sb\mask.png",320,240
+ S,0,-4000,,0.8560004
+ M,0,-4000,109494,331,240
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,94032,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,93927,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,93822,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,93717,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,93612,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,93507,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,93402,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,92983,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,92563,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,92144,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,91724,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,91200,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,91095,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,90885,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,90675,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,90360,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,90256,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,90046,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,89836,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,89521,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,89416,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,89207,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,88787,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,88367,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,87948,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,87528,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,87319,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,87109,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,86899,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,86689,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,85850,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,85640,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,85430,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,85221,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,85011,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,84801,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,84486,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,84381,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,84172,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,83962,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,83647,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,83542,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,83333,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,83123,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,82808,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,82703,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,82493,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,82284,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,82074,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,81864,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,81444,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,81130,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,80815,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,80395,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,79976,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,79556,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,79137,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,78927,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,78717,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,78507,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,78298,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,78088,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,77773,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,77668,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,77458,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,77249,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,76934,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,76829,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,76619,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,76409,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,76095,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,75990,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,75780,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,75570,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,75360,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,75151,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,74731,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,74416,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,74102,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,73892,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,73682,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,73472,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,73263,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,72423,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,72214,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,72004,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,71794,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,71584,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,71374,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,71060,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,70955,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,70745,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,70535,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,70221,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,70116,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,69906,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,69696,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,69381,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,69277,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,69067,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,68857,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,68647,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,68437,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,68018,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,67703,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,67388,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,66969,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,66549,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,66130,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,65710,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,65500,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,65291,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,65081,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,64871,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,64661,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,64347,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,64242,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,64032,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,63822,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,63507,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,63402,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,63193,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,62983,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,62668,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,62563,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,62354,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,62144,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,61934,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,61725,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,61291,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,60977,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,60662,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,59823,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,59718,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,59613,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,58984,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,58774,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,58459,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,58354,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,58145,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,57935,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,57725,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,57305,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,57096,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,56361,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,56256,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,56047,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,55627,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,55417,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,55208,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,54998,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,54578,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,54473,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,54263,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,54159,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,53949,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,53110,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,52900,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,52585,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,52270,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,52061,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,51746,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,51536,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,51431,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,51222,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,51012,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,50802,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,50592,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,50487,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,50382,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,49648,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,49543,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,49333,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,48914,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,48704,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,48494,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,48284,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,47865,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,47760,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,47550,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,47445,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,47236,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,47026,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,46711,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,46396,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,46187,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,45557,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,45347,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,45138,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,44928,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,44718,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,44298,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,43879,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,43669,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,43459,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,43249,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,43040,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,42830,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,42515,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,42201,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,41991,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,41781,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,41571,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,41361,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,41152,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,40837,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,40522,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,40103,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,39683,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,39473,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,39263,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,39054,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,38844,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,38634,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,38424,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,38215,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,38005,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,37795,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,37585,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,37375,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,37166,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,36956,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,36746,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,36536,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,36326,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,36117,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,35907,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,35697,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,35487,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,35277,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,35068,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,34858,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,34648,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,34438,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,34229,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,34019,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,33809,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,32026,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,31921,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,31816,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,31711,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,31501,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,31291,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,30872,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,30452,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,30033,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,29613,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,29089,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,28984,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,28774,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,28564,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,28249,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,28145,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,27935,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,27725,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,27410,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,27305,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,27096,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,26676,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,26256,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,25837,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,25417,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,25208,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,24998,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,24788,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,24578,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,23739,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,23529,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,95,29,33,LoopOnce
+ L,23319,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,23110,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,95,29,33,LoopOnce
+ L,22900,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,407,29,33,LoopOnce
+ L,22690,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,22375,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,22270,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,22061,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,21851,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,21536,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,21431,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,21222,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,21012,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,20697,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,20592,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,20382,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,20173,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,19963,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,19753,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,19333,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,19019,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,18704,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,18284,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,17865,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,17445,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,17026,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,16816,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,16606,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,16396,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,16187,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,15977,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,15662,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,15557,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,15347,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,15138,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,14823,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,14718,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,14508,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,14298,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,13984,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,13879,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,13669,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,407,29,33,LoopOnce
+ L,13459,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,13249,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,13040,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,11991,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,11886,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,11781,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,11571,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,11361,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,11047,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,10942,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,10732,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,10522,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,10208,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,10103,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,9893,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,9683,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,9368,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,9263,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,9054,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,8844,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,8529,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,8424,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,8215,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,8005,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,7690,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,7585,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,7375,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,7166,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,6851,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,6746,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,6536,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,6326,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,6012,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,5907,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,5697,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,5487,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,5173,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,5068,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,4858,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,4648,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,4333,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,4229,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,4019,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,3809,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,303,29,33,LoopOnce
+ L,3494,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,407,29,33,LoopOnce
+ L,3389,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,3180,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,2970,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,303,29,33,LoopOnce
+ L,2655,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,2550,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,2340,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,2131,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,199,29,33,LoopOnce
+ L,1816,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,95,29,33,LoopOnce
+ L,1711,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,199,29,33,LoopOnce
+ L,1501,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,303,29,33,LoopOnce
+ L,1291,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,199,29,33,LoopOnce
+ L,977,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",165,95,29,33,LoopOnce
+ L,872,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",269,199,29,33,LoopOnce
+ L,662,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",373,303,29,33,LoopOnce
+ L,452,1
+  F,0,0,,1
+  S,0,957,,0.608
+Animation,Foreground,Centre,"marker\marker_.png",477,407,29,33,LoopOnce
+ L,243,1
+  F,0,0,,1
+  S,0,957,,0.608
+Sprite,Foreground,Centre,"sb\start.png",320,240
+ S,0,-4000,,0.704
+ M,0,-1,-295,482,406
+Sprite,Foreground,Centre,"sb\jubeat.png",320,240
+ S,0,-4000,,0.8480002
+ R,0,-4000,,1.568
+ M,0,-4000,109494,575,325
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,165,95
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,269,95
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,373,95
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,477,95
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,373,199
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,269,199
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,165,199
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,477,199
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,373,303
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,269,303
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,165,303
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,477,303
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,373,407
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,269,407
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,165,407
+Sprite,Foreground,Centre,"sb\test_button_up.png",320,240
+ S,0,-4000,,0.536
+ M,0,-4000,109494,477,407
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+705,419.58041958042,4,2,1,41,1,0
+62187,419.58041958042,4,2,1,41,1,0
+62816,419.58041958042,4,2,1,41,1,0
+
+
+[HitObjects]
+413,349,705,1,8
+309,245,914,1,8
+205,141,1124,1,8
+101,37,1334,1,8
+101,141,1439,1,8
+205,245,1753,1,8
+309,141,1963,1,8
+413,37,2173,1,8
+413,141,2278,1,8
+205,141,2593,1,8
+309,245,2802,1,8
+413,349,3012,1,8
+413,245,3117,1,8
+309,141,3432,1,8
+205,245,3642,1,8
+101,349,3851,1,8
+101,245,3956,1,8
+309,245,4271,1,8
+205,141,4481,1,8
+101,37,4691,1,8
+101,141,4795,1,8
+205,245,5110,1,8
+309,141,5320,1,8
+413,37,5530,1,8
+413,141,5635,1,8
+205,141,5949,1,8
+309,245,6159,1,8
+413,349,6369,1,8
+413,245,6474,1,8
+309,141,6788,1,8
+205,245,6998,1,8
+101,349,7208,1,8
+101,245,7313,1,8
+309,245,7628,1,8
+205,141,7837,1,8
+101,37,8047,1,8
+101,141,8152,1,8
+205,245,8467,1,8
+309,141,8677,1,8
+413,37,8886,1,8
+413,141,8991,1,8
+205,141,9306,1,8
+309,245,9516,1,8
+413,349,9725,1,8
+413,245,9830,1,8
+309,141,10145,1,8
+205,245,10355,1,8
+101,349,10565,1,8
+101,245,10670,1,8
+309,245,10984,1,8
+205,141,11194,1,8
+101,37,11404,1,8
+101,141,11509,1,8
+205,245,11823,1,8
+309,141,12033,1,8
+413,37,12243,1,8
+413,141,12348,1,8
+101,245,12453,1,8
+205,245,13502,1,8
+309,245,13711,1,8
+205,349,13921,1,8
+413,141,14131,1,8
+101,245,14341,1,8
+101,349,14446,1,8
+309,141,14760,1,8
+101,141,14970,1,8
+413,245,15180,1,8
+413,349,15285,1,8
+205,141,15600,1,8
+413,141,15809,1,8
+101,245,16019,1,8
+101,349,16124,1,8
+101,37,16439,1,8
+413,37,16649,1,8
+101,141,16858,1,8
+413,141,17068,1,8
+413,349,17278,1,8
+205,141,17488,1,8
+309,141,17907,1,8
+205,245,18327,1,8
+309,245,18746,1,8
+413,245,19166,1,8
+101,141,19481,1,8
+413,37,19795,1,8
+205,245,20215,1,8
+309,245,20425,1,8
+205,349,20635,1,8
+413,141,20844,1,8
+101,245,21054,1,8
+101,349,21159,1,8
+309,141,21474,1,8
+101,141,21684,1,8
+413,245,21893,1,8
+413,349,21998,1,8
+205,141,22313,1,8
+413,141,22523,1,8
+101,245,22732,1,8
+101,349,22837,1,8
+309,349,23152,1,8
+205,37,23362,1,8
+205,245,23572,1,8
+309,37,23781,1,8
+309,245,23991,1,8
+413,349,24201,1,8
+101,141,25040,1,8
+309,349,25250,1,8
+413,141,25460,1,8
+205,349,25670,1,8
+101,37,25879,1,8
+205,141,26299,1,8
+309,245,26718,1,8
+413,349,27138,1,8
+205,37,27558,1,8
+101,245,27767,1,8
+205,349,27872,1,8
+413,37,28187,1,8
+413,141,28397,1,8
+413,245,28607,1,8
+309,349,28711,1,8
+309,141,29026,1,8
+205,245,29236,1,8
+101,349,29446,1,8
+413,349,29551,1,8
+101,245,30075,1,8
+413,245,30495,1,8
+101,141,30914,1,8
+413,141,31334,1,8
+101,245,31753,1,8
+205,37,31963,1,8
+205,245,32173,1,8
+309,245,32278,1,8
+205,349,32383,1,8
+309,349,32488,1,8
+101,141,34271,1,8
+205,141,34481,1,8
+309,141,34691,1,8
+413,141,34900,1,8
+413,349,35110,1,8
+309,349,35320,1,8
+205,349,35530,1,8
+101,349,35739,1,8
+101,245,35949,1,8
+205,245,36159,1,8
+309,245,36369,1,8
+413,245,36579,1,8
+413,37,36788,1,8
+309,141,36998,1,8
+205,141,37208,1,8
+101,37,37418,1,8
+101,349,37628,1,8
+205,349,37837,1,8
+309,349,38047,1,8
+413,349,38257,1,8
+413,37,38467,1,8
+309,141,38677,1,8
+205,37,38886,1,8
+101,141,39096,1,8
+101,37,39306,1,8
+205,141,39516,1,8
+309,37,39725,1,8
+413,141,39935,1,8
+205,245,40145,1,8
+309,349,40565,1,8
+309,141,40984,1,8
+413,245,41299,1,8
+101,141,41614,1,8
+205,37,41823,1,8
+413,141,42033,1,8
+101,245,42243,1,8
+413,349,42453,1,8
+309,349,42663,1,8
+309,141,42977,1,8
+205,141,43292,1,8
+101,349,43502,1,8
+413,245,43711,1,8
+101,141,43921,1,8
+413,37,44131,1,8
+309,37,44341,1,8
+101,245,44760,1,8
+413,245,45180,1,8
+413,141,45390,1,8
+101,141,45600,1,8
+309,141,45809,1,8
+413,37,46019,1,8
+205,245,46649,1,8
+309,349,46858,1,8
+101,349,47173,1,8
+413,349,47488,1,8
+101,245,47698,1,8
+309,141,47907,1,8
+413,37,48012,1,8
+205,141,48222,1,8
+101,37,48327,1,8
+413,141,48746,1,8
+309,245,48956,1,8
+205,349,49166,1,8
+101,245,49376,1,8
+309,349,49795,1,8
+205,245,50005,1,8
+205,37,50110,1,8
+413,141,50844,1,8
+309,245,50949,1,8
+413,349,51054,1,8
+101,37,51264,1,8
+413,37,51474,1,8
+413,245,51684,1,8
+101,245,51893,1,8
+205,245,51998,1,8
+413,141,52208,1,8
+309,245,52523,1,8
+101,349,52732,1,8
+101,37,53047,1,8
+413,37,53362,1,8
+413,349,53572,1,8
+101,245,54411,1,8
+205,141,54621,1,8
+309,141,54725,1,8
+309,37,54935,1,8
+413,37,55040,1,8
+101,349,55460,1,8
+205,245,55670,1,8
+309,349,55879,1,8
+413,141,56089,1,8
+101,141,56509,1,8
+413,349,56718,1,8
+309,245,56823,1,8
+205,141,57558,1,8
+309,141,57767,1,8
+205,37,58187,1,8
+309,37,58397,1,8
+413,141,58607,1,8
+101,245,58816,1,8
+205,245,58921,1,8
+309,349,59236,1,8
+413,349,59446,1,8
+205,141,60075,1,8
+309,245,60180,1,8
+205,349,60285,1,8
+413,37,61124,1,8
+101,37,61439,1,8
+101,349,61753,1,8
+205,245,62187,1,8
+309,245,62396,1,8
+205,349,62606,1,8
+413,141,62816,1,8
+101,245,63025,1,8
+101,349,63130,1,8
+309,141,63445,1,8
+101,141,63655,1,8
+413,245,63864,1,8
+413,349,63969,1,8
+205,141,64284,1,8
+413,141,64494,1,8
+101,245,64704,1,8
+101,349,64809,1,8
+101,37,65123,1,8
+413,37,65333,1,8
+101,141,65543,1,8
+413,141,65753,1,8
+413,349,65962,1,8
+205,141,66172,1,8
+309,141,66592,1,8
+205,245,67011,1,8
+309,245,67431,1,8
+413,245,67850,1,8
+101,141,68165,1,8
+413,37,68480,1,8
+205,245,68899,1,8
+309,245,69109,1,8
+205,349,69319,1,8
+413,141,69529,1,8
+101,245,69739,1,8
+101,349,69843,1,8
+309,141,70158,1,8
+101,141,70368,1,8
+413,245,70578,1,8
+413,349,70683,1,8
+205,141,70997,1,8
+413,141,71207,1,8
+101,245,71417,1,8
+101,349,71522,1,8
+205,349,71836,1,8
+205,37,72046,1,8
+205,245,72256,1,8
+309,37,72466,1,8
+309,245,72676,1,8
+413,349,72885,1,8
+413,37,73725,1,8
+101,37,73934,1,8
+413,245,74144,1,8
+101,245,74354,1,8
+309,141,74564,1,8
+205,141,74878,1,8
+101,141,75193,1,8
+413,245,75613,1,8
+205,349,75822,1,8
+413,349,76032,1,8
+413,141,76242,1,8
+101,245,76452,1,8
+101,349,76557,1,8
+309,141,76871,1,8
+205,37,77081,1,8
+413,245,77291,1,8
+413,349,77396,1,8
+205,141,77711,1,8
+309,37,77920,1,8
+101,245,78130,1,8
+101,349,78235,1,8
+101,37,78550,1,8
+413,37,78760,1,8
+101,141,78969,1,8
+413,141,79179,1,8
+413,349,79389,1,8
+205,141,79599,1,8
+309,141,80018,1,8
+205,245,80438,1,8
+309,245,80857,1,8
+413,349,81277,1,8
+101,349,81592,1,8
+101,37,81906,1,8
+205,245,82326,1,8
+309,245,82536,1,8
+205,349,82746,1,8
+413,141,82955,1,8
+101,245,83165,1,8
+101,349,83270,1,8
+309,141,83585,1,8
+205,37,83795,1,8
+413,245,84004,1,8
+413,349,84109,1,8
+205,141,84424,1,8
+309,37,84634,1,8
+101,245,84843,1,8
+101,349,84948,1,8
+205,349,85263,1,8
+205,37,85473,1,8
+205,245,85683,1,8
+309,37,85892,1,8
+309,245,86102,1,8
+413,349,86312,1,8
+309,37,87151,1,8
+101,245,87361,1,8
+205,37,87571,1,8
+413,245,87781,1,8
+413,37,87990,1,8
+309,141,88410,1,8
+205,245,88829,1,8
+101,349,89249,1,8
+205,37,89669,1,8
+101,245,89878,1,8
+205,349,89983,1,8
+413,37,90298,1,8
+413,141,90508,1,8
+413,245,90718,1,8
+309,349,90822,1,8
+309,141,91137,1,8
+205,245,91347,1,8
+101,349,91557,1,8
+413,349,91662,1,8
+101,245,92186,1,8
+413,245,92606,1,8
+101,141,93025,1,8
+413,141,93445,1,8
+205,37,93864,1,8
+309,37,93969,1,8
+205,141,94074,1,8
+309,141,94179,1,8
+205,245,94284,1,8
+309,245,94389,1,8
+413,349,94494,1,8

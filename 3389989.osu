@@ -9,6 +9,7 @@ SampleSet: Normal
 StackLeniency: 0.2
 Mode: 0
 LetterboxInBreaks: 0
+SkinPreference:Default
 WidescreenStoryboard: 1
 
 [Editor]
@@ -18,14 +19,14 @@ GridSize: 4
 TimelineZoom: 1.9
 
 [Metadata]
-Title:Danger!
-TitleUnicode:Danger!
+Title:Hachamecha Music
+TitleUnicode:ハチャメチャMusic
 Artist:Yoko Shimomura
-ArtistUnicode:下村 陽子
+ArtistUnicode:下村陽子
 Creator:Apo11o
 Version:Challenge
 Source:マリオ&ルイージRPG3!!!
-Tags:Mario & and Luigi Bowser's Inside Story RPG 3 Nintendo DS Video Game Electronic Instrumental
+Tags:Mario & and Luigi Bowser's Inside Story RPG 3 Nintendo DS Video Game Electronic Instrumental Danger! Rumpus Music Panic Bloxi
 BeatmapID:3389989
 BeatmapSetID:1660540
 
@@ -49,21 +50,21 @@ SliderTickRate:2
 //Storyboard Sound Samples
 
 [TimingPoints]
-222,357.244927122035,4,1,1,60,1,0
-11832,-125,4,1,1,60,0,0
-14690,-111.111111111111,4,1,1,60,0,0
-17369,-100,4,1,1,60,0,0
-18798,-90.9090909090909,4,1,1,60,0,0
-20227,-83.3333333333333,4,1,1,60,0,0
-21656,-76.9230769230769,4,1,1,60,0,0
-23085,-100,4,1,1,60,0,0
-34696,-125,4,1,1,60,0,0
-37554,-111.111111111111,4,1,1,60,0,0
-40233,-100,4,1,1,60,0,0
-41662,-90.9090909090909,4,1,1,60,0,0
-43091,-83.3333333333333,4,1,1,60,0,0
-44520,-76.9230769230769,4,1,1,60,0,0
-45949,-100,4,1,1,60,0,0
+222,357.244927122035,4,1,1,40,1,0
+11832,-125,4,1,1,40,0,0
+14690,-111.111111111111,4,1,1,40,0,0
+17369,-100,4,1,1,40,0,0
+18798,-90.9090909090909,4,1,1,40,0,0
+20227,-83.3333333333333,4,1,1,40,0,0
+21656,-76.9230769230769,4,1,1,40,0,0
+23085,-100,4,1,1,40,0,0
+34696,-125,4,1,1,40,0,0
+37554,-111.111111111111,4,1,1,40,0,0
+40233,-100,4,1,1,40,0,0
+41662,-90.9090909090909,4,1,1,40,0,0
+43091,-83.3333333333333,4,1,1,40,0,0
+44520,-76.9230769230769,4,1,1,40,0,0
+45949,-100,4,1,1,40,0,0
 
 
 [Colours]

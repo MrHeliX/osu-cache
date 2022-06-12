@@ -1,0 +1,76 @@
+osu file format v14
+
+[General]
+AudioFilename: i'm a shoe.mp3
+AudioLeadIn: 0
+PreviewTime: 10
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 5229
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 2.400001
+
+[Metadata]
+Title:I'm a Shoe
+TitleUnicode:I'm a Shoe
+Artist:CXu
+ArtistUnicode:CXu
+Creator:MillhioreF
+Version:ultra hingey
+Source:
+Tags:
+BeatmapID:1145726
+BeatmapSetID:192827
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:10
+OverallDifficulty:0
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:0.5
+
+[Events]
+//Background and Video events
+0,0,"51a4f4570e6ef98032.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+-20,2.5,4,2,0,33,1,0
+-20,-10,4,2,0,33,0,0
+
+
+[HitObjects]
+496,64,104,6,0,L|7496:64,1,7000
+496,64,229,2,0,L|7496:64,1,7000
+496,64,979,2,0,L|7496:64,1,7000
+496,64,1104,2,0,L|7496:64,1,7000
+496,64,1291,2,0,L|7496:64,1,7000
+496,64,1416,2,0,L|7496:64,1,7000
+496,64,1604,2,0,L|7496:64,1,7000
+496,64,2354,2,0,L|7496:64,1,7000
+496,64,2479,2,0,L|7496:64,1,7000
+496,64,2604,2,0,L|7496:64,1,7000
+496,64,2729,2,0,L|7496:64,1,7000
+496,64,3354,2,0,L|7496:64,1,7000
+496,64,3916,2,0,L|7496:64,1,7000
+496,64,4229,2,0,L|7496:64,1,7000
+496,64,4479,2,0,L|7496:64,1,7000
+496,64,5354,2,0,L|7496:64,1,7000
+496,64,5604,2,0,L|7496:64,1,7000
+496,64,5979,2,0,L|7496:64,1,7000
+496,64,6229,2,0,L|7496:64,1,7000
+496,64,6854,2,0,L|7496:64,1,7000

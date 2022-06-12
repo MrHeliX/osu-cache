@@ -25,7 +25,7 @@ ArtistUnicode:にーそっくすす
 Creator:Rhytoly
 Version:Oni
 Source:精霊使いの剣舞
-Tags:Blackener Blacken Roger ][_-GH-_][ Lyawi Corinn claire rouge seirei tsukai no blade dance of the elementalers
+Tags:Blackener Blacken Roger ][_-GH-_][ Lyawi Claire Rouge Ibuki Kido Rinslet Laurenfrost Kana Yuuki Ellis Fahrengart Shizuka Ishigami Fianna Ray Ordesia Saori Oonishi Terminus Est Ai Kakuma seirei tsukai no kenbu blade dance of the elementalers
 BeatmapID:1945290
 BeatmapSetID:927110
 
@@ -52,14 +52,14 @@ SliderTickRate:1
 8563,400,4,1,0,80,1,8
 8577,400,4,1,0,80,1,0
 13377,-100,4,1,0,60,0,0
-13478,-76.9230769230769,4,1,0,50,0,0
-13577,-76.9230769230769,4,1,0,40,0,0
-13677,-76.9230769230769,4,1,0,30,0,0
-13777,-76.9230769230769,4,1,0,20,0,0
-13877,-76.9230769230769,4,1,0,30,0,0
-13977,-76.9230769230769,4,1,0,40,0,0
-14077,-76.9230769230769,4,1,0,50,0,0
-14177,-76.9230769230769,4,1,0,60,0,0
+13478,-100,4,1,0,50,0,0
+13577,-100,4,1,0,40,0,0
+13677,-100,4,1,0,30,0,0
+13777,-100,4,1,0,20,0,0
+13877,-100,4,1,0,30,0,0
+13977,-100,4,1,0,40,0,0
+14077,-100,4,1,0,50,0,0
+14177,-100,4,1,0,60,0,0
 14577,-100,4,1,0,100,0,0
 14977,-100,4,1,0,90,0,1
 27777,-100,4,1,0,80,0,0

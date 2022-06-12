@@ -1,0 +1,77 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 38763
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.8
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.1
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1.5
+
+[Metadata]
+Title:Enthusiasts (Short Version)
+TitleUnicode:Enthusiasts (Short Version)
+Artist:DJ Shimamura
+ArtistUnicode:DJ Shimamura
+Creator:- Yoshimaro -
+Version:Hysterically Engaged (7)
+Source:
+Tags:fuck
+BeatmapID:1129819
+BeatmapSetID:533295
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:3
+OverallDifficulty:2.5
+ApproachRate:3
+SliderMultiplier:0.899999999999999
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Musical Maniac.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+4264,352.941176470588,4,1,1,100,1,0
+4264,-100,4,1,1,100,0,0
+17322,-100,4,3,1,100,0,1
+17675,-100,4,3,1,100,0,0
+22616,-100,4,3,1,100,0,1
+22969,-100,4,3,1,100,0,0
+28616,-100,4,3,1,100,0,1
+28969,-100,4,3,1,100,0,0
+33911,-100,4,3,1,100,0,1
+34264,-100,4,3,1,100,0,0
+39558,-100,4,3,1,100,0,1
+49440,-100,4,3,1,100,0,0
+51911,-100,4,3,1,100,0,1
+59322,-100,4,3,1,100,0,0
+
+
+[Colours]
+Combo1 : 255,132,135
+Combo2 : 253,17,147
+Combo3 : 236,77,0
+Combo4 : 111,41,254
+Combo5 : 198,0,5
+Combo6 : 254,122,194
+Combo7 : 255,156,108
+Combo8 : 168,126,254
+
+[HitObjects]

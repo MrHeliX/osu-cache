@@ -18,19 +18,19 @@ GridSize: 32
 TimelineZoom: 3.399999
 
 [Metadata]
-Title:Running in the 90's
-TitleUnicode:Running in the 90's
-Artist:Max Coveri
-ArtistUnicode:Max Coveri
+Title:RUNNING IN THE 90'S
+TitleUnicode:RUNNING IN THE 90'S
+Artist:MAX COVERI
+ArtistUnicode:MAX COVERI
 Creator:Monstrata
-Version:Mapping in the 90's
-Source:Initial D
-Tags:alternator vroom racing cars follow me at https://www.twitch.tv/monstrata don't forget to comment like and subscribe
+Version:FINAL STAGE
+Source:頭文字D
+Tags:initial d schoolboy komore snownino_ cookiebite doormat gero alternator vroom racing cars eurobeat takumi fujiwara drifting sports first stage 頭文字D Inisharu Dī Super Eurobeat Vol. 182 nineties the golden age anime retro old Maurizio De Jorio 1998
 BeatmapID:1559974
 BeatmapSetID:739262
 
 [Difficulty]
-HPDrainRate:1
+HPDrainRate:2
 CircleSize:4
 OverallDifficulty:9
 ApproachRate:9.5
@@ -85,7 +85,13 @@ SliderTickRate:1
 36377,-181.818181818181,4,3,1,65,0,0
 36566,-153.846153846154,4,3,1,65,0,0
 36756,-133.333333333333,4,3,1,65,0,0
+59564,-133.333333333333,4,3,1,5,0,0
+59848,-133.333333333333,4,3,1,65,0,0
+59942,-133.333333333333,4,3,1,5,0,0
 60226,-100,4,3,1,65,0,0
+60321,-100,4,3,1,5,0,0
+60605,-100,4,3,1,65,0,0
+60699,-100,4,3,1,5,0,0
 60983,-100,4,3,1,75,0,1
 83507,-133.333333333333,4,3,1,65,0,1
 85210,-100,4,3,1,65,0,0
@@ -98,7 +104,13 @@ SliderTickRate:1
 96945,-181.818181818181,4,3,1,65,0,0
 97134,-153.846153846154,4,3,1,65,0,0
 97324,-133.333333333333,4,3,1,65,0,0
+120132,-133.333333333333,4,3,1,5,0,0
+120416,-133.333333333333,4,3,1,65,0,0
+120510,-133.333333333333,4,3,1,5,0,0
 120794,-100,4,3,1,65,0,0
+120889,-100,4,3,1,5,0,0
+121173,-100,4,3,1,65,0,0
+121267,-100,4,3,1,5,0,0
 121551,-100,4,3,1,75,0,1
 145778,-100,4,3,1,65,0,0
 156378,-133.333333333333,4,3,1,65,0,0

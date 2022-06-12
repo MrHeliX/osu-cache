@@ -26,7 +26,7 @@ ArtistUnicode:P*Light
 Creator:yf_bmp
 Version:Pata-Mon's Insane
 Source:beatmania IIDX 24 SINOBUZ
-Tags:Newspaper Cup #4 SAYBAY SHINOBI RAVE Taiyo Yamamoto Kayano Suzuki_1112 fanzhen0019 Ametrin FFI how2miss Yugu X Light X_Light Firika Pata-Mon papapa213 ayyri eiri- -ClariS- Oiso 1112deng IOException Tofu1222
+Tags:Yorita Yoshino Otosaka-Yu deadcode video game electronic instrumental Newspaper Cup #4 SAYBAY SHINOBI RAVE Taiyo KONAMI BEMANI Yamamoto Kayano Suzuki_1112 fanzhen0019 Ametrin FFI how2miss Yugu X Light X_Light Firika Pata-Mon papapa213 -ClariS- Oiso 1112deng IOException
 BeatmapID:1588830
 BeatmapSetID:750316
 
@@ -40,7 +40,6 @@ SliderTickRate:1
 
 [Events]
 //Background and Video events
-Video,-491,"24024.flv"
 0,0,"PatamonNiubi.jpg",0,0
 //Break Periods
 //Storyboard Layer 0 (Background)

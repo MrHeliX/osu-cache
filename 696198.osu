@@ -1,0 +1,72 @@
+osu file format v14
+
+[General]
+AudioFilename: Daphne Loves Derby - Kirby.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.4
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:Kirby
+TitleUnicode:Kirby
+Artist:Daphne Loves Derby
+ArtistUnicode:Daphne Loves Derby
+Creator:Natas
+Version:Insane
+Source:
+Tags:
+BeatmapID:696198
+BeatmapSetID:311739
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+2,7263,23263
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+3163,300,4,1,0,100,1,0
+
+
+[HitObjects]
+108,212,4813,5,0,0:0:0:0:
+208,160,4963,1,0,0:0:0:0:
+204,268,5113,1,0,0:0:0:0:
+300,232,5263,2,0,L|448:208,1,140
+308,84,5713,5,0,0:0:0:0:
+156,144,5863,1,0,0:0:0:0:
+272,180,6013,2,0,P|296:248|264:332,1,140
+384,240,6463,1,0,0:0:0:0:
+284,304,6613,6,0,P|208:252|192:184,1,140
+336,80,7063,1,0,0:0:0:0:
+176,288,23863,5,0,0:0:0:0:
+256,64,24013,1,0,0:0:0:0:
+336,288,24163,1,0,0:0:0:0:
+128,144,24313,1,0,0:0:0:0:
+384,144,24463,1,0,0:0:0:0:
+336,288,24613,5,0,0:0:0:0:
+336,64,24763,1,0,0:0:0:0:
+176,288,24988,2,0,L|256:208,1,105

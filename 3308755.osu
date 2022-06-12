@@ -3,7 +3,7 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime: 38417
+PreviewTime:38417
 Countdown: 0
 SampleSet: Soft
 StackLeniency: 0.7
@@ -12,21 +12,21 @@ LetterboxInBreaks: 0
 WidescreenStoryboard: 1
 
 [Editor]
-Bookmarks: 58892
+Bookmarks:58892
 DistanceSpacing: 1.6
 BeatDivisor: 4
 GridSize: 32
 TimelineZoom: 1
 
 [Metadata]
-Title:Say Goodbye (Nightcore & Cut Ver.)
-TitleUnicode:Say Goodbye (Nightcore & Cut Ver.)
+Title:Say Goodbye (Sped Up & Cut Ver.)
+TitleUnicode:Say Goodbye (Sped Up & Cut Ver.)
 Artist:Krewella
 ArtistUnicode:Krewella
 Creator:Sotarks
 Version:Extra
 Source:
-Tags:Dubstep Nightcore Sped Speed Up Drum n and Bass english vocalist
+Tags:dubstep nightcore sped speed up drum n and bass dnb english vocalist electronic armin a_r_m_i_n schoolboy komore toybot vikala pepekcz basensorex short ver version
 BeatmapID:3308755
 BeatmapSetID:1620540
 
@@ -267,9 +267,9 @@ Combo3 : 123,164,225
 169,131,60692,1,2,2:0:0:0:
 355,213,60842,1,6,1:3:0:0:
 153,337,60992,1,10,2:0:0:0:
-355,213,61142,6,0,P|347:259|339:305,1,92.82,2|0,2:0|1:2,0:0:0:0:
-169,131,61442,1,2,2:0:0:0:
-281,39,61592,2,0,P|289:85|297:131,1,92.82,8|0,2:0|2:0,0:0:0:0:
+415,289,61142,6,0,P|407:335|399:381,1,92.82,2|0,2:0|1:2,0:0:0:0:
+157,241,61442,1,2,2:0:0:0:
+299,106,61592,2,0,P|307:152|315:198,1,92.82,8|0,2:0|2:0,0:0:0:0:
 153,337,61892,1,0,2:0:0:0:
 434,217,62042,1,4,1:3:0:0:
 153,337,62192,1,8,2:0:0:0:
@@ -299,8 +299,8 @@ Combo3 : 123,164,225
 85,113,67142,1,0,2:0:0:0:
 313,236,67292,5,6,1:2:0:0:
 230,0,67442,1,2,2:0:0:0:
-291,223,67592,1,10,2:0:0:0:
-421,56,67742,1,2,2:0:0:0:
+150,238,67592,1,10,2:0:0:0:
+416,68,67742,1,2,2:0:0:0:
 191,160,67892,1,2,2:0:0:0:
 429,263,68042,1,6,1:3:0:0:
 229,81,68192,1,10,2:0:0:0:
@@ -312,3 +312,4 @@ Combo3 : 123,164,225
 154,176,69092,1,0,1:2:0:0:
 233,375,69242,1,4,1:3:0:0:
 354,41,69392,1,8,2:0:0:0:
+226,102,69692,5,0,3:0:0:0:

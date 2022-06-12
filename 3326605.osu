@@ -49,6 +49,7 @@ Video,0,"01.mp4"
 //Storyboard Layer 3 (Foreground)
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
+Sample,354,0,"soundeffect.wav",100
 
 [TimingPoints]
 4692,321.285140562249,4,2,1,60,1,0

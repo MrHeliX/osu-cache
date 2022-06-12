@@ -1,0 +1,59 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 16
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:24 Hours In The Most Haunted Place On Earth
+TitleUnicode:24 Hours In The Most Haunted Place On Earth
+Artist:MrBeast
+ArtistUnicode:MrBeast
+Creator:rushia1
+Version:Scary
+Source:
+Tags:
+BeatmapID:2660146
+BeatmapSetID:1280619
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:7
+OverallDifficulty:0
+ApproachRate:9
+SliderMultiplier:0.400000005960464
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"download.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,4000,4,1,0,100,1,0
+0,-1000,4,1,0,100,0,0
+904450,4000,4,1,0,100,1,0
+
+
+[HitObjects]
+103,103,0,6,0,B|161:66|175:157|141:169|86:169|45:120|45:120|29:172|65:228|65:228|103:195|145:214|145:214|162:251|204:252|204:252|206:259|206:259|258:266|269:312|269:312|247:235|293:192|293:192|335:144|318:82|318:82|362:67|395:98,1,904.000013470648
+395,98,904440,5,0,0:0:0:0:

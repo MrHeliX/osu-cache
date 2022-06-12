@@ -1,0 +1,102 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 18
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.6
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:Linus tech tips intro
+TitleUnicode:Linus tech tips intro
+Artist:Laszlo
+ArtistUnicode:Laszlo
+Creator:Sytho
+Version:Ultra
+Source:
+Tags:Electro Laszlo Supernova Monstercat Release Linus Sebastian selfie Linus Tech Tips how much does YOUR selfie cam distort near the edge of the frame okbuddyretard ok buddy retard osu I Showed You My Dick Please Respond meme
+BeatmapID:2296225
+BeatmapSetID:1099140
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:5.3
+OverallDifficulty:10
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"D7ShRPYXoAA-XXB.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+2831,468.75,4,2,0,50,1,0
+2831,-25,4,2,0,50,0,1
+6581,-25,4,2,0,50,0,0
+8456,-100,4,2,0,50,0,0
+
+
+[HitObjects]
+18,83,2362,6,0,B|53:78|53:78|87:84|87:84|137:78,1,105
+181,0,2831,5,0,0:0:0:0:
+446,117,2948,1,0,0:0:0:0:
+328,383,3065,1,0,0:0:0:0:
+63,265,3182,1,0,0:0:0:0:
+464,45,3299,5,0,0:0:0:0:
+127,384,3416,1,0,0:0:0:0:
+38,0,3534,1,0,0:0:0:0:
+512,226,3651,1,0,0:0:0:0:
+0,343,3768,5,0,0:0:0:0:
+499,38,3885,1,0,0:0:0:0:
+238,373,4002,1,0,0:0:0:0:
+46,17,4120,1,0,0:0:0:0:
+434,157,4237,2,0,P|332:227|276:178,1,140
+58,273,4471,6,0,B|189:259|113:352|295:309,1,210
+377,226,4706,6,0,P|392:145|324:92,1,140
+59,10,4940,1,0,0:0:0:0:
+174,384,5057,1,0,0:0:0:0:
+493,39,5174,1,0,0:0:0:0:
+149,278,5291,1,0,0:0:0:0:
+300,0,5409,1,0,0:0:0:0:
+450,384,5526,1,0,0:0:0:0:
+0,54,5643,5,0,0:0:0:0:
+512,166,5760,1,0,0:0:0:0:
+7,309,5877,1,0,0:0:0:0:
+448,113,5995,1,0,0:0:0:0:
+111,384,6112,5,0,0:0:0:0:
+64,48,6229,1,0,0:0:0:0:
+400,1,6346,1,0,0:0:0:0:
+446,337,6463,1,0,0:0:0:0:
+0,183,6581,5,0,0:0:0:0:
+470,131,6698,1,0,0:0:0:0:
+0,183,6815,1,0,0:0:0:0:
+470,131,6932,1,0,0:0:0:0:
+208,351,7049,6,0,P|145:335|126:222,1,140
+412,0,7284,1,0,0:0:0:0:
+348,378,7401,1,0,0:0:0:0:
+50,21,7518,1,0,0:0:0:0:
+512,266,7635,1,0,0:0:0:0:
+0,384,7752,1,0,0:0:0:0:
+429,142,7870,5,0,0:0:0:0:
+89,84,7987,1,0,0:0:0:0:
+449,206,8221,1,0,0:0:0:0:
+242,288,8456,1,0,0:0:0:0:

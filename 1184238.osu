@@ -27,7 +27,7 @@ ArtistUnicode:RADWIMPS
 Creator:Haruto
 Version:Kalitarks' Insane
 Source:
-Tags:Light Human Bloom 人間開花 Ningen kaika short cut version haruto_aizawa monstrata ipas newipas appleeaterx milan- rizen kalibe sotarks sytarno irohas mugiwarasekai kimi no na wa nawa 君の名は。 your name
+Tags:Light Human Bloom 人間開花 Ningen kaika short cut version haruto_aizawa monstrata ipas newipas appleeaterx milan- rizen kalibe sotarks sytarno irohas mugiwarasekai a q p w a_q_p_w kimi no na wa nawa 君の名は。 your name
 BeatmapID:1184238
 BeatmapSetID:547714
 
@@ -372,7 +372,7 @@ Combo4 : 80,163,186
 178,159,75950,5,12,0:0:0:0:
 104,356,76115,1,12,0:2:0:0:
 104,356,76444,1,0,0:0:0:0:
-196,240,76609,6,0,B|280:200|280:288|384:232,1,189.200005773926,12|10,0:1|0:0,0:0:0:0:
+196,240,76609,6,0,B|280:200|280:288|384:232,1,189.200005773926,4|10,0:1|0:0,0:0:0:0:
 320,167,77104,1,0,3:0:0:0:
 464,104,77269,2,0,P|414:94|370:81,1,94.600002886963,2|0,3:2|3:0,0:0:0:0:
 256,16,77598,2,0,P|210:18|158:31,1,94.600002886963,10|0,0:0|0:0,0:0:0:0:

@@ -1,0 +1,111 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 403
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 10782,35567,59500,83107
+DistanceSpacing: 3.4
+BeatDivisor: 6
+GridSize: 4
+TimelineZoom: 1.6
+
+[Metadata]
+Title:Yakko's World
+TitleUnicode:Yakko's World
+Artist:Animaniacs
+ArtistUnicode:Animaniacs
+Creator:Julaaaan
+Version:Pog Moment
+Source:
+Tags:triangle cs-0 cs0 jump training triplets Yakkos please end my suffering
+BeatmapID:2707536
+BeatmapSetID:1305906
+
+[Difficulty]
+HPDrainRate:3.8
+CircleSize:3.6
+OverallDifficulty:7
+ApproachRate:10
+SliderMultiplier:2.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"57b5dd2b69f8ac4763c7bf0d3f80efcd52cbcc9c.jpeg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+587,821.917808219178,4,1,0,100,1,0
+7137,461.538461538462,4,1,0,100,1,0
+7163,-100,4,1,0,100,0,0
+32066,443.62292051756,4,1,0,100,1,0
+55999,443.62292051756,4,1,0,100,1,0
+79954,400,4,1,0,100,1,0
+79954,-76.9230769230769,4,1,0,100,0,0
+81554,-66.6666666666667,4,1,0,100,0,0
+99154,400,5,1,0,100,1,0
+99154,-66.6666666666667,5,1,0,100,0,0
+101154,400,4,1,0,100,1,0
+101154,-66.6666666666667,4,1,0,100,0,1
+105554,-50,4,1,0,100,0,0
+
+
+[Colours]
+Combo1 : 147,112,206
+Combo2 : 185,47,60
+Combo3 : 202,106,117
+Combo4 : 236,177,47
+Combo5 : 108,168,116
+Combo6 : 67,129,75
+Combo7 : 20,67,159
+Combo8 : 128,68,142
+Combo9 : 191,112,167
+
+[HitObjects]
+326,0,101154,21,0,0:0:0:0:
+94,380,101287,1,0,0:0:0:0:
+511,224,101420,1,0,0:0:0:0:
+93,0,101554,5,0,0:0:0:0:
+269,382,101687,1,0,0:0:0:0:
+445,16,101820,1,0,0:0:0:0:
+13,184,101954,5,0,0:0:0:0:
+503,379,102087,1,0,0:0:0:0:
+271,0,102220,1,0,0:0:0:0:
+133,384,102354,5,0,0:0:0:0:
+510,117,102487,1,0,0:0:0:0:
+56,0,102620,1,0,0:0:0:0:
+292,384,102754,5,0,0:0:0:0:
+383,0,102887,1,0,0:0:0:0:
+1,230,103020,1,0,0:0:0:0:
+435,349,103154,5,0,0:0:0:0:
+177,0,103287,1,0,0:0:0:0:
+48,382,103420,1,0,0:0:0:0:
+457,128,103554,5,0,0:0:0:0:
+2,104,103687,1,0,0:0:0:0:
+354,376,103820,1,0,0:0:0:0:
+277,0,103954,5,0,0:0:0:0:
+112,384,104087,1,0,0:0:0:0:
+511,196,104220,1,0,0:0:0:0:
+82,68,104354,5,0,0:0:0:0:
+449,380,104487,1,0,0:0:0:0:
+393,0,104620,1,0,0:0:0:0:
+11,384,104754,5,0,0:0:0:0:
+506,189,104887,1,0,0:0:0:0:
+5,5,105020,1,0,0:0:0:0:
+290,382,105154,5,0,0:0:0:0:
+472,12,105554,6,0,B|366:-12|277:92|348:148|381:132|381:132|412:114|417:39|300:6|157:166,1,520

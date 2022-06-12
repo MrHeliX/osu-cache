@@ -1,0 +1,88 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Doraemon no Uta
+TitleUnicode:Doraemon no Uta
+Artist:Sakata Gintoki
+ArtistUnicode:Sakata Gintoki
+Creator:Force
+Version:I am offically mentally disabled
+Source:
+Tags:
+BeatmapID:2562987
+BeatmapSetID:1232821
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4.5
+OverallDifficulty:7
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+17996.0399859352,1000,4,1,0,100,1,0
+
+
+[HitObjects]
+148,333,195,6,0,P|303:94|376:169,1,490
+421,72,4129,6,0,B|168:-33|68:221|189:315|235:342|286:271,1,525
+257,190,8064,2,0,L|257:241,3,35
+255,178,9047,2,0,P|256:159|256:136,3,35
+258,120,10031,2,0,L|258:79,3,35
+154,192,11014,2,0,L|115:157,3,35
+256,192,11998,12,0,14211,0:0:0:0:
+351,232,14457,5,0,0:0:0:0:
+157,106,14949,1,0,0:0:0:0:
+166,289,15195,1,0,0:0:0:0:
+166,289,15441,1,0,0:0:0:0:
+166,289,15686,1,0,0:0:0:0:
+119,138,15932,5,0,0:0:0:0:
+117,256,16424,1,0,0:0:0:0:
+252,128,16916,1,0,0:0:0:0:
+254,273,17408,1,0,0:0:0:0:
+209,214,17900,2,0,L|268:147,1,70
+314,335,18883,1,0,0:0:0:0:
+307,85,19375,1,0,0:0:0:0:
+145,306,19867,2,0,L|253:195,1,140
+180,111,21342,1,0,0:0:0:0:
+132,320,21834,1,0,0:0:0:0:
+376,196,22326,5,0,0:0:0:0:
+195,85,22818,1,0,0:0:0:0:
+301,333,24047,2,0,P|188:313|169:225,1,210
+156,184,26014,5,0,0:0:0:0:
+251,106,26506,1,0,0:0:0:0:
+214,292,26998,5,0,0:0:0:0:
+319,175,27490,1,0,0:0:0:0:
+334,143,27982,2,0,L|248:140,2,70
+163,280,29949,5,0,0:0:0:0:
+164,91,30441,1,0,0:0:0:0:
+320,260,30932,5,0,0:0:0:0:
+321,77,31424,1,0,0:0:0:0:

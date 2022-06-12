@@ -1,0 +1,98 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.4
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1.7
+
+[Metadata]
+Title:Money
+TitleUnicode:Money
+Artist:The Drums
+ArtistUnicode:The Drums
+Creator:DerekKMS
+Version:Tamborcito
+Source:
+Tags:Loro The Drums
+BeatmapID:3325529
+BeatmapSetID:1628997
+
+[Difficulty]
+HPDrainRate:4
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:9.8
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+Video,0,"video del loro.mp4"
+0,0,"Captura de pantalla 2021-11-16 123504.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,292.682926829268,4,1,0,100,1,0
+
+
+[HitObjects]
+1,200,3438,5,0,0:0:0:0:
+512,200,3585,1,0,0:0:0:0:
+0,170,3731,1,0,0:0:0:0:
+512,170,3877,1,0,0:0:0:0:
+0,170,4024,5,0,0:0:0:0:
+511,170,4171,1,0,0:0:0:0:
+1,200,4317,5,0,0:0:0:0:
+512,200,4464,1,0,0:0:0:0:
+0,170,4610,1,0,0:0:0:0:
+512,170,4756,1,0,0:0:0:0:
+0,170,4903,5,0,0:0:0:0:
+511,170,5050,1,0,0:0:0:0:
+1,200,5195,5,0,0:0:0:0:
+512,200,5342,1,0,0:0:0:0:
+0,170,5488,1,0,0:0:0:0:
+512,170,5634,1,0,0:0:0:0:
+0,170,5781,5,0,0:0:0:0:
+511,170,5928,1,0,0:0:0:0:
+1,200,6073,5,0,0:0:0:0:
+512,200,6220,1,0,0:0:0:0:
+0,170,6366,1,0,0:0:0:0:
+512,170,6512,1,0,0:0:0:0:
+0,170,6659,5,0,0:0:0:0:
+511,170,6806,1,0,0:0:0:0:
+1,200,6952,5,0,0:0:0:0:
+512,200,7099,1,0,0:0:0:0:
+0,170,7245,1,0,0:0:0:0:
+512,170,7391,1,0,0:0:0:0:
+0,170,7538,5,0,0:0:0:0:
+511,170,7685,1,0,0:0:0:0:
+1,200,7830,5,0,0:0:0:0:
+512,200,7977,1,0,0:0:0:0:
+0,170,8123,1,0,0:0:0:0:
+512,170,8269,1,0,0:0:0:0:
+0,170,8416,5,0,0:0:0:0:
+511,170,8563,1,0,0:0:0:0:
+1,200,8707,5,0,0:0:0:0:
+512,200,8854,1,0,0:0:0:0:
+0,170,9000,1,0,0:0:0:0:
+512,170,9146,1,0,0:0:0:0:
+0,170,9293,5,0,0:0:0:0:
+511,170,9440,1,0,0:0:0:0:

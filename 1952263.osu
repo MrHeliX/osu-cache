@@ -1,0 +1,106 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 1165
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.2
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 4.5
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1.9
+
+[Metadata]
+Title:Dance Moves
+TitleUnicode:Dance Moves
+Artist:Epic Games
+ArtistUnicode:Epic Games
+Creator:pajwoj
+Version:Squads (TAG4)
+Source:Fortnite
+Tags:fortnite battle royale br default funny meme lol haha xd when you troll a libtard epic style
+BeatmapID:1952263
+BeatmapSetID:935126
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:4
+OverallDifficulty:9
+ApproachRate:8.5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"21.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1465,600,4,1,0,100,1,0
+1465,-66.6666666666667,4,1,0,70,0,0
+2065,-50,4,1,0,70,0,1
+7915,-33.3333333333333,4,1,0,70,0,0
+
+
+[HitObjects]
+32,32,1465,5,0,0:0:0:0:
+480,352,1615,5,0,0:0:0:0:
+480,32,1765,5,0,0:0:0:0:
+480,352,1840,5,8,0:0:0:0:
+32,352,1915,5,0,0:0:0:0:
+32,32,1990,5,0,0:0:0:0:
+256,192,2065,5,0,0:0:0:0:
+480,192,2215,5,0,0:0:0:0:
+32,192,2365,5,0,0:0:0:0:
+480,192,2515,5,0,0:0:0:0:
+256,192,2590,5,0,0:0:0:0:
+32,192,2665,5,0,0:0:0:0:
+32,120,2815,1,0,0:0:0:0:
+480,192,2965,5,0,0:0:0:0:
+480,264,3115,1,0,0:0:0:0:
+32,32,3265,5,0,0:0:0:0:
+104,32,3415,1,0,0:0:0:0:
+480,352,3565,5,0,0:0:0:0:
+408,352,3715,1,0,0:0:0:0:
+480,32,3865,5,8,0:0:0:0:
+32,352,4015,5,0,0:0:0:0:
+32,32,4165,5,0,0:0:0:0:
+480,352,4315,5,0,0:0:0:0:
+256,192,4465,5,0,0:0:0:0:
+480,192,4615,5,0,0:0:0:0:
+32,192,4765,5,0,0:0:0:0:
+32,32,4915,5,0,0:0:0:0:
+480,352,4990,5,0,0:0:0:0:
+256,192,5065,5,0,0:0:0:0:
+256,352,5215,5,0,0:0:0:0:
+256,192,5290,5,0,0:0:0:0:
+256,32,5365,5,0,0:0:0:0:
+480,192,5515,5,0,0:0:0:0:
+32,192,5665,5,0,0:0:0:0:
+480,32,5815,5,0,0:0:0:0:
+32,352,5965,5,0,0:0:0:0:
+32,32,6115,5,0,0:0:0:0:
+480,352,6265,5,0,0:0:0:0:
+256,192,6415,6,0,L|256:144,1,35
+256,32,6565,5,0,0:0:0:0:
+480,352,6715,5,0,0:0:0:0:
+32,32,6865,5,0,0:0:0:0:
+480,352,7015,5,0,0:0:0:0:
+32,32,7165,5,0,0:0:0:0:
+256,192,7315,6,0,L|208:192,1,35
+32,192,7465,5,0,0:0:0:0:
+256,192,7615,6,0,L|304:192,1,35
+480,192,7765,5,0,0:0:0:0:
+256,192,7915,5,0,0:0:0:0:

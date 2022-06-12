@@ -1,4 +1,4 @@
-﻿osu file format v14
+osu file format v14
 
 [General]
 AudioFilename: nightbird lost wing.mp3
@@ -25,7 +25,7 @@ ArtistUnicode:猫叉Master+
 Creator:captin1
 Version:Hyper
 Source:DanceDanceRevolution
-Tags:apaffy nyquill hootowlstar reflec beat colette dance dance revolution -Autumn- plus naoyuki sato
+Tags:apaffy trust hootowlstar reflec beat colette dance dance revolution -Autumn- plus naoyuki sato
 BeatmapID:631143
 BeatmapSetID:241892
 
@@ -279,7 +279,7 @@ Combo4 : 255,94,94
 75,324,61660,2,0,P|112:321|153:311,1,75,4|0,1:2|0:0,0:0:0:0:
 172,181,61976,1,8,0:1:0:0:
 126,45,62134,5,4,1:2:0:0:
-256,192,62292,12,0,63950,0:0:0:0:
+256,192,62292,12,0,63923,0:0:0:0:
 111,187,64345,5,8,0:3:0:0:
 186,270,64502,2,0,L|223:268,2,37.5,8|0|8,0:1|0:0|0:1,0:0:0:0:
 108,352,64818,1,4,0:3:0:0:

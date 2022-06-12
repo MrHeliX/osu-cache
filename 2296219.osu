@@ -1,0 +1,98 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 18
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.2
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:Linus tech tips intro
+TitleUnicode:Linus tech tips intro
+Artist:Laszlo
+ArtistUnicode:Laszlo
+Creator:Sytho
+Version:Extremed
+Source:
+Tags:Electro Laszlo  Supernova Monstercat Release Linus Sebastian selfie Linus Tech Tips how much does YOUR selfie cam distort near the edge of the frame okbuddyretard ok buddy retard osu I Showed You My Dick Please Respond meme
+BeatmapID:2296219
+BeatmapSetID:1099140
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:4.6
+OverallDifficulty:10
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"D7ShRPYXoAA-XXB.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+2831,468.75,4,2,0,50,1,0
+2831,-25,4,2,0,50,0,1
+6581,-25,4,2,0,50,0,0
+8456,-100,4,2,0,50,0,0
+
+
+[HitObjects]
+123,245,2362,6,0,P|81:260|49:207,1,105
+344,74,2831,5,0,0:0:0:0:
+182,368,2948,1,0,0:0:0:0:
+35,101,3065,5,0,0:0:0:0:
+477,131,3182,1,0,0:0:0:0:
+57,353,3299,5,0,0:0:0:0:
+283,15,3416,1,0,0:0:0:0:
+506,364,3534,5,0,0:0:0:0:
+35,117,3651,1,0,0:0:0:0:
+491,16,3768,5,0,0:0:0:0:
+333,374,3885,1,0,0:0:0:0:
+149,75,4002,6,0,P|253:47|281:139,1,140
+450,370,4237,5,0,0:0:0:0:
+341,0,4354,1,0,0:0:0:0:
+186,374,4471,1,0,0:0:0:0:
+36,43,4588,1,0,0:0:0:0:
+493,202,4706,5,0,0:0:0:0:
+41,335,4823,1,0,0:0:0:0:
+334,146,4940,5,0,0:0:0:0:
+218,366,5057,1,0,0:0:0:0:
+106,37,5174,5,0,0:0:0:0:
+511,155,5291,1,0,0:0:0:0:
+39,357,5409,1,0,0:0:0:0:
+275,22,5526,1,0,0:0:0:0:
+304,359,5643,5,0,0:0:0:0:
+171,40,5760,1,0,0:0:0:0:
+135,353,5877,2,0,B|125:323|125:323|133:163,1,140
+481,58,6112,5,0,0:0:0:0:
+27,372,6229,1,0,0:0:0:0:
+206,0,6346,1,0,0:0:0:0:
+483,354,6463,1,0,0:0:0:0:
+21,132,6581,6,0,B|64:88|64:88|190:99,1,140
+479,154,6815,1,0,0:0:0:0:
+21,252,7049,2,0,B|64:296|64:296|190:285,1,140
+479,230,7283,1,0,0:0:0:0:
+102,27,7518,6,0,P|65:141|136:204,1,140
+404,368,7752,1,0,0:0:0:0:
+491,47,7870,1,0,0:0:0:0:
+40,271,7987,2,0,B|210:308|114:144|377:214,1,280
+295,198,8456,1,0,0:0:0:0:

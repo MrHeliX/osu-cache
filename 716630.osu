@@ -1,0 +1,87 @@
+osu file format v14
+
+[General]
+AudioFilename: HD Nightcore - Tonight.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:[Live To Mapping for Test]
+TitleUnicode:[Live To Mapping for Test]
+Artist:NightCore
+ArtistUnicode:NightCore
+Creator:[PrinZ R ubiX]
+Version:InsAne[Aiir]RubiX
+Source:
+Tags:
+BeatmapID:716630
+BeatmapSetID:322298
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:6
+SliderMultiplier:2.99999990463257
+SliderTickRate:4
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1002.73709193652,387.096774193548,4,1,0,100,1,0
+
+
+[HitObjects]
+60,104,12905,6,0,L|192:60,1,74.9999976158143
+104,132,13389,2,0,L|224:56,1,74.9999976158143
+292,84,13776,2,0,L|472:92,1,149.999995231629
+432,296,14260,2,0,L|64:228,1,374.999988079071
+164,64,15131,1,0,0:0:0:0:
+244,96,15422,1,0,0:0:0:0:
+220,232,15712,1,0,0:0:0:0:
+128,184,16002,1,0,0:0:0:0:
+168,96,16293,1,0,0:0:0:0:
+360,76,16583,1,0,0:0:0:0:
+352,200,16873,1,0,0:0:0:0:
+192,208,17164,1,0,0:0:0:0:
+148,84,17454,1,0,0:0:0:0:
+344,76,17744,1,0,0:0:0:0:
+196,268,18034,1,0,0:0:0:0:
+252,112,18325,1,0,0:0:0:0:
+156,168,18615,5,0,0:0:0:0:
+408,204,18905,1,0,0:0:0:0:
+80,168,19196,1,0,0:0:0:0:
+376,72,19486,1,0,0:0:0:0:
+184,268,19776,1,0,0:0:0:0:
+124,68,20067,1,0,0:0:0:0:
+412,160,20357,1,0,0:0:0:0:
+136,156,20647,1,0,0:0:0:0:
+272,48,20938,1,0,0:0:0:0:
+432,240,21228,1,0,0:0:0:0:
+168,312,21518,1,0,0:0:0:0:
+88,116,21809,1,0,0:0:0:0:
+372,264,22099,1,0,0:0:0:0:
+344,104,22389,1,0,0:0:0:0:
+188,284,22680,1,0,0:0:0:0:
+148,112,22970,1,0,0:0:0:0:
+364,260,23260,1,0,0:0:0:0:
+336,116,23551,5,0,0:0:0:0:

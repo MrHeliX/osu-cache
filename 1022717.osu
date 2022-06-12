@@ -1,0 +1,82 @@
+osu file format v14
+
+[General]
+AudioFilename: Fairy Tail Opening 20 Lyrics.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.6
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:op20
+TitleUnicode:op20
+Artist:dunno
+ArtistUnicode:dunno
+Creator:Frostykitty
+Version:Snippy's Hard
+Source:
+Tags:Fairy Tail
+BeatmapID:1022717
+BeatmapSetID:478897
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:3.5
+OverallDifficulty:6
+ApproachRate:8
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"natsu_igneel_by_xmonochromedream-d5xyp44.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+995.2803269315,337.078651685393,4,1,0,100,1,0
+13972,-100,4,1,0,100,0,1
+25264,-100,4,1,0,100,0,0
+62849,-100,4,3,0,100,0,1
+
+
+[HitObjects]
+132,209,995,6,0,P|186:214|227:203,1,70
+289,118,1332,2,0,P|323:146|335:176,1,70
+297,275,1837,1,0,0:0:0:0:
+129,198,2343,1,0,0:0:0:0:
+218,82,2512,2,0,P|261:100|271:103,2,35
+333,182,2849,1,0,0:0:0:0:
+186,297,3186,1,0,0:0:0:0:
+129,198,3691,2,0,P|155:154|181:139,1,70
+251,157,4028,2,0,P|296:166|331:156,1,70
+398,97,4366,2,0,P|422:166|390:233,1,140
+247,156,4871,1,0,0:0:0:0:
+164,269,5040,1,0,0:0:0:0:
+247,156,5208,1,0,0:0:0:0:
+311,273,5377,1,0,0:0:0:0:
+164,269,5545,2,0,P|126:233|120:213,1,70
+212,99,5882,2,0,P|261:157|261:168,1,70
+311,273,6219,2,0,P|356:280|376:269,1,70
+418,151,6557,2,0,L|405:111,2,35
+311,273,6894,2,0,P|256:280|236:278,1,70
+129,188,7231,1,0,0:0:0:0:
+266,148,7399,1,0,0:0:0:0:
+238,287,7736,2,0,L|215:323,2,35
+311,273,7989,2,0,L|347:290,2,35
+317,197,8242,2,0,L|337:158,2,35
+260,164,8495,2,0,L|221:149,2,35

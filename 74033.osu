@@ -1,0 +1,84 @@
+osu file format v8
+
+[General]
+AudioFilename: New Japanese Dragon Nest Trailer.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+Bookmarks: 22
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 32
+
+[Metadata]
+Title:New Trailer Dragon Nest
+Artist:
+Creator:serp04
+Version:Hard
+Source:Dragon Nest
+Tags:
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:7
+SliderMultiplier:0.999999904632566
+SliderTickRate:0.5
+
+[Events]
+//Background and Video events
+0,0,"24_1920x1200.jpg"
+Video,0,"New Japanese Dragon Nest Trailer.flv"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+41291.8629441624,304.568527918782,4,1,0,100,1,0
+
+[HitObjects]
+64,256,403,2,0,B|288:256,4,199.999980926514
+128,160,4134,2,0,B|192:160,3,49.9999952316284
+256,96,5200,5,0
+288,96,5505,1,0
+320,96,5809,1,0
+416,128,7637,5,0
+416,128,7789,1,0
+416,128,7941,1,0
+160,96,9997,5,0
+192,96,10302,1,0
+224,96,10606,1,0
+256,96,10911,1,0
+288,96,11215,1,0
+288,64,11824,2,0,B|512:64,1,199.999980926514
+448,128,13499,2,0,B|32:128,1,399.999961853027
+64,160,17230,5,0
+64,160,17383,1,0
+64,160,17535,1,0
+64,64,19591,5,0
+96,64,19895,1,0
+128,64,20200,1,0
+160,64,20505,1,0
+192,64,20809,1,0
+224,64,21114,1,0
+288,64,21418,6,0,B|288:256,1,174.999983310699
+256,192,24464,12,0,26444
+64,64,26824,6,0,B|384:64,1,299.99997138977
+448,64,29261,5,0
+256,192,29870,1,0
+32,320,30403,1,0
+64,64,30936,5,0
+64,64,31088,1,0
+192,64,31621,1,0

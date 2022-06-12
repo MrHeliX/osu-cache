@@ -1,0 +1,97 @@
+osu file format v9
+
+[General]
+AudioFilename: yu gi oh gx opening 4 sub.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 4
+
+[Metadata]
+Title:opening yugioh gx
+Artist:Taiyinu Akuma
+Creator:taiyinu
+Version:Easy
+Source:
+Tags:prueba
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.5
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"wallpaper-1003.jpg"
+Video,0,"yu gi oh gx opening 4 sub.avi"
+//Break Periods
+2,35325,39675
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,0,0,0
+
+[TimingPoints]
+0,500,4,1,0,30,1,0
+0,-100,4,1,0,30,0,0
+
+
+[Colours]
+Combo1 : 0,255,255
+Combo2 : 255,255,128
+Combo3 : 5,5,240
+Combo4 : 240,5,5
+
+[HitObjects]
+156,132,7250,1,0
+132,72,8875,5,0
+360,204,10125,1,0
+96,80,11375,1,0
+292,208,12750,1,0
+88,72,14750,1,0
+196,184,15750,1,0
+360,56,17125,5,8
+56,68,19750,5,0
+444,308,21625,1,0
+400,52,23500,1,0
+104,216,25000,1,0
+408,104,26625,1,0
+80,76,28625,5,0
+88,172,30875,1,0
+160,288,32875,1,0
+448,72,35125,1,0
+120,124,40875,5,0
+256,192,42000,12,0,47000
+148,72,49125,5,0
+328,220,50750,1,0
+384,232,51750,5,0
+140,84,53750,5,0
+376,180,55375,1,0
+48,48,57625,5,4
+440,64,59750,1,4
+236,320,61625,1,4
+64,76,63625,1,4
+492,176,65625,1,4
+120,64,67375,5,0
+360,92,69750,1,2
+112,232,71375,1,2
+256,32,74250,2,2,B|260:176|316:92,1,140
+60,60,77750,5,4
+152,184,79250,1,4
+448,292,81375,1,4
+264,84,83125,1,4
+100,204,85625,1,4

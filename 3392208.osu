@@ -5,7 +5,7 @@ AudioFilename: audio.ogg
 AudioLeadIn: 0
 PreviewTime: 70485
 Countdown: 0
-SampleSet: None
+SampleSet: Soft
 StackLeniency: 0.4
 Mode: 0
 LetterboxInBreaks: 0
@@ -26,7 +26,7 @@ ArtistUnicode:いとうかなこ
 Creator:ItsWinter
 Version:Atelier
 Source:エスカ＆ロジーのアトリエ～黄昏の空の錬金術士～
-Tags:anime girl natsume shiki [keqing] no Renkinjutsushi Renkin jutsushi vocal album Shade Atelier series Escha and Logy Alchemist Dusk 大和 Yamato tasogare sora renkin jutsushi scubdomino scub domino video game the metal Japanese
+Tags:anime girl natsume shiki [keqing] no Renkinjutsushi Renkin jutsushi vocal album Shade Atelier series Escha and Logy Alchemist Dusk 大和 Yamato tasogare sora scubdomino scub domino video game the metal Japanese itou wakaba ayellowperson rock progressive jrock j-rock
 BeatmapID:3392208
 BeatmapSetID:1570424
 
@@ -3207,12 +3207,12 @@ Combo6 : 86,197,254
 161,45,342752,1,0,3:3:0:0:
 143,78,342821,1,2,3:2:0:0:
 143,115,342891,1,0,3:3:0:0:
-166,144,342960,2,0,L|295:125,1,125,10|2,3:3|3:2,0:0:0:0:
+166,143,342960,2,0,L|295:124,1,125,10|2,3:3|3:2,0:0:0:0:
 495,264,343238,5,2,3:3:0:0:
 504,226,343308,1,0,3:3:0:0:
 487,193,343377,1,2,3:2:0:0:
 454,174,343446,1,0,3:3:0:0:
-416,177,343516,2,0,P|366:215|373:283,1,125,2|2,3:3|3:2,0:0:0:0:
+416,177,343516,2,0,P|366:215|373:283,1,125,10|2,3:3|3:2,0:0:0:0:
 219,368,343794,5,2,3:3:0:0:
 256,363,343863,1,0,3:3:0:0:
 293,359,343933,1,2,3:2:0:0:
