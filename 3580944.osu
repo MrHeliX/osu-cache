@@ -13,7 +13,7 @@ WidescreenStoryboard: 0
 
 [Editor]
 Bookmarks: 24281,38127,51973,58752,100434,114281,128127
-DistanceSpacing: 0.3
+DistanceSpacing: 1.5
 BeatDivisor: 4
 GridSize: 16
 TimelineZoom: 3.199999
@@ -24,9 +24,9 @@ TitleUnicode:Atlas
 Artist:Good Kid
 ArtistUnicode:Good Kid
 Creator:wafer
-Version:Burrow
+Version:Heavy
 Source:
-Tags:english indie rock fa featured artist goopert kami no kotoba
+Tags:english indie rock fa featured artist goopert kami no kotoba renumi baku shiny braixen bakugo- -magic- syodou ghost kings king's revenge ost videogame video game sound track
 BeatmapID:3580944
 BeatmapSetID:1750346
 
@@ -416,7 +416,7 @@ Combo4 : 217,214,157
 302,228,79089,1,4,3:0:0:0:
 338,297,79233,1,4,3:0:0:0:
 485,357,79378,1,10,0:0:0:0:
-317,370,79521,1,2,0:0:0:0:
+317,370,79521,1,6,3:0:0:0:
 317,370,79593,1,2,0:0:0:0:
 317,370,79665,6,0,B|331:295,1,52.5,4|0,1:0|0:0,0:0:0:0:
 422,202,79808,1,2,0:0:0:0:
@@ -523,7 +523,7 @@ Combo4 : 217,214,157
 242,162,99858,1,6,3:0:0:0:
 216,237,100002,1,4,3:0:0:0:
 441,116,100146,2,8,P|455:167|471:217,1,105,14|0,3:2|3:0,3:0:0:0:
-31,123,100434,6,0,P|80:48|217:63,1,241.5,0|0,1:0|0:0,0:0:0:0:
+31,123,100434,6,0,P|80:48|217:63,1,241.5,4|0,1:0|0:0,0:0:0:0:
 307,243,102165,2,0,P|356:318|493:303,1,241.5,0|0,1:0|0:0,0:0:0:0:
 452,53,103896,2,0,P|362:45|269:158,1,241.5,0|0,1:0|0:0,0:0:0:0:
 185,345,105627,2,0,P|81:292|62:178,1,241.5,0|0,1:0|0:0,0:0:0:0:

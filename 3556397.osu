@@ -12,10 +12,10 @@ LetterboxInBreaks: 0
 WidescreenStoryboard: 0
 
 [Editor]
-DistanceSpacing: 0.1
+DistanceSpacing: 0.6
 BeatDivisor: 2
 GridSize: 32
-TimelineZoom: 2.700001
+TimelineZoom: 8
 
 [Metadata]
 Title:Apollo
@@ -25,7 +25,7 @@ ArtistUnicode:TJ.hangneil
 Creator:Axer
 Version:Nostradamus
 Source:オンゲキ R.E.D. PLUS
-Tags:Skull Kid HiroK [Zeth] Genjuro Hivie Dusk- HEAVENLY MOON rubies87 TWC 2022 Taiko World Cup Grand Finals NM4 ongeki red+ r.e.d.+ video game electronic instrumental sasakure.UK artcore O.N.G.E.K.I. 音撃 皇城セツナ 皇城 刹那 スメラギ セツナ Sumeragi Setsuna チャプター Chapter 6 Skid eae finana ryugu _DUSK_ ginjani nomod no mod
+Tags:Skull Kid HiroK [Zeth] Genjuro Hivie Dusk- HEAVENLY MOON rubies87 TWC 2022 Taiko World Cup Grand Finals NM4 ongeki red+ r.e.d.+ video game electronic instrumental sasakure.UK artcore O.N.G.E.K.I. 音撃 皇城セツナ 皇城 刹那 スメラギ セツナ Sumeragi Setsuna チャプター Chapter 6 Skid eae finana ryugu _DUSK_ -dusk ginjani nomod no mod
 BeatmapID:3556397
 BeatmapSetID:1739877
 
@@ -763,8 +763,8 @@ Video,30,"output.mp4"
 147968,-81.9249498710971,4,1,0,90,0,0
 148016,-80,4,1,0,90,0,0
 148066,-10000,7,1,11,25,0,0
-148114,176.991150442478,42,1,0,25,1,9
-148114,-10000,7,1,11,25,0,1
+148114,176.991150442478,42,1,0,25,1,1
+148114,-80,7,1,11,25,0,1
 148158,-27.3972602739726,7,1,11,25,0,1
 154308,-27.3972602739726,7,1,11,25,0,0
 
@@ -2345,4 +2345,4 @@ Combo2 : 0,202,0
 256,192,147923,1,0,0:0:0:0:
 256,192,147971,1,0,0:0:0:0:
 256,192,148019,1,8,0:0:0:0:
-256,192,148114,8,0,154308,0:0:0:0:
+256,192,148113,8,0,154307,0:0:0:0:

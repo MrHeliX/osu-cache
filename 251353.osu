@@ -9,6 +9,7 @@ SampleSet: Soft
 StackLeniency: 0.5
 Mode: 0
 LetterboxInBreaks: 0
+WidescreenStoryboard: 0
 
 [Editor]
 DistanceSpacing: 1
@@ -17,7 +18,7 @@ GridSize: 4
 
 [Metadata]
 Title:Sora wo Miagete Ending version
-TitleUnicode:空を见上げて Ending version
+TitleUnicode:空を見上げて Ending version
 Artist:Kotera Kanako
 ArtistUnicode:小寺 可南子
 Creator:jonathanlfj

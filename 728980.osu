@@ -4,12 +4,12 @@ osu file format v14
 AudioFilename: Lost Imagination.mp3
 AudioLeadIn: 0
 PreviewTime: 29988
-Countdown: 1
+Countdown: 0
 SampleSet: Soft
 StackLeniency: 0.7
 Mode: 0
-LetterboxInBreaks: 1
-WidescreenStoryboard: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
 
 [Editor]
 Bookmarks: 19438,29988,40537,51087,61636,72186
@@ -26,7 +26,7 @@ ArtistUnicode:Raujika
 Creator:Nhawak
 Version:Simple
 Source:
-Tags:Palette Sounds Pappy Papcio
+Tags:Palette Sounds collab collaboration Pappy Papcio
 BeatmapID:728980
 BeatmapSetID:328691
 

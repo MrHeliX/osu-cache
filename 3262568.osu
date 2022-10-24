@@ -26,7 +26,7 @@ ArtistUnicode:星街すいせい
 Creator:Amateurre
 Version:Shooting Star
 Source:
-Tags:vtuber virtual youtuber hololive ホロライブ japanese pop jpop j-pop dnb drum n bass and taku inoue inotaku still stellar stellarstellar suichan hosimati hoshimati hosimachi sui-chan captin1 mocaotic hinsvar nagaraia kowari wen koldnoodl
+Tags:vtuber virtual youtuber hololive ホロライブ japanese pop jpop j-pop dnb drum n bass D4DJ Dig Delight Direct Drive Groovy Mix rhythm game and taku inoue inotaku still stellar stellarstellar suichan hosimati hoshimati hosimachi sui-chan captin1 mocaotic hinsvar nagaraia kowari wen koldnoodl
 BeatmapID:3262568
 BeatmapSetID:1597526
 
@@ -1113,7 +1113,7 @@ Combo4 : 91,241,253
 223,34,39245,2,0,L|264:43,2,36,10|8|8,2:3|2:3|2:3,0:0:0:0:
 150,132,39582,2,0,L|159:210,1,72,2|0,2:3|3:2,0:0:0:0:
 157,221,39835,1,0,3:2:0:0:
-156,220,39919,1,2,3:0:0:0:
+157,221,39919,1,2,3:0:0:0:
 262,193,40088,5,0,3:2:0:0:
 308,280,40256,2,0,L|305:316,3,36,2|0|0|0,3:0|3:2|3:2|3:2,0:0:0:0:
 380,243,40593,6,0,L|451:235,1,72,2|0,3:0|3:2,0:0:0:0:
@@ -1732,9 +1732,9 @@ Combo4 : 91,241,253
 334,54,175593,2,0,P|322:106|316:160,1,108,10|8,2:0|2:1,0:0:0:0:
 504,101,175930,1,2,2:0:0:0:
 310,354,176099,5,14,2:0:0:0:
-190,284,176268,1,2,2:0:0:0:
-190,284,176352,1,2,2:3:0:0:
-189,283,176436,1,2,2:3:0:0:
+190,291,176268,1,2,2:0:0:0:
+190,291,176352,1,2,2:3:0:0:
+190,291,176436,1,2,2:3:0:0:
 104,321,176605,2,0,L|100:254,1,54,10|2,2:0|2:3,0:0:0:0:
 57,20,176773,6,0,P|38:120|21:206,1,180,14|2,2:1|2:0,0:0:0:0:
 57,20,177279,1,2,2:3:0:0:

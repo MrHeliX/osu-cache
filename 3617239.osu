@@ -25,7 +25,7 @@ ArtistUnicode:Mili
 Creator:Esutarosa
 Version:Paper Flowers of Each and Every Colour
 Source:処刑少女の生きる道
-Tags:momocashew cassie wei projectmili yamato kasai hamo Hinae AsuKow Pepekcz Shikibe Grazuko Mayu Soraka Shikibe_Mayu Kazato Asa Kazato_Asa Tachibana_ Shizuku- virgin road virgin-road project english rock pop conlang opening op バージンロード anime The Executioner and Her Way of Life
+Tags:momocashew cassie wei projectmili yamato kasai hamo Hinae AsuKow Pepekcz Shikibe Grazuko Mayu Soraka Shikibe_Mayu Kazato Asa Kazato_Asa Tachibana_ Shizuku- Shokei Shoujo no Virgin Road virgin-road project english rock pop conlang opening op バージンロード anime The Executioner and Her Way of Life
 BeatmapID:3617239
 BeatmapSetID:1767138
 
@@ -41,7 +41,7 @@ SliderTickRate:1
 //Background and Video events
 0,0,"BG.jpg",0,0
 //Break Periods
-2,140853,148681
+2,140857,148697
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
 //Storyboard Layer 2 (Pass)
@@ -1154,8 +1154,8 @@ Combo4 : 255,128,128
 185,339,135479,2,0,P|204:315|234:305,1,64.3800015717774,8|2,1:3|0:0,0:0:0:0:
 137,142,135763,37,10,0:0:0:0:
 179,129,135833,1,2,0:0:0:0:
-223,140,135904,1,2,0:0:0:0:
-253,172,135975,1,2,0:0:0:0:
+223,140,135904,1,2,3:0:0:0:
+253,172,135975,1,2,3:0:0:0:
 270,218,136046,1,8,1:3:0:0:
 298,246,136116,1,8,1:3:0:0:
 337,257,136187,1,8,1:3:0:0:

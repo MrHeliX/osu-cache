@@ -3,7 +3,7 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime:186000
+PreviewTime: 186000
 Countdown: 0
 SampleSet: Soft
 StackLeniency: 0.7
@@ -19,7 +19,7 @@ GridSize: 32
 TimelineZoom: 2.999999
 
 [Metadata]
-Title:Make a Loser (inst)
+Title:MAKE A LOSER (inst)
 TitleUnicode:メイカルーザ (inst)
 Artist:Nanahoshi Kangengakudan
 ArtistUnicode:ナナホシ管弦楽団

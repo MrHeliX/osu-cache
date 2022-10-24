@@ -24,7 +24,7 @@ ArtistUnicode:篠螺悠那 feat. 鯛の小骨
 Creator:xxbidiao
 Version:7K Lunatic
 Source:Touhou
-Tags:Touhou BMS
+Tags:BMS
 BeatmapID:249346
 BeatmapSetID:92190
 
@@ -64,15 +64,15 @@ Sample,17888,0,"amen_2.wav",70
 Sample,19378,0,"amen_2.wav",70
 Sample,19378,0,"bgm1_2.wav",70
 Sample,20869,0,"amen_2.wav",70
-Sample,22360,0,"cym_revrs.wav",70
 Sample,22360,0,"amen_2.wav",70
 Sample,22360,0,"bgm1_4.wav",70
+Sample,22360,0,"cym_revrs.wav",70
 Sample,23850,0,"amen_2.wav",70
 Sample,23850,0,"bgm1_3.wav",70
-Sample,25341,0,"bgm2_1.wav",70
-Sample,25341,0,"deep.wav",70
-Sample,25341,0,"amen_2.wav",70
 Sample,25341,0,"se2.wav",70
+Sample,25341,0,"bgm2_1.wav",70
+Sample,25341,0,"amen_2.wav",70
+Sample,25341,0,"deep.wav",70
 Sample,26832,0,"amen_2.wav",70
 Sample,28322,0,"amen_2.wav",70
 Sample,29813,0,"amen_2.wav",70
@@ -146,9 +146,9 @@ Sample,64844,0,"back_gtr_6.wav",70
 Sample,65031,0,"back_gtr_7.wav",70
 Sample,65217,0,"back_gtr_6.wav",70
 Sample,65403,0,"back_gtr_6.wav",70
-Sample,65590,0,"amen_2.wav",70
 Sample,65590,0,"back_gtr_8.wav",70
 Sample,65590,0,"cym.wav",70
+Sample,65590,0,"amen_2.wav",70
 Sample,65776,0,"back_gtr_8.wav",70
 Sample,65962,0,"back_gtr_9.wav",70
 Sample,66149,0,"back_gtr_8.wav",70
@@ -166,9 +166,9 @@ Sample,67826,0,"back_gtr_6.wav",70
 Sample,68012,0,"back_gtr_7.wav",70
 Sample,68198,0,"back_gtr_6.wav",70
 Sample,68385,0,"back_gtr_6.wav",70
-Sample,68571,0,"amen_2.wav",70
 Sample,68571,0,"cym.wav",70
 Sample,68571,0,"cym_revrs.wav",70
+Sample,68571,0,"amen_2.wav",70
 Sample,68571,0,"back_gtr_8.wav",70
 Sample,68757,0,"back_gtr_8.wav",70
 Sample,68944,0,"back_gtr_9.wav",70
@@ -315,10 +315,10 @@ Sample,103788,0,"sn_clap_2.wav",70
 Sample,104347,0,"bgm4_5.wav",70
 Sample,105093,0,"sn_roll_1.wav",70
 Sample,105093,0,"se_gtr_1.wav",70
-Sample,105838,0,"bgm2_1.wav",70
-Sample,105838,0,"hh_1.wav",70
-Sample,105838,0,"amen_2.wav",70
 Sample,105838,0,"se2.wav",70
+Sample,105838,0,"bgm2_1.wav",70
+Sample,105838,0,"amen_2.wav",70
+Sample,105838,0,"hh_1.wav",70
 Sample,105838,0,"deep.wav",70
 Sample,105931,0,"hh_2.wav",70
 Sample,106024,0,"hh_3.wav",70
@@ -378,9 +378,9 @@ Sample,111428,0,"hh_1.wav",70
 Sample,111521,0,"hh_2.wav",70
 Sample,111614,0,"hh_3.wav",70
 Sample,111708,0,"hh_2.wav",70
-Sample,111801,0,"hh_1.wav",70
 Sample,111801,0,"amen_2.wav",70
 Sample,111801,0,"bgm2_2.wav",70
+Sample,111801,0,"hh_1.wav",70
 Sample,111894,0,"hh_2.wav",70
 Sample,111987,0,"hh_3.wav",70
 Sample,112173,0,"hh_1.wav",70
