@@ -1,0 +1,78 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 60514
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 18687,36955,61005,76759,92849,114888,127374,135167,146815,155865,158379,179078
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 0.4999999
+
+[Metadata]
+Title:Climber's High! (2Cho ver.)
+TitleUnicode:Climber's High! (2Cho ver.)
+Artist:Manami Numakura
+ArtistUnicode:沼倉愛美
+Creator:Poitard
+Version:Normal
+Source:
+Tags:Climber Climber's High Fuuka
+BeatmapID:1229444
+BeatmapSetID:580673
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:2
+OverallDifficulty:2
+ApproachRate:4
+SliderMultiplier:0.400000005960464
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"fuuka.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,335.195530726257,4,3,0,100,1,0
+
+
+[Colours]
+Combo1 : 249,39,39
+Combo2 : 246,253,28
+Combo3 : 7,140,255
+Combo4 : 175,44,250
+Combo5 : 195,215,249
+
+[HitObjects]
+168,200,3100,6,0,P|212:136|272:112,1,140.000002086163
+360,184,5782,2,0,P|308:240|248:264,1,140.000002086163
+200,168,7458,1,0,0:0:0:0:
+312,116,8296,6,0,P|352:176|340:224,1,120.000001788139
+224,284,9804,2,0,P|164:252|148:220,1,100.000001490116
+208,132,11145,1,0,0:0:0:0:
+368,224,11815,1,0,0:0:0:0:
+180,312,12486,1,0,0:0:0:0:
+116,140,13156,5,0,0:0:0:0:
+356,96,13826,1,0,0:0:0:0:
+292,296,14497,1,0,0:0:0:0:
+116,244,15167,5,0,0:0:0:0:
+356,288,15837,1,0,0:0:0:0:
+292,88,16508,1,0,0:0:0:0:
+104,212,17178,1,0,0:0:0:0:
+256,292,17849,2,0,P|328:256|356:192,1,150.000002235174

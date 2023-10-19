@@ -1,0 +1,66 @@
+osu file format v9
+
+[General]
+AudioFilename: DIE TOTEN HOSEN - Paradies.MP3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 3
+GridSize: 32
+
+[Metadata]
+Title:Paradies
+Artist:DIE TOTEN HOSEN
+Creator:Umitaka-kun
+Version:
+Source:
+Tags:
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+1702.4371257485,359.281437125748,4,1,0,100,1,0
+
+[HitObjects]
+256,192,25,12,0,17031
+256,192,17031,12,0,21462
+256,192,21941,12,0,23858
+256,192,23977,12,0,24456
+256,192,24576,12,0,25175
+256,192,25654,12,0,28768
+256,192,29127,12,0,29846
+256,192,29965,12,0,30444
+256,192,30564,12,0,30684
+256,192,30804,12,0,30923
+256,192,30923,12,0,31283
+256,192,31522,12,0,31642
+256,192,31642,12,0,31762
+256,192,31882,12,0,37750
+256,192,38109,12,0,44816
+256,192,46373,12,0,49846
+256,192,50325,12,0,52241
+256,192,52600,12,0,59546

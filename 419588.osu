@@ -1,0 +1,103 @@
+osu file format v12
+
+[General]
+AudioFilename: The Quick Brown Fox - Just Hesitation (JQ Remix).mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.5
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:Just Hesitation (Jackal Queenston Remix)
+TitleUnicode:Just Hesitation (Jackal Queenston Remix)
+Artist:The Quick Brown Fox
+ArtistUnicode:The Quick Brown Fox
+Creator:HandHeldPillow
+Version:Hard
+Source:
+Tags:
+BeatmapID:419588
+BeatmapSetID:173333
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:7
+SliderMultiplier:1.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+2,32757,44401
+2,48687,54489
+2,56828,61392
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+11319,353.982300884956,4,1,0,100,1,0
+
+
+[HitObjects]
+168,64,11318,5,0,0:0:0:0:
+272,112,12380,1,0,0:0:0:0:
+272,112,12734,1,0,0:0:0:0:
+208,200,13265,1,0,0:0:0:0:
+104,144,13796,5,0,0:0:0:0:
+104,144,14150,2,0,P|128:256|280:280,1,280
+272,280,15566,1,0,0:0:0:0:
+360,208,16274,1,0,0:0:0:0:
+376,112,16982,2,0,P|296:56|224:56,1,160
+96,104,18044,5,0,0:0:0:0:
+8,192,18398,1,0,0:0:0:0:
+48,304,18752,1,0,0:0:0:0:
+48,304,19460,1,0,0:0:0:0:
+48,304,19814,2,0,P|232:344|288:328,1,240
+360,320,21230,1,0,0:0:0:0:
+448,264,22646,5,0,0:0:0:0:
+456,144,23708,1,0,0:0:0:0:
+368,72,24062,1,0,0:0:0:0:
+368,72,24416,2,0,P|344:184|312:232,1,160
+248,304,25124,1,0,0:0:0:0:
+136,280,25478,2,0,P|88:240|80:144,1,160
+256,64,26894,1,0,0:0:0:0:
+368,80,27602,6,0,P|432:160|456:208,1,120
+456,280,28310,1,0,0:0:0:0:
+360,328,28664,1,0,0:0:0:0:
+264,328,29372,1,0,0:0:0:0:
+168,272,29726,1,0,0:0:0:0:
+168,272,30080,2,0,P|112:184|128:136,1,160
+232,160,30788,5,0,0:0:0:0:
+344,160,31142,1,0,0:0:0:0:
+424,224,32557,1,0,0:0:0:0:
+48,128,45301,6,0,B|24:232|80:304|240:328,1,320
+344,312,46363,1,0,0:0:0:0:
+416,240,46717,1,0,0:0:0:0:
+448,160,47071,2,0,B|432:72|328:40|176:40,1,320
+56,72,48133,1,0,0:0:0:0:
+0,152,48487,1,0,0:0:0:0:
+256,192,55389,12,0,56628,0:0:0:0:
+72,304,62292,5,0,0:0:0:0:
+72,304,62646,1,0,0:0:0:0:
+152,336,63000,2,0,P|256:352|312:344,1,160
+408,320,63708,1,0,0:0:0:0:
+496,256,64062,1,0,0:0:0:0:
+512,160,64416,1,0,0:0:0:0:
+440,104,64770,2,0,P|400:184|344:224,1,160

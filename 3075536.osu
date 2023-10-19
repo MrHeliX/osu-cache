@@ -14,19 +14,19 @@ WidescreenStoryboard: 0
 [Editor]
 Bookmarks: 2400,15200,28000,40800,47200,53600,66400,72800,79200,85600,92000,104800,117600,124000,130400,143200
 DistanceSpacing: 0.7
-BeatDivisor: 8
+BeatDivisor: 4
 GridSize: 16
 TimelineZoom: 7.000001
 
 [Metadata]
-Title:MAGENTA POTION (short ver.)
-TitleUnicode:MAGENTA POTION (short ver.)
+Title:MAGENTA POTION (Short Ver.)
+TitleUnicode:MAGENTA POTION (Short Ver.)
 Artist:EmoCosine
 ArtistUnicode:EmoCosine
 Creator:Starfy
 Version:Hallucination
 Source:BOFXV
-Tags:starforyou ming3012 iredi emoco. 同人時代 doujin jidai BOFXV19 BOF19 BMS OF FIGHTERS EXTREME VIOLENCE future jersey club aphrodite featured artist fa Muse Dash phigros WACCA Lily R kind
+Tags:starforyou ming3012 iredi chaoslitz chaoz helloz emoco. 同人時代 doujin jidai BOFXV19 BOF19 BMS OF FIGHTERS EXTREME VIOLENCE future jersey club aphrodite featured artist fa Muse Dash phigros WACCA Lily R kind kindfy Mappers' Guild mpg electronic instrumental english
 BeatmapID:3075536
 BeatmapSetID:1079970
 
@@ -58,6 +58,7 @@ SliderTickRate:1
 2000,-80,4,2,1,70,0,0
 2200,-80,4,2,1,80,0,0
 2300,-80,4,2,1,90,0,0
+2400,400,4,2,1,80,1,0
 2400,-40,4,2,1,80,0,0
 2800,-200,4,2,1,80,0,0
 3000,-40,4,2,1,80,0,0
@@ -713,9 +714,9 @@ SliderTrackOverride : 0,128,255
 149,175,89333,2,0,P|167:149|192:131,1,62.5,2|0,0:0|0:0,0:0:0:0:
 279,256,89466,2,0,P|248:252|219:240,1,62.5,2|0,0:0|0:0,0:0:0:0:
 343,48,89600,6,0,P|370:111|378:181,1,140.625,12|0,0:1|0:0,0:0:0:0:
-279,256,89800,1,0,0:0:0:0:
+372,205,89800,1,0,0:0:0:0:
 72,150,89900,6,0,P|112:94|169:52,1,140.625,12|0,0:1|0:0,0:0:0:0:
-282,103,90100,1,0,0:0:0:0:
+193,46,90100,1,0,0:0:0:0:
 296,334,90200,6,0,P|227:326|162:298,1,140.625,12|0,0:1|0:0,0:0:0:0:
 149,175,90400,6,0,L|157:143,2,28.1250010728836,10|8|8,0:0|0:0|0:0,0:0:0:0:
 155,187,90600,1,8,0:0:0:0:

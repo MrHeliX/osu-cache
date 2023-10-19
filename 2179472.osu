@@ -6,7 +6,7 @@ AudioLeadIn: 0
 PreviewTime: -1
 Countdown: 0
 SampleSet: Normal
-StackLeniency: 0.02
+StackLeniency: 0
 Mode: 0
 LetterboxInBreaks: 0
 WidescreenStoryboard: 0
@@ -20,12 +20,12 @@ TimelineZoom: 1
 [Metadata]
 Title:Promise
 TitleUnicode:Promise
-Artist:Lydian
-ArtistUnicode:Lydian
+Artist:lydian
+ArtistUnicode:lydian
 Creator:fanzhen0019
 Version:distance-snap
-Source:
-Tags:
+Source:B.J.cup 1st stage
+Tags:BMS BM98 Journal Cup DJ ALS Humor novelty electronic instrumental
 BeatmapID:2179472
 BeatmapSetID:1042704
 

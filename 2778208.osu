@@ -13,10 +13,10 @@ WidescreenStoryboard: 0
 
 [Editor]
 Bookmarks: 181503,181659,181814,181970,182125,182203,182358,182514,182689,182844,182922,184943,185098,185254,185409,185565,185720,185798,185953,186109,186264,186420,186575,186730,186886,187041,187197,187352,187508,187663,187741,187974,189917,190072,190228,190539,190616,190772,190927,191005,191160,191316,191471,191549,191704,191860,192015,192171,192326,192482,192637,192793,192948,226212
-DistanceSpacing: 0.3
+DistanceSpacing: 0.4
 BeatDivisor: 4
 GridSize: 16
-TimelineZoom: 5.287998
+TimelineZoom: 3.188
 
 [Metadata]
 Title:ANIMA
@@ -26,7 +26,7 @@ ArtistUnicode:ReoNa
 Creator:SkyFlame
 Version:DAILYCARE'S EXTRA
 Source:ソードアート・オンライン アリシゼーション War of Underworld
-Tags:sword art online sao alicization WoU the last season three 3 kirito asuna eugeo alice leafa sinon silica lisbeth opening japanese anime rock jpop pop j-pop jrock j-rock full version ver ver. female vocal keysound lasse nyantiaz toybot vikala dailycare rumia- MoeMoeKyunNN -_r_u_m_i_a_- agagak
+Tags:sword art online sao alicization WoU the last season three 3 kirito asuna eugeo alice leafa sinon silica lisbeth opening japanese anime rock jpop pop j-pop jrock j-rock full version ver ver. female vocal keysound lasse nyantiaz intiaz dailycare rumia- MoeMoeKyunNN -_r_u_m_i_a_- agagak
 BeatmapID:2778208
 BeatmapSetID:1219288
 
@@ -637,10 +637,10 @@ SliderBorder : 174,84,122
 197,348,87083,5,14,0:0:0:0:
 145,131,87238,1,0,1:2:0:0:
 330,248,87394,5,10,1:3:0:0:
-330,248,87471,2,0,L|283:259,1,47.9650000731888
-24,191,87627,5,4,1:3:0:0:
-24,191,87705,2,0,L|70:179,1,47.9650000731888
-232,20,87860,5,4,1:2:0:0:
+330,248,87471,2,0,L|283:259,1,47.9650000731888,4|0,0:3|0:3,0:0:0:0:
+24,191,87627,5,6,1:3:0:0:
+24,191,87705,2,0,L|70:179,1,47.9650000731888,4|0,0:3|0:3,0:0:0:0:
+232,20,87860,5,6,1:2:0:0:
 232,20,98119,5,12,0:2:0:0:
 283,258,98274,1,0,1:2:0:0:
 258,137,98430,5,2,1:2:0:0:
@@ -1337,7 +1337,7 @@ SliderBorder : 174,84,122
 439,86,261022,5,0,1:2:0:0:
 506,226,261178,2,0,P|453:233|371:149,1,181,12|10,0:0|0:3,0:0:0:0:
 191,8,261644,5,2,0:0:0:0:
-187,26,261722,1,0,0:0:0:0:
+187,26,261722,1,2,0:0:0:0:
 184,44,261800,1,14,1:2:0:0:
 83,221,261955,1,2,0:0:0:0:
 288,149,262111,1,2,1:2:0:0:

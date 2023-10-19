@@ -18,14 +18,14 @@ GridSize: 32
 TimelineZoom: 1.892016
 
 [Metadata]
-Title:Ao to Natsu (katagiri Bootleg) -Speed Up Ver.-
-TitleUnicode:青と夏 (かたぎり Bootleg)
+Title:Ao to Natsu (katagiri Bootleg) (Sped Up Ver.)
+TitleUnicode:青と夏 (かたぎり Bootleg) (Sped Up Ver.)
 Artist:Mrs. GREEN APPLE
 ArtistUnicode:Mrs. GREEN APPLE
 Creator:apoq
 Version:Summer
-Source:
-Tags:katagiri bootleg j-core edm 240bpm jumps
+Source:青夏 きみに恋した30日
+Tags:240bpm jumps edm j-core jcore japanese core electronic remix Ao Natsu Kimi ni Koishita 30-nichi Blue Summer ALLSTARS 3
 BeatmapID:2527582
 BeatmapSetID:1211809
 
@@ -39,7 +39,7 @@ SliderTickRate:1
 
 [Events]
 //Background and Video events
-0,0,"bg67.png",0,0
+0,0,"bg67compressed.png",0,0
 //Break Periods
 2,130230,144580
 2,192230,194580

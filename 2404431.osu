@@ -31,7 +31,7 @@ BeatmapID:2404431
 BeatmapSetID:1143967
 
 [Difficulty]
-HPDrainRate:8
+HPDrainRate:7
 CircleSize:5
 OverallDifficulty:3
 ApproachRate:9

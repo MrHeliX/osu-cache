@@ -26,22 +26,22 @@ ArtistUnicode:F Λ K E S
 Creator:DeviousPanda
 Version:Kaleidoscope
 Source:
-Tags:fakes KACBR3 KawaakariCB Dictate Un3h ✿ham Lucy Will Stetson HIRAGA ☆ り starri english jazz waefwerf mir keqing iljaaz
+Tags:fakes KACBR3 KawaakariCB Dictate Un3h ✿ham Lucy Will Stetson HIRAGA ☆ り starri english pop jazz waefwerf paradogi xarr shiraya sayuki
 BeatmapID:3069381
 BeatmapSetID:1497474
 
 [Difficulty]
 HPDrainRate:5
 CircleSize:4.1
-OverallDifficulty:9
+OverallDifficulty:10
 ApproachRate:9.8
 SliderMultiplier:3.59999990463257
 SliderTickRate:1
 
 [Events]
 //Background and Video events
-0,0,"temp bg.png",0,0
 Video,0,"last_words_video.avi"
+0,0,"temp bg.jpg",0,0
 //Break Periods
 2,104720,110948
 2,142706,155240
@@ -788,8 +788,8 @@ Combo8 : 151,255,156
 0,172,96535,2,0,P|51:118|108:156,1,125.999992816925,4|2,1:3|3:2,0:0:0:0:
 92,132,96697,1,8,3:0:0:0:
 92,132,96751,2,0,P|132:107|141:71,1,62.9999964084627,0|0,1:0|0:0,0:0:0:0:
-107,15,96859,101,2,3:2:0:0:
-107,15,96967,1,4,3:0:0:0:
+116,8,96859,101,2,3:2:0:0:
+7,74,96967,1,4,3:0:0:0:
 108,221,97074,5,8,1:3:0:0:
 108,221,97128,1,4,1:3:0:0:
 108,221,97182,2,0,B|151:223|184:188|175:171|203:133|265:134,1,188.999989225388,8|0,1:0|0:0,0:0:0:0:

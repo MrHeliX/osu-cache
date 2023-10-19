@@ -1,0 +1,97 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 281
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 1.4
+
+[Metadata]
+Title:Granat
+TitleUnicode:Granat
+Artist:Drop
+ArtistUnicode:Drop
+Creator:Eriha
+Version:kagita's Kantan
+Source:
+Tags:kagitakun instrumental c85 seifuu meigetsu ryuu to honoo no monogatari dragon and flame 竜と炎の物語 清風明月 chill other orchestral
+BeatmapID:3978438
+BeatmapSetID:1926683
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:5
+OverallDifficulty:2
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"anmi.jpg",0,110
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+281,331.5649867374,3,1,0,70,1,0
+39903,-100,3,1,0,40,0,0
+
+
+[HitObjects]
+256,192,281,5,12,0:0:0:0:
+256,192,944,1,8,0:0:0:0:
+256,192,1275,1,8,0:0:0:0:
+256,192,2270,1,0,0:0:0:0:
+256,192,4259,1,8,0:0:0:0:
+256,192,4922,1,8,0:0:0:0:
+256,192,5254,1,8,0:0:0:0:
+256,192,6249,1,0,0:0:0:0:
+256,192,8238,1,4,0:0:0:0:
+256,192,9233,1,8,0:0:0:0:
+256,192,10227,1,0,0:0:0:0:
+256,192,11222,1,8,0:0:0:0:
+256,192,11885,1,2,0:0:0:0:
+256,192,12217,1,0,0:0:0:0:
+256,192,13212,1,8,0:0:0:0:
+256,192,14206,1,0,0:0:0:0:
+256,192,16196,1,4,0:0:0:0:
+256,192,17190,1,8,0:0:0:0:
+256,192,18185,1,4,0:0:0:0:
+256,192,19180,1,8,0:0:0:0:
+256,192,19843,1,0,0:0:0:0:
+256,192,20174,1,12,0:0:0:0:
+256,192,21169,1,8,0:0:0:0:
+256,192,22164,1,4,0:0:0:0:
+256,192,24153,1,0,0:0:0:0:
+256,192,25148,1,0,0:0:0:0:
+256,192,26143,1,8,0:0:0:0:
+256,192,28132,1,0,0:0:0:0:
+256,192,29127,1,8,0:0:0:0:
+256,192,30122,1,8,0:0:0:0:
+256,192,32111,1,0,0:0:0:0:
+256,192,33105,1,8,0:0:0:0:
+256,192,34100,1,0,0:0:0:0:
+256,192,35095,1,8,0:0:0:0:
+256,192,35758,1,8,0:0:0:0:
+256,192,36090,1,0,0:0:0:0:
+256,192,37084,1,8,0:0:0:0:
+256,192,38079,1,8,0:0:0:0:
+256,192,38742,1,8,0:0:0:0:
+256,192,39074,1,0,0:0:0:0:
+256,192,40068,12,0,44047,0:0:0:0:

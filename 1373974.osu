@@ -1,0 +1,89 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 8
+GridSize: 16
+TimelineZoom: 1.9
+
+[Metadata]
+Title:Silver Town
+TitleUnicode:Silver Town
+Artist:Memme
+ArtistUnicode:Memme
+Creator:BananB
+Version:9
+Source:
+Tags:
+BeatmapID:1373974
+BeatmapSetID:648584
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+2057,342.857142857143,4,2,0,100,1,0
+
+
+[HitObjects]
+64,192,2056,5,0,0:0:0:0:
+448,192,2056,1,0,0:0:0:0:
+192,192,2228,128,0,2399:0:0:0:0:
+320,192,2399,128,0,2571:0:0:0:0:
+448,192,2399,1,0,0:0:0:0:
+64,192,2571,128,0,2742:0:0:0:0:
+192,192,2571,128,0,2914:0:0:0:0:
+320,192,2742,1,0,0:0:0:0:
+448,192,2742,128,0,3085:0:0:0:0:
+64,192,2914,128,0,3085:0:0:0:0:
+320,192,3085,128,0,3428:0:0:0:0:
+64,192,3299,1,0,0:0:0:0:
+192,192,3299,1,0,0:0:0:0:
+448,192,3428,1,0,0:0:0:0:
+192,192,3599,1,0,0:0:0:0:
+448,192,3771,1,0,0:0:0:0:
+320,192,3771,1,0,0:0:0:0:
+64,192,3771,1,0,0:0:0:0:
+192,192,3942,1,0,0:0:0:0:
+320,192,4114,1,0,0:0:0:0:
+64,192,4285,128,0,4457:0:0:0:0:
+448,192,4285,128,0,4799:0:0:0:0:
+320,192,4457,128,0,4628:0:0:0:0:
+192,192,4628,128,0,4799:0:0:0:0:
+64,192,4799,128,0,4971:0:0:0:0:
+320,192,4971,128,0,5142:0:0:0:0:
+448,192,5142,128,0,5485:0:0:0:0:
+192,192,5142,128,0,5314:0:0:0:0:
+64,192,5314,128,0,5485:0:0:0:0:
+320,192,5485,128,0,5657:0:0:0:0:
+192,192,5485,128,0,5828:0:0:0:0:
+448,192,5657,128,0,5828:0:0:0:0:
+64,192,5828,128,0,6171:0:0:0:0:
+192,192,6042,1,0,0:0:0:0:
+448,192,6042,1,0,0:0:0:0:

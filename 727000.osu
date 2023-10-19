@@ -1,0 +1,66 @@
+osu file format v14
+
+[General]
+AudioFilename: nora2r - B.B.K.K.B.K.K. (Extended Mix).mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+Bookmarks: 23098,68274,113451,141686,192509,237686,282862
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:B.B.K.K.B.K.K. (Extended Mix)
+TitleUnicode:B.B.K.K.B.K.K. (Extended Mix)
+Artist:nora2r
+ArtistUnicode:nora2r
+Creator:Crystal
+Version:123123123123123123
+Source:BMS
+Tags:bof 2013 maimai YATSUZAKI HARDCORE VOLUME 4 Collaboration
+BeatmapID:727000
+BeatmapSetID:327598
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:9
+SliderMultiplier:1.8
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"123123123123123.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+510,352.941176470588,4,1,0,80,1,0
+113451,-100,4,1,0,80,0,1
+134627,-100,4,1,0,80,0,0
+237686,-100,4,1,0,80,0,1
+281451,-100,4,1,0,80,0,0
+
+
+[Colours]
+Combo1 : 0,0,255
+Combo2 : 255,0,255
+Combo3 : 0,128,192
+Combo4 : 128,64,64
+
+[HitObjects]
+256,192,510,5,0,0:0:0:0:

@@ -1,0 +1,59 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 3
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Take a hint
+TitleUnicode:Take a hint
+Artist:Nightcore
+ArtistUnicode:Nightcore
+Creator:Potato Official
+Version:
+Source:
+Tags:Nightcore
+BeatmapID:1658809
+BeatmapSetID:790577
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+-436.047031276956,500,4,1,0,100,1,0
+
+
+[HitObjects]
+189,98,177,5,0,1:1:0:0:
+256,220,730,2,0,B|304:188|305:166|286:152,4,46.6666666666667
+320,96,1763,1,0,0:0:0:0:
+269,148,2163,2,0,B|224:171|218:198|217:198,3,46.6666666666667
+320,256,3152,1,0,1:1:0:0:
+192,256,4625,1,0,1:1:0:0:

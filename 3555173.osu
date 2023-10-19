@@ -26,15 +26,15 @@ ArtistUnicode:Will Stetson
 Creator:DeviousPanda
 Version:...
 Source:
-Tags:dictate きゅうくらりん iyowa いよわ english pop kaf kaf-u kafu 花譜 かふ CeVIO AI KAMITSUBAKI STUDIO 神椿スタジオ ohm002 camo entshikkari toseethefuture enri kieg aranel len
+Tags:dictate iyowa いよわ english pop ohm002 camo entshikkari toseethefuture enri kieg ralkinson aranel len fast hotaru ohm002
 BeatmapID:3555173
 BeatmapSetID:1739478
 
 [Difficulty]
 HPDrainRate:5
 CircleSize:4.1
-OverallDifficulty:9.5
-ApproachRate:9.7
+OverallDifficulty:10
+ApproachRate:10
 SliderMultiplier:2.8
 SliderTickRate:1
 
@@ -42,7 +42,6 @@ SliderTickRate:1
 //Background and Video events
 0,0,"FO3q1UMakAMXSmB.jpg",0,0
 //Break Periods
-2,116888,117847
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
 //Storyboard Layer 2 (Pass)
@@ -406,7 +405,6 @@ SliderTickRate:1
 207572,-83.3333333333333,4,2,1,85,0,1
 208254,-125,4,2,1,85,0,1
 208390,-83.3333333333333,4,2,1,85,0,1
-210299,-62.5,4,2,1,85,0,1
 210299,-62.5,4,2,1,85,0,1
 210708,-62.5,4,2,1,85,0,1
 212345,-125,4,2,1,85,0,1
@@ -1450,10 +1448,10 @@ Combo2 : 254,211,247
 321,354,138847,6,0,L|288:282,1,48.9999985046387,2|0,1:2|0:0,0:0:0:0:
 195,104,138983,1,0,1:0:0:0:
 195,104,139051,1,0,3:0:0:0:
-195,104,139119,1,8,1:0:0:0:
+195,104,139119,1,8,1:2:0:0:
 311,161,139256,1,2,3:0:0:0:
 195,265,139392,6,0,B|132:277|168:298|97:311,1,97.9999970092774,0|2,1:0|3:0,0:0:0:0:
-4,237,139665,2,0,L|72:250,1,48.9999985046387,8|0,1:0|0:0,0:0:0:0:
+4,237,139665,2,0,L|72:250,1,48.9999985046387,8|0,1:2|0:0,0:0:0:0:
 384,294,139801,5,2,3:2:0:0:
 384,294,139869,1,2,3:2:0:0:
 384,294,139937,2,0,P|415:265|417:228,1,48.9999985046387,2|0,1:2|0:0,0:0:0:0:

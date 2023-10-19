@@ -1,0 +1,91 @@
+osu file format v14
+
+[General]
+AudioFilename: t+pazolite-Pumpin' Junkies (Kobaryo's FTN-Remix).mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.4
+BeatDivisor: 8
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Pumpin' Junkies (Kobaryo's FTN-Remix)
+TitleUnicode:Pumpin' Junkies (Kobaryo's FTN-Remix)
+Artist:t+pazolite
+ArtistUnicode:t+pazolite
+Creator:DarkKillsYou
+Version:Hell
+Source:
+Tags:tpazolite, rsi, highbpm, speedcore, remix
+BeatmapID:829296
+BeatmapSetID:378782
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"maxresdefault (1).jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,230.769230769231,4,1,0,100,1,0
+
+
+[HitObjects]
+72,192,923,5,0,0:0:0:0:
+224,48,1153,2,0,P|288:48|288:48,1,52.5
+432,192,1846,1,0,0:0:0:0:
+288,192,2076,2,0,P|224:192|224:192,1,52.5
+72,192,2769,1,0,0:0:0:0:
+224,320,2999,2,0,P|288:320|288:320,1,52.5
+432,192,3692,5,0,0:0:0:0:
+256,24,3923,1,4,0:0:0:0:
+88,192,4153,1,0,0:0:0:0:
+256,360,4355,1,2,0:0:0:0:
+256,72,4615,5,0,0:0:0:0:
+464,160,4846,2,0,P|464:224|464:224,1,52.5
+256,312,5538,1,0,0:0:0:0:
+40,224,5769,2,0,P|40:160|40:160,1,52.5
+256,48,6461,1,0,0:0:0:0:
+256,336,6692,2,0,P|256:280|256:280,1,52.5
+160,192,7384,6,0,L|96:192,1,52.5
+352,192,7615,2,0,L|416:192,1,52.5
+256,192,7846,1,0,0:0:0:0:
+256,192,8076,1,0,0:0:0:0:
+64,64,8307,5,0,0:0:0:0:
+448,64,8538,2,0,P|448:128|448:128,1,52.5
+448,320,9230,1,0,0:0:0:0:
+64,320,9461,2,0,P|64:256|64:256,1,52.5
+64,192,10153,1,0,0:0:0:0:
+448,192,10384,2,0,P|384:192|384:192,1,52.5
+96,352,11076,5,0,0:0:0:0:
+96,32,11307,1,0,0:0:0:0:
+416,32,11538,1,0,0:0:0:0:
+416,352,11769,1,0,0:0:0:0:
+256,320,12000,5,0,0:0:0:0:
+256,64,12230,2,0,P|256:128|256:128,1,52.5
+256,320,12923,1,0,0:0:0:0:
+256,64,13153,2,0,P|256:128|256:128,1,52.5
+256,192,13846,5,0,0:0:0:0:
+128,192,14307,1,0,0:0:0:0:
+384,192,14538,1,0,0:0:0:0:

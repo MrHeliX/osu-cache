@@ -24,8 +24,8 @@ Artist:EBIMAYO
 ArtistUnicode:EBIMAYO
 Creator:EmertxE
 Version:asdf
-Source:
-Tags:
+Source:BOFU2016
+Tags:DuNai NightFiend THE BMS OF FIGHTERS ULTIMATE 2016 - Legendary Again - DONKBASS GOODDONK GOODMEN Phigros Musynx Musync Muse Dash Groove Coaster AB-Sounds Goodcollection v2 electronic instrumental
 BeatmapID:2254470
 BeatmapSetID:1077335
 
@@ -39,7 +39,7 @@ SliderTickRate:1
 
 [Events]
 //Background and Video events
-0,0,"BG.jpg",0,0
+0,0,"asdf.jpg",0,0
 //Break Periods
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
@@ -66,20 +66,11 @@ SliderTickRate:1
 54675,-50,4,1,0,55,0,0
 56008,-25,4,1,0,55,0,0
 62592,-25,4,1,0,55,0,0
-63842,-25,4,1,0,55,0,1
+64008,-25,4,1,0,55,0,1
+106592,-25,4,1,0,55,0,0
 108008,-66.6666666666667,4,1,0,55,0,0
 117342,-25,4,1,0,55,0,0
 
-
-[Colours]
-Combo1 : 255,0,255
-Combo2 : 255,215,0
-Combo3 : 234,199,0
-Combo4 : 128,255,0
-Combo5 : 0,255,0
-Combo6 : 192,192,192
-Combo7 : 128,128,128
-Combo8 : 0,255,204
 
 [HitObjects]
 37,65,9,5,0,0:0:0:0:

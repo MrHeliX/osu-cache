@@ -13,7 +13,7 @@ WidescreenStoryboard: 1
 
 [Editor]
 Bookmarks: 2637,10180,11551,21837,22522,33494,36237,44465
-DistanceSpacing: 0.5
+DistanceSpacing: 1.6
 BeatDivisor: 4
 GridSize: 16
 TimelineZoom: 1.7
@@ -26,7 +26,7 @@ ArtistUnicode:DRAGON EYES
 Creator:Mildly Accurate
 Version:PaRaDogi's Extra
 Source:
-Tags:narrative paradogi -_ascended_- - ascended - lokidoki dooe -doodle power metal instrumental forsaken gods フォーセイクン・ゴッズ dragon guardian thousand eyes kouta アーサー arthur spaced streams
+Tags:narrative paradogi -ascended- -_ascended_- - ascended - lokidoki dooe -doodle power metal instrumental forsaken gods フォーセイクン・ゴッズ dragon guardian thousand eyes kouta アーサー arthur spaced streams
 BeatmapID:3055652
 BeatmapSetID:1468542
 
@@ -320,7 +320,7 @@ Combo4 : 196,229,237
 264,113,37693,1,0,1:0:0:0:
 229,153,37779,1,0,1:0:0:0:
 229,206,37865,1,0,1:0:0:0:
-199,249,37951,1,2,1:0:0:0:
+199,249,37951,1,10,1:0:0:0:
 170,253,38037,1,0,1:0:0:0:
 155,243,38122,1,0,1:0:0:0:
 152,229,38208,1,0,1:0:0:0:
@@ -391,8 +391,10 @@ Combo4 : 196,229,237
 194,321,48465,2,0,B|187:284|187:284|205:254,1,67.5000025749208,2|0,1:2|0:0,0:0:0:0:
 285,48,48828,6,0,B|272:15|272:15|111:62,1,202.500007724762,2|0,1:2|1:0,0:0:0:0:
 5,18,49555,1,10,0:0:0:0:
-232,119,49919,1,4,1:2:0:0:
-41,231,50283,6,0,B|0:267|0:267|172:229,1,202.500007724762,4|0,1:2|0:0,0:0:0:0:
+135,153,49919,1,4,1:2:0:0:
+45,214,50101,1,0,0:0:0:0:
+43,222,50192,1,0,0:0:0:0:
+41,231,50283,6,0,B|0:267|0:267|172:229,1,202.500007724762,4|0,1:2|3:0,0:0:0:0:
 314,124,51083,2,0,P|386:115|333:185,1,202.500007724762,10|0,0:0|0:0,0:0:0:0:
 78,128,51883,6,0,B|126:81|126:81|93:241,1,202.500007724762,2|0,1:2|1:0,0:0:0:0:
 174,234,52690,1,0,1:0:0:0:

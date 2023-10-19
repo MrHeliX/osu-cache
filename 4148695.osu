@@ -1,0 +1,59 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 83557
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 1074,9784,20693,38147,55602,59966,73057,83966,92693,101420,121466
+DistanceSpacing: 1
+BeatDivisor: 12
+GridSize: 16
+TimelineZoom: 2.300001
+
+[Metadata]
+Title:!nterroban(?,
+TitleUnicode:!nterroban(?,
+Artist:Aoi
+ArtistUnicode:Aoi
+Creator:Chai the Tea
+Version:hs
+Source:BOXVII
+Tags:interrobang !?
+BeatmapID:4148695
+BeatmapSetID:1886098
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:9
+ApproachRate:9.4
+SliderMultiplier:1.5
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1057,272.727272727273,4,2,2,83,1,0
+
+
+[HitObjects]
+244,72,1602,1,8,0:2:0:0:
+335,151,2693,1,8,0:2:0:0:
+335,151,3784,1,8,0:2:0:0:

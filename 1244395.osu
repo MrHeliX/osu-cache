@@ -1,0 +1,69 @@
+osu file format v14
+
+[General]
+AudioFilename: Seisuu 3 no Nijou (TV size).mp3
+AudioLeadIn: 0
+PreviewTime: 63312
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 12579,17605,27657,37710,47762,64097,74149,81689
+DistanceSpacing: 1.2
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 3.171999
+
+[Metadata]
+Title:Seisuu 3 no Nijou (TV size)
+TitleUnicode:聖数3の二乗 (TV size)
+Artist:Kanako Itou
+ArtistUnicode:いとうかなこ
+Creator:Kaneki_Uchiha
+Version:Hard
+Source:Occultic;Nine
+Tags:Occultic;Nine KanakoItou
+BeatmapID:1244395
+BeatmapSetID:583991
+
+[Difficulty]
+HPDrainRate:4
+CircleSize:3.4
+OverallDifficulty:5
+ApproachRate:6.5
+SliderMultiplier:1.39999990463257
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+Video,-50,"OcculticNine OP.avi"
+0,0,"Occultic;Nine.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+171,314.13612565445,4,2,0,50,1,0
+171,-200,4,2,0,50,0,0
+4254,-100,4,1,1,70,0,0
+5040,314.13612565445,4,1,1,70,1,0
+17605,-133.333333333333,4,1,1,70,0,0
+27657,-100,4,1,1,70,0,0
+64097,-100,4,1,1,70,0,1
+
+
+[Colours]
+Combo1 : 128,0,128
+Combo2 : 255,0,0
+Combo3 : 128,128,128
+Combo4 : 255,128,0
+Combo5 : 0,0,255
+
+[HitObjects]

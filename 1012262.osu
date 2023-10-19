@@ -1,0 +1,84 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 4.5
+BeatDivisor: 6
+GridSize: 8
+TimelineZoom: 3.299999
+
+[Metadata]
+Title:Just like that
+TitleUnicode:Just like that
+Artist:Drop the Bassline
+ArtistUnicode:Drop the Bassline
+Creator:Maytri
+Version:
+Source:
+Tags:
+BeatmapID:1012262
+BeatmapSetID:473799
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:7
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+2,6995,53911
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+5215.71662549473,379.194842950136,4,1,0,100,1,0
+
+
+[HitObjects]
+112,80,4836,5,0,0:0:0:0:
+168,208,5026,1,0,0:0:0:0:
+272,80,5405,2,0,P|352:104|360:112,1,93.3333333333333
+448,80,6100,5,0,0:0:0:0:
+408,216,6290,1,0,0:0:0:0:
+240,88,6606,2,0,P|184:136|184:144,1,70
+256,64,54511,5,0,0:0:0:0:
+184,256,54637,1,0,0:0:0:0:
+352,128,54763,1,0,0:0:0:0:
+152,128,54890,1,0,0:0:0:0:
+352,248,55016,1,0,0:0:0:0:
+256,64,55143,1,0,0:0:0:0:
+184,256,55269,1,0,0:0:0:0:
+352,128,55395,1,0,0:0:0:0:
+152,128,55522,1,0,0:0:0:0:
+352,248,55648,1,0,0:0:0:0:
+256,64,55775,1,0,0:0:0:0:
+464,64,55901,1,0,0:0:0:0:
+144,80,57671,5,0,0:0:0:0:
+176,112,57702,1,0,0:0:0:0:
+176,112,57710,1,0,0:0:0:0:
+176,112,57781,1,0,0:0:0:0:
+176,112,57797,1,0,0:0:0:0:
+176,112,57805,1,0,0:0:0:0:
+176,112,57829,1,0,0:0:0:0:
+176,112,57852,1,0,0:0:0:0:
+176,112,58555,1,0,0:0:0:0:
+176,112,58682,1,0,0:0:0:0:
+176,112,58808,1,0,0:0:0:0:
+176,112,58934,1,0,0:0:0:0:

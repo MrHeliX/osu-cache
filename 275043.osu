@@ -9,6 +9,7 @@ SampleSet: Soft
 StackLeniency: 0.3
 Mode: 0
 LetterboxInBreaks: 0
+WidescreenStoryboard: 0
 
 [Editor]
 Bookmarks: 17033,33167,49302,65436,83588,103756
@@ -20,7 +21,7 @@ GridSize: 4
 Title:Kokoro No Tane (Short Ver.)
 TitleUnicode:こころの種 (Short Ver.)
 Artist:Duca
-ArtistUnicode:ドゥーカ
+ArtistUnicode:Duca
 Creator:Gero
 Version:Hard
 Source:Cafe Sourire
