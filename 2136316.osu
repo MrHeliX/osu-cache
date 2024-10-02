@@ -1,0 +1,101 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 98624
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 52636,67520,82403,203092,217976,232859,247743
+DistanceSpacing: 0.5
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 2.599999
+
+[Metadata]
+Title:Goodbye
+TitleUnicode:Goodbye
+Artist:BLANKFIELD
+ArtistUnicode:BLANKFIELD
+Creator:Leshirus
+Version:Genocide
+Source:Undertale
+Tags:
+BeatmapID:2136316
+BeatmapSetID:1021044
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:9.5
+ApproachRate:9.8
+SliderMultiplier:2
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"29.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+562,574.162679425837,4,2,0,30,1,0
+21957,451.127819548872,4,1,0,50,1,0
+22869,232.558139534884,4,1,1,100,1,0
+30310,-100,4,1,1,100,0,1
+36822,-100,4,1,1,100,0,0
+45194,-100,4,1,1,100,0,1
+51706,-100,4,1,1,100,0,0
+67520,-100,4,1,1,100,0,1
+74729,-100,4,1,1,100,0,0
+74962,-100,4,1,1,100,0,1
+82403,-100,4,2,1,100,0,0
+89845,-100,4,1,1,100,0,1
+97287,-100,4,1,1,100,0,0
+104962,232.558139534884,4,1,1,100,1,1
+104962,-100,4,1,1,100,0,1
+117985,-100,4,1,1,100,0,0
+120078,582.52427184466,4,2,1,30,1,0
+128233,500,4,1,1,40,1,0
+129222,500,4,1,1,40,1,0
+137196,230.769230769231,4,1,1,100,1,0
+161196,230.769230769231,6,1,1,100,1,0
+172272,526.315789473684,4,1,1,20,1,0
+173321,232.558139534884,4,1,1,100,1,0
+180762,-100,4,1,1,100,0,1
+187274,-100,4,1,1,100,0,0
+195646,-100,4,1,1,100,0,1
+202623,-100,4,1,1,100,0,0
+217972,-100,4,1,1,100,0,1
+225181,-100,4,1,1,100,0,0
+225414,-100,4,1,1,100,0,1
+232855,-100,4,2,1,100,0,0
+240297,-100,4,1,1,100,0,1
+247739,-100,4,1,1,100,0,0
+255414,232.558139534884,4,1,1,100,1,0
+256344,-76.9230769230769,4,1,1,100,0,1
+269371,454.545454545455,4,1,1,70,1,0
+269427,-100,4,1,0,50,0,0
+271186,563.380281690141,4,2,0,30,1,0
+273453,568.181818181818,4,2,0,30,1,0
+
+
+[Colours]
+Combo1 : 215,218,73
+Combo2 : 85,192,58
+Combo3 : 60,148,255
+Combo4 : 255,45,50
+
+[HitObjects]
+256,192,562,5,0,0:0:0:0:

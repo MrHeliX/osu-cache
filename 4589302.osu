@@ -1,0 +1,104 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.ogg
+AudioLeadIn: 0
+PreviewTime: 1817
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 16530,30568
+DistanceSpacing: 0.1
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Kamisama no Me o Nusunde (Extended Edit)
+TitleUnicode:神様の目を盗んで (Extended Edit)
+Artist:shikiura sougo
+ArtistUnicode:式浦躁吾
+Creator:Ryxliee
+Version:Kantan
+Source:
+Tags:japanese pop j-pop jpop vocaloid utau カゼヒキ kazehiki shikiura. 式浦。 罒
+BeatmapID:4589302
+BeatmapSetID:2173840
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:2
+OverallDifficulty:3
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"image.png",0,-20
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+233,452.830188679245,4,1,0,70,1,0
+2044,452.830188679245,4,1,0,100,1,1
+2044,-100,4,1,0,100,0,1
+9289,-100,4,1,0,100,0,0
+9742,-100,4,1,0,100,0,1
+16534,-100,4,1,0,85,0,0
+
+
+[HitObjects]
+256,192,233,5,0,0:0:0:0:
+256,192,685,1,8,0:0:0:0:
+256,192,2044,1,12,0:0:0:0:
+256,192,2496,1,0,0:0:0:0:
+256,192,2949,1,0,0:0:0:0:
+256,192,3402,1,8,0:0:0:0:
+256,192,3855,1,0,0:0:0:0:
+256,192,4534,1,8,0:0:0:0:
+256,192,5666,1,8,0:0:0:0:
+256,192,6119,1,8,0:0:0:0:
+256,192,6572,1,0,0:0:0:0:
+256,192,7477,1,0,0:0:0:0:
+256,192,8383,1,8,0:0:0:0:
+256,192,9742,1,12,0:0:0:0:
+256,192,10194,1,0,0:0:0:0:
+256,192,10647,1,8,0:0:0:0:
+256,192,11100,1,0,0:0:0:0:
+256,192,12006,1,8,0:0:0:0:
+256,192,12911,1,0,0:0:0:0:
+256,192,13364,1,8,0:0:0:0:
+256,192,13817,1,0,0:0:0:0:
+256,192,14723,1,0,0:0:0:0:
+256,192,15176,1,0,0:0:0:0:
+256,192,15628,1,8,0:0:0:0:
+256,192,16534,1,4,0:0:0:0:
+256,192,17893,1,8,0:0:0:0:
+256,192,18798,1,0,0:0:0:0:
+256,192,19251,1,0,0:0:0:0:
+256,192,20157,1,0,0:0:0:0:
+256,192,20610,1,8,0:0:0:0:
+256,192,21515,1,8,0:0:0:0:
+256,192,22421,1,0,0:0:0:0:
+256,192,22874,1,8,0:0:0:0:
+256,192,23779,1,0,0:0:0:0:
+256,192,25138,1,8,0:0:0:0:
+256,192,26043,1,0,0:0:0:0:
+256,192,26496,1,0,0:0:0:0:
+256,192,27402,1,0,0:0:0:0:
+256,192,27855,1,8,0:0:0:0:
+256,192,28760,1,8,0:0:0:0:
+256,192,29666,1,0,0:0:0:0:
+256,192,30119,1,8,0:0:0:0:
+256,192,30572,1,8,0:0:0:0:

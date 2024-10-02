@@ -1,0 +1,75 @@
+osu file format v14
+
+[General]
+AudioFilename: BTS () -  (Sick) (Audio).mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+StoryFireInFront: 0
+EpilepsyWarning: 1
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 16
+GridSize: 32
+TimelineZoom: 0.6999999
+
+[Metadata]
+Title:Dope
+TitleUnicode:Dope
+Artist:BTS
+ArtistUnicode:BTS
+Creator:Chanttelle
+Version:Easy
+Source:
+Tags:
+BeatmapID:880256
+BeatmapSetID:404549
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:3
+OverallDifficulty:3
+ApproachRate:5
+SliderMultiplier:2
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"btsnigga.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+34020,769.230769230769,4,1,0,100,1,0
+34020,-66.6666666666667,4,1,0,100,0,1
+34020,-66.6666666666667,4,1,0,100,0,1
+34183,769.230769230769,4,1,0,100,1,0
+34183,769.230769230769,4,1,0,100,1,0
+34279,769.230769230769,4,1,2,100,1,0
+34300,769.230769230769,4,1,2,100,1,0
+34335.5384615385,769.230769230769,4,1,0,100,1,0
+34363,769.230769230769,4,1,0,100,1,0
+35678,769.230769230769,4,1,0,100,1,0
+
+
+[HitObjects]
+233,183,462,5,0,0:0:0:0:
+364,267,894,1,0,0:0:0:0:
+238,293,1231,1,0,0:0:0:0:
+382,277,2385,1,0,0:0:0:0:
+253,218,2721,5,0,0:0:0:0:
+379,143,3106,1,0,0:0:0:0:
+447,258,3635,1,0,0:0:0:0:
+111,206,4981,2,0,P|294:201|302:204,1,187.5
+105,91,6135,2,0,L|411:107,2,300
+334,240,8779,2,0,B|335:268|335:268|378:272|379:272|314:280|314:280|350:295|351:295|356:293|389:251|400:221|461:206|462:237|432:263|431:263|428:273|435:273|436:273|501:355|501:355|506:354|506:355,1,387.5

@@ -1,0 +1,80 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Puzno
+TitleUnicode:Puzno
+Artist:SzakaleK
+ArtistUnicode:SzakaleK
+Creator:Elinea
+Version:easy (wip)
+Source:
+Tags:
+BeatmapID:2185987
+BeatmapSetID:1045279
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:3
+OverallDifficulty:4
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"ić jurz spac.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+9511,468.75,4,1,0,100,1,0
+24511,-66.6666666666667,4,1,0,100,0,1
+37636,-100,4,1,0,100,0,0
+39511,-66.6666666666667,4,1,0,100,0,1
+39611,-66.6666666666667,4,1,0,100,0,0
+
+
+[HitObjects]
+257,190,8573,5,0,0:0:0:0:
+257,190,9042,1,0,0:0:0:0:
+324,62,9511,6,0,L|417:175,1,140
+272,174,10448,1,0,0:0:0:0:
+364,279,10917,1,0,0:0:0:0:
+223,280,11386,2,0,L|125:138,1,140
+244,67,12323,2,0,L|330:191,1,140
+186,150,13261,5,0,0:0:0:0:
+257,270,13729,1,0,0:0:0:0:
+328,149,14198,1,0,0:0:0:0:
+394,272,14667,1,0,0:0:0:0:
+472,156,15136,2,0,L|380:46,3,140
+308,167,17011,6,0,L|166:167,1,140
+212,299,17948,2,0,L|360:299,1,140
+265,188,18886,1,0,0:0:0:0:
+391,127,19354,1,0,0:0:0:0:
+261,73,19823,1,0,0:0:0:0:
+394,30,20292,2,0,L|443:174,1,140
+308,112,21229,5,0,0:0:0:0:
+223,223,21698,2,0,L|171:160,3,70
+308,221,22870,2,0,L|370:161,2,70

@@ -1,0 +1,66 @@
+osu file format v10
+
+[General]
+AudioFilename: Nightcore - Wish You Were Here.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 16
+GridSize: 8
+
+[Metadata]
+Title:Wish You Were Here (Nightcore Mix)
+TitleUnicode:Wish You Were Here (Nightcore Mix)
+Artist:Avril Lavigne
+ArtistUnicode:Avril Lavigne
+Creator:W a r g
+Version:Insane
+Source:
+Tags:
+BeatmapID:196813
+BeatmapSetID:67740
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:2
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"avril_lavigne_wish_u_were_here_by_jowishwuzhere2-d4auc1u.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+1493,579.150579150579,4,1,0,100,1,0
+
+
+[HitObjects]
+200,136,6126,5,0,0:0:0
+312,136,6270,1,0,0:0:0
+312,248,6415,1,0,0:0:0
+200,248,6560,1,0,0:0:0
+256,136,6705,1,0,0:0:0
+312,192,6850,1,0,0:0:0
+256,248,6994,1,0,0:0:0
+200,184,7139,1,0,0:0:0
+256,192,7718,5,8,0:0:0
+256,192,7791,1,8,0:0:0
+256,192,7863,1,8,0:0:0
+176,96,10144,1,0,0:0:0

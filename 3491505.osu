@@ -1,0 +1,509 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 54375
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 15191,26620,39681,54375
+DistanceSpacing: 0.4
+BeatDivisor: 16
+GridSize: 32
+TimelineZoom: 1.6
+
+[Metadata]
+Title:This game (TV Size)
+TitleUnicode:This game (TV Size)
+Artist:Suzuki Konomi
+ArtistUnicode:鈴木このみ
+Creator:Syadow-
+Version:Ex-Machina // 4K Easy
+Source:ノーゲーム・ノーライフ
+Tags:no game no life ngnl konomin anime japanese short version rock j-rock jrock 空白 kūhaku kuhaku kuuhaku blank 初瀬いずな izuna hatsuse 空 sora 白 shiro female vocals vocalist j-pop jpop j pop A04360436 amiichii suzumeayase mirsaaa
+BeatmapID:3491505
+BeatmapSetID:1708692
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"shi.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,7028,0,"Crash medium.wav",55
+Sample,7640,0,"Crash high.wav",55
+Sample,8253,0,"Snare.wav",70
+Sample,8457,0,"Hi-Hat open.wav",50
+Sample,8661,0,"Crash medium.wav",55
+Sample,9273,0,"Crash high.wav",55
+Sample,9885,0,"Snare.wav",70
+Sample,10089,0,"Hi-Hat open.wav",50
+Sample,10293,0,"Crash medium.wav",55
+Sample,10906,0,"Crash high.wav",55
+Sample,11518,0,"Snare.wav",70
+Sample,11722,0,"Hi-Hat open.wav",50
+Sample,11926,0,"Hi-Hat open.wav",50
+Sample,12232,0,"Snare.wav",70
+Sample,12232,0,"Hi-Hat open.wav",50
+Sample,12538,0,"Snare.wav",70
+Sample,12538,0,"Hi-Hat open.wav",50
+Sample,14171,0,"Crash high.wav",55
+Sample,14783,0,"Hi-Hat open.wav",50
+Sample,15600,0,"Hi-Hat open.wav",50
+Sample,16416,0,"Hi-Hat open.wav",50
+Sample,16824,0,"Hi-Hat open.wav",50
+Sample,17232,0,"Hi-Hat open.wav",50
+Sample,18049,0,"Hi-Hat open.wav",50
+Sample,18457,0,"Hi-Hat open.wav",50
+Sample,19069,0,"Hi-Hat open.wav",50
+Sample,20497,0,"Hi-Hat open.wav",50
+Sample,21314,0,"Hi-Hat open.wav",50
+Sample,22130,0,"Hi-Hat open.wav",50
+Sample,22946,0,"Hi-Hat open.wav",50
+Sample,23355,0,"Hi-Hat open.wav",50
+Sample,23763,0,"Hi-Hat open.wav",50
+Sample,24579,0,"Hi-Hat open.wav",50
+Sample,24987,0,"Snare.wav",70
+Sample,24987,0,"Hi-Hat open.wav",50
+Sample,25293,0,"Snare.wav",70
+Sample,25293,0,"Hi-Hat open.wav",50
+Sample,25600,0,"Snare.wav",70
+Sample,25600,0,"Hi-Hat open.wav",50
+Sample,25906,0,"Hi-Hat open.wav",50
+Sample,26212,0,"Tom3.wav",65
+Sample,26620,0,"Crash medium.wav",55
+Sample,27334,0,"Hi-Hat open.wav",50
+Sample,27640,0,"Hi-Hat open.wav",50
+Sample,28253,0,"Ride.wav",65
+Sample,28967,0,"Ride.wav",65
+Sample,29273,0,"Ride.wav",65
+Sample,29477,0,"Crash high.wav",55
+Sample,30600,0,"Hi-Hat open.wav",50
+Sample,30906,0,"Hi-Hat open.wav",50
+Sample,31518,0,"Hi-Hat open.wav",50
+Sample,31518,0,"Snare.wav",70
+Sample,31824,0,"Hi-Hat open.wav",50
+Sample,31824,0,"Snare.wav",70
+Sample,32130,0,"Crash high.wav",55
+Sample,32436,0,"Crash medium.wav",55
+Sample,33865,0,"Hi-Hat open.wav",50
+Sample,34171,0,"Hi-Hat open.wav",50
+Sample,34783,0,"Ride.wav",65
+Sample,35497,0,"Ride.wav",65
+Sample,35804,0,"Ride.wav",65
+Sample,36008,0,"Crash high.wav",55
+Sample,37130,0,"Hi-Hat open.wav",50
+Sample,37436,0,"Hi-Hat open.wav",50
+Sample,38049,0,"Hi-Hat open.wav",50
+Sample,38049,0,"Snare.wav",70
+Sample,38355,0,"Hi-Hat open.wav",50
+Sample,38355,0,"Snare.wav",70
+Sample,38661,0,"Hi-Hat open.wav",50
+Sample,38661,0,"Snare.wav",70
+Sample,39273,0,"Crash medium.wav",55
+Sample,40497,0,"Hi-Hat open.wav",50
+Sample,40804,0,"Hi-Hat open.wav",50
+Sample,41110,0,"Hi-Hat open.wav",50
+Sample,41314,0,"Hi-Hat open.wav",50
+Sample,42130,0,"Snare.wav",70
+Sample,43763,0,"Hi-Hat open.wav",50
+Sample,43763,0,"Snare.wav",70
+Sample,44579,0,"Tom3.wav",65
+Sample,44579,0,"Snare.wav",70
+Sample,46212,0,"Hi-Hat open.wav",50
+Sample,46212,0,"Snare.wav",70
+Sample,46518,0,"Hi-Hat open.wav",50
+Sample,46518,0,"Snare.wav",70
+Sample,46824,0,"Hi-Hat open.wav",50
+Sample,46824,0,"Snare.wav",70
+Sample,47844,0,"Crash high.wav",55
+Sample,47844,0,"Snare.wav",70
+Sample,48151,0,"Crash medium.wav",55
+Sample,48151,0,"Snare.wav",70
+Sample,48457,0,"Crash high.wav",55
+Sample,48457,0,"Snare.wav",70
+Sample,49477,0,"Crash high.wav",55
+Sample,49885,0,"Snare.wav",70
+Sample,50089,0,"Crash medium.wav",55
+Sample,50702,0,"Snare.wav",70
+Sample,50702,0,"Crash high.wav",55
+Sample,51110,0,"Hi-Hat open.wav",50
+Sample,51416,0,"Hi-Hat open.wav",50
+Sample,51926,0,"Hi-Hat open.wav",50
+Sample,52334,0,"Hi-Hat pedal.wav",50
+Sample,52742,0,"Snare.wav",70
+Sample,52742,0,"Hi-Hat open.wav",50
+Sample,53049,0,"Snare.wav",70
+Sample,53049,0,"Hi-Hat open.wav",50
+Sample,53355,0,"Snare.wav",70
+Sample,53355,0,"Hi-Hat open.wav",50
+Sample,53967,0,"Tom3.wav",65
+Sample,54375,0,"Crash medium.wav",55
+Sample,54783,0,"Snare.wav",70
+Sample,55191,0,"Hi-Hat pedal.wav",50
+Sample,55600,0,"Snare.wav",70
+Sample,55600,0,"Hi-Hat pedal.wav",50
+Sample,56008,0,"Hi-Hat pedal.wav",50
+Sample,56416,0,"Hi-Hat pedal.wav",50
+Sample,56416,0,"Snare.wav",70
+Sample,56824,0,"Hi-Hat pedal.wav",50
+Sample,57232,0,"Snare.wav",70
+Sample,57232,0,"Hi-Hat pedal.wav",50
+Sample,57640,0,"Hi-Hat pedal.wav",50
+Sample,58049,0,"Hi-Hat pedal.wav",50
+Sample,58049,0,"Snare.wav",70
+Sample,58457,0,"Hi-Hat pedal.wav",50
+Sample,58865,0,"Snare.wav",70
+Sample,58865,0,"Hi-Hat pedal.wav",50
+Sample,59273,0,"Hi-Hat pedal.wav",50
+Sample,59681,0,"Hi-Hat pedal.wav",50
+Sample,59681,0,"Snare.wav",70
+Sample,60089,0,"Hi-Hat pedal.wav",50
+Sample,60497,0,"Snare.wav",70
+Sample,60497,0,"Hi-Hat pedal.wav",50
+Sample,61314,0,"Snare.wav",70
+Sample,61314,0,"Hi-Hat pedal.wav",50
+Sample,61722,0,"Hi-Hat pedal.wav",50
+Sample,62130,0,"Hi-Hat pedal.wav",50
+Sample,62130,0,"Snare.wav",70
+Sample,62538,0,"Hi-Hat pedal.wav",50
+Sample,62946,0,"Snare.wav",70
+Sample,62946,0,"Hi-Hat pedal.wav",50
+Sample,63355,0,"Hi-Hat pedal.wav",50
+Sample,63763,0,"Hi-Hat pedal.wav",50
+Sample,63763,0,"Snare.wav",70
+Sample,64171,0,"Crash medium.wav",55
+Sample,64171,0,"Snare.wav",70
+Sample,64171,0,"Hi-Hat pedal.wav",50
+Sample,64477,0,"Tom3.wav",65
+Sample,64783,0,"Tom1.wav",65
+Sample,64987,0,"Snare.wav",70
+Sample,64987,0,"Crash high.wav",55
+Sample,65600,0,"Tom2.wav",65
+Sample,65804,0,"Crash high.wav",55
+Sample,72946,0,"Hi-Hat open.wav",50
+Sample,73967,0,"Crash medium.wav",55
+Sample,74375,0,"Hi-Hat open.wav",50
+Sample,74783,0,"Hi-Hat open.wav",50
+Sample,75191,0,"Hi-Hat open.wav",50
+Sample,75600,0,"Hi-Hat open.wav",50
+Sample,76008,0,"Hi-Hat open.wav",50
+Sample,76824,0,"Hi-Hat open.wav",50
+Sample,77640,0,"Hi-Hat open.wav",50
+Sample,78049,0,"Hi-Hat open.wav",50
+Sample,78457,0,"Hi-Hat open.wav",50
+Sample,78865,0,"Hi-Hat open.wav",50
+Sample,79273,0,"Crash medium.wav",55
+Sample,79681,0,"Snare.wav",70
+Sample,79681,0,"Crash high.wav",55
+Sample,80906,0,"Hi-Hat open.wav",50
+Sample,81314,0,"Hi-Hat open.wav",50
+Sample,81722,0,"Hi-Hat open.wav",50
+Sample,82130,0,"Hi-Hat open.wav",50
+Sample,83763,0,"Crash medium.wav",55
+Sample,84069,0,"Crash high.wav",55
+Sample,84375,0,"Crash medium.wav",55
+Sample,84681,0,"Crash high.wav",55
+Sample,84987,0,"Crash medium.wav",55
+Sample,85395,0,"Crash medium.wav",55
+Sample,87028,0,"Hi-Hat open.wav",50
+
+[TimingPoints]
+498,408.163265306122,4,2,1,50,1,0
+54375,-100,4,2,1,50,0,1
+64171,-100,4,2,1,50,0,0
+67436,-100,4,2,1,50,0,1
+73967,-100,4,2,1,50,0,0
+
+
+[HitObjects]
+448,192,498,128,0,1110:0:0:0:0:
+64,192,1110,1,0,0:0:0:0:
+192,192,1518,128,0,2130:0:0:0:0:
+320,192,2130,128,0,2742:0:0:0:0:
+192,192,2742,1,0,0:0:0:0:
+64,192,3151,128,0,3763:0:0:0:0:
+448,192,3763,128,0,4375:0:0:0:0:
+320,192,4375,1,0,0:0:0:0:
+192,192,4783,128,0,5395:0:0:0:0:
+64,192,5395,128,0,6008:0:0:0:0:
+448,192,6008,1,0,0:0:0:0:
+320,192,6416,128,0,7028:0:0:0:0:
+64,192,7028,1,0,0:0:0:65:Kick.wav
+448,192,7028,1,0,0:0:0:70:Snare.wav
+192,192,7334,1,0,0:0:0:70:Snare.wav
+320,192,7640,1,0,0:0:0:70:Snare.wav
+448,192,8049,1,0,0:0:0:50:Hi-Hat open.wav
+64,192,8253,1,0,0:0:0:65:Kick.wav
+448,192,8457,1,0,0:0:0:70:Snare.wav
+64,192,8661,1,0,0:0:0:65:Kick.wav
+192,192,8661,1,0,0:0:0:70:Snare.wav
+320,192,8967,1,0,0:0:0:70:Snare.wav
+448,192,9273,1,0,0:0:0:70:Snare.wav
+192,192,9681,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,9885,1,0,0:0:0:65:Kick.wav
+192,192,10089,1,0,0:0:0:70:Snare.wav
+64,192,10293,1,0,0:0:0:65:Kick.wav
+448,192,10293,1,0,0:0:0:70:Snare.wav
+320,192,10600,1,0,0:0:0:70:Snare.wav
+192,192,10906,1,0,0:0:0:70:Snare.wav
+64,192,11314,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,11518,1,0,0:0:0:65:Kick.wav
+64,192,11722,1,0,0:0:0:70:Snare.wav
+320,192,11926,1,0,0:0:0:65:Kick.wav
+448,192,11926,1,0,0:0:0:70:Snare.wav
+320,192,12232,1,0,0:0:0:65:Kick.wav
+64,192,12538,1,0,0:0:0:65:Kick.wav
+192,192,12946,1,0,0:0:0:70:Snare.wav
+448,192,13151,128,0,13559:0:0:0:65:Tom3.wav
+64,192,14171,128,0,14783:0:0:0:65:Kick.wav
+320,192,14783,1,0,0:0:0:70:Snare.wav
+192,192,14987,1,0,0:0:0:70:Snare.wav
+64,192,15191,1,0,0:0:0:65:Kick.wav
+448,192,15191,1,0,0:0:0:55:Crash medium.wav
+320,192,15600,1,0,0:0:0:70:Snare.wav
+64,192,16008,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,16416,1,0,0:0:0:70:Snare.wav
+448,192,16824,1,0,0:0:0:65:Kick.wav
+320,192,17232,1,0,0:0:0:70:Snare.wav
+192,192,17640,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,18049,1,0,0:0:0:70:Snare.wav
+64,192,18457,1,0,0:0:0:65:Kick.wav
+192,192,18763,1,0,0:0:0:65:Kick.wav
+448,192,18763,1,0,0:0:0:55:Crash medium.wav
+320,192,19069,128,0,19477:0:0:0:65:Kick.wav
+192,192,19477,1,0,0:0:0:65:Tom1.wav
+64,192,19681,128,0,20089:0:0:0:65:Tom2.wav
+320,192,20089,1,0,0:0:0:65:Kick.wav
+448,192,20089,1,0,0:0:0:55:Crash high.wav
+192,192,20497,1,0,0:0:0:70:Snare.wav
+320,192,20906,1,0,0:0:0:50:Hi-Hat open.wav
+448,192,21314,1,0,0:0:0:70:Snare.wav
+64,192,21722,1,0,0:0:0:65:Kick.wav
+192,192,21722,1,0,0:0:0:55:Crash medium.wav
+320,192,22130,1,0,0:0:0:70:Snare.wav
+64,192,22538,1,0,0:0:0:50:Hi-Hat open.wav
+192,192,22946,1,0,0:0:0:70:Snare.wav
+448,192,23355,1,0,0:0:0:65:Kick.wav
+320,192,23763,1,0,0:0:0:70:Snare.wav
+192,192,24171,1,0,0:0:0:50:Hi-Hat open.wav
+320,192,24579,1,0,0:0:0:70:Snare.wav
+64,192,24987,1,0,0:0:0:65:Kick.wav
+448,192,25293,1,0,0:0:0:65:Kick.wav
+64,192,25600,1,0,0:0:0:65:Kick.wav
+448,192,25906,1,0,0:0:0:65:Kick.wav
+192,192,26212,128,0,26620:0:0:0:70:Snare.wav
+64,192,26620,1,0,0:0:0:65:Kick.wav
+448,192,26620,1,0,0:0:0:55:Crash high.wav
+320,192,27028,1,0,0:0:0:70:Snare.wav
+192,192,27334,1,0,0:0:0:65:Kick.wav
+320,192,27640,1,0,0:0:0:65:Kick.wav
+64,192,27844,128,0,28253:0:0:0:70:Snare.wav
+448,192,28253,1,0,0:0:0:65:Kick.wav
+192,192,28661,1,0,0:0:0:70:Snare.wav
+448,192,28967,1,0,0:0:0:65:Kick.wav
+192,192,29273,1,0,0:0:0:65:Kick.wav
+320,192,29477,128,0,29885:0:0:0:70:Snare.wav
+64,192,29885,1,0,0:0:0:65:Kick.wav
+448,192,29885,1,0,0:0:0:55:Crash high.wav
+320,192,30293,1,0,0:0:0:70:Snare.wav
+192,192,30600,1,0,0:0:0:65:Kick.wav
+320,192,30906,1,0,0:0:0:65:Kick.wav
+64,192,31110,1,0,0:0:0:70:Snare.wav
+448,192,31314,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,31518,1,0,0:0:0:65:Kick.wav
+320,192,31824,1,0,0:0:0:65:Kick.wav
+64,192,32130,1,0,0:0:0:65:Kick.wav
+192,192,32130,1,0,0:0:0:70:Snare.wav
+448,192,32436,1,0,0:0:0:70:Snare.wav
+64,192,32742,1,0,0:0:0:70:Snare.wav
+192,192,32946,1,0,0:0:0:65:Tom3.wav
+320,192,33151,1,0,0:0:0:65:Kick.wav
+448,192,33151,1,0,0:0:0:55:Crash high.wav
+64,192,33559,1,0,0:0:0:70:Snare.wav
+320,192,33865,1,0,0:0:0:65:Kick.wav
+64,192,34171,1,0,0:0:0:65:Kick.wav
+448,192,34375,128,0,34783:0:0:0:70:Snare.wav
+320,192,34783,1,0,0:0:0:65:Kick.wav
+192,192,35191,1,0,0:0:0:70:Snare.wav
+448,192,35497,1,0,0:0:0:65:Kick.wav
+192,192,35804,1,0,0:0:0:65:Kick.wav
+320,192,36008,128,0,36416:0:0:0:70:Snare.wav
+64,192,36416,1,0,0:0:0:65:Kick.wav
+448,192,36416,1,0,0:0:0:55:Crash high.wav
+320,192,36824,1,0,0:0:0:70:Snare.wav
+192,192,37130,1,0,0:0:0:65:Kick.wav
+320,192,37436,1,0,0:0:0:65:Kick.wav
+64,192,37640,1,0,0:0:0:70:Snare.wav
+448,192,37844,1,0,0:0:0:50:Hi-Hat close.wav
+192,192,38049,1,0,0:0:0:65:Kick.wav
+320,192,38355,1,0,0:0:0:65:Kick.wav
+192,192,38661,1,0,0:0:0:65:Kick.wav
+448,192,38865,128,0,39273:0:0:0:70:Snare.wav
+64,192,39273,128,0,39681:0:0:0:65:Kick.wav
+192,192,39681,1,0,0:0:0:65:Kick.wav
+448,192,39681,1,0,0:0:0:55:Crash high.wav
+320,192,40497,1,0,0:0:0:70:Snare.wav
+192,192,40804,1,0,0:0:0:65:Kick.wav
+320,192,41110,1,0,0:0:0:65:Kick.wav
+64,192,41314,1,0,0:0:0:65:Kick.wav
+448,192,41926,1,0,0:0:0:70:Snare.wav
+192,192,42130,1,0,0:0:0:65:Kick.wav
+320,192,42538,1,0,0:0:0:65:Tom3.wav
+64,192,42946,1,0,0:0:0:65:Kick.wav
+448,192,42946,1,0,0:0:0:55:Crash high.wav
+192,192,43559,1,0,0:0:0:65:Tom3.wav
+320,192,43763,1,0,0:0:0:65:Kick.wav
+64,192,44069,1,0,0:0:0:65:Tom1.wav
+320,192,44375,1,0,0:0:0:65:Tom3.wav
+192,192,44579,128,0,44987:0:0:0:65:Kick.wav
+320,192,44987,128,0,45395:0:0:0:0:
+448,192,45395,1,0,0:0:0:70:Snare.wav
+64,192,45702,1,0,0:0:0:70:Snare.wav
+448,192,46008,1,0,0:0:0:70:Tom1.wav
+192,192,46212,1,0,0:0:0:65:Kick.wav
+320,192,46518,1,0,0:0:0:65:Kick.wav
+192,192,46824,1,0,0:0:0:65:Kick.wav
+448,192,47028,128,0,47436:0:0:0:0:
+64,192,47436,128,0,47844:0:0:0:0:
+320,192,47844,1,0,0:0:0:65:Kick.wav
+192,192,48151,1,0,0:0:0:65:Kick.wav
+320,192,48457,1,0,0:0:0:65:Kick.wav
+448,192,48661,128,0,49069:0:0:0:70:Snare.wav
+64,192,49069,1,0,0:0:0:70:Snare.wav
+64,192,49477,1,0,0:0:0:65:Kick.wav
+448,192,49477,1,0,0:0:0:70:Snare.wav
+192,192,49885,1,0,0:0:0:65:Kick.wav
+320,192,50089,1,0,0:0:0:70:Snare.wav
+64,192,50497,1,0,0:0:0:70:Snare.wav
+320,192,50702,1,0,0:0:0:65:Kick.wav
+192,192,51110,1,0,0:0:0:65:Kick.wav
+448,192,51416,1,0,0:0:0:65:Kick.wav
+192,192,51722,1,0,0:0:0:70:Snare.wav
+320,192,51926,128,0,52334:0:0:0:65:Kick.wav
+64,192,52334,128,0,52742:0:0:0:70:Snare.wav
+448,192,52742,1,0,0:0:0:65:Kick.wav
+192,192,53049,1,0,0:0:0:65:Kick.wav
+448,192,53355,1,0,0:0:0:65:Kick.wav
+64,192,53763,1,0,0:0:0:65:Kick.wav
+320,192,53967,128,0,54375:0:0:0:70:Snare.wav
+64,192,54375,1,0,0:0:0:65:Kick.wav
+448,192,54375,1,0,0:0:0:55:Crash high.wav
+192,192,54783,1,0,0:0:0:65:Kick.wav
+320,192,55191,1,0,0:0:0:65:Kick.wav
+448,192,55600,1,0,0:0:0:65:Kick.wav
+192,192,56008,1,0,0:0:0:65:Kick.wav
+64,192,56416,1,0,0:0:0:65:Kick.wav
+448,192,56824,1,0,0:0:0:65:Kick.wav
+320,192,57232,1,0,0:0:0:65:Kick.wav
+192,192,57640,1,0,0:0:0:65:Kick.wav
+448,192,58049,1,0,0:0:0:65:Kick.wav
+64,192,58457,1,0,0:0:0:65:Kick.wav
+320,192,58865,1,0,0:0:0:65:Kick.wav
+192,192,59273,1,0,0:0:0:65:Kick.wav
+448,192,59681,1,0,0:0:0:65:Kick.wav
+320,192,60089,1,0,0:0:0:65:Kick.wav
+64,192,60497,1,0,0:0:0:65:Kick.wav
+192,192,60702,1,0,0:0:0:70:Snare.wav
+320,192,60906,1,0,0:0:0:65:Kick.wav
+448,192,60906,1,0,0:0:0:55:Crash high.wav
+64,192,61314,1,0,0:0:0:65:Kick.wav
+448,192,61722,1,0,0:0:0:65:Kick.wav
+320,192,62130,1,0,0:0:0:65:Kick.wav
+64,192,62538,1,0,0:0:0:65:Kick.wav
+192,192,62946,1,0,0:0:0:65:Kick.wav
+320,192,63355,1,0,0:0:0:65:Kick.wav
+448,192,63763,1,0,0:0:0:65:Kick.wav
+192,192,64171,1,0,0:0:0:65:Kick.wav
+320,192,64477,1,0,0:0:0:65:Tom1.wav
+192,192,64783,1,0,0:0:0:65:Tom3.wav
+448,192,64987,1,0,0:0:0:65:Kick.wav
+64,192,65395,1,0,0:0:0:65:Kick.wav
+192,192,65600,1,0,0:0:0:65:Tom3.wav
+320,192,65804,1,0,0:0:0:65:Kick.wav
+448,192,65804,128,0,66212:0:0:0:70:Snare.wav
+192,192,66212,1,0,0:0:0:70:Snare.wav
+320,192,66620,1,0,0:0:0:70:Snare.wav
+64,192,66824,1,0,0:0:0:65:Tom1.wav
+448,192,67028,1,0,0:0:0:70:Snare.wav
+320,192,67232,1,0,0:0:0:70:Snare.wav
+64,192,67436,1,0,0:0:0:65:Kick.wav
+192,192,67436,1,0,0:0:0:55:Crash medium.wav
+448,192,67844,1,0,0:0:0:70:Snare.wav
+192,192,68253,1,0,0:0:0:65:Kick.wav
+320,192,68661,1,0,0:0:0:70:Snare.wav
+448,192,69069,1,0,0:0:0:65:Kick.wav
+64,192,69477,1,0,0:0:0:70:Snare.wav
+320,192,69885,1,0,0:0:0:65:Kick.wav
+192,192,70293,1,0,0:0:0:70:Snare.wav
+64,192,70702,1,0,0:0:0:65:Kick.wav
+448,192,71110,1,0,0:0:0:70:Snare.wav
+192,192,71518,1,0,0:0:0:65:Kick.wav
+320,192,71926,1,0,0:0:0:70:Snare.wav
+64,192,72334,1,0,0:0:0:65:Kick.wav
+448,192,72640,1,0,0:0:0:65:Kick.wav
+64,192,72946,1,0,0:0:0:65:Kick.wav
+320,192,73151,1,0,0:0:0:65:Kick.wav
+192,192,73559,1,0,0:0:0:70:Snare.wav
+320,192,73763,1,0,0:0:0:65:Kick.wav
+64,192,73967,128,0,74375:0:0:0:65:Kick.wav
+448,192,73967,1,0,0:0:0:55:Crash high.wav
+320,192,74375,1,0,0:0:0:70:Snare.wav
+192,192,74579,1,0,0:0:0:65:Kick.wav
+64,192,74783,1,0,0:0:0:65:Kick.wav
+320,192,75191,1,0,0:0:0:70:Snare.wav
+192,192,75395,1,0,0:0:0:65:Kick.wav
+448,192,75600,128,0,76008:0:0:0:65:Kick.wav
+64,192,76008,1,0,0:0:0:70:Snare.wav
+192,192,76212,1,0,0:0:0:65:Kick.wav
+320,192,76416,1,0,0:0:0:65:Kick.wav
+192,192,76824,1,0,0:0:0:70:Snare.wav
+448,192,77028,1,0,0:0:0:65:Kick.wav
+64,192,77232,128,0,77640:0:0:0:65:Kick.wav
+320,192,77232,1,0,0:0:0:55:Crash medium.wav
+448,192,77640,1,0,0:0:0:70:Snare.wav
+320,192,77844,1,0,0:0:0:65:Kick.wav
+192,192,78049,1,0,0:0:0:65:Kick.wav
+64,192,78457,1,0,0:0:0:70:Snare.wav
+192,192,78661,1,0,0:0:0:65:Kick.wav
+320,192,78865,1,0,0:0:0:65:Kick.wav
+64,192,79273,1,0,0:0:0:70:Snare.wav
+192,192,79477,1,0,0:0:0:70:Snare.wav
+448,192,79681,1,0,0:0:0:65:Kick.wav
+320,192,79885,1,0,0:0:0:70:Snare.wav
+192,192,80089,1,0,0:0:0:65:Tom3.wav
+320,192,80497,1,0,0:0:0:65:Kick.wav
+448,192,80497,1,0,0:0:0:55:Crash high.wav
+64,192,80906,1,0,0:0:0:70:Snare.wav
+192,192,81314,1,0,0:0:0:70:Snare.wav
+320,192,81722,1,0,0:0:0:70:Snare.wav
+64,192,82130,128,0,82538:0:0:0:65:Kick.wav
+448,192,82538,1,0,0:0:0:70:Snare.wav
+192,192,82946,128,0,83763:0:0:0:70:Snare.wav
+320,192,83763,1,0,0:0:0:65:Kick.wav
+64,192,84069,1,0,0:0:0:65:Kick.wav
+448,192,84375,1,0,0:0:0:65:Kick.wav
+192,192,84681,1,0,0:0:0:65:Kick.wav
+320,192,84987,128,0,85395:0:0:0:70:Snare.wav
+64,192,85395,128,0,87028:0:0:0:65:Kick.wav
+448,192,85395,1,0,0:0:0:55:Crash high.wav
+448,192,87028,128,0,87844:0:0:0:70:Snare.wav

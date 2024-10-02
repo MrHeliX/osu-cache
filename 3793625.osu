@@ -1,0 +1,103 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 7860
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 7860,9547,14607
+DistanceSpacing: 0.7
+BeatDivisor: 1
+GridSize: 4
+TimelineZoom: 0.9000002
+
+[Metadata]
+Title:The Shortest Mashcore Ever
+TitleUnicode:The Shortest Mashcore Ever
+Artist:odaxelagnia
+ArtistUnicode:odaxelagnia
+Creator:Maxim-Miau
+Version:Horiiizon's Kantan
+Source:
+Tags:electronic instrumental partycore horiiizon eiri- ayyri annabel speedcore caramella girls caramelldansen super mario bros. koji kondo 近藤浩治 imogen heap hide and seek
+BeatmapID:3793625
+BeatmapSetID:1809528
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:2
+OverallDifficulty:3
+ApproachRate:5
+SliderMultiplier:1.2
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"TheShortestMashcoreEver.jpg",0,60
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+150,240.963855421687,4,1,0,100,1,0
+150,-100,4,1,0,100,0,0
+7860,-100,4,1,0,100,0,1
+15571,-100,4,1,0,100,0,0
+23282,-100,4,1,0,100,0,1
+30511,-100,4,1,0,100,0,0
+
+
+[HitObjects]
+172,281,150,5,4,0:0:0:0:
+80,286,2077,1,4,0:0:0:0:
+87,290,2559,1,4,0:0:0:0:
+148,298,3041,1,4,0:0:0:0:
+121,253,4005,1,2,0:0:0:0:
+135,228,4969,1,0,0:0:0:0:
+142,237,5451,1,8,0:0:0:0:
+117,202,5933,1,0,0:0:0:0:
+113,295,6415,1,0,0:0:0:0:
+121,217,6896,1,8,0:0:0:0:
+126,245,7860,1,0,0:0:0:0:
+143,287,8342,1,8,0:0:0:0:
+110,249,9788,1,0,0:0:0:0:
+121,262,10270,1,8,0:0:0:0:
+124,276,10872,1,8,0:0:0:0:
+125,216,11716,1,0,0:0:0:0:
+127,229,12198,1,8,0:0:0:0:
+127,224,13643,1,0,0:0:0:0:
+130,232,14125,1,8,0:0:0:0:
+131,235,14728,1,8,0:0:0:0:
+141,214,15571,1,0,0:0:0:0:
+151,209,16535,1,8,0:0:0:0:
+143,222,17499,1,0,0:0:0:0:
+143,222,17981,1,0,0:0:0:0:
+143,222,18463,1,8,0:0:0:0:
+143,239,19427,1,0,0:0:0:0:
+143,239,20390,1,8,0:0:0:0:
+161,294,21354,1,8,0:0:0:0:
+161,294,21836,1,8,0:0:0:0:
+139,260,22318,1,0,0:0:0:0:
+131,266,22800,1,0,0:0:0:0:
+136,210,23282,1,8,0:0:0:0:
+131,222,24246,1,8,0:0:0:0:
+136,228,24728,1,0,0:0:0:0:
+139,232,25210,1,8,0:0:0:0:
+137,248,26174,1,0,0:0:0:0:
+137,248,27137,1,8,0:0:0:0:
+146,207,28101,1,8,0:0:0:0:
+133,215,28583,1,0,0:0:0:0:
+117,283,29065,1,8,0:0:0:0:
+117,283,30029,1,8,0:0:0:0:
+117,283,30511,1,0,0:0:0:0:

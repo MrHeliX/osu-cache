@@ -1,0 +1,92 @@
+osu file format v9
+
+[General]
+AudioFilename: TDWT- Gypsy Rap .mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 8
+
+[Metadata]
+Title:gispy rap
+Artist:total drama world tour
+Creator:matiotiot202
+Version:Very easy
+Source:
+Tags:
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:3
+OverallDifficulty:0
+ApproachRate:0
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"background001.png"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+325.358974358974,512.820512820513,4,1,0,100,1,0
+
+[HitObjects]
+200,144,838,1,8
+200,144,1351,1,8
+328,144,1863,1,0
+224,208,2889,1,8
+136,240,3402,1,8
+320,264,3915,1,0
+136,240,4940,1,8
+232,112,5453,1,8
+232,112,5966,1,0
+192,120,9043,5,4
+192,120,9556,1,4
+192,120,10068,1,4
+344,152,11607,5,4
+344,152,12120,1,4
+344,152,12633,1,4
+200,240,13658,5,8
+200,240,14171,1,8
+200,240,14684,1,0
+336,88,15709,5,8
+336,88,16222,1,8
+336,88,16735,1,8
+416,304,17761,5,8
+416,304,18274,1,2
+200,240,18786,1,8
+56,152,19299,2,8,B|216:56|216:56|464:64|464:64|464:320|464:320|376:320|376:320,1,700
+240,192,22376,1,2
+240,192,22889,1,6
+88,120,23915,1,12
+360,104,27504,5,4
+360,240,28530,1,6
+72,272,29556,1,12
+360,208,30581,5,2
+360,208,31607,1,4
+360,208,32633,1,8
+264,168,33658,5,6
+192,312,34684,1,12
+336,176,35709,1,10
+200,216,37248,5,14
+200,216,37761,1,14
+280,216,38274,5,14
+280,216,38786,1,14
+112,200,39812,5,8
+432,176,40838,1,2

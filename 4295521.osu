@@ -3,9 +3,9 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime: 59185
+PreviewTime: 59162
 Countdown: 0
-SampleSet: None
+SampleSet: Normal
 StackLeniency: 0
 Mode: 0
 LetterboxInBreaks: 0
@@ -25,7 +25,7 @@ ArtistUnicode:JynX
 Creator:Nyanaro
 Version:P_O's Unreal
 Source:連縁无現里　～ Evanescent Existence
-Tags:eternal dance engine len'en project instrumental video game 闡裡　鶴喰 Senri Tsurubami's theme extra stage 1 mugenri ee trick nostalgie 連縁project 鏈縁project 鏈縁无現里  unreal land the inexplicable hakama 不可解な袴 nyanaro124 siskfh zkffltmeh
+Tags:eternal dance engine len'en project instrumental video game 闡裡　鶴喰 Senri Tsurubami's Tsurubami Senri's theme extra stage 1 mugenri ee trick nostalgie 連縁project 鏈縁project 鏈縁无現里  unreal land the inexplicable hakama 不可解な袴 nyanaro124 siskfh zkffltmeh P_O millhioref saten nyaten saten-san halfslashed touhoustyle
 BeatmapID:4295521
 BeatmapSetID:2033249
 
@@ -67,10 +67,8 @@ SliderTickRate:1
 
 
 [Colours]
-Combo1 : 128,0,0
+Combo1 : 233,233,233
 Combo2 : 64,64,64
-Combo3 : 244,244,244
-Combo4 : 55,88,40
 
 [HitObjects]
 96,192,1562,6,0,L|75:114,1,77.5,8|0,0:3|0:0,0:0:0:0:
@@ -397,8 +395,9 @@ Combo4 : 55,88,40
 171,213,76962,1,8,0:0:0:0:
 171,213,77162,2,0,L|134:77,1,116.25,8|8,0:0|0:0,0:0:0:0:
 256,28,77662,1,8,0:0:0:0:
-256,167,77862,1,8,0:3:0:0:
-256,167,77962,1,8,0:0:0:0:
+256,65,77762,1,8,0:0:0:0:
+256,103,77862,1,8,0:3:0:0:
+256,140,77962,1,8,0:0:0:0:
 93,345,78362,6,0,L|65:240,1,77.5,2|2,0:0|0:0,0:0:0:0:
 36,135,78762,1,2,0:0:0:0:
 0,0,78962,1,8,0:2:0:0:
@@ -720,5 +719,6 @@ Combo4 : 55,88,40
 418,150,141712,1,2,0:3:0:0:
 418,150,141812,1,8,0:0:0:0:
 438,225,142012,2,0,L|361:245,1,77.5,8|4,0:0|0:3,0:0:0:0:
-256,77,143212,6,0,L|256:0,1,77.5,2|0,0:3|0:0,0:0:0:0:
+176,96,143212,5,2,0:3:0:0:
+336,96,143412,1,0,0:0:0:0:
 256,192,143612,2,0,L|256:251,4,38.75,2|2|2|2|4,0:3|0:3|0:3|0:3|0:0,0:0:0:0:

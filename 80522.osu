@@ -1,0 +1,57 @@
+osu file format v9
+
+[General]
+AudioFilename: Stray in Chaos.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Stray in Chaos
+Artist:Fear, and Loathing in Las Vegas
+Creator:Rinzu
+Version:Hard
+Source:
+Tags:
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:5
+OverallDifficulty:7
+ApproachRate:7
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+2,170,6584
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+7484,536.768652710682,4,1,0,59,1,0
+
+[Colours]
+Combo1 : 137,63,63
+Combo2 : 69,186,107
+Combo3 : 94,88,203
+Combo4 : 141,5,141
+Combo5 : 175,159,16
+
+[HitObjects]
+88,176,7484,5,0

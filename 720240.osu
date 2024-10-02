@@ -1,0 +1,87 @@
+osu file format v14
+
+[General]
+AudioFilename: tumblr_nmq0skvgsA1rqxyido1.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.7
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Madamamagoto
+TitleUnicode:Madamamagoto
+Artist:Soraru
+ArtistUnicode:Soraru
+Creator:tsuryuu
+Version:Easy
+Source:
+Tags:
+BeatmapID:720240
+BeatmapSetID:324131
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:2
+OverallDifficulty:1
+ApproachRate:1
+SliderMultiplier:1.1
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"original.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+9259.21897621567,461.538461538462,4,1,0,100,1,0
+9260,-100,4,1,0,80,0,0
+64600,-100,4,1,0,80,0,1
+94125,-100,4,1,0,80,0,0
+127400,-100,4,1,0,100,0,1
+142200,-100,4,1,0,80,0,0
+
+
+[Colours]
+Combo1 : 34,49,234
+Combo2 : 210,0,0
+Combo3 : 154,154,154
+Combo4 : 244,17,80
+
+[HitObjects]
+104,116,16643,6,0,P|160:64|196:68,1,110
+264,140,17566,2,0,P|224:224|200:228,1,110
+48,268,18489,6,0,B|104:240|104:240|136:332|224:328,1,220
+352,276,19874,1,0,0:0:0:0:
+432,188,20336,1,0,0:0:0:0:
+356,104,20797,6,0,L|240:104,1,110
+132,204,21720,2,0,L|260:204,1,110
+296,280,22643,2,0,L|408:356,2,110
+360,156,24028,6,0,L|248:156,1,110
+140,196,24951,1,0,0:0:0:0:
+176,312,25413,1,0,0:0:0:0:
+292,304,25874,1,0,0:0:0:0:
+396,272,26336,6,0,P|432:212|408:176,2,110
+276,280,27720,1,0,0:0:0:0:
+160,260,28182,6,0,P|132:188|164:152,2,110
+248,132,29566,2,0,B|292:92|352:144,1,110
+424,200,30489,2,0,P|440:256|424:296,2,82.5
+336,320,31643,6,0,L|264:320,1,55
+152,296,32336,2,0,B|156:208|156:208|208:232|208:232|256:168,1,220
+256,72,33720,5,0,0:0:0:0:
+352,112,34182,1,0,0:0:0:0:
+416,192,34643,1,0,0:0:0:0:

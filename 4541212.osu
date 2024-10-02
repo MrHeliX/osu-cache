@@ -1,0 +1,115 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.ogg
+AudioLeadIn: 0
+PreviewTime: 96
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.4
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 1.2
+
+[Metadata]
+Title:WHITE SPACE
+TitleUnicode:WHITE SPACE
+Artist:Jami Lynne
+ArtistUnicode:Jami Lynne
+Creator:maxie
+Version:" "
+Source:OMORI
+Tags:hivie 002 ost original soundtrack sound track slow video game videogame music vgm instrumental sketchbook box of tissues laptop cat chiptune studio omocat mewo
+BeatmapID:4541212
+BeatmapSetID:2154655
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:4
+OverallDifficulty:2.5
+ApproachRate:5
+SliderMultiplier:2.8
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"omori.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+96,1162.56539430343,3,1,0,50,1,0
+36135,-100,3,1,0,45,0,0
+36716,-100,3,1,0,40,0,0
+37298,-100,3,1,0,35,0,0
+37879,-100,3,1,0,30,0,0
+38460,-100,3,1,0,25,0,0
+
+
+[Colours]
+Combo1 : 128,128,128
+Combo2 : 192,192,192
+
+[HitObjects]
+157,197,96,5,8,0:0:0:0:
+340,135,677,1,0,0:0:0:0:
+157,197,1258,1,0,0:0:0:0:
+157,197,1839,1,8,0:0:0:0:
+199,89,3583,1,8,0:0:0:0:
+101,208,4164,1,0,0:0:0:0:
+256,240,4746,1,8,0:0:0:0:
+190,89,5327,1,8,0:0:0:0:
+187,89,7071,1,8,0:0:0:0:
+179,133,7652,1,0,0:0:0:0:
+179,133,8233,1,0,0:0:0:0:
+179,133,8815,1,8,0:0:0:0:
+199,89,9396,1,8,0:0:0:0:
+67,181,9977,1,8,0:0:0:0:
+172,117,10559,1,0,0:0:0:0:
+172,117,11140,1,0,0:0:0:0:
+172,117,11721,1,8,0:0:0:0:
+172,117,12302,1,8,0:0:0:0:
+166,116,14046,1,8,0:0:0:0:
+262,213,14628,1,0,0:0:0:0:
+166,116,15209,1,0,0:0:0:0:
+179,116,15790,1,8,0:0:0:0:
+179,116,17534,1,8,0:0:0:0:
+325,158,18115,1,8,0:0:0:0:
+172,112,18697,1,0,0:0:0:0:
+168,110,19278,1,8,0:0:0:0:
+168,110,21022,1,0,0:0:0:0:
+263,140,21603,1,8,0:0:0:0:
+263,140,22184,1,8,0:0:0:0:
+263,140,22766,1,8,0:0:0:0:
+141,175,23347,1,0,0:0:0:0:
+146,171,23928,1,0,0:0:0:0:
+260,131,24509,1,8,0:0:0:0:
+260,131,25091,1,0,0:0:0:0:
+260,131,25672,1,0,0:0:0:0:
+260,131,26253,1,8,0:0:0:0:
+259,131,27997,1,8,0:0:0:0:
+132,188,28578,1,8,0:0:0:0:
+259,131,29160,1,0,0:0:0:0:
+259,131,29741,1,8,0:0:0:0:
+235,123,31485,1,8,0:0:0:0:
+134,212,32066,1,0,0:0:0:0:
+235,123,32647,1,0,0:0:0:0:
+90,126,33229,1,8,0:0:0:0:
+92,114,34972,1,0,0:0:0:0:
+245,193,35554,1,0,0:0:0:0:
+92,114,36135,1,0,0:0:0:0:
+89,109,36716,1,8,0:0:0:0:
+84,105,38460,1,0,0:0:0:0:
+84,105,39623,1,0,0:0:0:0:
+84,105,40204,1,8,0:0:0:0:

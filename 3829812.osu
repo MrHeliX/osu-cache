@@ -31,9 +31,9 @@ BeatmapID:3829812
 BeatmapSetID:1862516
 
 [Difficulty]
-HPDrainRate:5.6
+HPDrainRate:4.5
 CircleSize:5
-OverallDifficulty:8.5
+OverallDifficulty:9
 ApproachRate:9.7
 SliderMultiplier:1.6
 SliderTickRate:0.5
@@ -6246,6 +6246,7 @@ SliderTickRate:0.5
 1050069,-40,4,2,2,70,0,0
 1050490,232.558139534884,4,2,2,70,1,0
 1050722,-50,4,2,1,70,0,0
+1050780,-50,4,2,2,70,0,0
 1050955,237.154150197628,4,2,3,70,1,0
 1050955,-66.6666666666667,4,2,3,70,0,0
 1051132,-66.6666666666667,4,2,2,70,0,0

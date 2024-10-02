@@ -5,7 +5,7 @@ AudioFilename: Nero vs After School - Sound In Motion vs AH (Fauxami Mashup) UPD
 AudioLeadIn: 0
 PreviewTime: 89813
 Countdown: 1
-SampleSet: Normal
+SampleSet: Soft
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 1
@@ -19,38 +19,39 @@ GridSize: 4
 TimelineZoom: 1
 
 [Metadata]
-Title:Sound In Motion vs AH (Fauxami Mashup)
-TitleUnicode:Sound In Motion vs AH (Fauxami Mashup)
-Artist:Nero vs After School
-ArtistUnicode:Nero vs After School
+Title:Sound In Motion vs. AH
+TitleUnicode:Sound In Motion vs. AH
+Artist:Nero vs. After School
+ArtistUnicode:Nero vs. 애프터스쿨
 Creator:galvenize
 Version:Frey's Hard
 Source:
-Tags:dnb drum and bass
+Tags:fauxami mashup remix korean electronic drum and & bass dnb ryuu kyubey exote frey
 BeatmapID:559811
 BeatmapSetID:234646
 
 [Difficulty]
 HPDrainRate:5
 CircleSize:4
-OverallDifficulty:5
+OverallDifficulty:6
 ApproachRate:8
 SliderMultiplier:1.5
 SliderTickRate:1
 
 [Events]
 //Background and Video events
-0,0,"jp.jpg",0,0
+0,0,"bg1.jpg",0,0
 //Break Periods
 2,178343,199462
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
 //Storyboard Layer 2 (Pass)
 //Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
 
 [TimingPoints]
-88488,344.827586206897,4,1,0,70,1,0
+89867,344.827586206897,4,1,0,70,1,0
 134350,-100,4,2,0,70,0,0
 136763,-100,4,1,0,70,0,0
 210556,-100,4,2,0,70,0,0
@@ -376,29 +377,29 @@ Combo2 : 211,44,48
 440,224,210729,5,0,0:0:0:0:
 464,312,210901,1,2,0:0:0:0:
 376,288,211074,1,0,0:0:0:0:
-352,200,211246,2,0,P|292:208|224:212,1,112.5,0|2,0:0|0:0,0:0:0:0:
+352,200,211246,2,0,P|292:208|224:212,1,112.5,0|2,1:0|0:0,0:0:0:0:
 120,84,212108,5,0,0:0:0:0:
 40,40,212281,1,2,0:0:0:0:
 40,128,212453,1,0,0:0:0:0:
-116,176,212625,2,0,P|108:256|100:304,1,112.5,0|2,0:0|0:0,0:0:0:0:
+116,176,212625,2,0,P|108:256|100:304,1,112.5,0|2,1:0|0:0,0:0:0:0:
 396,176,213488,5,0,0:0:0:0:
 320,224,213660,1,2,0:0:0:0:
 400,268,213832,1,0,0:0:0:0:
-480,224,214005,2,0,P|484:144|452:100,1,112.5,0|2,0:0|0:0,0:0:0:0:
+480,224,214005,2,0,P|484:144|452:100,1,112.5,0|2,1:0|0:0,0:0:0:0:
 216,308,214867,5,0,0:0:0:0:
 184,224,215039,1,2,0:0:0:0:
 100,256,215212,1,0,0:0:0:0:
-132,340,215384,2,0,P|212:352|300:360,1,150,0|2,0:0|0:0,0:0:0:0:
+132,340,215384,2,0,P|212:352|300:360,1,150,0|2,1:0|0:0,0:0:0:0:
 348,300,215901,2,0,P|340:252|328:140,1,150
 324,60,216419,1,2,0:0:0:0:
 404,104,216591,1,0,0:0:0:0:
-412,192,216763,6,0,P|336:232|268:228,1,150
-100,192,217453,2,0,P|176:152|244:156,1,150
-256,336,218143,5,0,0:0:0:0:
-364,192,218488,1,0,0:0:0:0:
-256,48,218832,1,0,0:0:0:0:
-148,192,219177,1,0,0:0:0:0:
-256,192,219522,12,0,221591,0:0:0:0:
+412,192,216763,6,0,P|336:232|268:228,1,150,0|0,1:0|1:0,0:0:0:0:
+100,192,217453,2,0,P|176:152|244:156,1,150,0|0,1:0|1:0,0:0:0:0:
+256,336,218143,5,0,1:0:0:0:
+364,192,218488,1,0,1:0:0:0:
+256,48,218832,1,0,1:0:0:0:
+148,192,219177,1,0,1:0:0:0:
+256,192,219522,12,0,221591,1:0:0:0:
 416,80,222108,5,0,0:0:0:0:
 416,80,222281,2,0,P|368:76|316:68,1,75,4|0,0:0|0:0,0:0:0:0:
 268,124,222625,1,8,0:0:0:0:

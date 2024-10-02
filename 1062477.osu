@@ -1,0 +1,57 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 77566
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:rePrologue
+TitleUnicode:rePrologue
+Artist:Sakuzyo
+ArtistUnicode:Sakuzyo
+Creator:Rivals_7
+Version:7K Insane
+Source:
+Tags:last dance short ver
+BeatmapID:1062477
+BeatmapSetID:499151
+
+[Difficulty]
+HPDrainRate:8
+CircleSize:7
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"maxresdefault (1) 720.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+4999,405.405405405405,4,2,1,60,1,0
+77971,-100,4,2,1,60,0,1
+100708,-100,4,2,1,60,0,0
+
+
+[HitObjects]

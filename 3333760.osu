@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 105682
 Countdown: 0
-SampleSet: None
+SampleSet: Soft
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
@@ -14,7 +14,7 @@ WidescreenStoryboard: 1
 [Editor]
 Bookmarks: 682,15682,45682,75682,105682,135682
 DistanceSpacing: 1.4
-BeatDivisor: 6
+BeatDivisor: 8
 GridSize: 4
 TimelineZoom: 1
 
@@ -25,8 +25,8 @@ Artist:connsome
 ArtistUnicode:connsome
 Creator:ktgster
 Version:Another
-Source:
-Tags:instrumental electronic sunset beat guna maki bms owc2021gffm2
+Source:THE BMS OF FIGHTERS 2009 - revolutionary battles -
+Tags:instrumental electronic sunset beat guna maki bof owc2021gffm2 jagdblume
 BeatmapID:3333760
 BeatmapSetID:1633261
 
@@ -59,10 +59,12 @@ SliderTickRate:1
 
 
 [Colours]
-Combo1 : 255,166,166
-Combo2 : 100,255,100
-Combo3 : 255,186,117
-Combo4 : 255,208,66
+Combo1 : 255,255,128
+Combo2 : 168,168,255
+Combo3 : 206,157,255
+Combo4 : 255,181,218
+Combo5 : 255,128,128
+Combo6 : 251,194,111
 
 [HitObjects]
 35,278,682,5,2,0:2:0:0:

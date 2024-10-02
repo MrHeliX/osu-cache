@@ -1,0 +1,61 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.7
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Bapanada
+TitleUnicode:Bapanada
+Artist:Hollow Knight
+ArtistUnicode:Hollow Knight
+Creator:amarakkk
+Version:Bapanada
+Source:
+Tags:
+BeatmapID:4277045
+BeatmapSetID:2048540
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4.6
+OverallDifficulty:10
+ApproachRate:10
+SliderMultiplier:2.8
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"mgriu3b8jp821.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,545.454545454545,4,1,0,100,1,0
+
+
+[HitObjects]
+90,200,270,6,0,B|188:115|370:161|418:28|453:17,1,350
+459,343,1227,1,0,0:0:0:0:
+86,47,1363,1,0,0:0:0:0:
+481,157,1499,1,0,0:0:0:0:
+38,348,1636,1,0,0:0:0:0:
+256,192,1909,12,0,2457,0:0:0:0:

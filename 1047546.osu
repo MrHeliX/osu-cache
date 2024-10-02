@@ -1,0 +1,63 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 19117
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.4
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1.5
+
+[Metadata]
+Title:731
+TitleUnicode:731
+Artist:Belmont
+ArtistUnicode:Belmont
+Creator:cute boy
+Version:Better off Dead (remapping)
+Source:
+Tags:rock, pop punk, indie, elirac, gco, _orange, fLaw
+BeatmapID:1047546
+BeatmapSetID:491607
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4.2
+OverallDifficulty:8
+ApproachRate:9.3
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"8.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+140,333.333333333333,3,1,0,49,1,0
+
+
+[Colours]
+Combo1 : 255,0,0
+Combo2 : 4,170,162
+Combo3 : 113,176,255
+Combo4 : 61,201,14
+Combo5 : 4,123,221
+Combo6 : 192,192,192
+
+[HitObjects]
+256,192,140,5,8,0:0:0:0:

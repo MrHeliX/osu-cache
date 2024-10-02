@@ -1,0 +1,89 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Snowbunnykittens in Fox News
+TitleUnicode:Snowbunnykittens in Fox News
+Artist:SnowBunnyKittens
+ArtistUnicode:SnowBunnyKittens
+Creator:wingman0217
+Version:Devin level
+Source:youtube
+Tags:#LolLiz
+BeatmapID:1745034
+BeatmapSetID:833052
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,500,4,1,0,100,1,0
+
+
+[HitObjects]
+252,182,500,5,0,0:0:0:0:
+20,84,1375,1,0,0:0:0:0:
+64,125,1500,1,0,0:0:0:0:
+64,125,2000,1,0,0:0:0:0:
+151,95,2375,5,0,0:0:0:0:
+210,238,2875,5,0,0:0:0:0:
+222,167,4250,1,0,0:0:0:0:
+232,206,7500,1,0,0:0:0:0:
+288,100,10000,5,0,0:0:0:0:
+272,238,13875,1,0,0:0:0:0:
+195,174,14125,1,0,0:0:0:0:
+509,171,15250,5,0,0:0:0:0:
+458,224,15500,1,0,0:0:0:0:
+403,199,15750,2,0,B|6:88|359:240|108:78|131:106,1,280
+212,33,17125,2,0,B|453:298|125:190|92:388|126:277|133:177,1,455
+154,51,19250,2,0,B|477:260|104:394|204:229|-153:153|106:395|112:395|354:6,1,875
+76,158,25250,2,0,P|404:110|232:231,1,1015
+170,275,29125,1,0,0:0:0:0:
+325,251,30500,5,0,0:0:0:0:
+165,201,31125,1,0,0:0:0:0:
+188,184,31250,1,0,0:0:0:0:
+240,162,31375,1,0,0:0:0:0:
+300,91,32750,5,0,0:0:0:0:
+199,222,35000,1,0,0:0:0:0:
+120,109,35500,2,0,B|393:147|326:289|268:269,1,315
+150,164,37250,2,0,P|401:138|246:238,1,700
+256,192,40375,12,0,42000,0:0:0:0:
+105,89,42000,6,0,B|442:209|288:296|292:298,1,315
+334,141,43625,1,0,0:0:0:0:
+226,23,44125,1,0,0:0:0:0:
+236,83,44375,1,0,0:0:0:0:
+471,217,45375,1,0,0:0:0:0:
+359,168,45750,2,0,P|84:273|299:311,1,770
+169,209,49125,2,0,B|167:44|217:231|222:213,1,140
+256,192,50000,12,0,50500,0:0:0:0:
+242,173,50500,5,0,0:0:0:0:

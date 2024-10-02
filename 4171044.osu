@@ -1,0 +1,111 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 36152
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 300,9271,18243,27215,36187
+DistanceSpacing: 1.7
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Taste of home (TV Size)
+TitleUnicode:Taste of home (TV Size)
+Artist:Kugimiya Rie, Sawashiro Miyuki, Asumi Kana, Tanaka Rie
+ArtistUnicode:釘宮理恵, 沢城みゆき, 阿澄佳奈, 田中理恵
+Creator:Hoshikuz
+Version:Civil oath's Kantan
+Source:戦乙女の食卓
+Tags:Kiana kaslana Mei raiden Bronya zaychik Himeko Murata キアナ カスラナ 雷電芽衣 ブローニャ ザイチク 無量塔姫子 honkai impact 3rd 崩壊3 cooking with valkyries 女武神的餐桌 anime opening japanese pop jpop j-pop Nv Nu Wushen de Canzhuo Can Zhuo Nǚ Wǔ Shén de Cān Zhuō Valkyrie no Shokutaku mihoyo 陶典 Hanser 花玲 多多Poi Huā Hua Ling Tao Dian Táo Diǎn Duōduō duoduo Poi 崩壞3rd ブローニャ・ザイチク キアナ・カスラナ Duo Duō S.Nagi Sanjenin Nagi [Karcher] 2 Civil oath
+BeatmapID:4171044
+BeatmapSetID:1773326
+
+[Difficulty]
+HPDrainRate:9.5
+CircleSize:4
+OverallDifficulty:2
+ApproachRate:8
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"852885.jpg",0,80
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+300,560.747663551402,4,1,0,75,1,0
+9271,-100,4,1,0,85,0,0
+18243,-100,4,1,0,80,0,0
+27215,-100,4,1,0,75,0,0
+36187,-100,4,1,0,85,0,0
+
+
+[HitObjects]
+224,160,300,5,0,0:0:0:0:
+288,160,1281,1,8,0:0:0:0:
+288,160,2542,1,8,0:0:0:0:
+224,160,3524,1,0,0:0:0:0:
+224,160,4785,1,0,0:0:0:0:
+288,160,5767,1,8,0:0:0:0:
+288,160,7028,1,8,0:0:0:0:
+288,160,8010,1,8,0:0:0:0:
+224,224,9271,1,4,0:0:0:0:
+288,160,9832,1,8,0:0:0:0:
+224,160,10954,1,0,0:0:0:0:
+288,160,11514,1,8,0:0:0:0:
+288,160,12075,1,8,0:0:0:0:
+224,160,13197,1,0,0:0:0:0:
+224,160,13757,1,0,0:0:0:0:
+288,160,14318,1,8,0:0:0:0:
+224,160,15440,1,0,0:0:0:0:
+288,160,16000,1,8,0:0:0:0:
+224,160,16561,1,0,0:0:0:0:
+224,224,17683,1,4,0:0:0:0:
+288,160,18243,1,8,0:0:0:0:
+288,160,19365,1,8,0:0:0:0:
+288,160,20486,1,8,0:0:0:0:
+224,160,21608,1,0,0:0:0:0:
+288,160,22169,1,8,0:0:0:0:
+224,160,22729,1,0,0:0:0:0:
+224,160,23851,1,0,0:0:0:0:
+224,160,24972,1,0,0:0:0:0:
+224,160,26094,1,0,0:0:0:0:
+288,160,26655,1,8,0:0:0:0:
+224,224,27215,1,4,0:0:0:0:
+288,160,28197,1,8,0:0:0:0:
+288,160,29458,1,8,0:0:0:0:
+224,160,30440,1,0,0:0:0:0:
+224,160,31701,1,0,0:0:0:0:
+288,160,32683,1,8,0:0:0:0:
+224,160,33944,1,0,0:0:0:0:
+288,160,34505,1,8,0:0:0:0:
+288,160,35066,1,8,0:0:0:0:
+224,224,36187,1,4,0:0:0:0:
+288,160,36748,1,8,0:0:0:0:
+224,160,37870,1,0,0:0:0:0:
+288,160,38430,1,8,0:0:0:0:
+288,160,38991,1,8,0:0:0:0:
+224,160,40113,1,0,0:0:0:0:
+224,160,40673,1,0,0:0:0:0:
+288,160,41234,1,8,0:0:0:0:
+224,160,42356,1,0,0:0:0:0:
+288,160,42916,1,8,0:0:0:0:
+224,160,43477,1,0,0:0:0:0:
+224,224,44599,1,4,0:0:0:0:

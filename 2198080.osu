@@ -1,0 +1,79 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.9
+BeatDivisor: 6
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Practice
+TitleUnicode:Practice
+Artist:Born Of Osiris
+ArtistUnicode:Born Of Osiris
+Creator:Zynthics
+Version:lo
+Source:
+Tags:
+BeatmapID:2198080
+BeatmapSetID:1051788
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:6
+ApproachRate:10
+SliderMultiplier:1.9
+SliderTickRate:4
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+12952.7952755906,398.840944881888,4,1,0,100,1,0
+
+
+[HitObjects]
+256,192,5574,12,0,8100,0:0:0:0:
+56,293,8964,6,0,B|55:55|55:55|458:50|458:50|469:373|469:373|39:363|39:363|51:45|51:45|465:47|465:47|211:378|211:378|54:44|54:44|451:55|451:55|463:363|463:363|50:356|50:356|62:55|62:55|445:63|445:63|213:343|213:343|79:61|79:61|436:68|436:68|435:341|435:341|88:335|88:335|97:66|97:66|416:73|416:73|223:306|223:306|124:100|124:100|357:102|357:102|226:254|226:254|175:142|175:142|304:139|304:139|216:194,1,8265
+57,232,9030,5,0,0:0:0:0:
+56,167,9230,1,0,0:0:0:0:
+53,103,9363,1,0,0:0:0:0:
+69,57,9496,1,0,0:0:0:0:
+137,56,9629,1,0,0:0:0:0:
+197,57,9762,1,0,0:0:0:0:
+259,54,9895,1,0,0:0:0:0:
+320,52,10027,1,0,0:0:0:0:
+388,52,10160,1,0,0:0:0:0:
+453,53,10293,1,0,0:0:0:0:
+461,114,10426,1,0,0:0:0:0:
+461,174,10559,1,0,0:0:0:0:
+464,237,10692,1,0,0:0:0:0:
+464,306,10825,1,0,0:0:0:0:
+466,358,10958,1,0,0:0:0:0:
+408,369,11091,1,0,0:0:0:0:
+346,368,11224,1,0,0:0:0:0:
+277,370,11357,1,0,0:0:0:0:
+229,370,11490,1,0,0:0:0:0:
+180,369,11623,1,0,0:0:0:0:
+104,363,11756,1,0,0:0:0:0:
+36,362,11889,1,0,0:0:0:0:
+38,304,12022,1,0,0:0:0:0:

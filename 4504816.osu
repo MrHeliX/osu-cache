@@ -1,0 +1,99 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 9660
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 1
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:There's A Cat Licking Your Birthday Cake
+TitleUnicode:There's A Cat Licking Your Birthday Cake
+Artist:Parry Gripp
+ArtistUnicode:Parry Gripp
+Creator:PentagonGlxy
+Version:Kantan
+Source:
+Tags:english male vocal vocalist piano novelty theres bday kitty piano cats birth day Brianne Drouhard
+BeatmapID:4504816
+BeatmapSetID:2140414
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:5
+OverallDifficulty:2
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"happybday.jpg",0,-25
+Video,-305,"output.mp4"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+-7523,545.454545454546,4,1,0,65,1,8
+1204,-100,4,1,0,65,0,0
+9385,-100,4,1,0,80,0,0
+9931,-100,4,1,0,80,0,1
+27113,-100,4,1,0,80,0,1
+27386,-100,4,1,0,65,0,0
+
+
+[HitObjects]
+259,193,1203,1,2,0:0:0:0:
+259,193,2294,1,0,0:0:0:0:
+241,188,3385,1,2,0:0:0:0:
+241,188,4476,1,0,0:0:0:0:
+241,188,5567,1,2,0:0:0:0:
+241,188,6658,1,2,0:0:0:0:
+147,145,7203,1,0,0:0:0:0:
+241,188,7749,1,2,0:0:0:0:
+241,188,9931,1,6,0:0:0:0:
+241,188,11022,1,0,0:0:0:0:
+241,188,11567,1,0,0:0:0:0:
+241,188,12112,1,2,0:0:0:0:
+241,188,13203,1,0,0:0:0:0:
+241,188,14294,1,2,0:0:0:0:
+241,188,15385,1,2,0:0:0:0:
+145,151,15931,1,0,0:0:0:0:
+166,198,16477,1,0,0:0:0:0:
+241,188,18658,1,0,0:0:0:0:
+241,188,19749,1,2,0:0:0:0:
+241,188,20840,1,2,0:0:0:0:
+217,201,21385,1,8,0:0:0:0:
+241,188,21931,1,0,0:0:0:0:
+241,188,23022,1,0,0:0:0:0:
+241,188,23567,1,0,0:0:0:0:
+241,188,24112,1,2,0:0:0:0:
+241,188,25203,1,2,0:0:0:0:
+241,188,25749,1,0,0:0:0:0:
+241,188,26294,1,2,0:0:0:0:
+241,188,27385,1,0,0:0:0:0:
+212,191,28476,1,0,0:0:0:0:
+241,188,29567,1,2,0:0:0:0:
+229,240,30658,1,0,0:0:0:0:
+241,188,31749,1,2,0:0:0:0:
+241,188,32840,1,2,0:0:0:0:
+241,188,33385,1,2,0:0:0:0:
+241,188,33931,1,0,0:0:0:0:
+241,188,35022,1,0,0:0:0:0:
+241,188,35567,1,2,0:0:0:0:

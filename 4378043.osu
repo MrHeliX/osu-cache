@@ -1,0 +1,242 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 210
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 0.9999999
+
+[Metadata]
+Title:Elevator Jam
+TitleUnicode:Elevator Jam
+Artist:LSPLASH
+ArtistUnicode:LSPLASH
+Creator:HimitsuHiketsu
+Version:Intermediate
+Source:DOORS
+Tags:instrumental electronic roblox ost official original video game soundtrack vol. volume 1 rediblesqw lightning_splash lightningsplash indoroid tigerinity ucitysm
+BeatmapID:4378043
+BeatmapSetID:2089156
+
+[Difficulty]
+HPDrainRate:6.5
+CircleSize:4
+OverallDifficulty:6.5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"doors_window.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,210,0,"D#3bass4.ogg",100
+Sample,620,0,"F#5.ogg",100
+Sample,1031,0,"F#3bass4.ogg",100
+Sample,1237,0,"F#5.ogg",100
+Sample,1648,0,"F#3bass2.wav",100
+Sample,2059,0,"F#5.ogg",100
+Sample,2470,0,"D#3bass2.ogg",100
+Sample,2675,0,"A#3bass4.ogg",100
+Sample,3086,0,"F#5.ogg",100
+Sample,3497,0,"C#3bass4.ogg",100
+Sample,3908,0,"F5.ogg",100
+Sample,4319,0,"F3bass4.ogg",100
+Sample,4525,0,"F5.ogg",100
+Sample,4936,0,"F3bass2.ogg",100
+Sample,5346,0,"F5.ogg",100
+Sample,5757,0,"C#3bass2.ogg",100
+Sample,5963,0,"G#3bass4.ogg",100
+Sample,6374,0,"F5.ogg",100
+Sample,6785,0,"B2bass4.ogg",100
+Sample,7196,0,"D#5.ogg",100
+Sample,7607,0,"D#3bass4.ogg",100
+Sample,7812,0,"D#5.ogg",100
+Sample,8223,0,"D#3bass2.ogg",100
+Sample,8634,0,"D#5.ogg",100
+Sample,9045,0,"B2bass2.ogg",100
+Sample,9251,0,"F#3bass4.ogg",100
+Sample,9662,0,"D#5.ogg",100
+Sample,10073,0,"A#2bass4.ogg",100
+Sample,10483,0,"D5.ogg",100
+Sample,10894,0,"D3bass4.ogg",100
+Sample,11100,0,"D5.ogg",100
+Sample,11511,0,"D3bass2.ogg",100
+Sample,11922,0,"D5.ogg",100
+Sample,12333,0,"A#2bass2.ogg",100
+Sample,12538,0,"F3bass3.ogg",100
+Sample,12949,0,"F5.ogg",100
+Sample,12949,0,"D5.ogg",100
+Sample,13155,0,"F3bass2.ogg",100
+Sample,13360,0,"D#3bass4.ogg",100
+Sample,14182,0,"F#3bass4.ogg",100
+Sample,14799,0,"F#3bass2.wav",100
+Sample,15209,0,"A#5.ogg",100
+Sample,15209,0,"F#5.ogg",100
+Sample,15620,0,"D#5.ogg",100
+Sample,15620,0,"D#3bass2.ogg",100
+Sample,15826,0,"D#5.ogg",100
+Sample,15826,0,"A#3bass4.ogg",100
+Sample,16237,0,"A#5.ogg",100
+Sample,16237,0,"F#5.ogg",100
+Sample,16648,0,"C#5.ogg",100
+Sample,16648,0,"C#3bass4.ogg",100
+Sample,17470,0,"F3bass4.ogg",100
+Sample,18086,0,"F3bass2.ogg",100
+Sample,18497,0,"G#5.ogg",100
+Sample,18497,0,"F5.ogg",100
+Sample,18908,0,"C#5.ogg",100
+Sample,18908,0,"C#3bass2.ogg",100
+Sample,19114,0,"C#5.ogg",100
+Sample,19114,0,"G#3bass4.ogg",100
+Sample,19525,0,"G#5.ogg",100
+Sample,19525,0,"F5.ogg",100
+Sample,19936,0,"B4.ogg",100
+Sample,19936,0,"B2bass4.ogg",100
+Sample,20757,0,"D#3bass4.ogg",100
+Sample,21374,0,"D#3bass2.ogg",100
+Sample,22196,0,"B2bass2.ogg",100
+Sample,22401,0,"F#3bass4.ogg",100
+Sample,22812,0,"F#5.ogg",100
+Sample,22812,0,"D#5.ogg",100
+Sample,23018,0,"F#3bass2.ogg",100
+Sample,23223,0,"A#2bass4.ogg",100
+Sample,24045,0,"D3bass4.ogg",100
+Sample,24662,0,"D3bass2.ogg",100
+Sample,25483,0,"A#2bass2.ogg",100
+Sample,25689,0,"F3bass3.ogg",100
+Sample,26511,0,"D#3bass4.ogg",100
+Sample,26922,0,"F#5.ogg",100
+Sample,27333,0,"F#3bass4.ogg",100
+Sample,27538,0,"F#5.ogg",100
+Sample,27949,0,"F#3bass2.ogg",100
+Sample,28360,0,"F#5.ogg",100
+Sample,28771,0,"G#3bass2.ogg",100
+Sample,29182,0,"F3bass3.ogg",100
+Sample,29799,0,"D#3bassalt.ogg",100
+
+[TimingPoints]
+210,410.958904109589,4,2,1,50,1,0
+13360,-100,4,2,1,50,0,1
+26511,-100,4,2,1,50,0,0
+
+
+[HitObjects]
+192,192,210,128,0,620:0:0:0:100:D#5.ogg
+448,192,620,128,0,1031:0:0:0:100:A#5.ogg
+192,192,1031,1,0,0:0:0:100:D#5.ogg
+448,192,1237,128,0,1648:0:0:0:100:A#5.ogg
+192,192,1648,128,0,2059:0:0:0:100:D#5.ogg
+448,192,2059,128,0,2470:0:0:0:100:A#5.ogg
+192,192,2470,1,0,0:0:0:100:D#5.ogg
+192,192,2675,128,0,3086:0:0:0:100:D#5.ogg
+448,192,3086,128,0,3497:0:0:0:100:A#5.ogg
+64,192,3497,128,0,3908:0:0:0:100:C#5.ogg
+320,192,3908,128,0,4319:0:0:0:100:G#5.ogg
+64,192,4319,1,0,0:0:0:100:C#5.ogg
+320,192,4525,128,0,4936:0:0:0:100:G#5.ogg
+64,192,4936,128,0,5346:0:0:0:100:C#5.ogg
+320,192,5346,128,0,5757:0:0:0:100:G#5.ogg
+64,192,5757,1,0,0:0:0:100:C#5.ogg
+64,192,5963,128,0,6374:0:0:0:100:C#5.ogg
+320,192,6374,128,0,6785:0:0:0:100:G#5.ogg
+192,192,6785,128,0,7196:0:0:0:100:B4.ogg
+320,192,7196,128,0,7607:0:0:0:100:F#5.ogg
+192,192,7607,1,0,0:0:0:100:B4.ogg
+320,192,7812,128,0,8223:0:0:0:100:F#5.ogg
+192,192,8223,128,0,8634:0:0:0:100:B4.ogg
+320,192,8634,128,0,9045:0:0:0:100:F#5.ogg
+192,192,9045,1,0,0:0:0:100:B4.ogg
+192,192,9251,128,0,9662:0:0:0:100:B4.ogg
+320,192,9662,128,0,10073:0:0:0:100:F#5.ogg
+64,192,10073,128,0,10483:0:0:0:100:A#4.ogg
+448,192,10483,128,0,10894:0:0:0:100:G#5.ogg
+64,192,10894,1,0,0:0:0:100:A#4.ogg
+448,192,11100,128,0,11511:0:0:0:100:G#5.ogg
+64,192,11511,128,0,11922:0:0:0:100:A#4.ogg
+320,192,11922,128,0,12333:0:0:0:100:F5.ogg
+448,192,12333,1,0,0:0:0:100:A#4.ogg
+448,192,12538,1,0,0:0:0:100:A#4.ogg
+64,192,12744,1,0,0:0:0:100:D#5meow2.ogg
+192,192,12949,1,0,0:0:0:100:F#5meow2.ogg
+320,192,13155,1,0,0:0:0:100:G#5meow2.ogg
+64,192,13360,1,0,0:0:0:100:A#5meow16.ogg
+448,192,13360,128,0,15209:0:0:0:100:D#5.ogg
+64,192,13977,1,0,0:0:0:100:D#3bass2.ogg
+192,192,14182,1,0,0:0:0:100:D#5.ogg
+320,192,14799,1,0,0:0:0:100:D#5.ogg
+192,192,15004,1,0,0:0:0:100:D#3bass4.ogg
+64,192,15209,128,0,15620:0:0:0:100:G#5meow4.ogg
+320,192,15620,1,0,0:0:0:100:F#5meow1.ogg
+192,192,15723,1,0,0:0:0:100:F5meow1.ogg
+64,192,15826,128,0,16237:0:0:0:100:G#5meow4.ogg
+320,192,16237,128,0,16648:0:0:0:100:F#5meow4.ogg
+64,192,16648,1,0,0:0:0:100:F5meow1.ogg
+192,192,16751,1,0,0:0:0:100:D#5meow1.ogg
+320,192,16853,1,0,0:0:0:100:F5meow14.ogg
+448,192,16853,128,0,18292:0:0:0:0:
+192,192,17264,1,0,0:0:0:100:C#3bass2.ogg
+64,192,17470,1,0,0:0:0:100:C#5.ogg
+320,192,18086,1,0,0:0:0:100:C#5.ogg
+64,192,18292,1,0,0:0:0:100:C#3bass4.ogg
+192,192,18497,128,0,18908:0:0:0:100:F#5meow4.ogg
+448,192,18908,1,0,0:0:0:100:F5meow1.ogg
+320,192,19011,1,0,0:0:0:100:D#5meow1.ogg
+64,192,19114,128,0,19525:0:0:0:100:F#5meow4.ogg
+448,192,19525,128,0,19936:0:0:0:100:F5meow4.ogg
+320,192,19936,1,0,0:0:0:100:D#5meow1.ogg
+192,192,20038,1,0,0:0:0:100:C#5meow1.ogg
+64,192,20141,128,0,21579:0:0:0:100:B4meow14.ogg
+448,192,20141,1,0,0:0:0:0:
+320,192,20552,1,0,0:0:0:100:B2bass2.ogg
+448,192,20757,1,0,0:0:0:100:B4.ogg
+320,192,21374,1,0,0:0:0:100:B4.ogg
+192,192,21579,1,0,0:0:0:100:B2bass4.ogg
+448,192,22196,1,0,0:0:0:100:B4.ogg
+320,192,22401,1,0,0:0:0:100:B4.ogg
+64,192,22607,1,0,0:0:0:100:B4meow2.ogg
+192,192,22812,1,0,0:0:0:100:C#5meow2.ogg
+320,192,23018,1,0,0:0:0:100:D#5meow2.ogg
+64,192,23223,128,0,24045:0:0:0:100:F5meow8.ogg
+448,192,23223,1,0,0:0:0:100:A#4.ogg
+320,192,23840,1,0,0:0:0:100:A#2bass2.ogg
+192,192,24045,1,0,0:0:0:100:G#5meow8.ogg
+448,192,24045,128,0,24867:0:0:0:100:A#4.ogg
+192,192,24662,1,0,0:0:0:100:A#4.ogg
+64,192,24867,1,0,0:0:0:100:F#5meow8.ogg
+320,192,24867,128,0,25689:0:0:0:100:A#2bass4.ogg
+64,192,25483,1,0,0:0:0:100:A#4.ogg
+192,192,25689,128,0,26511:0:0:0:100:D5meow8.ogg
+448,192,25689,1,0,0:0:0:100:A#4.ogg
+448,192,26305,1,0,0:0:0:100:F3bass2.ogg
+64,192,26511,1,0,0:0:0:100:D#5meow32.ogg
+320,192,26511,1,0,0:0:0:100:D#5.ogg
+448,192,26922,1,0,0:0:0:100:A#5.ogg
+192,192,27333,1,0,0:0:0:100:A#5.ogg
+320,192,27538,1,0,0:0:0:100:C6.ogg
+192,192,27949,1,0,0:0:0:100:A#5.ogg
+448,192,28360,1,0,0:0:0:100:C#6.ogg
+64,192,28771,1,0,0:0:0:100:D#5.ogg
+320,192,28977,1,0,0:0:0:100:F5.ogg
+192,192,29182,1,0,0:0:0:100:A#4.ogg
+320,192,29388,1,0,0:0:0:100:F5.ogg
+448,192,29799,1,0,0:0:0:100:F#5.ogg
+64,192,30415,128,0,31031:0:0:0:0:

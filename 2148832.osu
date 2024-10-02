@@ -1,0 +1,56 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:bonjour
+TitleUnicode:bonjour
+Artist:WORSTPOLACKEU
+ArtistUnicode:WORSTPOLACKEU
+Creator:Nashia
+Version:grochowka
+Source:twitch
+Tags:
+BeatmapID:2148832
+BeatmapSetID:1027590
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,300,4,1,0,100,1,0
+0,-25,4,1,0,100,0,0
+
+
+[HitObjects]
+14,21,0,6,0,B|123:119|316:51|341:246|70:320|33:134|264:37|519:133|386:66|271:15|109:24|50:256|117:383|270:352|530:283|512:51|408:13|218:31|496:359|14:284|15:363|626:6,1,1260

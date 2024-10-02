@@ -1,0 +1,560 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.ogg
+AudioLeadIn: 0
+PreviewTime: 38391
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.5
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 0.8
+
+[Metadata]
+Title:Sailing Force
+TitleUnicode:Sailing Force
+Artist:penoreri
+ArtistUnicode:ぺのれり
+Creator:ML-ysg
+Version:hyahya's BASIC
+Source:SOUND VOLTEX IV HEAVENLY HAVEN
+Tags:electronic instrumental sdvx オリジナル楽曲コンテスト The 6th KAC Original Song Contest excellence award lovely_hyahya video game konami
+BeatmapID:4123812
+BeatmapSetID:1985368
+
+[Difficulty]
+HPDrainRate:6.5
+CircleSize:4
+OverallDifficulty:6.5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"sf.jpg",0,0
+//Break Periods
+2,69629,70870
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+Sample,7542,0,"cymbal.wav",55
+Sample,7825,0,"cymbal.wav",55
+Sample,8108,0,"cymbal.wav",55
+Sample,8391,0,"cymbal.wav",55
+Sample,8674,0,"cymbal.wav",55
+Sample,8863,0,"cymbal.wav",55
+Sample,9240,0,"boom.wav",55
+Sample,13768,0,"drums.wav",45
+Sample,15089,0,"drums.wav",45
+Sample,19617,0,"cymbal.wav",55
+Sample,19900,0,"cymbal.wav",55
+Sample,20183,0,"lowdrum.wav",45
+Sample,20466,0,"sel_l.wav",45
+Sample,20655,0,"sel_l.wav",45
+Sample,20844,0,"sel_l.wav",45
+Sample,21693,0,"cymbal.wav",55
+Sample,26410,0,"cymbal.wav",55
+Sample,27164,0,"cymbal.wav",55
+Sample,27353,0,"sel_l.wav",45
+Sample,28485,0,"sel_l.wav",45
+Sample,28863,0,"sel_l.wav",45
+Sample,29995,0,"sel_l.wav",45
+Sample,30183,0,"cymbal.wav",55
+Sample,30372,0,"sel_l.wav",45
+Sample,31504,0,"sel_l.wav",45
+Sample,31693,0,"cymbal.wav",55
+Sample,31881,0,"sel_l.wav",45
+Sample,32447,0,"cymbal.wav",55
+Sample,32730,0,"sel_l.wav",45
+Sample,32919,0,"sel_l.wav",45
+Sample,33391,0,"boom.wav",55
+Sample,33957,0,"cymbal.wav",55
+Sample,34240,0,"cymbal.wav",55
+Sample,34523,0,"snare.wav",30
+Sample,34900,0,"sel_l.wav",45
+Sample,35183,0,"cymbal.wav",55
+Sample,35466,0,"cymbal.wav",55
+Sample,35749,0,"cymbal.wav",55
+Sample,36032,0,"cymbal.wav",55
+Sample,39051,0,"boom.wav",55
+Sample,44146,0,"cymbal.wav",55
+Sample,45278,0,"cymbal.wav",55
+Sample,45844,0,"cymbal.wav",55
+Sample,47353,0,"cymbal.wav",55
+Sample,49051,0,"cymbal.wav",55
+Sample,49806,0,"cymbal.wav",55
+Sample,50183,0,"cymbal.wav",55
+Sample,50561,0,"cymbal.wav",55
+Sample,50844,0,"cymbal.wav",55
+Sample,56221,0,"cymbal.wav",55
+Sample,57353,0,"cymbal.wav",55
+Sample,57919,0,"cymbal.wav",55
+Sample,59995,0,"drums.wav",45
+Sample,60372,0,"drums.wav",45
+Sample,64900,0,"cymbal.wav",55
+Sample,65466,0,"cymbal.wav",55
+Sample,66410,0,"cymbal.wav",55
+Sample,66410,0,"drums.wav",45
+Sample,67164,0,"cymbal.wav",55
+Sample,67919,0,"lowdrum.wav",45
+Sample,68297,0,"boom.wav",55
+Sample,81504,0,"cymbal.wav",55
+Sample,84523,0,"cymbal.wav",55
+Sample,87542,0,"cymbal.wav",55
+Sample,87919,0,"snare.wav",30
+Sample,90561,0,"boom.wav",55
+Sample,91127,0,"cymbal.wav",55
+Sample,92636,0,"cymbal.wav",55
+Sample,93863,0,"cymbal.wav",55
+Sample,94146,0,"cymbal.wav",55
+Sample,94334,0,"cymbal.wav",55
+Sample,94617,0,"cymbal.wav",55
+Sample,94900,0,"cymbal.wav",55
+Sample,95089,0,"cymbal.wav",55
+Sample,99837,0,"boom.wav",55
+Sample,100222,0,"cymbal.wav",55
+Sample,100222,0,"drums.wav",45
+Sample,106259,0,"cymbal.wav",55
+Sample,106259,0,"drums.wav",45
+Sample,107014,0,"cymbal.wav",55
+Sample,107769,0,"cymbal.wav",55
+Sample,108523,0,"cymbal.wav",55
+Sample,109278,0,"cymbal.wav",55
+Sample,109278,0,"drums.wav",45
+Sample,109561,0,"cymbal.wav",55
+Sample,109844,0,"cymbal.wav",55
+Sample,110127,0,"cymbal.wav",55
+Sample,110410,0,"cymbal.wav",55
+Sample,110693,0,"cymbal.wav",55
+Sample,110976,0,"cymbal.wav",55
+Sample,111259,0,"cymbal.wav",55
+Sample,111542,0,"cymbal.wav",55
+Sample,111825,0,"cymbal.wav",55
+Sample,112108,0,"cymbal.wav",55
+Sample,113806,0,"cymbal.wav",55
+Sample,115033,0,"sel_l.wav",45
+Sample,115222,0,"sel_l.wav",45
+
+[TimingPoints]
+3014,377.358490566038,4,2,1,50,1,0
+39240,-100.0,4,2,1,50,0,1
+69429,-100.0,4,2,1,50,0,0
+81504,-100.0,4,2,1,50,0,1
+95089,458.015267175573,4,2,1,50,1,0
+95089,-82.6446280991736,4,2,1,50,0,0
+96463,545.454545454546,4,2,1,50,1,0
+96463,-68.9655172413793,4,2,1,50,0,0
+97008,416.666666666667,4,2,1,50,1,0
+97008,-90.9090909090909,4,2,1,50,0,0
+98674,389.61038961039,4,2,1,50,1,0
+98674,-97.0873786407767,4,2,1,50,0,0
+99453,384.615384615385,4,2,1,50,1,0
+99453,-98.0392156862745,4,2,1,50,0,0
+100222,377.358490566038,4,2,1,50,1,1
+115316,-100.0,4,2,1,50,0,0
+
+[HitObjects]
+64,192,3013,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,3013,1,0,0:0:0:70:cymbal.wav
+448,192,3202,1,0,0:0:0:0:
+192,192,3485,1,0,0:0:0:0:
+320,192,3768,1,0,0:0:0:0:
+64,192,4051,1,0,0:0:0:0:
+448,192,4240,1,0,0:0:0:0:
+448,192,4523,1,0,0:0:0:0:
+192,192,4806,1,0,0:0:0:0:
+320,192,5089,1,0,0:0:0:0:
+64,192,5278,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,5278,1,0,0:0:0:55:cymbal.wav
+192,192,5655,1,0,0:0:0:30:snare.wav
+64,192,5844,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,5844,1,0,0:0:0:55:cymbal.wav
+64,192,6221,1,0,0:0:0:0:
+320,192,6504,1,0,0:0:0:0:
+192,192,6787,1,0,0:0:0:0:
+448,192,7070,1,0,0:0:0:0:
+64,192,7259,1,0,0:0:0:0:
+192,192,7542,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,7825,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,8108,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,8391,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,8674,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,8863,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,9240,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,9240,1,0,0:0:0:55:cymbal.wav
+448,192,9806,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,10183,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,10372,1,0,0:0:0:0:
+448,192,10561,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,10844,1,0,0:0:0:0:
+448,192,11127,1,0,0:0:0:0:
+320,192,11315,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,11598,1,0,0:0:0:0:
+64,192,11881,1,0,0:0:0:45:lowdrum.wav
+320,192,12070,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,12070,1,0,0:0:0:55:cymbal.wav
+64,192,12636,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,12636,1,0,0:0:0:55:cymbal.wav
+192,192,13202,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,13202,1,0,0:0:0:55:cymbal.wav
+64,192,13768,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,13957,1,0,0:0:0:45:drums.wav
+320,192,14240,1,0,0:0:0:45:drums.wav
+448,192,14429,1,0,0:0:0:45:drums.wav
+192,192,14617,1,0,0:0:0:45:drums.wav
+320,192,14900,1,0,0:0:0:45:drums.wav
+64,192,15089,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,15089,1,0,0:0:0:55:cymbal.wav
+192,192,15372,1,0,0:0:0:0:
+320,192,15655,128,0,16221:0:0:0:30:snare.wav
+64,192,16221,128,0,16598:0:0:0:0:
+448,192,16598,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,16881,1,0,0:0:0:0:
+192,192,17070,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,17259,1,0,0:0:0:0:
+448,192,17542,1,0,0:0:0:30:snare.wav
+64,192,17919,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,17919,1,0,0:0:0:55:cymbal.wav
+448,192,18202,1,0,0:0:0:0:
+320,192,18485,128,0,18863:0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,18863,128,0,19240:0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,19240,128,0,19617:0:0:0:0:
+320,192,19617,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,19900,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,20183,1,0,0:0:0:55:cymbal.wav
+448,192,20466,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,20655,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,20844,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,21127,128,0,23014:0:0:0:45:lowdrum.wav
+192,192,21693,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,22070,1,0,0:0:0:30:snare.wav
+64,192,22447,1,0,0:0:0:30:snare.wav
+64,192,22825,1,0,0:0:0:30:snare.wav
+64,192,23202,1,0,0:0:0:30:snare.wav
+192,192,23391,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,23674,1,0,0:0:0:0:
+448,192,23957,1,0,0:0:0:30:snare.wav
+64,192,24146,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,24146,1,0,0:0:0:55:cymbal.wav
+320,192,24523,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,24523,1,0,0:0:0:55:cymbal.wav
+64,192,24900,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,24900,1,0,0:0:0:55:cymbal.wav
+192,192,25278,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,25278,1,0,0:0:0:55:cymbal.wav
+64,192,25655,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,25655,1,0,0:0:0:55:cymbal.wav
+320,192,26032,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,26032,1,0,0:0:0:55:cymbal.wav
+64,192,26410,128,0,26787:0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,26787,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,26787,1,0,0:0:0:55:boom.wav
+64,192,27164,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,27353,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,27542,1,0,0:0:0:30:snare.wav
+448,192,27919,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,28297,1,0,0:0:0:30:snare.wav
+448,192,28485,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,28674,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,28863,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,29051,1,0,0:0:0:30:snare.wav
+448,192,29429,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,29806,1,0,0:0:0:30:snare.wav
+320,192,29995,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,30183,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,30372,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,30561,1,0,0:0:0:30:snare.wav
+448,192,30938,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,31315,1,0,0:0:0:30:snare.wav
+192,192,31504,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,31693,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,31881,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,32070,1,0,0:0:0:30:snare.wav
+64,192,32447,1,0,0:0:0:30:snare.wav
+192,192,32730,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,32919,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,33108,1,0,0:0:0:0:
+64,192,33391,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,33391,1,0,0:0:0:55:cymbal.wav
+320,192,33674,1,0,0:0:0:45:lowdrum.wav
+192,192,33957,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,34240,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,34523,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,34712,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,34900,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,35183,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,35466,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,35749,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,36032,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,36221,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,36221,1,0,0:0:0:30:snare.wav
+192,192,36787,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,36787,1,0,0:0:0:30:snare.wav
+320,192,37353,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,37353,128,0,37730:0:0:0:0:
+64,192,37730,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,37730,1,0,0:0:0:55:cymbal.wav
+320,192,38485,1,0,0:0:0:0:
+192,192,38768,1,0,0:0:0:0:
+448,192,39051,1,0,0:0:0:30:snare.wav
+64,192,39240,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,39240,1,0,0:0:0:55:cymbal.wav
+448,192,39429,1,0,0:0:0:30:snare.wav
+192,192,39617,1,0,0:0:0:0:
+64,192,39995,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,40278,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,40561,1,0,0:0:0:30:snare.wav
+448,192,40749,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,40938,1,0,0:0:0:30:snare.wav
+320,192,41127,1,0,0:0:0:0:
+448,192,41504,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,41787,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,42070,1,0,0:0:0:30:snare.wav
+64,192,42259,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,42447,1,0,0:0:0:30:snare.wav
+192,192,42636,1,0,0:0:0:0:
+64,192,43014,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,43297,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,43580,1,0,0:0:0:30:snare.wav
+448,192,43768,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,43957,1,0,0:0:0:30:snare.wav
+320,192,44146,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,44523,128,0,45278:0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,45278,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,45466,1,0,0:0:0:30:snare.wav
+64,192,45655,1,0,0:0:0:0:
+320,192,45844,1,0,0:0:0:30:snare.wav
+192,192,46221,1,0,0:0:0:30:snare.wav
+448,192,46410,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,46598,1,0,0:0:0:30:snare.wav
+64,192,46787,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,47070,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,47353,1,0,0:0:0:30:snare.wav
+448,192,47730,1,0,0:0:0:30:snare.wav
+192,192,47919,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,48108,1,0,0:0:0:30:snare.wav
+64,192,48297,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,48580,128,0,49051:0:0:0:0:
+64,192,49051,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,49334,1,0,0:0:0:0:
+192,192,49617,1,0,0:0:0:30:snare.wav
+448,192,49806,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,50183,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,50561,1,0,0:0:0:30:snare.wav
+192,192,50844,1,0,0:0:0:30:snare.wav
+64,192,51127,1,0,0:0:0:55:boom.wav
+320,192,51315,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,51315,1,0,0:0:0:55:cymbal.wav
+192,192,51504,1,0,0:0:0:30:snare.wav
+448,192,51693,1,0,0:0:0:0:
+448,192,52070,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,52353,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,52636,1,0,0:0:0:30:snare.wav
+64,192,52825,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,53014,1,0,0:0:0:30:snare.wav
+64,192,53202,1,0,0:0:0:0:
+64,192,53580,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,53863,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,54146,1,0,0:0:0:30:snare.wav
+448,192,54334,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,54617,1,0,0:0:0:0:
+320,192,54900,1,0,0:0:0:30:snare.wav
+64,192,55089,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,55372,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,55655,1,0,0:0:0:30:snare.wav
+448,192,55844,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,56032,1,0,0:0:0:30:snare.wav
+448,192,56221,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,56598,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,56598,1,0,0:0:0:0:
+320,192,56881,1,0,0:0:0:30:snare.wav
+192,192,57164,1,0,0:0:0:45:lowdrum.wav
+448,192,57353,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,57542,1,0,0:0:0:30:snare.wav
+320,192,57919,1,0,0:0:0:30:snare.wav
+64,192,58108,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,58297,1,0,0:0:0:30:snare.wav
+192,192,58485,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,58863,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,59240,1,0,0:0:0:0:
+64,192,59617,128,0,59995:0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,59995,128,0,60372:0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,60372,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,60372,1,0,0:0:0:55:cymbal.wav
+448,192,60749,1,0,0:0:0:30:snare.wav
+64,192,60938,1,0,0:0:0:45:sel_l.wav
+448,192,61127,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,61410,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,61693,1,0,0:0:0:45:sel_l.wav
+64,192,61881,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,61881,1,0,0:0:0:0:
+64,192,62259,1,0,0:0:0:30:snare.wav
+448,192,62447,1,0,0:0:0:45:sel_l.wav
+64,192,62636,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,62919,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,63202,1,0,0:0:0:45:sel_l.wav
+64,192,63391,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,63391,1,0,0:0:0:55:cymbal.wav
+448,192,63768,1,0,0:0:0:30:snare.wav
+64,192,63957,128,0,64900:0:0:0:45:sel_l.wav
+448,192,64146,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,64523,1,0,0:0:0:30:snare.wav
+448,192,64900,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,65183,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,65466,1,0,0:0:0:30:snare.wav
+64,192,65844,1,0,0:0:0:45:drums.wav
+320,192,66032,1,0,0:0:0:45:drums.wav
+192,192,66410,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,66693,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,66976,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,67164,1,0,0:0:0:30:snare.wav
+448,192,67353,128,0,67919:0:0:0:0:
+64,192,67919,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,68297,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,68297,1,0,0:0:0:55:cymbal.wav
+448,192,68674,1,0,0:0:0:0:
+320,192,69051,1,0,0:0:0:0:
+64,192,69429,1,0,0:0:0:0:
+192,192,72070,1,0,0:0:0:0:
+320,192,72447,1,0,0:0:0:0:
+64,192,73957,1,0,0:0:0:0:
+320,192,75466,1,0,0:0:0:0:
+448,192,76976,1,0,0:0:0:0:
+320,192,77542,1,0,0:0:0:0:
+192,192,78108,1,0,0:0:0:0:
+192,192,78485,1,0,0:0:0:0:
+64,192,79051,1,0,0:0:0:0:
+320,192,79995,1,0,0:0:0:0:
+64,192,80278,1,0,0:0:0:0:
+192,192,80561,1,0,0:0:0:0:
+448,192,80938,1,0,0:0:0:0:
+320,192,81127,1,0,0:0:0:55:boom.wav
+192,192,81315,1,0,0:0:0:0:
+64,192,81504,128,0,81881:0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,81881,128,0,82259:0:0:0:0:
+64,192,82259,1,0,0:0:0:30:snare.wav
+192,192,82259,128,0,82636:0:0:0:0:
+448,192,82636,128,0,83014:0:0:0:0:
+64,192,83014,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,83391,1,0,0:0:0:0:
+320,192,83768,1,0,0:0:0:30:snare.wav
+448,192,83768,1,0,0:0:0:0:
+192,192,84146,1,0,0:0:0:0:
+448,192,84523,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,84900,1,0,0:0:0:0:
+64,192,85278,1,0,0:0:0:30:snare.wav
+192,192,85278,1,0,0:0:0:55:cymbal.wav
+320,192,85655,1,0,0:0:0:0:
+448,192,86032,128,0,86410:0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,86410,128,0,86787:0:0:0:0:
+320,192,86787,1,0,0:0:0:30:snare.wav
+448,192,86787,1,0,0:0:0:55:cymbal.wav
+64,192,87070,1,0,0:0:0:45:drums.wav
+320,192,87353,1,0,0:0:0:45:lowdrum.wav
+192,192,87542,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,87919,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,88297,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,88485,1,0,0:0:0:0:
+192,192,88674,1,0,0:0:0:30:snare.wav
+320,192,88863,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,88863,1,0,0:0:0:55:cymbal.wav
+64,192,89240,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,89429,1,0,0:0:0:30:snare.wav
+192,192,89806,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,90183,1,0,0:0:0:30:snare.wav
+64,192,90372,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,90561,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,90561,1,0,0:0:0:55:cymbal.wav
+192,192,90844,1,0,0:0:0:30:snare.wav
+448,192,91127,128,0,91693:0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,91693,1,0,0:0:0:30:snare.wav
+192,192,91881,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,92070,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,92353,1,0,0:0:0:30:snare.wav
+320,192,92636,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,92825,1,0,0:0:0:0:
+192,192,93202,1,0,0:0:0:30:snare.wav
+448,192,93391,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,93580,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,93863,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,94146,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,94334,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,94617,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,94900,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,95089,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,95547,1,0,0:0:0:55:cymbal.wav
+320,192,96005,1,0,0:0:0:0:
+192,192,96463,1,0,0:0:0:0:
+64,192,97008,1,0,0:0:0:55:cymbal.wav
+192,192,97841,1,0,0:0:0:0:
+448,192,98674,1,0,0:0:0:0:
+192,192,98868,1,0,0:0:0:45:drums.wav
+320,192,99063,1,0,0:0:0:45:drums.wav
+64,192,99258,1,0,0:0:0:45:drums.wav
+448,192,99453,128,0,99837:0:0:0:45:drums.wav
+64,192,99837,128,0,100222:0:0:0:45:drums.wav
+448,192,100222,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,100410,1,0,0:0:0:30:snare.wav
+448,192,100599,1,0,0:0:0:0:
+192,192,100788,1,0,0:0:0:30:snare.wav
+64,192,101165,1,0,0:0:0:30:snare.wav
+448,192,101542,1,0,0:0:0:30:snare.wav
+64,192,101731,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,101920,1,0,0:0:0:30:snare.wav
+64,192,102108,1,0,0:0:0:0:
+320,192,102297,1,0,0:0:0:30:snare.wav
+192,192,102674,1,0,0:0:0:30:snare.wav
+448,192,103052,1,0,0:0:0:30:snare.wav
+192,192,103240,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,103429,1,0,0:0:0:30:snare.wav
+320,192,103618,1,0,0:0:0:0:
+192,192,103806,1,0,0:0:0:30:snare.wav
+320,192,104184,1,0,0:0:0:30:snare.wav
+64,192,104561,1,0,0:0:0:30:snare.wav
+320,192,104750,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,104938,1,0,0:0:0:30:snare.wav
+192,192,105127,1,0,0:0:0:0:
+320,192,105316,1,0,0:0:0:30:snare.wav
+448,192,105693,128,0,106259:0:0:0:45:drums.wav
+192,192,106259,128,0,106637:0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,106637,128,0,107014:0:0:0:0:
+64,192,107014,128,0,107391:0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,107391,128,0,107769:0:0:0:0:
+320,192,107769,128,0,108146:0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,108146,128,0,108523:0:0:0:0:
+192,192,108523,128,0,108901:0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,108901,128,0,109278:0:0:0:0:
+192,192,109278,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,109561,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,109844,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,110127,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,110410,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,110693,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,110976,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,111259,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+192,192,111542,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,111825,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+64,192,112108,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+320,192,112486,1,0,0:0:0:45:drums.wav
+64,192,112769,128,0,113429:0:0:0:45:drums.wav
+448,192,113429,1,0,0:0:0:45:drums.wav
+64,192,113806,1,0,0:0:0:30:snare.wav
+320,192,113995,1,0,0:0:0:45:lowdrum.wav
+192,192,114184,1,0,0:0:0:45:drums.wav
+192,192,114467,1,0,0:0:0:45:drums.wav
+192,192,114750,1,0,0:0:0:45:drums.wav
+320,192,115033,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav
+448,192,115222,1,0,0:0:0:55:LR_Drum Kick Wet Fast.wav

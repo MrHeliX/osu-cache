@@ -13,7 +13,7 @@ WidescreenStoryboard: 0
 
 [Editor]
 DistanceSpacing: 0.8
-BeatDivisor: 4
+BeatDivisor: 16
 GridSize: 32
 TimelineZoom: 2.799999
 
@@ -25,12 +25,12 @@ ArtistUnicode:LeaF
 Creator:Maeda
 Version:Hell Oni
 Source:東方音弾遊戯5
-Tags:Touhou Ondan Yugi 5 東方Project Touhou 少女が見た日本の原風景 The Primal Scene of Japan the Girl Saw Sanae Kochiya 東風谷 早苗 東方風神録 ～ Mountain of Faith ZUN remix arrange Emotional Hardcore Techno featured artist fa electronic instrumental komasy kurokurokuro roxy- uranosu1030
+Tags:Touhou Ondan Yugi 5 東方Project 東方 Project 少女が見た日本の原風景 The Primal Scene of Japan the Girl shoujo ga mita nihon no genfuukei shojo mof fuujinroku team shanghai alice th10 Saw Sanae Kochiya 東風谷 早苗 東方風神録　～ Mountain of Faith. ZUN remix arrange Emotional Hardcore Techno featured artist fa electronic instrumental yuugi bms komasy kurokurokuro roxy- uranosu1030
 BeatmapID:3710839
 BeatmapSetID:1809241
 
 [Difficulty]
-HPDrainRate:5
+HPDrainRate:6
 CircleSize:5
 OverallDifficulty:7
 ApproachRate:5
@@ -52,18 +52,26 @@ SliderTickRate:1
 1338,300,4,1,0,60,1,0
 1338,-125,4,1,0,60,0,0
 2463,-100,4,1,0,80,0,0
+4638,-83.3333333333333,4,1,0,80,0,0
+4938,-100,4,1,0,80,0,0
 10863,-83.3333333333333,4,1,0,80,0,0
 11763,-100,4,1,0,80,0,0
 21663,-111.111111111111,4,1,0,60,0,0
 26463,-100,4,1,0,80,0,0
 36063,-83.3333333333333,4,1,0,80,0,0
 36963,-100,4,1,0,80,0,0
+39438,-83.3333333333333,4,1,0,80,0,0
+39663,-100,4,1,0,80,0,0
 47088,-125,4,1,0,60,0,0
 51663,-100,4,1,0,80,0,0
 57663,-86.9565217391304,4,1,0,100,0,0
 57738,-86.9565217391304,4,1,0,100,0,1
 76863,-100,4,1,0,80,0,1
 76938,-100,4,1,0,80,0,0
+78963,-83.3333333333333,4,1,0,80,0,0
+79263,-100,4,1,0,80,0,0
+93438,-83.3333333333333,4,1,0,80,0,0
+93663,-100,4,1,0,80,0,0
 102063,-100,4,1,0,100,0,0
 102138,-95.2380952380952,4,1,0,100,0,1
 121338,-95.2380952380952,4,1,0,100,0,0

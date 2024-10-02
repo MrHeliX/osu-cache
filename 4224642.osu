@@ -25,7 +25,7 @@ ArtistUnicode:X2N_
 Creator:Mizunashi Akari
 Version:dragonicz's extra
 Source:素晴らしき日々～不連続存在～
-Tags:dragonicz john mapping yeastiest phynta jasontime12345 mirash 終末の微笑 shuumatsu no bishou はな hana szak 07-20-2012-1999 07/20/2012-1999 脇眞富 masatomi waki にえぬ nienu marmalade butcher rock japanese jrock j-rock subahibi subarashiki hibi furenzoku sonzai eroge sca自 sca-ji ケロq keroq wonderful everyday discontinuous existence diskontinuierliches dasein minakami yuki
+Tags:dragonicz john mapping yeastiest phynta jasontime12345 mirash 終末の微笑 shuumatsu no bishou はな hana szak 07-20-2012-1999 07/20/2012-1999 脇眞富 masatomi waki にえぬ nienu marmalade butcher rock japanese jrock j-rock subahibi subarashiki hibi furenzoku sonzai eroge sca自 sca-ji ケロq keroq wonderful everyday discontinuous existence diskontinuierliches dasein minakami yuki shoegaze
 BeatmapID:4224642
 BeatmapSetID:2006974
 
@@ -227,6 +227,7 @@ SliderTickRate:1
 93453,-45.4545454545455,4,2,1,70,0,0
 95103,-40,4,2,1,70,0,0
 95703,-45.4545454545455,4,2,1,70,0,0
+97503,300,5,2,1,70,1,0
 97503,-500,4,2,1,70,0,0
 97578,-500,4,2,2,30,0,0
 100428,-500,4,2,3,70,0,0
@@ -237,10 +238,12 @@ SliderTickRate:1
 106428,-500,4,2,1,40,0,0
 107103,303.030303030303,5,2,1,40,1,0
 107103,-100,5,2,1,40,0,0
+108012,303.030303030303,5,2,1,40,1,0
 109527,297.029702970297,5,2,1,40,1,0
 109527,-500,5,2,1,40,0,0
 110715,300,5,2,1,40,1,0
 110715,-100,5,2,1,40,0,0
+111015,300,5,2,1,40,1,0
 111465,-500,5,2,1,40,0,0
 112515,300,5,2,1,40,1,0
 112515,-500,5,2,1,40,0,0

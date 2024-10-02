@@ -1,0 +1,55 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 53633
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 2.899999
+
+[Metadata]
+Title:Fiat Lux
+TitleUnicode:Fiat Lux
+Artist:xi
+ArtistUnicode:xi
+Creator:Shinora-
+Version:Normal
+Source:SOUND VOLTEX II -infinite infection-
+Tags:
+BeatmapID:1255210
+BeatmapSetID:566955
+
+[Difficulty]
+HPDrainRate:7.7
+CircleSize:7
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"lEDanrF.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+983,300,4,2,0,15,1,0
+
+
+[HitObjects]

@@ -1,0 +1,952 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 117512
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1.3
+
+[Metadata]
+Title:THE ULTIMACY
+TitleUnicode:THE ULTIMACY
+Artist:aran vs. Massive New Krew
+ArtistUnicode:aran vs. Massive New Krew
+Creator:[Andre]
+Version:Past
+Source:Arcaea
+Tags:video game instrumental electronic rhythm hardcore tano*c tanoc jcore j-core collaboration lowiro limited TCDR-0103 sound collection memories of wrath IROCD-005 memory archive
+BeatmapID:3125245
+BeatmapSetID:1527687
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+Sample,11085,0,"LR_Drum Hit P2.wav",70
+Sample,11235,0,"LR_Drum Hit P2.wav",70
+Sample,14985,0,"soft-hitwhistle.wav",0
+Sample,16785,0,"soft-hitwhistle.wav",0
+Sample,16860,0,"soft-hitwhistle.wav",0
+Sample,17160,0,"soft-hitwhistle.wav",0
+Sample,17160,0,"soft-hitfinish.wav",0
+Sample,17385,0,"soft-hitwhistle.wav",0
+Sample,19035,0,"LR_Snare Med Wet.wav",70
+Sample,19072,0,"soft-hitwhistle.wav",0
+Sample,19110,0,"soft-hitwhistle.wav",0
+Sample,19147,0,"soft-hitwhistle.wav",0
+Sample,19185,0,"soft-hitwhistle.wav",0
+Sample,19222,0,"soft-hitwhistle.wav",0
+Sample,19260,0,"soft-hitwhistle.wav",0
+Sample,19297,0,"soft-hitwhistle.wav",0
+Sample,19335,0,"LR_Snare Med Wet.wav",70
+Sample,19635,0,"LR_Snare Med Wet.wav",70
+Sample,19935,0,"LR_Snare Med Wet.wav",70
+Sample,20235,0,"LR_Snare Med Wet.wav",70
+Sample,20385,0,"soft-hitwhistle.wav",0
+Sample,20535,0,"LR_Snare Med Wet.wav",70
+Sample,20835,0,"LR_Snare Med Wet.wav",70
+Sample,21135,0,"LR_Snare Med Wet.wav",70
+Sample,21435,0,"LR_Snare Med Wet.wav",70
+Sample,21735,0,"LR_Snare Med Wet.wav",70
+Sample,21885,0,"soft-hitwhistle.wav",0
+Sample,21922,0,"soft-hitwhistle.wav",0
+Sample,21960,0,"soft-hitwhistle.wav",0
+Sample,21997,0,"soft-hitwhistle.wav",0
+Sample,22035,0,"LR_Snare Med Wet.wav",70
+Sample,22185,0,"soft-hitwhistle.wav",0
+Sample,22222,0,"soft-hitwhistle.wav",0
+Sample,22260,0,"soft-hitwhistle.wav",0
+Sample,22297,0,"soft-hitwhistle.wav",0
+Sample,22335,0,"LR_Snare Med Wet.wav",70
+Sample,22410,0,"soft-hitwhistle.wav",0
+Sample,22560,0,"soft-hitwhistle.wav",0
+Sample,22635,0,"LR_Snare Med Wet.wav",70
+Sample,22710,0,"soft-hitwhistle.wav",0
+Sample,22860,0,"soft-hitwhistle.wav",0
+Sample,28710,0,"soft-hitwhistle.wav",0
+Sample,28785,0,"soft-hitwhistle.wav",0
+Sample,28822,0,"soft-hitwhistle.wav",0
+Sample,28860,0,"soft-hitwhistle.wav",0
+Sample,28897,0,"soft-hitwhistle.wav",0
+Sample,33585,0,"soft-hitwhistle.wav",0
+Sample,33660,0,"soft-hitwhistle.wav",0
+Sample,40410,0,"soft-hitwhistle.wav",0
+Sample,40485,0,"soft-hitwhistle.wav",0
+Sample,40560,0,"soft-hitwhistle.wav",0
+Sample,42210,0,"LR_Snare Med Wet.wav",70
+Sample,42285,0,"LR_Snare Med Wet.wav",70
+Sample,42360,0,"LR_Snare Med Wet.wav",70
+Sample,42510,0,"LR_Snare Med Wet.wav",70
+Sample,42585,0,"LR_Snare Med Wet.wav",70
+Sample,42660,0,"LR_Snare Med Wet.wav",70
+Sample,42810,0,"LR_Snare Med Wet.wav",70
+Sample,42885,0,"LR_Snare Med Wet.wav",70
+Sample,42960,0,"LR_Snare Med Wet.wav",70
+Sample,43110,0,"soft-hitwhistle.wav",0
+Sample,43185,0,"soft-hitwhistle.wav",0
+Sample,43260,0,"soft-hitwhistle.wav",0
+Sample,44385,0,"soft-hitwhistle.wav",0
+Sample,46185,0,"soft-hitwhistle.wav",0
+Sample,46222,0,"soft-hitwhistle.wav",0
+Sample,46260,0,"soft-hitwhistle.wav",0
+Sample,46297,0,"soft-hitwhistle.wav",0
+Sample,47160,0,"soft-hitwhistle.wav",0
+Sample,47160,0,"soft-hitfinish.wav",0
+Sample,47610,0,"soft-hitwhistle.wav",0
+Sample,47610,0,"soft-hitfinish.wav",0
+Sample,48585,0,"soft-hitwhistle.wav",0
+Sample,49260,0,"soft-hitwhistle.wav",0
+Sample,49485,0,"soft-hitwhistle.wav",0
+Sample,50235,0,"soft-hitclap.wav",0
+Sample,50235,0,"soft-hitwhistle.wav",0
+Sample,50435,0,"soft-hitwhistle.wav",0
+Sample,50485,0,"soft-hitwhistle.wav",0
+Sample,50610,0,"soft-hitwhistle.wav",0
+Sample,50685,0,"soft-hitwhistle.wav",0
+Sample,50760,0,"soft-hitwhistle.wav",0
+Sample,51210,0,"soft-hitwhistle.wav",0
+Sample,51285,0,"soft-hitwhistle.wav",0
+Sample,51360,0,"soft-hitwhistle.wav",0
+Sample,51810,0,"soft-hitwhistle.wav",0
+Sample,51885,0,"soft-hitwhistle.wav",0
+Sample,51960,0,"soft-hitwhistle.wav",0
+Sample,52035,0,"soft-hitwhistle.wav",0
+Sample,52110,0,"soft-hitwhistle.wav",0
+Sample,52185,0,"soft-hitwhistle.wav",0
+Sample,52260,0,"soft-hitwhistle.wav",0
+Sample,52410,0,"soft-hitwhistle.wav",0
+Sample,52485,0,"soft-hitwhistle.wav",0
+Sample,52560,0,"soft-hitwhistle.wav",0
+Sample,52635,0,"soft-hitwhistle.wav",0
+Sample,52710,0,"soft-hitwhistle.wav",0
+Sample,52785,0,"soft-hitwhistle.wav",0
+Sample,52860,0,"soft-hitwhistle.wav",0
+Sample,53535,0,"fingersnap_G#_major.wav",70
+Sample,54735,0,"fingersnap_G#_major.wav",70
+Sample,55935,0,"fingersnap_G#_major.wav",70
+Sample,57135,0,"fingersnap_G#_major.wav",70
+Sample,58335,0,"fingersnap_G#_major.wav",70
+Sample,59535,0,"fingersnap_G#_major.wav",70
+Sample,61535,0,"LR_Tom Hit.wav",70
+Sample,61635,0,"LR_Tom Hit.wav",70
+Sample,61835,0,"LR_Tom Hit.wav",70
+Sample,61935,0,"fingersnap_G#_major.wav",70
+Sample,62235,0,"LR_Drum Hit P2.wav",70
+Sample,63135,0,"soft-hitclap.wav",0
+Sample,64335,0,"soft-hitclap.wav",0
+Sample,65235,0,"soft-hitwhistle.wav",0
+Sample,66035,0,"soft-hitwhistle.wav",0
+Sample,66435,0,"soft-hitwhistle.wav",0
+Sample,66935,0,"LR_Drum Hit P2.wav",70
+Sample,67135,0,"LR_Tom Hit.wav",70
+Sample,67935,0,"soft-hitclap.wav",0
+Sample,68835,0,"soft-hitwhistle.wav",0
+Sample,69135,0,"soft-hitclap.wav",0
+Sample,69935,0,"soft-hitwhistle.wav",0
+Sample,70035,0,"soft-hitclap.wav",0
+Sample,70535,0,"soft-hitwhistle.wav",0
+Sample,70635,0,"soft-hitclap.wav",0
+Sample,70835,0,"soft-hitwhistle.wav",0
+Sample,71235,0,"soft-hitclap.wav",0
+Sample,71235,0,"soft-hitwhistle.wav",0
+Sample,71635,0,"soft-hitclap.wav",0
+Sample,71735,0,"LR_Tom Hit.wav",70
+Sample,71935,0,"soft-hitwhistle.wav",0
+Sample,72035,0,"soft-hitwhistle.wav",0
+Sample,76410,0,"LR_Tom Normal.wav",50
+Sample,76485,0,"LR_Tom Normal.wav",50
+Sample,76560,0,"LR_Tom Normal.wav",50
+Sample,76635,0,"LR_Tom Normal.wav",50
+Sample,76710,0,"LR_Tom Normal.wav",50
+Sample,76785,0,"LR_Tom Normal.wav",50
+Sample,76860,0,"LR_Tom Normal.wav",50
+Sample,81435,0,"LR_Snare Med Wet.wav",70
+Sample,81510,0,"soft-hitwhistle.wav",0
+Sample,81585,0,"soft-hitwhistle.wav",0
+Sample,81660,0,"soft-hitwhistle.wav",0
+Sample,81885,0,"soft-hitwhistle.wav",0
+Sample,82035,0,"soft-hitwhistle.wav",0
+Sample,82035,0,"LR_Snare Med Wet.wav",70
+Sample,82185,0,"soft-hitwhistle.wav",0
+Sample,82485,0,"soft-hitwhistle.wav",0
+Sample,82635,0,"soft-hitwhistle.wav",0
+Sample,82635,0,"LR_Snare Med Wet.wav",70
+Sample,82785,0,"soft-hitwhistle.wav",0
+Sample,83085,0,"soft-hitwhistle.wav",0
+Sample,83235,0,"soft-hitwhistle.wav",0
+Sample,83235,0,"LR_Snare Med Wet.wav",70
+Sample,83385,0,"soft-hitwhistle.wav",0
+Sample,83685,0,"soft-hitwhistle.wav",0
+Sample,83835,0,"soft-hitwhistle.wav",0
+Sample,83835,0,"LR_Snare Med Wet.wav",70
+Sample,83985,0,"soft-hitwhistle.wav",0
+Sample,84335,0,"soft-hitwhistle.wav",0
+Sample,84335,0,"soft-hitclap.wav",0
+Sample,84435,0,"LR_Snare Med Wet.wav",70
+Sample,84535,0,"soft-hitclap.wav",0
+Sample,84535,0,"soft-hitwhistle.wav",0
+Sample,84935,0,"soft-hitclap.wav",0
+Sample,84935,0,"soft-hitwhistle.wav",0
+Sample,85035,0,"LR_Snare Med Wet.wav",70
+Sample,85135,0,"soft-hitwhistle.wav",0
+Sample,85135,0,"soft-hitclap.wav",0
+Sample,85335,0,"LR_Snare Med Wet.wav",70
+Sample,85435,0,"soft-hitwhistle.wav",0
+Sample,85435,0,"soft-hitclap.wav",0
+Sample,85535,0,"soft-hitclap.wav",0
+Sample,85535,0,"soft-hitwhistle.wav",0
+Sample,85635,0,"LR_Snare Med Wet.wav",70
+Sample,85735,0,"soft-hitclap.wav",0
+Sample,85735,0,"soft-hitwhistle.wav",0
+Sample,85835,0,"soft-hitwhistle.wav",0
+Sample,85835,0,"soft-hitclap.wav",0
+Sample,85935,0,"LR_Snare Med Wet.wav",70
+Sample,86035,0,"soft-hitwhistle.wav",0
+Sample,86035,0,"soft-hitclap.wav",0
+Sample,86135,0,"soft-hitwhistle.wav",0
+Sample,86235,0,"LR_Snare Med Wet.wav",70
+Sample,86285,0,"soft-hitwhistle.wav",0
+Sample,86335,0,"soft-hitwhistle.wav",0
+Sample,86385,0,"soft-hitwhistle.wav",0
+Sample,86435,0,"soft-hitwhistle.wav",0
+Sample,86485,0,"soft-hitwhistle.wav",0
+Sample,87810,0,"LR_Snare Med Wet.wav",70
+Sample,87885,0,"LR_Snare Med Wet.wav",70
+Sample,87960,0,"LR_Snare Med Wet.wav",70
+Sample,88110,0,"LR_Snare Med Wet.wav",70
+Sample,88185,0,"LR_Snare Med Wet.wav",70
+Sample,88260,0,"LR_Snare Med Wet.wav",70
+Sample,88410,0,"LR_Snare Med Wet.wav",70
+Sample,88485,0,"LR_Snare Med Wet.wav",70
+Sample,88560,0,"LR_Snare Med Wet.wav",70
+Sample,89985,0,"soft-hitwhistle.wav",0
+Sample,90060,0,"soft-hitwhistle.wav",0
+Sample,90885,0,"soft-hitwhistle.wav",0
+Sample,91185,0,"soft-hitwhistle.wav",0
+Sample,92085,0,"soft-hitwhistle.wav",0
+Sample,92385,0,"soft-hitwhistle.wav",0
+Sample,92422,0,"soft-hitwhistle.wav",0
+Sample,92460,0,"soft-hitwhistle.wav",0
+Sample,92497,0,"soft-hitwhistle.wav",0
+Sample,93510,0,"soft-hitclap.wav",0
+Sample,93585,0,"soft-hitwhistle.wav",0
+Sample,93660,0,"soft-hitwhistle.wav",0
+Sample,95910,0,"soft-hitwhistle.wav",0
+Sample,96060,0,"soft-hitwhistle.wav",0
+Sample,96885,0,"soft-hitwhistle.wav",0
+Sample,96960,0,"soft-hitwhistle.wav",0
+Sample,97110,0,"soft-hitwhistle.wav",0
+Sample,97185,0,"soft-hitwhistle.wav",0
+Sample,97222,0,"soft-hitwhistle.wav",0
+Sample,97260,0,"soft-hitwhistle.wav",0
+Sample,97297,0,"soft-hitwhistle.wav",0
+Sample,97485,0,"soft-hitwhistle.wav",0
+Sample,97560,0,"soft-hitwhistle.wav",0
+Sample,97785,0,"soft-hitwhistle.wav",0
+Sample,97860,0,"soft-hitwhistle.wav",0
+Sample,98085,0,"soft-hitwhistle.wav",0
+Sample,98160,0,"soft-hitwhistle.wav",0
+Sample,98310,0,"soft-hitclap.wav",0
+Sample,98385,0,"soft-hitwhistle.wav",0
+Sample,98460,0,"soft-hitwhistle.wav",0
+Sample,99022,0,"soft-hitwhistle.wav",0
+Sample,99060,0,"soft-hitwhistle.wav",0
+Sample,99097,0,"soft-hitwhistle.wav",0
+Sample,99660,0,"soft-hitwhistle.wav",0
+Sample,100410,0,"soft-hitclap.wav",0
+Sample,100485,0,"soft-hitclap.wav",0
+Sample,100560,0,"soft-hitclap.wav",0
+Sample,100710,0,"LR_Snare Med Wet.wav",70
+Sample,100785,0,"soft-hitwhistle.wav",0
+Sample,100860,0,"soft-hitwhistle.wav",0
+Sample,100897,0,"soft-hitwhistle.wav",0
+Sample,103110,0,"soft-hitclap.wav",0
+Sample,103185,0,"soft-hitclap.wav",0
+Sample,103260,0,"soft-hitclap.wav",0
+Sample,104385,0,"soft-hitwhistle.wav",0
+Sample,104460,0,"soft-hitwhistle.wav",0
+Sample,105235,0,"soft-hitwhistle.wav",0
+Sample,105335,0,"soft-hitwhistle.wav",0
+Sample,105535,0,"soft-hitclap.wav",0
+Sample,105635,0,"soft-hitclap.wav",0
+Sample,106260,0,"soft-hitwhistle.wav",0
+Sample,106822,0,"soft-hitwhistle.wav",0
+Sample,106860,0,"soft-hitwhistle.wav",0
+Sample,106897,0,"soft-hitwhistle.wav",0
+Sample,107010,0,"soft-hitwhistle.wav",0
+Sample,107085,0,"soft-hitwhistle.wav",0
+Sample,107160,0,"soft-hitwhistle.wav",0
+Sample,107385,0,"soft-hitwhistle.wav",0
+Sample,107422,0,"soft-hitwhistle.wav",0
+Sample,107460,0,"soft-hitwhistle.wav",0
+Sample,107497,0,"soft-hitwhistle.wav",0
+Sample,107535,0,"LR_Tom Hit.wav",70
+Sample,107685,0,"LR_Tom Hit.wav",70
+Sample,107985,0,"LR_Tom Normal.wav",50
+Sample,110385,0,"soft-hitwhistle.wav",0
+Sample,110422,0,"soft-hitwhistle.wav",0
+Sample,110460,0,"soft-hitwhistle.wav",0
+Sample,110497,0,"soft-hitwhistle.wav",0
+Sample,110535,0,"LR_Snare Med Wet.wav",70
+Sample,112035,0,"LR_Snare Med Wet.wav",70
+Sample,112785,0,"soft-hitwhistle.wav",0
+Sample,112822,0,"soft-hitwhistle.wav",0
+Sample,112860,0,"soft-hitwhistle.wav",0
+Sample,112897,0,"soft-hitwhistle.wav",0
+Sample,113085,0,"soft-hitwhistle.wav",0
+Sample,113235,0,"LR_Snare Med Wet.wav",70
+Sample,113385,0,"soft-hitwhistle.wav",0
+Sample,113535,0,"LR_Snare Med Wet.wav",70
+Sample,113685,0,"soft-hitwhistle.wav",0
+Sample,113835,0,"soft-hitwhistle.wav",0
+Sample,113835,0,"LR_Snare Med Wet.wav",70
+Sample,114135,0,"LR_Snare Med Wet.wav",70
+Sample,114285,0,"soft-hitwhistle.wav",0
+Sample,114435,0,"soft-hitwhistle.wav",0
+Sample,114435,0,"LR_Snare Med Wet.wav",70
+Sample,114735,0,"LR_Snare Med Wet.wav",70
+Sample,114885,0,"soft-hitwhistle.wav",0
+Sample,115035,0,"soft-hitwhistle.wav",0
+Sample,115035,0,"LR_Snare Med Wet.wav",70
+Sample,115335,0,"LR_Snare Med Wet.wav",70
+Sample,115410,0,"soft-hitwhistle.wav",0
+Sample,115485,0,"soft-hitwhistle.wav",0
+Sample,115560,0,"soft-hitwhistle.wav",0
+Sample,115635,0,"LR_Snare Med Wet.wav",70
+Sample,115710,0,"soft-hitwhistle.wav",0
+Sample,115785,0,"soft-hitwhistle.wav",0
+Sample,115860,0,"soft-hitwhistle.wav",0
+Sample,115935,0,"LR_Snare Med Wet.wav",70
+Sample,116010,0,"soft-hitwhistle.wav",0
+Sample,116085,0,"soft-hitwhistle.wav",0
+Sample,116160,0,"soft-hitwhistle.wav",0
+Sample,116235,0,"LR_Snare Med Wet.wav",70
+Sample,116310,0,"soft-hitwhistle.wav",0
+Sample,116385,0,"soft-hitwhistle.wav",0
+Sample,116460,0,"soft-hitwhistle.wav",0
+Sample,116535,0,"LR_Snare Med Wet.wav",70
+Sample,116835,0,"LR_Snare Med Wet.wav",70
+Sample,117135,0,"LR_Snare Med Wet.wav",70
+Sample,118035,0,"soft-hitwhistle.wav",0
+Sample,118335,0,"soft-hitwhistle.wav",0
+Sample,119235,0,"soft-hitwhistle.wav",0
+Sample,119535,0,"soft-hitwhistle.wav",0
+Sample,120435,0,"soft-hitwhistle.wav",0
+Sample,120735,0,"soft-hitwhistle.wav",0
+Sample,121222,0,"soft-hitwhistle.wav",0
+Sample,121260,0,"soft-hitwhistle.wav",0
+Sample,121297,0,"soft-hitwhistle.wav",0
+Sample,121335,0,"soft-hitwhistle.wav",0
+Sample,121635,0,"soft-hitwhistle.wav",0
+Sample,121935,0,"soft-hitwhistle.wav",0
+Sample,122160,0,"soft-hitwhistle.wav",0
+Sample,122835,0,"soft-hitwhistle.wav",0
+Sample,123135,0,"soft-hitwhistle.wav",0
+Sample,123435,0,"soft-hitwhistle.wav",0
+Sample,123585,0,"soft-hitwhistle.wav",0
+Sample,124785,0,"soft-hitwhistle.wav",0
+Sample,124860,0,"soft-hitwhistle.wav",0
+Sample,127260,0,"soft-hitwhistle.wav",0
+Sample,127485,0,"soft-hitwhistle.wav",0
+Sample,127635,0,"soft-hitwhistle.wav",0
+Sample,127935,0,"soft-hitwhistle.wav",0
+Sample,128835,0,"soft-hitwhistle.wav",0
+Sample,129135,0,"soft-hitwhistle.wav",0
+Sample,129660,0,"soft-hitwhistle.wav",0
+Sample,130035,0,"soft-hitwhistle.wav",0
+Sample,130335,0,"soft-hitwhistle.wav",0
+Sample,130560,0,"soft-hitwhistle.wav",0
+Sample,130860,0,"soft-hitwhistle.wav",0
+Sample,130935,0,"soft-hitwhistle.wav",0
+Sample,131235,0,"soft-hitwhistle.wav",0
+Sample,131535,0,"soft-hitwhistle.wav",0
+Sample,131610,0,"soft-hitwhistle.wav",0
+Sample,131760,0,"soft-hitwhistle.wav",0
+Sample,132585,0,"soft-hitwhistle.wav",0
+Sample,133185,0,"soft-hitwhistle.wav",0
+Sample,133635,0,"soft-hitwhistle.wav",0
+Sample,133785,0,"soft-hitwhistle.wav",0
+Sample,135810,0,"soft-hitwhistle.wav",0
+Sample,135885,0,"soft-hitwhistle.wav",0
+Sample,135960,0,"soft-hitwhistle.wav",0
+Sample,136035,0,"soft-hitwhistle.wav",0
+Sample,136110,0,"soft-hitwhistle.wav",0
+Sample,136185,0,"soft-hitwhistle.wav",0
+Sample,136260,0,"soft-hitwhistle.wav",0
+Sample,136410,0,"soft-hitwhistle.wav",0
+Sample,136485,0,"soft-hitwhistle.wav",0
+Sample,136560,0,"soft-hitwhistle.wav",0
+Sample,136635,0,"soft-hitwhistle.wav",0
+Sample,136672,0,"soft-hitwhistle.wav",0
+Sample,136710,0,"soft-hitwhistle.wav",0
+Sample,136747,0,"soft-hitwhistle.wav",0
+Sample,136785,0,"soft-hitwhistle.wav",0
+Sample,136822,0,"soft-hitwhistle.wav",0
+Sample,136860,0,"soft-hitwhistle.wav",0
+Sample,136897,0,"soft-hitwhistle.wav",0
+Sample,141885,0,"LR_Snare Med Wet.wav",70
+Sample,142035,0,"LR_Snare Med Wet.wav",70
+Sample,142185,0,"LR_Snare Med Wet.wav",70
+Sample,142335,0,"LR_Snare Med Wet.wav",70
+Sample,142485,0,"LR_Snare Med Wet.wav",70
+Sample,142635,0,"LR_Snare Med Wet.wav",70
+Sample,143085,0,"soft-hitwhistle.wav",0
+Sample,143085,0,"LR_Snare Med Wet.wav",70
+Sample,143235,0,"LR_Snare Med Wet.wav",70
+Sample,143535,0,"LR_Snare Med Wet.wav",70
+Sample,143685,0,"LR_Snare Med Wet.wav",70
+Sample,143835,0,"LR_Snare Med Wet.wav",70
+Sample,143985,0,"LR_Snare Med Wet.wav",70
+Sample,144210,0,"LR_Snare Med Wet.wav",70
+Sample,144285,0,"soft-hitwhistle.wav",0
+Sample,144285,0,"LR_Snare Med Wet.wav",70
+Sample,144360,0,"LR_Snare Med Wet.wav",70
+Sample,144435,0,"soft-hitwhistle.wav",0
+Sample,144435,0,"LR_Snare Med Wet.wav",70
+Sample,144510,0,"LR_Snare Med Wet.wav",70
+Sample,144660,0,"LR_Snare Med Wet.wav",70
+Sample,144735,0,"LR_Snare Med Wet.wav",70
+Sample,144810,0,"LR_Snare Med Wet.wav",70
+Sample,144885,0,"soft-hitwhistle.wav",0
+Sample,144885,0,"LR_Snare Med Wet.wav",70
+Sample,144960,0,"LR_Snare Med Wet.wav",70
+Sample,145035,0,"LR_Snare Med Wet.wav",70
+Sample,145110,0,"LR_Snare Med Wet.wav",70
+Sample,145185,0,"LR_Snare Med Wet.wav",70
+Sample,145260,0,"soft-hitwhistle.wav",0
+Sample,145260,0,"LR_Snare Med Wet.wav",70
+Sample,145335,0,"LR_Snare Med Wet.wav",70
+
+[TimingPoints]
+135,300.0,4,2,1,70,1,0
+88935,-100.0,4,2,1,70,0,1
+108135,-100.0,4,2,1,70,0,0
+117735,-100.0,4,2,1,70,0,1
+136935,-100.0,4,2,1,70,0,0
+
+[HitObjects]
+64,192,135,1,2,0:0:0:0:
+448,192,135,1,4,0:0:0:0:
+320,192,585,1,0,0:0:0:0:
+192,192,1035,1,0,0:0:0:0:
+448,192,1485,1,0,0:0:0:0:
+64,192,1935,1,0,0:0:0:0:
+192,192,2385,1,0,0:0:0:0:
+448,192,2535,1,0,0:0:0:0:
+64,192,2985,1,0,0:0:0:0:
+320,192,3435,1,0,0:0:0:0:
+192,192,3885,1,0,0:0:0:0:
+64,192,4335,128,0,4935:0:0:0:0:
+320,192,4935,1,0,0:0:0:70:LR_Kick Crushing Bump.wav
+448,192,4935,1,0,0:0:0:70:LR_Drum Hit P2.wav
+192,192,5385,1,0,0:0:0:0:
+64,192,5835,1,0,0:0:0:0:
+448,192,6285,1,0,0:0:0:0:
+192,192,6735,1,0,0:0:0:0:
+320,192,7035,1,0,0:0:0:70:LR_Drum Hit P2.wav
+448,192,7185,1,0,0:0:0:70:LR_Drum Hit P2.wav
+64,192,7335,1,0,0:0:0:70:LR_Drum Hit P2.wav
+320,192,7785,1,0,0:0:0:0:
+448,192,8235,1,0,0:0:0:0:
+64,192,8685,1,0,0:0:0:0:
+320,192,9135,1,0,0:0:0:70:LR_Drum Hit P2.wav
+64,192,9435,1,0,0:0:0:70:LR_Drum Hit P2.wav
+320,192,9585,1,0,0:0:0:70:LR_Drum Hit P2.wav
+448,192,9735,1,0,0:0:0:70:LR_Drum Hit P2.wav
+192,192,10035,1,0,0:0:0:0:
+64,192,10335,1,0,0:0:0:0:
+320,192,10785,1,0,0:0:0:0:
+192,192,10935,1,0,0:0:0:0:
+64,192,11385,1,0,0:0:0:0:
+448,192,11535,1,0,0:0:0:0:
+320,192,11985,1,0,0:0:0:70:LR_Drum Hit P2.wav
+64,192,12135,1,0,0:0:0:70:LR_Drum Hit P2.wav
+192,192,12585,1,0,0:0:0:70:LR_Drum Hit P2.wav
+448,192,12735,1,0,0:0:0:0:
+64,192,13035,1,0,0:0:0:70:LR_Drum Hit P2.wav
+192,192,13185,1,0,0:0:0:0:
+320,192,13335,1,2,0:0:0:0:
+448,192,13335,1,4,0:0:0:0:
+192,192,13635,128,0,13935:0:0:0:70:LR_Tom Hit.wav
+320,192,13935,1,0,0:0:0:0:
+192,192,14235,1,0,0:0:0:0:
+64,192,14535,1,6,0:0:0:0:
+320,192,14535,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,14835,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,15135,1,6,0:0:0:0:
+448,192,15135,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,15435,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,15735,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,16035,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,16335,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,16635,128,0,16935:0:0:0:70:LR_Snare Med Wet.wav
+192,192,16935,1,6,0:0:0:0:
+448,192,16935,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,17235,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,17535,1,6,0:0:0:0:
+320,192,17535,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,17835,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,18135,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,18435,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,18735,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,19035,128,2,19335:0:0:0:0:
+448,192,19335,1,6,0:0:0:0:
+192,192,19635,1,2,0:0:0:0:
+320,192,19935,1,2,0:0:0:0:
+192,192,20235,1,2,0:0:0:0:
+64,192,20535,1,6,0:0:0:0:
+448,192,20835,1,2,0:0:0:0:
+192,192,21135,1,2,0:0:0:0:
+320,192,21435,1,2,0:0:0:0:
+448,192,21735,128,6,22035:0:0:0:0:
+320,192,22035,1,2,0:0:0:0:
+64,192,22335,1,2,0:0:0:0:
+192,192,22485,1,2,0:0:0:0:
+320,192,22635,1,2,0:0:0:0:
+448,192,22785,1,2,0:0:0:0:
+64,192,22935,128,2,23835:0:0:0:0:
+192,192,22935,1,4,0:0:0:0:
+320,192,23835,1,8,0:0:0:0:
+448,192,24135,1,2,0:0:0:0:
+64,192,24435,1,2,0:0:0:0:
+192,192,24435,1,4,0:0:0:0:
+320,192,24735,1,2,0:0:0:0:
+192,192,25035,1,2,0:0:0:0:
+64,192,25335,1,2,0:0:0:0:
+448,192,25635,1,2,0:0:0:0:
+320,192,25935,1,2,0:0:0:0:
+192,192,26235,1,2,0:0:0:0:
+64,192,26385,1,2,0:0:0:0:
+448,192,26535,1,2,0:0:0:0:
+64,192,26835,1,2,0:0:0:0:
+320,192,27135,1,2,0:0:0:0:
+192,192,27435,1,2,0:0:0:0:
+448,192,27735,1,2,0:0:0:0:
+64,192,28035,1,2,0:0:0:0:
+192,192,28335,1,2,0:0:0:0:
+320,192,28635,128,2,28935:0:0:0:0:
+64,192,28935,1,2,0:0:0:0:
+448,192,28935,1,4,0:0:0:0:
+192,192,29235,1,8,0:0:0:0:
+320,192,29235,1,2,0:0:0:0:
+448,192,29535,1,2,0:0:0:0:
+64,192,29835,1,8,0:0:0:0:
+192,192,29835,1,2,0:0:0:0:
+320,192,30135,1,2,0:0:0:0:
+64,192,30435,1,2,0:0:0:0:
+448,192,30435,1,8,0:0:0:0:
+192,192,30735,1,2,0:0:0:0:
+320,192,31035,1,8,0:0:0:0:
+448,192,31035,1,2,0:0:0:0:
+192,192,31335,1,2,0:0:0:0:
+64,192,31635,1,2,0:0:0:0:
+448,192,31635,1,8,0:0:0:0:
+192,192,31935,1,6,0:0:0:0:
+64,192,32085,1,6,0:0:0:0:
+320,192,32235,1,14,0:0:0:0:
+192,192,32385,1,6,0:0:0:0:
+448,192,32535,1,0,0:0:0:0:
+64,192,32835,1,0,0:0:0:0:
+192,192,33135,128,0,33435:0:0:0:0:
+448,192,33435,128,0,33735:0:0:0:0:
+64,192,33735,1,2,0:0:0:0:
+192,192,33735,1,4,0:0:0:0:
+320,192,34035,1,2,0:0:0:0:
+448,192,34035,1,8,0:0:0:0:
+64,192,34335,1,2,0:0:0:0:
+192,192,34635,1,2,0:0:0:0:
+448,192,34635,1,8,0:0:0:0:
+320,192,34785,1,2,0:0:0:0:
+192,192,34935,1,2,0:0:0:0:
+448,192,35235,1,10,0:0:0:0:
+320,192,35535,1,2,0:0:0:0:
+64,192,35835,128,2,36135:0:0:0:0:
+192,192,35835,1,8,0:0:0:0:
+320,192,36135,1,4,0:0:0:0:
+448,192,36135,1,2,0:0:0:0:
+64,192,36435,1,8,0:0:0:0:
+192,192,36435,1,2,0:0:0:0:
+448,192,36735,1,2,0:0:0:0:
+64,192,37035,1,2,0:0:0:0:
+320,192,37035,1,8,0:0:0:0:
+192,192,37335,1,2,0:0:0:0:
+320,192,37635,1,8,0:0:0:0:
+448,192,37635,1,2,0:0:0:0:
+64,192,37935,128,0,38235:0:0:0:0:
+448,192,38235,128,0,38535:0:0:0:0:
+64,192,38535,1,2,0:0:0:0:
+192,192,38535,1,4,0:0:0:0:
+320,192,38835,1,10,0:0:0:0:
+192,192,38985,1,2,0:0:0:0:
+64,192,39135,1,2,0:0:0:0:
+192,192,39435,1,2,0:0:0:0:
+320,192,39435,1,8,0:0:0:0:
+320,192,39735,1,2,0:0:0:0:
+448,192,39735,1,4,0:0:0:0:
+192,192,40035,1,10,0:0:0:0:
+320,192,40185,1,2,0:0:0:0:
+448,192,40335,128,2,40635:0:0:0:0:
+64,192,40635,1,8,0:0:0:0:
+192,192,40635,1,2,0:0:0:0:
+320,192,40935,1,6,0:0:0:0:
+192,192,41085,1,6,0:0:0:0:
+448,192,41235,128,0,41535:0:0:0:0:
+192,192,41535,1,6,0:0:0:0:
+320,192,41685,1,6,0:0:0:0:
+64,192,41835,128,0,42135:0:0:0:0:
+320,192,42135,128,0,42435:0:0:0:70:LR_Snare Med Wet.wav
+192,192,42435,128,0,42735:0:0:0:70:LR_Snare Med Wet.wav
+320,192,42735,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,43035,128,2,43335:0:0:0:0:
+64,192,43335,1,2,0:0:0:0:
+320,192,43335,1,4,0:0:0:0:
+192,192,43635,1,2,0:0:0:0:
+64,192,43935,1,2,0:0:0:0:
+448,192,44235,128,2,44535:0:0:0:0:
+192,192,44535,128,2,44835:0:0:0:0:
+320,192,44835,1,2,0:0:0:0:
+448,192,45135,1,2,0:0:0:0:
+64,192,45435,128,0,45735:0:0:0:0:
+320,192,45735,1,2,0:0:0:0:
+448,192,45735,1,4,0:0:0:0:
+64,192,46035,1,2,0:0:0:0:
+320,192,46335,1,2,0:0:0:0:
+192,192,46485,1,2,0:0:0:0:
+320,192,46635,1,2,0:0:0:0:
+64,192,46935,128,6,47385:0:0:0:0:
+448,192,47385,128,6,47835:0:0:0:0:
+192,192,47835,128,0,48135:0:0:0:0:
+64,192,48135,1,6,0:0:0:0:
+448,192,48135,1,8,0:0:0:0:
+320,192,48285,1,2,0:0:0:0:
+192,192,48435,1,10,0:0:0:0:
+448,192,48735,1,10,0:0:0:0:
+320,192,49035,1,10,0:0:0:0:
+192,192,49185,1,2,0:0:0:0:
+64,192,49335,1,2,0:0:0:0:
+448,192,49335,1,8,0:0:0:0:
+320,192,49635,1,10,0:0:0:0:
+64,192,49935,1,10,0:0:0:0:
+448,192,50160,1,2,0:0:0:0:
+192,192,50385,1,2,0:0:0:0:
+320,192,50535,128,10,50835:0:0:0:0:
+64,192,50835,1,10,0:0:0:0:
+192,192,51135,128,10,51435:0:0:0:0:
+448,192,51435,1,10,0:0:0:0:
+64,192,51735,128,10,52335:0:0:0:0:
+448,192,52335,128,2,52935:0:0:0:0:
+64,192,52935,1,2,0:0:0:0:
+192,192,52935,128,4,55035:0:0:0:0:
+320,192,55035,128,0,55335:0:0:0:0:
+64,192,55335,128,0,57435:0:0:0:0:
+192,192,57435,128,0,57735:0:0:0:0:
+320,192,57735,128,0,60135:0:0:0:0:
+448,192,60135,128,0,60735:0:0:0:0:
+192,192,60735,128,0,61335:0:0:0:70:fingersnap_G#_major.wav
+320,192,61335,1,2,0:0:0:0:
+64,192,61935,128,2,62535:0:0:0:0:
+448,192,62535,128,6,63435:0:0:0:0:
+64,192,63435,128,0,63735:0:0:0:0:
+320,192,63735,128,0,64035:0:0:0:0:
+192,192,64035,128,2,64635:0:0:0:0:
+320,192,64635,128,0,64935:0:0:0:0:
+64,192,64935,128,0,65535:0:0:0:0:
+448,192,65535,128,8,66135:0:0:0:0:
+192,192,66135,128,0,66735:0:0:0:0:
+320,192,66735,128,6,67335:0:0:0:0:
+64,192,67335,128,6,69735:0:0:0:0:
+320,192,69735,128,0,71835:0:0:0:0:
+192,192,71835,128,0,72135:0:0:0:70:LR_Tom Hit.wav
+448,192,72135,128,6,74535:0:0:0:0:
+64,192,74535,1,0,0:0:0:70:LR_Drum Hit P2.wav
+448,192,74985,1,0,0:0:0:70:LR_Drum Hit P2.wav
+192,192,75435,1,0,0:0:0:70:LR_Drum Hit P2.wav
+320,192,75885,1,0,0:0:0:70:LR_Drum Hit P2.wav
+448,192,76335,1,0,0:0:0:50:LR_Tom Normal.wav
+64,192,76935,1,14,0:0:0:0:
+192,192,76935,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,77235,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,77535,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,77835,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,78135,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,78435,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,78735,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,79035,128,0,79335:0:0:0:70:LR_Snare Med Wet.wav
+320,192,79335,1,10,0:0:0:0:
+448,192,79335,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,79635,1,10,0:0:0:0:
+192,192,79635,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,79935,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,80235,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,80535,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,80835,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,81135,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,81435,128,2,81735:0:0:0:0:
+64,192,81735,1,10,0:0:0:0:
+320,192,81735,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,82335,1,10,0:0:0:0:
+448,192,82335,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,82935,1,10,0:0:0:0:
+448,192,82935,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,83535,1,10,0:0:0:0:
+192,192,83535,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,84135,1,10,0:0:0:0:
+448,192,84135,128,0,84735:0:0:0:70:LR_Snare Med Wet.wav
+64,192,84735,128,10,85335:0:0:0:0:
+320,192,84735,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,85335,128,10,85635:0:0:0:0:
+64,192,85635,128,10,85935:0:0:0:0:
+320,192,85935,128,10,86235:0:0:0:0:
+192,192,86235,128,2,86535:0:0:0:0:
+64,192,86535,1,4,0:0:0:0:
+448,192,86535,1,2,0:0:0:0:
+320,192,86835,1,6,0:0:0:0:
+192,192,86985,1,6,0:0:0:0:
+64,192,87135,1,6,0:0:0:0:
+448,192,87435,1,6,0:0:0:0:
+320,192,87735,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,88035,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,88335,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,88635,1,12,0:0:0:0:
+192,192,88935,1,2,0:0:0:0:
+448,192,88935,1,4,0:0:0:0:
+320,192,89235,1,2,0:0:0:0:
+448,192,89535,1,2,0:0:0:0:
+64,192,89835,128,2,90135:0:0:0:0:
+320,192,90135,1,2,0:0:0:0:
+192,192,90435,1,2,0:0:0:0:
+448,192,90735,128,2,91035:0:0:0:0:
+192,192,91035,128,2,91335:0:0:0:0:
+320,192,91335,1,2,0:0:0:0:
+64,192,91635,1,2,0:0:0:0:
+320,192,91935,128,2,92235:0:0:0:0:
+64,192,92235,128,2,92535:0:0:0:0:
+448,192,92535,1,2,0:0:0:0:
+320,192,92685,1,2,0:0:0:0:
+192,192,92835,1,2,0:0:0:0:
+64,192,93135,1,8,0:0:0:0:
+192,192,93285,1,2,0:0:0:0:
+448,192,93435,128,8,93735:0:0:0:0:
+320,192,93735,1,2,0:0:0:0:
+192,192,93885,1,2,0:0:0:0:
+64,192,94035,1,2,0:0:0:0:
+448,192,94185,1,2,0:0:0:0:
+320,192,94335,1,2,0:0:0:0:
+64,192,94635,1,2,0:0:0:0:
+192,192,94785,1,2,0:0:0:0:
+320,192,94935,1,4,0:0:0:0:
+448,192,94935,1,2,0:0:0:0:
+64,192,95160,1,6,0:0:0:0:
+448,192,95385,1,6,0:0:0:0:
+192,192,95610,1,6,0:0:0:0:
+448,192,95835,1,6,0:0:0:0:
+64,192,95985,1,2,0:0:0:0:
+192,192,96135,1,2,0:0:0:0:
+320,192,96435,1,2,0:0:0:0:
+448,192,96735,128,2,97035:0:0:0:0:
+192,192,97035,128,2,97335:0:0:0:0:
+448,192,97335,1,10,0:0:0:0:
+192,192,97635,1,10,0:0:0:0:
+64,192,97935,1,10,0:0:0:0:
+320,192,98235,128,8,98535:0:0:0:0:
+64,192,98535,1,2,0:0:0:0:
+448,192,98535,1,4,0:0:0:0:
+192,192,98835,1,2,0:0:0:0:
+320,192,98985,1,2,0:0:0:0:
+192,192,99135,1,2,0:0:0:0:
+448,192,99435,1,2,0:0:0:0:
+320,192,99585,1,2,0:0:0:0:
+64,192,99735,1,2,0:0:0:0:
+192,192,99885,1,2,0:0:0:0:
+320,192,100035,1,2,0:0:0:0:
+192,192,100335,128,8,100635:0:0:0:0:
+448,192,100635,128,0,100935:0:0:0:70:LR_Snare Med Wet.wav
+64,192,100935,1,6,0:0:0:0:
+320,192,101160,1,6,0:0:0:0:
+192,192,101385,1,6,0:0:0:0:
+448,192,101535,1,6,0:0:0:0:
+192,192,101760,1,6,0:0:0:0:
+320,192,101985,1,6,0:0:0:0:
+64,192,102135,128,6,102435:0:0:0:0:
+320,192,102435,128,0,102735:0:0:0:0:
+192,192,102735,1,2,0:0:0:0:
+64,192,102885,1,2,0:0:0:0:
+448,192,103035,128,8,103335:0:0:0:0:
+64,192,103335,1,2,0:0:0:0:
+192,192,103335,1,4,0:0:0:0:
+320,192,103635,1,10,0:0:0:0:
+64,192,103935,1,2,0:0:0:0:
+448,192,104235,128,10,104535:0:0:0:0:
+320,192,104535,1,2,0:0:0:0:
+192,192,104835,1,10,0:0:0:0:
+448,192,105135,128,2,105435:0:0:0:0:
+64,192,105435,128,8,105735:0:0:0:0:
+192,192,105735,1,6,0:0:0:0:
+320,192,106185,1,2,0:0:0:0:
+64,192,106335,1,6,0:0:0:0:
+192,192,106785,1,2,0:0:0:0:
+448,192,106935,128,6,107235:0:0:0:0:
+64,192,107235,128,2,107535:0:0:0:0:
+320,192,107535,128,2,107835:0:0:0:0:
+192,192,107835,128,0,108135:0:0:0:50:LR_Tom Normal.wav
+64,192,108135,1,6,0:0:0:0:
+448,192,108135,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,108435,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,108735,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,109035,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,109335,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,109635,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,109935,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,110235,1,6,0:0:0:0:
+320,192,110235,128,0,110535:0:0:0:70:LR_Snare Med Wet.wav
+192,192,110535,1,6,0:0:0:0:
+64,192,110835,1,6,0:0:0:0:
+448,192,110835,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,111135,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,111435,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,111735,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,111885,1,6,0:0:0:0:
+192,192,112035,1,0,0:0:0:70:LR_Tom Hit.wav
+320,192,112335,1,6,0:0:0:0:
+448,192,112335,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,112635,128,0,112935:0:0:0:70:LR_Snare Med Wet.wav
+192,192,112935,1,6,0:0:0:0:
+448,192,112935,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,113235,1,2,0:0:0:0:
+448,192,113535,1,2,0:0:0:0:
+320,192,113985,1,2,0:0:0:0:
+64,192,114135,1,2,0:0:0:0:
+192,192,114585,1,2,0:0:0:0:
+448,192,114735,1,2,0:0:0:0:
+64,192,115185,1,2,0:0:0:0:
+320,192,115335,128,2,115635:0:0:0:0:
+448,192,115635,128,2,115935:0:0:0:0:
+64,192,115935,128,2,116235:0:0:0:0:
+192,192,116235,128,2,116535:0:0:0:0:
+448,192,116535,1,2,0:0:0:0:
+320,192,116685,1,2,0:0:0:0:
+192,192,116835,1,2,0:0:0:0:
+64,192,116985,1,2,0:0:0:0:
+448,192,117135,128,2,117435:0:0:0:0:
+320,192,117435,1,12,0:0:0:0:
+64,192,117735,1,4,0:0:0:0:
+192,192,117735,128,2,118635:0:0:0:0:
+448,192,118635,1,2,0:0:0:0:
+64,192,118785,1,2,0:0:0:0:
+320,192,118935,128,2,119835:0:0:0:0:
+192,192,119835,1,2,0:0:0:0:
+448,192,119985,1,0,0:0:0:0:
+64,192,120135,128,2,121035:0:0:0:0:
+192,192,121035,1,2,0:0:0:0:
+320,192,121185,128,2,122235:0:0:0:0:
+64,192,122235,1,2,0:0:0:0:
+448,192,122385,1,2,0:0:0:0:
+192,192,122535,128,6,123735:0:0:0:0:
+448,192,123735,1,2,0:0:0:0:
+64,192,124035,1,2,0:0:0:0:
+320,192,124335,1,2,0:0:0:0:
+192,192,124635,1,2,0:0:0:0:
+448,192,124935,128,2,125235:0:0:0:0:
+192,192,125235,1,2,0:0:0:0:
+320,192,125385,1,0,0:0:0:0:
+64,192,125535,128,2,125835:0:0:0:0:
+320,192,125835,1,2,0:0:0:0:
+192,192,125985,1,0,0:0:0:0:
+448,192,126135,1,2,0:0:0:0:
+64,192,126435,128,0,126735:0:0:0:0:
+448,192,126735,128,0,127035:0:0:0:0:
+64,192,127035,1,0,0:0:0:0:
+192,192,127185,1,2,0:0:0:0:
+320,192,127335,128,6,128235:0:0:0:0:
+64,192,128235,1,2,0:0:0:0:
+448,192,128385,1,0,0:0:0:0:
+192,192,128535,128,2,129435:0:0:0:0:
+320,192,129435,1,2,0:0:0:0:
+64,192,129585,1,2,0:0:0:0:
+448,192,129735,128,2,130635:0:0:0:0:
+320,192,130635,1,2,0:0:0:0:
+192,192,130785,128,2,131835:0:0:0:0:
+448,192,131835,1,2,0:0:0:0:
+64,192,131985,1,2,0:0:0:0:
+320,192,132135,1,14,0:0:0:0:
+192,192,132360,1,2,0:0:0:0:
+192,192,132735,1,14,0:0:0:0:
+320,192,132960,1,2,0:0:0:0:
+448,192,133335,1,14,0:0:0:0:
+64,192,133560,1,2,0:0:0:0:
+64,192,133935,1,14,0:0:0:0:
+448,192,134160,1,2,0:0:0:0:
+320,192,134385,1,2,0:0:0:0:
+64,192,134535,1,14,0:0:0:0:
+448,192,134835,1,14,0:0:0:0:
+320,192,135135,1,14,0:0:0:0:
+192,192,135285,1,2,0:0:0:0:
+64,192,135435,1,10,0:0:0:0:
+448,192,135585,1,2,0:0:0:0:
+192,192,135735,128,10,136335:0:0:0:0:
+320,192,136335,128,2,136935:0:0:0:0:
+64,192,136935,1,6,0:0:0:0:
+448,192,137085,1,0,0:0:0:0:
+192,192,137385,1,2,0:0:0:0:
+448,192,137535,1,8,0:0:0:0:
+64,192,137835,1,0,0:0:0:0:
+192,192,137985,1,0,0:0:0:0:
+320,192,138285,1,2,0:0:0:0:
+192,192,138435,1,2,0:0:0:0:
+448,192,138735,1,8,0:0:0:0:
+192,192,139035,1,0,0:0:0:0:
+448,192,139335,1,2,0:0:0:0:
+64,192,139485,1,0,0:0:0:0:
+320,192,139785,1,2,0:0:0:0:
+64,192,139935,1,8,0:0:0:0:
+448,192,140235,1,0,0:0:0:0:
+320,192,140385,1,0,0:0:0:0:
+192,192,140685,1,2,0:0:0:0:
+320,192,140835,1,2,0:0:0:0:
+64,192,141135,1,8,0:0:0:0:
+320,192,141435,1,0,0:0:0:0:
+64,192,141735,1,6,0:0:0:0:
+192,192,141735,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,142185,1,2,0:0:0:0:
+64,192,142335,1,8,0:0:0:0:
+320,192,142635,1,2,0:0:0:0:
+192,192,142785,1,0,0:0:0:70:LR_Snare Med Wet.wav
+448,192,142935,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,143385,1,0,0:0:0:70:LR_Snare Med Wet.wav
+64,192,143535,1,10,0:0:0:0:
+192,192,143985,1,2,0:0:0:0:
+320,192,144135,1,0,0:0:0:70:LR_Snare Med Wet.wav
+320,192,144585,1,0,0:0:0:70:LR_Snare Med Wet.wav
+192,192,144735,1,8,0:0:0:0:
+64,192,145185,1,2,0:0:0:0:
+192,192,145335,128,2,145635:0:0:0:0:
+320,192,145635,128,0,145935:0:0:0:0:
+64,192,145935,1,4,0:0:0:0:
+448,192,145935,1,2,0:0:0:0:

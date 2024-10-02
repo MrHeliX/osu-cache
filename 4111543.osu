@@ -1,0 +1,178 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 15431
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.5
+BeatDivisor: 6
+GridSize: 16
+TimelineZoom: 1.1
+
+[Metadata]
+Title:Niko's Theme
+TitleUnicode:Niko's Theme
+Artist:Nightmargin (Casey Gu) and Michael Shirt
+ArtistUnicode:Nightmargin (Casey Gu) and Michael Shirt
+Creator:Torru
+Version:Easy
+Source:OneShot
+Tags:instrumental solstice ambient video game niko mirsaaa future cat adventure indie soundtrack
+BeatmapID:4111543
+BeatmapSetID:1968360
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:7
+OverallDifficulty:6
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Easy.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,3,0,"F#4S_Gb4S.wav",55
+Sample,3,0,"A4S.wav",55
+Sample,3,0,"D6S_s.wav",55
+Sample,2574,0,"A3S.wav",55
+Sample,2574,0,"D4S.wav",55
+Sample,2574,0,"D6S_s.wav",55
+Sample,5145,0,"F#4S_Gb4S.wav",55
+Sample,5145,0,"A4S.wav",55
+Sample,5145,0,"D6S_s.wav",55
+Sample,5788,0,"B6S_s.wav",55
+Sample,6217,0,"F#6S_Gb6S_s.wav",55
+Sample,6431,0,"A6S_s.wav",55
+Sample,7717,0,"C#4S_Db4S.wav",55
+Sample,7717,0,"F#4S_Gb4S.wav",55
+Sample,7717,0,"D6S_s.wav",55
+Sample,7717,0,"F#6S_Gb6S_s.wav",55
+Sample,10288,0,"F#4S_Gb4S.wav",55
+Sample,10288,0,"A4S.wav",55
+Sample,10288,0,"D6S_s.wav",55
+Sample,10931,0,"B6S_s.wav",55
+Sample,11360,0,"F#6S_Gb6S_s.wav",55
+Sample,11574,0,"A6S_s.wav",55
+Sample,12860,0,"C#4S_Db4S.wav",55
+Sample,12860,0,"F#4S_Gb4S.wav",55
+Sample,12860,0,"D6S_s.wav",55
+Sample,12860,0,"F#6S_Gb6S_s.wav",55
+Sample,15431,0,"F#4S_Gb4S.wav",55
+Sample,15431,0,"A4S.wav",55
+Sample,15431,0,"D6S_s.wav",55
+Sample,16074,0,"B6S_s.wav",55
+Sample,16503,0,"F#6S_Gb6S_s.wav",55
+Sample,16717,0,"A6S_s.wav",55
+Sample,18003,0,"C#4S_Db4S.wav",55
+Sample,18003,0,"F#4S_Gb4S.wav",55
+Sample,18003,0,"D6S_s.wav",55
+Sample,18003,0,"F#6S_Gb6S_s.wav",55
+Sample,20574,0,"F#4S_Gb4S.wav",55
+Sample,20574,0,"A4S.wav",55
+Sample,20574,0,"D6S_s.wav",55
+Sample,21217,0,"B6S_s.wav",55
+Sample,21645,0,"F#6S_Gb6S_s.wav",55
+Sample,21860,0,"A6S_s.wav",55
+Sample,23145,0,"A3S.wav",55
+Sample,23145,0,"D4S.wav",55
+Sample,23145,0,"D6S_s.wav",55
+Sample,23145,0,"F#6S_Gb6S_s.wav",55
+Sample,24645,0,"D6S_s.wav",55
+Sample,25288,0,"F#6S_Gb6S_s.wav",55
+Sample,25717,0,"F#4S_Gb4S.wav",42
+Sample,25717,0,"A4S.wav",42
+Sample,25717,0,"D5S.wav",42
+Sample,25717,0,"F#5S_Gb5S.wav",42
+Sample,28395,0,"D4S.wav",42
+Sample,28395,0,"F#4S_Gb4S.wav",42
+Sample,28395,0,"B4S.wav",42
+Sample,28395,0,"D5S.wav",42
+Sample,30967,0,"F#4S_Gb4S.wav",42
+Sample,30967,0,"A4S.wav",42
+Sample,30967,0,"D5S.wav",42
+Sample,30967,0,"F#5S_Gb5S.wav",42
+Sample,33538,0,"E4S.wav",42
+Sample,33538,0,"A4S.wav",42
+Sample,33538,0,"C#5S_Db5S.wav",42
+Sample,33538,0,"E5S.wav",42
+
+[TimingPoints]
+3,642.85943878371,4,2,0,50,1,0
+
+
+[HitObjects]
+182,192,3,5,0,0:0:0:55:D4S.wav
+182,192,431,1,0,0:0:0:55:D6S_s.wav
+402,192,645,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+402,192,1074,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+256,192,1288,1,0,0:0:0:55:B5S_s.wav
+109,192,2574,1,0,0:0:0:55:F#3S_Gb3S.wav
+109,192,3003,1,0,0:0:0:55:D6S_s.wav
+329,192,3217,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+329,192,3645,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+182,192,3860,1,0,0:0:0:55:B5S_s.wav
+182,192,5145,1,0,0:0:0:55:D4S.wav
+182,192,5574,1,0,0:0:0:55:D6S_s.wav
+402,192,5788,128,0,6431:0:0:0:55:F#6S_Gb6S_s.wav
+329,192,6431,128,0,7074:0:0:0:55:B5S_s.wav
+256,192,7074,128,0,7717:0:0:0:55:G6S_s.wav
+36,192,7717,1,0,0:0:0:55:A3S.wav
+36,192,8145,1,0,0:0:0:55:D6S_s.wav
+402,192,8360,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+402,192,8788,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+256,192,9003,1,0,0:0:0:55:B5S_s.wav
+329,192,10288,1,0,0:0:0:55:D4S.wav
+329,192,10717,1,0,0:0:0:55:D6S_s.wav
+109,192,10931,128,0,11574:0:0:0:55:F#6S_Gb6S_s.wav
+182,192,11574,128,0,12217:0:0:0:55:B5S_s.wav
+256,192,12217,128,0,12860:0:0:0:55:G6S_s.wav
+329,192,12860,1,0,0:0:0:55:A3S.wav
+329,192,13288,1,0,0:0:0:55:D6S_s.wav
+109,192,13503,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+109,192,13931,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+256,192,14145,1,0,0:0:0:55:G5S_s.wav
+182,192,15431,1,0,0:0:0:55:D4S.wav
+182,192,15860,1,0,0:0:0:55:D6S_s.wav
+402,192,16074,128,0,16717:0:0:0:55:F#6S_Gb6S_s.wav
+329,192,16717,128,0,17360:0:0:0:55:G5S_s.wav
+256,192,17360,128,0,18003:0:0:0:55:G6S_s.wav
+182,192,18003,1,0,0:0:0:55:A3S.wav
+182,192,18431,1,0,0:0:0:55:D6S_s.wav
+475,192,18645,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+475,192,19074,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+256,192,19288,1,0,0:0:0:55:G5S_s.wav
+329,192,20574,1,0,0:0:0:55:D4S.wav
+329,192,21003,1,0,0:0:0:55:D6S_s.wav
+109,192,21217,128,0,21860:0:0:0:55:F#6S_Gb6S_s.wav
+182,192,21860,128,0,22503:0:0:0:55:G5S_s.wav
+256,192,22503,128,0,23145:0:0:0:55:G6S_s.wav
+329,192,23145,1,0,0:0:0:55:F#3S_Gb3S.wav
+329,192,23574,1,0,0:0:0:55:D6S_s.wav
+109,192,23788,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+109,192,24217,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+402,192,24431,1,0,0:0:0:55:B5S_s.wav
+402,192,24860,1,0,0:0:0:55:F#6S_Gb6S_s.wav
+182,192,25074,1,0,0:0:0:55:G5S_s.wav
+256,192,25288,1,0,0:0:0:55:D6S_s.wav
+329,192,25503,1,0,0:0:0:55:D6S_s.wav
+402,192,25717,128,0,28395:0:0:0:42:D4S.wav
+109,192,28395,128,0,30967:0:0:0:42:B3S.wav
+329,192,30967,128,0,33538:0:0:0:42:D4S.wav
+36,192,33538,128,0,36110:0:0:0:42:C#4S_Db4S.wav

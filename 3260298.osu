@@ -1,0 +1,110 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 6173
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 16
+GridSize: 8
+TimelineZoom: 1.2
+
+[Metadata]
+Title:Quiet Water
+TitleUnicode:Quiet Water
+Artist:toby fox
+ArtistUnicode:toby fox
+Creator:Maxim-Miau
+Version:The Water, as Calm as the Melodic Waves
+Source:UNDERTALE
+Tags:calm piano ambient instrumental ost original soundtrack radiation waterfall video game
+BeatmapID:3260298
+BeatmapSetID:1596272
+
+[Difficulty]
+HPDrainRate:7.5
+CircleSize:4
+OverallDifficulty:7.5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Quiet Water.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+173,1000,3,2,1,10,1,0
+
+
+[HitObjects]
+64,192,173,5,0,0:0:0:0:
+448,192,173,1,0,0:0:0:0:
+192,192,235,1,0,0:0:0:0:
+320,192,298,1,0,0:0:0:0:
+64,192,3173,1,0,0:0:0:0:
+448,192,3173,1,0,0:0:0:0:
+192,192,3235,1,0,0:0:0:0:
+320,192,3298,1,0,0:0:0:0:
+192,192,6173,1,0,0:0:0:0:
+64,192,6173,1,0,0:0:0:50:soft-hitwhistle.wav
+320,192,6235,1,0,0:0:0:0:
+448,192,6298,1,0,0:0:0:0:
+320,192,7173,1,0,0:0:0:0:
+448,192,8173,1,0,0:0:0:0:
+320,192,9173,1,0,0:0:0:0:
+448,192,9173,1,0,0:0:0:50:soft-hitwhistle.wav
+192,192,9235,1,0,0:0:0:0:
+64,192,9298,1,0,0:0:0:0:
+64,192,10173,1,0,0:0:0:0:
+320,192,10673,1,0,0:0:0:0:
+448,192,11173,1,0,0:0:0:0:
+192,192,11673,1,0,0:0:0:0:
+64,192,12173,1,0,0:0:0:0:
+448,192,12173,1,0,0:0:0:50:soft-hitwhistle.wav
+320,192,12235,1,0,0:0:0:0:
+192,192,12298,1,0,0:0:0:0:
+64,192,15173,1,0,0:0:0:0:
+448,192,15173,1,0,0:0:0:0:
+320,192,15235,1,0,0:0:0:0:
+192,192,15298,1,0,0:0:0:0:
+448,192,16173,1,0,0:0:0:0:
+320,192,16673,1,0,0:0:0:0:
+192,192,17173,1,0,0:0:0:0:
+64,192,17673,1,0,0:0:0:0:
+192,192,18173,1,0,0:0:0:50:soft-hitwhistle.wav
+64,192,18173,1,0,0:0:0:0:
+320,192,18235,1,0,0:0:0:0:
+448,192,18298,1,0,0:0:0:0:
+192,192,19173,1,0,0:0:0:0:
+448,192,20173,1,0,0:0:0:0:
+320,192,21173,1,0,0:0:0:0:
+448,192,21173,1,0,0:0:0:50:soft-hitwhistle.wav
+192,192,21235,1,0,0:0:0:0:
+64,192,21298,1,0,0:0:0:0:
+320,192,22173,1,0,0:0:0:0:
+192,192,23173,1,0,0:0:0:0:
+448,192,24173,1,0,0:0:0:0:
+64,192,24173,1,0,0:0:0:50:soft-hitwhistle.wav
+192,192,24235,1,0,0:0:0:0:
+320,192,24298,1,0,0:0:0:0:
+448,192,27173,1,0,0:0:0:0:
+64,192,27173,1,0,0:0:0:0:
+192,192,27235,1,0,0:0:0:0:
+320,192,27298,128,0,32173:0:0:0:0:

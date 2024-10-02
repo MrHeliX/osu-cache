@@ -1,0 +1,18 @@
+
+                <html>
+                <head>
+                <link rel="stylesheet" type="text/css" href="https://s.ppy.sh/css/style.css" media="all"/>
+                <title>Server Unavailable</title>
+                </head>
+                <body style="background:#fff;overflow:hidden;">
+                <div style="width:100%;text-align:center; margin: 50px;">
+                <div><img src="//s.ppy.sh/images/404.jpg"/></div>
+                <div style="margin-top:20px;font-size:150%">It would seem that the osu! servers are currently experiencing issues.</div>
+                <div style="font-size:90%">If you are seeing this page, peppy is already aware something is wrong. But just in-case, here is the error:</div>
+                <div style="font-size:80%">256 /data/repo/www/forum/includes/session.php 1233 Could not get style data</div>
+                </div>
+                <div style="background: #b9c2de;position:fixed;bottom:0px; padding: 5px; width:100%;text-align:center">
+                For updates, please follow <a href="http://twitter.com/osustatus">@osustatus</a> and keep an eye on the <a href="http://stat.ppy.sh">osu! status</a> page.
+                </div>
+                </body>
+                </html>

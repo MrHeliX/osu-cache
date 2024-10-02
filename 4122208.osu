@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 64685
 Countdown: 0
-SampleSet: None
+SampleSet: Soft
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
@@ -24,16 +24,16 @@ TitleUnicode:あかいくつ偽
 Artist:-45
 ArtistUnicode:-45
 Creator:Local Hero
-Version:Another (Corsace Diff)
+Version:Another
 Source:うみねこのなく頃に
-Tags:aka ikutsunise yoshikawa-45 umineko no naku koro ni when the seagulls cry they 3 question arcs instrumental video game electronic FA featured artist corsace closed cc23 wf DT2
+Tags:aka ikutsunise yoshikawa-45 umineko no naku koro ni when the seagulls cry they 3 question arcs instrumental video game electronic FA featured artist corsace closed cc23 wf DT2 mappers guild mpg Akai Tsukunise
 BeatmapID:4122208
 BeatmapSetID:1984720
 
 [Difficulty]
 HPDrainRate:5
 CircleSize:4
-OverallDifficulty:7
+OverallDifficulty:7.5
 ApproachRate:8
 SliderMultiplier:2
 SliderTickRate:1
@@ -196,7 +196,7 @@ Combo4 : 255,94,55
 263,26,34224,1,0,1:0:0:0:
 377,12,34395,1,2,0:0:0:0:
 473,62,34566,2,0,P|462:114|454:172,1,100,2|0,1:2|0:0,0:0:0:0:
-423,354,34909,1,2,0:0:0:0:
+423,354,34909,1,2,1:2:0:0:
 423,354,34995,1,2,0:0:0:0:
 423,354,35081,1,2,0:0:0:0:
 423,354,35166,1,2,0:0:0:0:
@@ -236,7 +236,7 @@ Combo4 : 255,94,55
 452,132,40052,6,0,L|501:135,2,50,14|0|0,1:2|0:0|0:0,0:0:0:0:
 336,71,40395,2,0,P|338:47|339:22,2,50,0|0|0,1:0|0:0|0:0,0:0:0:0:
 251,163,40738,2,0,P|223:161|194:159,2,50,0|0|0,1:0|0:0|0:0,0:0:0:0:
-317,273,41081,1,2,0:0:0:0:
+317,273,41081,1,2,1:2:0:0:
 317,273,41166,1,2,0:0:0:0:
 317,273,41252,1,2,0:0:0:0:
 317,273,41338,1,2,0:0:0:0:
@@ -264,7 +264,7 @@ Combo4 : 255,94,55
 226,37,44081,1,2,1:2:0:0:
 247,28,44166,6,0,P|276:25|303:21,2,50,14|0|0,1:2|0:0|0:0,0:0:0:0:
 199,135,44509,2,0,L|142:132,2,50,2|0|0,1:2|0:0|0:0,0:0:0:0:
-255,246,44852,1,2,0:0:0:0:
+255,246,44852,1,2,1:2:0:0:
 286,220,44938,1,2,0:0:0:0:
 301,237,45024,1,2,0:0:0:0:
 338,248,45109,1,2,0:0:0:0:
@@ -293,7 +293,7 @@ Combo4 : 255,94,55
 66,241,48624,2,0,L|18:208,2,50,2|0|0,1:2|0:0|0:0,0:0:0:0:
 167,175,48966,1,0,1:0:0:0:
 198,256,49138,1,0,1:0:0:0:
-293,295,49309,1,2,0:0:0:0:
+293,295,49309,1,2,1:2:0:0:
 293,295,49395,1,2,0:0:0:0:
 293,295,49481,1,2,0:0:0:0:
 293,295,49566,1,2,0:0:0:0:
@@ -309,7 +309,7 @@ Combo4 : 255,94,55
 491,124,50852,1,2,0:0:0:0:
 427,39,51024,1,0,1:0:0:0:
 375,112,51195,1,2,0:0:0:0:
-214,55,51366,1,2,0:0:0:0:
+214,55,51366,1,2,1:2:0:0:
 201,51,51452,1,2,0:0:0:0:
 184,46,51538,1,2,0:0:0:0:
 171,42,51624,1,2,0:0:0:0:

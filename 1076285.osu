@@ -1,0 +1,80 @@
+osu file format v14
+
+[General]
+AudioFilename: Daytona USA (Arcade) - Attract Theme (Let's Go Away).mp3
+AudioLeadIn: 0
+PreviewTime: 29240
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.3
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 30757
+DistanceSpacing: 1.4
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Let's Go Away
+TitleUnicode:Let's Go Away
+Artist:Takenobu Mitsuyoshi
+ArtistUnicode:Takenobu Mitsuyoshi
+Creator:Taiko
+Version:Easy
+Source:Daytona Usa
+Tags:
+BeatmapID:1076285
+BeatmapSetID:505977
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3
+OverallDifficulty:2
+ApproachRate:2
+SliderMultiplier:1.1
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"download.png",0,0
+Video,1494,"Daytona USA Intro Lets go away (Xbox 360).avi"
+//Break Periods
+2,19608,27704
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+592,298.666749379653,4,1,0,100,1,0
+29264,-100,4,1,0,100,0,1
+38746,-100,4,1,0,100,0,0
+41164,297.266749379653,4,1,0,100,1,0
+
+
+[HitObjects]
+256,192,5370,12,0,7685,0:0:0:0:
+60,24,10149,6,0,L|392:24,1,330
+484,92,11344,6,0,L|12:92,1,467.5
+132,92,13658,5,2,0:0:0:0:
+148,200,14928,2,0,B|152:64|152:64|352:68|352:68|348:188|348:188|136:200,1,660
+256,192,17317,12,0,19408,0:0:0:0:
+100,192,29264,6,0,P|176:116|96:72,2,220
+256,188,31056,1,4,0:0:0:0:
+340,240,31653,2,0,P|272:200|336:152,2,165
+412,248,33146,5,4,0:0:0:0:
+256,184,33445,1,6,0:0:0:0:
+144,220,33968,6,0,P|176:160|64:172,2,220
+256,192,35834,1,4,0:0:0:0:
+256,192,36357,12,0,38746,0:0:0:0:
+52,144,41164,6,0,P|156:248|216:224,1,220
+432,268,42278,6,0,P|416:136|476:112,1,220
+316,232,43542,2,0,P|224:152|212:196,1,247.5
+256,200,44805,5,0,0:0:0:0:
+160,144,45251,1,2,0:0:0:0:
+256,192,45920,12,0,49338,0:0:0:0:

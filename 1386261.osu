@@ -1,0 +1,83 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+SkinPreference:RWBY+Rose
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.4
+BeatDivisor: 6
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Hymn For The Weekend
+TitleUnicode:Hymn For The Weekend
+Artist:Coldplay (Seeb remix)
+ArtistUnicode:Coldplay (Seeb remix)
+Creator:SuperConeja25
+Version:M E M O R I E S
+Source:https://www.youtube.com/watch?v=k1gsZ-OsGpI
+Tags:Codplay, hymn for the weekend, remix, pop
+BeatmapID:1386261
+BeatmapSetID:653975
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:8
+SliderMultiplier:1.2
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"city-sunset-man-hand.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+108.172413793103,344.827586206897,4,2,1,29,1,0
+
+
+[Colours]
+Combo1 : 174,74,74
+Combo2 : 0,128,128
+Combo3 : 245,197,202
+Combo4 : 102,255,102
+
+[HitObjects]
+176,77,108,5,0,0:0:0:0:
+183,112,280,1,0,0:0:0:0:
+187,156,453,1,0,0:0:0:0:
+225,202,625,6,0,P|274:194|290:181,2,60
+105,246,1200,1,0,0:0:0:0:
+225,272,1430,6,0,P|267:271|292:273,1,60
+297,198,1832,5,0,0:0:0:0:
+448,148,2062,6,0,L|418:206,1,60
+399,249,2407,2,0,P|377:291|342:325,1,80
+233,278,2924,5,0,0:0:0:0:
+290,311,3096,1,0,0:0:0:0:
+361,230,3269,6,0,L|435:188,1,80
+443,138,3671,2,0,P|427:97|401:71,1,80
+361,68,4073,2,0,P|318:75|264:66,1,80
+193,112,4705,2,0,P|234:131|248:129,2,60
+295,112,5223,1,0,0:0:0:0:
+328,147,5395,6,0,P|372:185|417:184,1,100
+453,178,5855,1,0,0:0:0:0:
+418,273,6142,6,0,P|427:312|450:346,1,80
+347,225,6544,5,0,0:0:0:0:
+303,198,6717,2,0,P|286:173|246:158,1,60
+217,197,7119,5,0,0:0:0:0:

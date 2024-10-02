@@ -1,4 +1,4 @@
-﻿osu file format v3
+osu file format v3
 
 [General]
 AudioFilename: Maeken Trance Project - Koi no Maiahi.mp3
@@ -9,6 +9,8 @@ Title:Koi no Maiahi
 Artist:Maeken Trance Project
 Creator:Lumino
 Version:Insane
+BeatmapID:104
+BeatmapSetID:32
 
 [Difficulty]
 HPDrainRate:10

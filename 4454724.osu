@@ -1,0 +1,1537 @@
+osu file format v14
+
+[General]
+AudioFilename: Succubus.ogg
+AudioLeadIn: 0
+PreviewTime: 68363
+Countdown: 0
+SampleSet: Drum
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 0,23272,34909,46545,58181,69818,81454,93100,116363,139636,151272,162909,174545
+DistanceSpacing: 0.95
+BeatDivisor: 16
+GridSize: 32
+TimelineZoom: 1.4
+
+[Metadata]
+Title:Succubus Gabber
+TitleUnicode:Succubus Gabber
+Artist:M9RVEN
+ArtistUnicode:M9RVEN
+Creator:lovely_hyahya
+Version:FTK's Normal
+Source:
+Tags:electronic instrumental japanese hardtek crossbreed gabba hardcore lolicore techno China kakusatsu shoujo 2 thoughost morven thgo-004 [gb]rush_ftk rush_ftk keksikosu [gb]chickengold chickengold seiran- -timerains-
+BeatmapID:4454724
+BeatmapSetID:1961829
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"52.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+Sample,10,0,"nettori.ogg",70
+Sample,11646,0,"nettori.ogg",70
+Sample,23282,0,"nettori.ogg",70
+Sample,116373,0,"nettori.ogg",70
+Sample,128010,0,"nettori.ogg",70
+Sample,139646,0,"nettori.ogg",70
+Sample,373,0,"LR_HiHat Synth Fast.wav",70
+Sample,737,0,"LR_HiHat Synth Fast.wav",70
+Sample,1100,0,"LR_HiHat Synth Fast.wav",70
+Sample,1828,0,"LR_HiHat Synth Fast.wav",70
+Sample,2191,0,"LR_HiHat Synth Fast.wav",70
+Sample,2555,0,"LR_HiHat Synth Fast.wav",70
+Sample,2737,0,"LR_HiHat Synth Fast.wav",70
+Sample,3282,0,"LR_HiHat Synth Fast.wav",70
+Sample,3646,0,"LR_HiHat Synth Fast.wav",70
+Sample,4010,0,"LR_HiHat Synth Fast.wav",70
+Sample,4373,0,"LR_HiHat Synth Fast.wav",70
+Sample,4555,0,"LR_HiHat Synth Fast.wav",70
+Sample,4737,0,"LR_HiHat Synth Fast.wav",70
+Sample,4919,0,"LR_HiHat Synth Fast.wav",70
+Sample,5100,0,"LR_HiHat Synth Fast.wav",70
+Sample,5464,0,"LR_HiHat Synth Fast.wav",70
+Sample,5555,0,"LR_HiHat Synth Fast.wav",70
+Sample,5646,0,"LR_HiHat Synth Fast.wav",70
+Sample,6191,0,"LR_HiHat Synth Fast.wav",70
+Sample,6555,0,"LR_HiHat Synth Fast.wav",70
+Sample,6919,0,"LR_HiHat Synth Fast.wav",70
+Sample,7282,0,"LR_HiHat Synth Fast.wav",70
+Sample,7646,0,"LR_HiHat Synth Fast.wav",70
+Sample,8010,0,"LR_HiHat Synth Fast.wav",70
+Sample,8373,0,"LR_HiHat Synth Fast.wav",70
+Sample,8555,0,"LR_HiHat Synth Fast.wav",70
+Sample,8737,0,"LR_HiHat Synth Fast.wav",70
+Sample,9100,0,"LR_HiHat Synth Fast.wav",70
+Sample,9464,0,"LR_HiHat Synth Fast.wav",70
+Sample,9828,0,"LR_HiHat Synth Fast.wav",70
+Sample,10191,0,"LR_HiHat Synth Fast.wav",70
+Sample,10373,0,"LR_HiHat Synth Fast.wav",70
+Sample,10555,0,"LR_HiHat Synth Fast.wav",70
+Sample,10737,0,"LR_HiHat Synth Fast.wav",70
+Sample,10919,0,"LR_HiHat Synth Fast.wav",70
+Sample,11010,0,"LR_HiHat Synth Fast.wav",70
+Sample,11100,0,"LR_HiHat Synth Fast.wav",70
+Sample,11191,0,"LR_HiHat Synth Fast.wav",70
+Sample,11282,0,"LR_HiHat Synth Fast.wav",70
+Sample,11373,0,"LR_HiHat Synth Fast.wav",70
+Sample,11419,0,"LR_HiHat Synth Fast.wav",70
+Sample,11464,0,"LR_HiHat Synth Fast.wav",70
+Sample,11555,0,"LR_HiHat Synth Fast.wav",70
+Sample,12010,0,"LR_HiHat Synth Fast.wav",70
+Sample,12373,0,"LR_HiHat Synth Fast.wav",70
+Sample,12737,0,"LR_HiHat Synth Fast.wav",70
+Sample,13464,0,"LR_HiHat Synth Fast.wav",70
+Sample,13828,0,"LR_HiHat Synth Fast.wav",70
+Sample,14191,0,"LR_HiHat Synth Fast.wav",70
+Sample,14373,0,"LR_HiHat Synth Fast.wav",70
+Sample,14919,0,"LR_HiHat Synth Fast.wav",70
+Sample,15282,0,"LR_HiHat Synth Fast.wav",70
+Sample,15646,0,"LR_HiHat Synth Fast.wav",70
+Sample,16010,0,"LR_HiHat Synth Fast.wav",70
+Sample,16191,0,"LR_HiHat Synth Fast.wav",70
+Sample,16373,0,"LR_HiHat Synth Fast.wav",70
+Sample,16555,0,"LR_HiHat Synth Fast.wav",70
+Sample,16737,0,"LR_HiHat Synth Fast.wav",70
+Sample,17100,0,"LR_HiHat Synth Fast.wav",70
+Sample,17191,0,"LR_HiHat Synth Fast.wav",70
+Sample,17282,0,"LR_HiHat Synth Fast.wav",70
+Sample,17464,0,"LR_HiHat Synth Fast.wav",70
+Sample,17828,0,"LR_HiHat Synth Fast.wav",70
+Sample,18191,0,"LR_HiHat Synth Fast.wav",70
+Sample,18555,0,"LR_HiHat Synth Fast.wav",70
+Sample,18919,0,"LR_HiHat Synth Fast.wav",70
+Sample,19282,0,"LR_HiHat Synth Fast.wav",70
+Sample,19646,0,"LR_HiHat Synth Fast.wav",70
+Sample,20010,0,"LR_HiHat Synth Fast.wav",70
+Sample,20191,0,"LR_HiHat Synth Fast.wav",70
+Sample,20373,0,"LR_HiHat Synth Fast.wav",70
+Sample,20737,0,"LR_HiHat Synth Fast.wav",70
+Sample,21100,0,"LR_HiHat Synth Fast.wav",70
+Sample,21464,0,"LR_HiHat Synth Fast.wav",70
+Sample,21828,0,"LR_HiHat Synth Fast.wav",70
+Sample,22010,0,"LR_HiHat Synth Fast.wav",70
+Sample,22191,0,"LR_HiHat Synth Fast.wav",70
+Sample,22373,0,"LR_HiHat Synth Fast.wav",70
+Sample,22555,0,"LR_HiHat Synth Fast.wav",70
+Sample,22919,0,"LR_HiHat Synth Fast.wav",70
+Sample,23010,0,"LR_HiHat Synth Fast.wav",70
+Sample,23100,0,"LR_HiHat Synth Fast.wav",70
+Sample,25828,0,"LR_HiHat Synth Fast.wav",70
+Sample,26010,0,"LR_HiHat Synth Fast.wav",70
+Sample,26191,0,"LR_HiHat Synth Fast.wav",70
+Sample,27828,0,"LR_HiHat Synth Fast.wav",70
+Sample,28191,0,"LR_HiHat Synth Fast.wav",70
+Sample,28737,0,"LR_HiHat Synth Fast.wav",70
+Sample,28828,0,"LR_HiHat Synth Fast.wav",70
+Sample,28919,0,"LR_HiHat Synth Fast.wav",70
+Sample,29100,0,"LR_HiHat Synth Fast.wav",70
+Sample,33100,0,"LR_HiHat Synth Fast.wav",70
+Sample,33464,0,"LR_HiHat Synth Fast.wav",70
+Sample,33646,0,"LR_HiHat Synth Fast.wav",70
+Sample,33828,0,"LR_HiHat Synth Fast.wav",70
+Sample,34010,0,"LR_HiHat Synth Fast.wav",70
+Sample,34191,0,"LR_HiHat Synth Fast.wav",70
+Sample,34282,0,"LR_HiHat Synth Fast.wav",70
+Sample,34373,0,"LR_HiHat Synth Fast.wav",70
+Sample,34464,0,"LR_HiHat Synth Fast.wav",70
+Sample,34555,0,"LR_HiHat Synth Fast.wav",70
+Sample,34646,0,"LR_HiHat Synth Fast.wav",70
+Sample,34737,0,"LR_HiHat Synth Fast.wav",70
+Sample,35100,0,"LR_HiHat Synth Fast.wav",70
+Sample,35464,0,"LR_HiHat Synth Fast.wav",70
+Sample,35828,0,"LR_HiHat Synth Fast.wav",70
+Sample,36191,0,"LR_HiHat Synth Fast.wav",70
+Sample,36555,0,"LR_HiHat Synth Fast.wav",70
+Sample,36919,0,"LR_HiHat Synth Fast.wav",70
+Sample,37282,0,"LR_HiHat Synth Fast.wav",70
+Sample,38010,0,"LR_HiHat Synth Fast.wav",70
+Sample,38373,0,"LR_HiHat Synth Fast.wav",70
+Sample,38737,0,"LR_HiHat Synth Fast.wav",70
+Sample,39100,0,"LR_HiHat Synth Fast.wav",70
+Sample,39464,0,"LR_HiHat Synth Fast.wav",70
+Sample,39828,0,"LR_HiHat Synth Fast.wav",70
+Sample,40191,0,"LR_HiHat Synth Fast.wav",70
+Sample,40555,0,"LR_HiHat Synth Fast.wav",70
+Sample,40646,0,"LR_HiHat Synth Fast.wav",70
+Sample,40919,0,"LR_HiHat Synth Fast.wav",70
+Sample,41282,0,"LR_HiHat Synth Fast.wav",70
+Sample,41646,0,"LR_HiHat Synth Fast.wav",70
+Sample,42010,0,"LR_HiHat Synth Fast.wav",70
+Sample,42373,0,"LR_HiHat Synth Fast.wav",70
+Sample,42737,0,"LR_HiHat Synth Fast.wav",70
+Sample,43100,0,"LR_HiHat Synth Fast.wav",70
+Sample,43828,0,"LR_HiHat Synth Fast.wav",70
+Sample,44191,0,"LR_HiHat Synth Fast.wav",70
+Sample,44555,0,"LR_HiHat Synth Fast.wav",70
+Sample,44919,0,"LR_HiHat Synth Fast.wav",70
+Sample,45282,0,"LR_HiHat Synth Fast.wav",70
+Sample,45464,0,"LR_HiHat Synth Fast.wav",70
+Sample,45646,0,"LR_HiHat Synth Fast.wav",70
+Sample,45828,0,"LR_HiHat Synth Fast.wav",70
+Sample,46010,0,"LR_HiHat Synth Fast.wav",70
+Sample,46373,0,"LR_HiHat Synth Fast.wav",70
+Sample,46464,0,"LR_HiHat Synth Fast.wav",70
+Sample,46737,0,"LR_HiHat Synth Fast.wav",70
+Sample,46919,0,"LR_HiHat Synth Fast.wav",70
+Sample,47191,0,"LR4_ClapReverbDPS.wav",40
+Sample,47373,0,"LR4_ClapReverbDPS.wav",40
+Sample,47464,0,"LR_HiHat Synth Fast.wav",70
+Sample,47646,0,"LR_HiHat Synth Fast.wav",70
+Sample,47919,0,"LR4_ClapReverbDPS.wav",40
+Sample,48010,0,"LR_HiHat Synth Fast.wav",70
+Sample,48191,0,"LR_HiHat Synth Fast.wav",70
+Sample,48373,0,"LR_HiHat Synth Fast.wav",70
+Sample,48646,0,"LR4_ClapReverbDPS.wav",40
+Sample,48828,0,"LR4_ClapReverbDPS.wav",40
+Sample,48919,0,"LR_HiHat Synth Fast.wav",70
+Sample,49100,0,"LR_HiHat Synth Fast.wav",70
+Sample,49373,0,"LR4_ClapReverbDPS.wav",40
+Sample,49646,0,"LR_HiHat Synth Fast.wav",70
+Sample,49828,0,"LR_HiHat Synth Fast.wav",70
+Sample,50100,0,"LR4_ClapReverbDPS.wav",40
+Sample,50282,0,"LR4_ClapReverbDPS.wav",40
+Sample,50373,0,"LR_HiHat Synth Fast.wav",70
+Sample,50737,0,"LR4_ClapReverbDPS.wav",40
+Sample,50737,0,"LR_HiHat Synth Fast.wav",70
+Sample,50919,0,"LR_HiHat Synth Fast.wav",70
+Sample,51010,0,"LR4_ClapReverbDPS.wav",40
+Sample,51100,0,"LR_HiHat Synth Fast.wav",70
+Sample,51282,0,"LR4_ClapReverbDPS.wav",40
+Sample,51282,0,"LR_HiHat Synth Fast.wav",70
+Sample,51464,0,"LR_HiHat Synth Fast.wav",70
+Sample,51555,0,"LR4_ClapReverbDPS.wav",40
+Sample,51646,0,"LR_HiHat Synth Fast.wav",70
+Sample,51737,0,"LR4_ClapReverbDPS.wav",40
+Sample,51828,0,"LR_HiHat Synth Fast.wav",70
+Sample,52010,0,"LR_HiHat Synth Fast.wav",70
+Sample,52191,0,"LR4_ClapReverbDPS.wav",40
+Sample,52191,0,"LR_HiHat Synth Fast.wav",70
+Sample,52282,0,"LR_HiHat Synth Fast.wav",70
+Sample,52555,0,"LR_HiHat Synth Fast.wav",70
+Sample,52737,0,"LR_HiHat Synth Fast.wav",70
+Sample,53010,0,"LR4_ClapReverbDPS.wav",40
+Sample,53191,0,"LR4_ClapReverbDPS.wav",40
+Sample,53282,0,"LR_HiHat Synth Fast.wav",70
+Sample,53464,0,"LR_HiHat Synth Fast.wav",70
+Sample,53737,0,"LR4_ClapReverbDPS.wav",40
+Sample,53828,0,"LR_HiHat Synth Fast.wav",70
+Sample,54010,0,"LR_HiHat Synth Fast.wav",70
+Sample,54191,0,"LR_HiHat Synth Fast.wav",70
+Sample,54464,0,"LR4_ClapReverbDPS.wav",40
+Sample,54646,0,"LR4_ClapReverbDPS.wav",40
+Sample,54737,0,"LR_HiHat Synth Fast.wav",70
+Sample,54919,0,"LR_HiHat Synth Fast.wav",70
+Sample,55191,0,"LR4_ClapReverbDPS.wav",40
+Sample,55464,0,"LR_HiHat Synth Fast.wav",70
+Sample,55646,0,"LR4_ClapReverbDPS.wav",40
+Sample,55646,0,"LR_HiHat Synth Fast.wav",70
+Sample,55828,0,"LR_HiHat Synth Fast.wav",70
+Sample,55919,0,"LR4_ClapReverbDPS.wav",40
+Sample,56010,0,"LR_HiHat Synth Fast.wav",70
+Sample,56100,0,"LR4_ClapReverbDPS.wav",40
+Sample,56191,0,"LR_HiHat Synth Fast.wav",70
+Sample,56373,0,"LR_HiHat Synth Fast.wav",70
+Sample,56555,0,"LR4_ClapReverbDPS.wav",40
+Sample,56555,0,"LR_HiHat Synth Fast.wav",70
+Sample,56737,0,"LR_HiHat Synth Fast.wav",70
+Sample,56828,0,"LR4_ClapReverbDPS.wav",40
+Sample,56919,0,"LR_HiHat Synth Fast.wav",70
+Sample,57100,0,"LR4_ClapReverbDPS.wav",40
+Sample,57100,0,"LR_HiHat Synth Fast.wav",70
+Sample,57282,0,"LR_HiHat Synth Fast.wav",70
+Sample,57373,0,"LR4_ClapReverbDPS.wav",40
+Sample,57464,0,"LR_HiHat Synth Fast.wav",70
+Sample,57555,0,"LR4_ClapReverbDPS.wav",40
+Sample,57828,0,"LR4_ClapReverbDPS.wav",40
+Sample,57828,0,"LR_HiHat Synth Fast.wav",70
+Sample,58010,0,"LR4_ClapReverbDPS.wav",40
+Sample,58010,0,"LR_HiHat Synth Fast.wav",70
+Sample,58373,0,"Jiu2.wav",20
+Sample,58646,0,"Gu2.wav",50
+Sample,59100,0,"Jiu2.wav",20
+Sample,59373,0,"Gu2.wav",50
+Sample,59828,0,"Jiu2.wav",20
+Sample,60100,0,"Gu2.wav",50
+Sample,60555,0,"Jiu2.wav",20
+Sample,61282,0,"Jiu2.wav",20
+Sample,61555,0,"Gu2.wav",50
+Sample,62010,0,"Jiu2.wav",20
+Sample,62282,0,"Gu2.wav",50
+Sample,62737,0,"Jiu2.wav",20
+Sample,63010,0,"Gu2.wav",50
+Sample,63464,0,"Jiu2.wav",20
+Sample,63737,0,"Gu2.wav",50
+Sample,64191,0,"Jiu2.wav",20
+Sample,64464,0,"Gu2.wav",50
+Sample,64919,0,"Jiu2.wav",20
+Sample,65191,0,"Gu2.wav",50
+Sample,65646,0,"Jiu2.wav",20
+Sample,65919,0,"Gu2.wav",50
+Sample,66373,0,"Jiu2.wav",20
+Sample,67010,0,"Jiu2.wav",20
+Sample,67373,0,"Gu2.wav",50
+Sample,67737,0,"Jiu2.wav",20
+Sample,68100,0,"Gu2.wav",50
+Sample,68373,0,"LR_HiHat Synth Fast.wav",70
+Sample,68555,0,"LR_HiHat Synth Fast.wav",70
+Sample,68737,0,"LR_HiHat Synth Fast.wav",70
+Sample,68919,0,"LR_HiHat Synth Fast.wav",70
+Sample,69100,0,"LR_HiHat Synth Fast.wav",70
+Sample,69464,0,"LR_HiHat Synth Fast.wav",70
+Sample,69555,0,"LR_HiHat Synth Fast.wav",70
+Sample,69646,0,"LR_HiHat Synth Fast.wav",70
+Sample,80010,0,"LR_HiHat Synth Fast.wav",70
+Sample,80191,0,"LR_HiHat Synth Fast.wav",70
+Sample,80373,0,"LR_HiHat Synth Fast.wav",70
+Sample,80555,0,"LR_HiHat Synth Fast.wav",70
+Sample,80737,0,"LR_HiHat Synth Fast.wav",70
+Sample,80919,0,"LR_HiHat Synth Fast.wav",70
+Sample,81100,0,"LR_HiHat Synth Fast.wav",70
+Sample,81282,0,"LR_HiHat Synth Fast.wav",70
+Sample,81464,0,"LR_CymbalG.wav",70
+Sample,82373,0,"LR_HiHat Synth Fast.wav",70
+Sample,82555,0,"Jiu1.wav",100
+Sample,83646,0,"LR_HiHat Synth Fast.wav",70
+Sample,83828,0,"LR_HiHat Synth Fast.wav",70
+Sample,84010,0,"Jiu1.wav",100
+Sample,84010,0,"LR_HiHat Synth Fast.wav",70
+Sample,84191,0,"Jiu1.wav",100
+Sample,84191,0,"LR_HiHat Synth Fast.wav",70
+Sample,85282,0,"LR_HiHat Synth Fast.wav",70
+Sample,85464,0,"Jiu1.wav",100
+Sample,86555,0,"LR_HiHat Synth Fast.wav",70
+Sample,86646,0,"LR_HiHat Synth Fast.wav",70
+Sample,86737,0,"LR_HiHat Synth Fast.wav",70
+Sample,86919,0,"LR_HiHat Synth Fast.wav",70
+Sample,88191,0,"LR_HiHat Synth Fast.wav",70
+Sample,88373,0,"Jiu1.wav",100
+Sample,89464,0,"LR_HiHat Synth Fast.wav",70
+Sample,89646,0,"LR_HiHat Synth Fast.wav",70
+Sample,89828,0,"Jiu1.wav",100
+Sample,89828,0,"LR_HiHat Synth Fast.wav",70
+Sample,90010,0,"LR_HiHat Synth Fast.wav",70
+Sample,91100,0,"LR_HiHat Synth Fast.wav",70
+Sample,91282,0,"Jiu1.wav",100
+Sample,91828,0,"LR_HiHat Synth Fast.wav",70
+Sample,92191,0,"LR_HiHat Synth Fast.wav",70
+Sample,92373,0,"LR_HiHat Synth Fast.wav",70
+Sample,92464,0,"LR_HiHat Synth Fast.wav",70
+Sample,92555,0,"LR_HiHat Synth Fast.wav",70
+Sample,92646,0,"LR_HiHat Synth Fast.wav",70
+Sample,92737,0,"LR_HiHat Synth Fast.wav",70
+Sample,92828,0,"LR_HiHat Synth Fast.wav",70
+Sample,92919,0,"LR_HiHat Synth Fast.wav",70
+Sample,93010,0,"LR_HiHat Synth Fast.wav",70
+Sample,93100,0,"LR_CymbalG.wav",70
+Sample,94010,0,"LR_HiHat Synth Fast.wav",70
+Sample,94191,0,"Jiu1.wav",100
+Sample,95282,0,"LR_HiHat Synth Fast.wav",70
+Sample,95464,0,"LR_HiHat Synth Fast.wav",70
+Sample,95646,0,"Jiu1.wav",100
+Sample,95646,0,"LR_HiHat Synth Fast.wav",70
+Sample,95828,0,"LR_HiHat Synth Fast.wav",70
+Sample,95919,0,"LR_HiHat Synth Fast.wav",70
+Sample,96919,0,"LR_HiHat Synth Fast.wav",70
+Sample,97100,0,"Jiu1.wav",100
+Sample,98191,0,"LR_HiHat Synth Fast.wav",70
+Sample,98373,0,"LR_HiHat Synth Fast.wav",70
+Sample,98555,0,"LR_HiHat Synth Fast.wav",70
+Sample,98737,0,"LR_HiHat Synth Fast.wav",70
+Sample,98919,0,"LR_CymbalG.wav",70
+Sample,99828,0,"LR_HiHat Synth Fast.wav",70
+Sample,100010,0,"Jiu1.wav",100
+Sample,101100,0,"LR_HiHat Synth Fast.wav",70
+Sample,101282,0,"LR_HiHat Synth Fast.wav",70
+Sample,101464,0,"Jiu1.wav",100
+Sample,101464,0,"LR_HiHat Synth Fast.wav",70
+Sample,101646,0,"LR_HiHat Synth Fast.wav",70
+Sample,102737,0,"LR_HiHat Synth Fast.wav",70
+Sample,102919,0,"Jiu1.wav",100
+Sample,103282,0,"LR_HiHat Synth Fast.wav",70
+Sample,103464,0,"LR_HiHat Synth Fast.wav",70
+Sample,103646,0,"LR_HiHat Synth Fast.wav",70
+Sample,103828,0,"LR_HiHat Synth Fast.wav",70
+Sample,104010,0,"LR_HiHat Synth Fast.wav",70
+Sample,104100,0,"LR_HiHat Synth Fast.wav",70
+Sample,104191,0,"LR_HiHat Synth Fast.wav",70
+Sample,104282,0,"LR_HiHat Synth Fast.wav",70
+Sample,104373,0,"LR_HiHat Synth Fast.wav",70
+Sample,104464,0,"LR_HiHat Synth Fast.wav",70
+Sample,104555,0,"LR_HiHat Synth Fast.wav",70
+Sample,104646,0,"LR_HiHat Synth Fast.wav",70
+Sample,104919,0,"LR_HiHat Synth Fast.wav",70
+Sample,105191,0,"Gu2.wav",50
+Sample,105646,0,"Jiu2.wav",20
+Sample,105646,0,"LR_HiHat Synth Fast.wav",70
+Sample,105919,0,"Gu2.wav",50
+Sample,106373,0,"LR_HiHat Synth Fast.wav",70
+Sample,106646,0,"Gu2.wav",50
+Sample,107100,0,"Jiu2.wav",20
+Sample,107100,0,"LR_HiHat Synth Fast.wav",70
+Sample,107373,0,"Gu2.wav",50
+Sample,107828,0,"LR_HiHat Synth Fast.wav",70
+Sample,108100,0,"Gu2.wav",50
+Sample,108555,0,"Jiu2.wav",20
+Sample,108555,0,"LR_HiHat Synth Fast.wav",70
+Sample,108828,0,"Gu2.wav",50
+Sample,109282,0,"LR_HiHat Synth Fast.wav",70
+Sample,109555,0,"Gu2.wav",50
+Sample,110010,0,"Jiu2.wav",20
+Sample,110010,0,"LR_HiHat Synth Fast.wav",70
+Sample,110737,0,"LR_HiHat Synth Fast.wav",70
+Sample,111010,0,"Gu2.wav",50
+Sample,111464,0,"Jiu2.wav",20
+Sample,111464,0,"LR_HiHat Synth Fast.wav",70
+Sample,111737,0,"Gu2.wav",50
+Sample,112191,0,"LR_HiHat Synth Fast.wav",70
+Sample,112464,0,"Gu2.wav",50
+Sample,112919,0,"Jiu2.wav",20
+Sample,112919,0,"LR_HiHat Synth Fast.wav",70
+Sample,113282,0,"LR_HiHat Synth Fast.wav",70
+Sample,113646,0,"LR_HiHat Synth Fast.wav",70
+Sample,113919,0,"Gu2.wav",50
+Sample,114373,0,"Jiu2.wav",20
+Sample,114373,0,"LR_HiHat Synth Fast.wav",70
+Sample,114646,0,"Gu2.wav",50
+Sample,115100,0,"LR_HiHat Synth Fast.wav",70
+Sample,115464,0,"LR_HiHat Synth Fast.wav",70
+Sample,115646,0,"LR_HiHat Synth Fast.wav",70
+Sample,115737,0,"LR_HiHat Synth Fast.wav",70
+Sample,115828,0,"LR_HiHat Synth Fast.wav",70
+Sample,115919,0,"LR_HiHat Synth Fast.wav",70
+Sample,116010,0,"LR_HiHat Synth Fast.wav",70
+Sample,116100,0,"LR_HiHat Synth Fast.wav",70
+Sample,116191,0,"LR_HiHat Synth Fast.wav",70
+Sample,116282,0,"LR_HiHat Synth Fast.wav",70
+Sample,116373,0,"LR_CymbalG.wav",70
+Sample,116737,0,"LR_HiHat Synth Fast.wav",70
+Sample,117100,0,"LR_HiHat Synth Fast.wav",70
+Sample,117464,0,"LR_HiHat Synth Fast.wav",70
+Sample,118191,0,"LR_HiHat Synth Fast.wav",70
+Sample,118555,0,"LR_HiHat Synth Fast.wav",70
+Sample,118919,0,"LR_HiHat Synth Fast.wav",70
+Sample,119100,0,"LR_HiHat Synth Fast.wav",70
+Sample,119646,0,"LR_HiHat Synth Fast.wav",70
+Sample,120010,0,"LR_HiHat Synth Fast.wav",70
+Sample,120373,0,"LR_HiHat Synth Fast.wav",70
+Sample,120737,0,"LR_HiHat Synth Fast.wav",70
+Sample,120919,0,"LR_HiHat Synth Fast.wav",70
+Sample,121100,0,"LR_HiHat Synth Fast.wav",70
+Sample,121282,0,"LR_HiHat Synth Fast.wav",70
+Sample,121464,0,"LR_HiHat Synth Fast.wav",70
+Sample,121828,0,"LR_HiHat Synth Fast.wav",70
+Sample,121919,0,"LR_HiHat Synth Fast.wav",70
+Sample,122010,0,"LR_HiHat Synth Fast.wav",70
+Sample,122555,0,"LR_HiHat Synth Fast.wav",70
+Sample,122919,0,"LR_HiHat Synth Fast.wav",70
+Sample,123282,0,"LR_HiHat Synth Fast.wav",70
+Sample,123646,0,"LR_HiHat Synth Fast.wav",70
+Sample,124010,0,"LR_HiHat Synth Fast.wav",70
+Sample,124373,0,"LR_HiHat Synth Fast.wav",70
+Sample,124737,0,"LR_HiHat Synth Fast.wav",70
+Sample,124919,0,"LR_HiHat Synth Fast.wav",70
+Sample,125100,0,"LR_HiHat Synth Fast.wav",70
+Sample,125464,0,"LR_HiHat Synth Fast.wav",70
+Sample,125828,0,"LR_HiHat Synth Fast.wav",70
+Sample,126191,0,"LR_HiHat Synth Fast.wav",70
+Sample,126555,0,"LR_HiHat Synth Fast.wav",70
+Sample,126737,0,"LR_HiHat Synth Fast.wav",70
+Sample,126919,0,"LR_HiHat Synth Fast.wav",70
+Sample,127100,0,"LR_HiHat Synth Fast.wav",70
+Sample,127282,0,"LR_HiHat Synth Fast.wav",70
+Sample,127646,0,"LR_HiHat Synth Fast.wav",70
+Sample,127737,0,"LR_HiHat Synth Fast.wav",70
+Sample,127828,0,"LR_HiHat Synth Fast.wav",70
+Sample,128737,0,"LR_HiHat Synth Fast.wav",70
+Sample,129464,0,"LR_HiHat Synth Fast.wav",70
+Sample,130191,0,"LR_HiHat Synth Fast.wav",70
+Sample,130737,0,"LR_HiHat Synth Fast.wav",70
+Sample,130919,0,"LR_HiHat Synth Fast.wav",70
+Sample,131646,0,"LR_HiHat Synth Fast.wav",70
+Sample,132373,0,"LR_HiHat Synth Fast.wav",70
+Sample,132555,0,"LR_HiHat Synth Fast.wav",70
+Sample,132919,0,"LR_HiHat Synth Fast.wav",70
+Sample,133100,0,"LR_HiHat Synth Fast.wav",70
+Sample,133555,0,"LR_HiHat Synth Fast.wav",70
+Sample,133646,0,"LR_HiHat Synth Fast.wav",70
+Sample,133828,0,"LR_HiHat Synth Fast.wav",70
+Sample,134555,0,"LR_HiHat Synth Fast.wav",70
+Sample,135282,0,"LR_HiHat Synth Fast.wav",70
+Sample,136010,0,"LR_HiHat Synth Fast.wav",70
+Sample,136555,0,"LR_HiHat Synth Fast.wav",70
+Sample,136737,0,"LR_HiHat Synth Fast.wav",70
+Sample,137464,0,"LR_HiHat Synth Fast.wav",70
+Sample,138191,0,"LR_HiHat Synth Fast.wav",70
+Sample,138373,0,"LR_HiHat Synth Fast.wav",70
+Sample,138737,0,"LR_HiHat Synth Fast.wav",70
+Sample,138919,0,"LR_HiHat Synth Fast.wav",70
+Sample,139828,0,"LR_HiHat Synth Fast.wav",70
+Sample,140191,0,"LR_HiHat Synth Fast.wav",70
+Sample,140555,0,"LR_HiHat Synth Fast.wav",70
+Sample,140919,0,"LR_HiHat Synth Fast.wav",70
+Sample,141282,0,"LR_HiHat Synth Fast.wav",70
+Sample,141646,0,"LR_HiHat Synth Fast.wav",70
+Sample,142010,0,"LR_HiHat Synth Fast.wav",70
+Sample,142737,0,"LR_HiHat Synth Fast.wav",70
+Sample,143100,0,"LR_HiHat Synth Fast.wav",70
+Sample,143464,0,"LR_HiHat Synth Fast.wav",70
+Sample,143828,0,"LR_HiHat Synth Fast.wav",70
+Sample,144191,0,"LR_HiHat Synth Fast.wav",70
+Sample,144555,0,"LR_HiHat Synth Fast.wav",70
+Sample,144919,0,"LR_HiHat Synth Fast.wav",70
+Sample,145282,0,"LR_HiHat Synth Fast.wav",70
+Sample,148282,0,"LR4_ClapReverbDPS.wav",30
+Sample,148373,0,"LR_HiHat Synth Fast.wav",70
+Sample,148373,0,"LR4_ClapReverbDPS.wav",30
+Sample,148555,0,"LR_HiHat Synth Fast.wav",70
+Sample,148555,0,"LR4_ClapReverbDPS.wav",30
+Sample,148737,0,"LR_HiHat Synth Fast.wav",70
+Sample,148737,0,"LR4_ClapReverbDPS.wav",30
+Sample,148919,0,"LR_HiHat Synth Fast.wav",70
+Sample,149010,0,"LR4_ClapReverbDPS.wav",30
+Sample,149100,0,"LR_HiHat Synth Fast.wav",70
+Sample,149191,0,"LR4_ClapReverbDPS.wav",30
+Sample,149282,0,"LR_HiHat Synth Fast.wav",70
+Sample,149282,0,"LR4_ClapReverbDPS.wav",30
+Sample,149464,0,"LR_HiHat Synth Fast.wav",70
+Sample,149646,0,"LR_HiHat Synth Fast.wav",70
+Sample,149646,0,"LR4_ClapReverbDPS.wav",30
+Sample,151464,0,"Jiu2.wav",20
+Sample,151464,0,"LR_HiHat Synth Fast.wav",70
+Sample,151737,0,"Gu2.wav",50
+Sample,151828,0,"LR_HiHat Synth Fast.wav",70
+Sample,152191,0,"Jiu2.wav",20
+Sample,152191,0,"LR_HiHat Synth Fast.wav",70
+Sample,152464,0,"Gu2.wav",50
+Sample,152555,0,"LR_HiHat Synth Fast.wav",70
+Sample,152919,0,"Jiu2.wav",20
+Sample,152919,0,"LR_HiHat Synth Fast.wav",70
+Sample,153191,0,"Gu2.wav",50
+Sample,153282,0,"LR_HiHat Synth Fast.wav",70
+Sample,153646,0,"Jiu2.wav",20
+Sample,153646,0,"LR_HiHat Synth Fast.wav",70
+Sample,153919,0,"Gu2.wav",50
+Sample,154373,0,"Jiu2.wav",20
+Sample,154373,0,"LR_HiHat Synth Fast.wav",70
+Sample,154646,0,"Gu2.wav",50
+Sample,154737,0,"LR_HiHat Synth Fast.wav",70
+Sample,155100,0,"Jiu2.wav",20
+Sample,155100,0,"LR_HiHat Synth Fast.wav",70
+Sample,155373,0,"Gu2.wav",50
+Sample,155464,0,"LR_HiHat Synth Fast.wav",70
+Sample,155828,0,"Jiu2.wav",20
+Sample,155828,0,"LR_HiHat Synth Fast.wav",70
+Sample,156100,0,"Gu2.wav",50
+Sample,156191,0,"LR_HiHat Synth Fast.wav",70
+Sample,156555,0,"Jiu2.wav",20
+Sample,156555,0,"LR_HiHat Synth Fast.wav",70
+Sample,156737,0,"LR_HiHat Synth Fast.wav",70
+Sample,156828,0,"Gu2.wav",50
+Sample,157282,0,"Jiu2.wav",20
+Sample,157282,0,"LR_HiHat Synth Fast.wav",70
+Sample,157555,0,"Gu2.wav",50
+Sample,157646,0,"LR_HiHat Synth Fast.wav",70
+Sample,158010,0,"Jiu2.wav",20
+Sample,158010,0,"LR_HiHat Synth Fast.wav",70
+Sample,158282,0,"Gu2.wav",50
+Sample,158373,0,"LR_HiHat Synth Fast.wav",70
+Sample,158737,0,"Jiu2.wav",20
+Sample,158737,0,"LR_HiHat Synth Fast.wav",70
+Sample,159010,0,"Gu2.wav",50
+Sample,159100,0,"LR_HiHat Synth Fast.wav",70
+Sample,159464,0,"Jiu2.wav",20
+Sample,159464,0,"LR_HiHat Synth Fast.wav",70
+Sample,159737,0,"Gu2.wav",50
+Sample,160191,0,"Jiu2.wav",20
+Sample,160191,0,"LR_HiHat Synth Fast.wav",70
+Sample,160464,0,"Gu2.wav",50
+Sample,160555,0,"LR_HiHat Synth Fast.wav",70
+Sample,160919,0,"Jiu2.wav",20
+Sample,160919,0,"LR_HiHat Synth Fast.wav",70
+Sample,161191,0,"Gu2.wav",50
+Sample,161282,0,"LR_HiHat Synth Fast.wav",70
+Sample,161646,0,"LR_HiHat Synth Fast.wav",70
+Sample,162010,0,"LR_HiHat Synth Fast.wav",70
+Sample,162191,0,"LR_HiHat Synth Fast.wav",70
+Sample,162282,0,"LR_HiHat Synth Fast.wav",70
+Sample,162373,0,"LR_HiHat Synth Fast.wav",70
+Sample,162464,0,"LR_HiHat Synth Fast.wav",70
+Sample,162555,0,"LR_HiHat Synth Fast.wav",70
+Sample,162646,0,"LR_HiHat Synth Fast.wav",70
+Sample,162737,0,"LR_HiHat Synth Fast.wav",70
+Sample,162828,0,"LR_HiHat Synth Fast.wav",70
+Sample,162919,0,"LR_CymbalG.wav",70
+Sample,163373,0,"Gu1.wav",100
+Sample,163828,0,"LR_HiHat Synth Fast.wav",70
+Sample,164100,0,"Gu1.wav",100
+Sample,164828,0,"Gu1.wav",100
+Sample,165100,0,"LR_HiHat Synth Fast.wav",70
+Sample,165282,0,"LR_HiHat Synth Fast.wav",70
+Sample,165464,0,"LR_HiHat Synth Fast.wav",70
+Sample,165555,0,"Gu1.wav",100
+Sample,165646,0,"LR_HiHat Synth Fast.wav",70
+Sample,165737,0,"LR_HiHat Synth Fast.wav",70
+Sample,166282,0,"Gu1.wav",100
+Sample,166737,0,"LR_HiHat Synth Fast.wav",70
+Sample,167010,0,"Gu1.wav",100
+Sample,167737,0,"Gu1.wav",100
+Sample,168010,0,"LR_HiHat Synth Fast.wav",70
+Sample,168191,0,"LR_HiHat Synth Fast.wav",70
+Sample,168373,0,"Gu1.wav",100
+Sample,168373,0,"LR_HiHat Synth Fast.wav",70
+Sample,168737,0,"LR_CymbalG.wav",70
+Sample,169191,0,"Gu1.wav",100
+Sample,169646,0,"LR_HiHat Synth Fast.wav",70
+Sample,169919,0,"Gu1.wav",100
+Sample,170646,0,"Gu1.wav",100
+Sample,170919,0,"LR_HiHat Synth Fast.wav",70
+Sample,171100,0,"LR_HiHat Synth Fast.wav",70
+Sample,171282,0,"Gu1.wav",100
+Sample,171464,0,"Gu1.wav",100
+Sample,172100,0,"Gu1.wav",100
+Sample,172555,0,"LR_HiHat Synth Fast.wav",70
+Sample,172828,0,"Gu1.wav",100
+Sample,173282,0,"LR_HiHat Synth Fast.wav",70
+Sample,173464,0,"LR_HiHat Synth Fast.wav",70
+Sample,173646,0,"LR_HiHat Synth Fast.wav",70
+Sample,173828,0,"LR_HiHat Synth Fast.wav",70
+Sample,173919,0,"LR_HiHat Synth Fast.wav",70
+Sample,174010,0,"LR_HiHat Synth Fast.wav",70
+Sample,174100,0,"LR_HiHat Synth Fast.wav",70
+Sample,174191,0,"LR_HiHat Synth Fast.wav",70
+Sample,174282,0,"LR_HiHat Synth Fast.wav",70
+Sample,174373,0,"LR_HiHat Synth Fast.wav",70
+Sample,174464,0,"LR_HiHat Synth Fast.wav",70
+Sample,174555,0,"LR_CymbalG.wav",70
+Sample,174737,0,"LR_HiHat Synth Fast.wav",70
+Sample,175100,0,"LR_HiHat Synth Fast.wav",70
+Sample,175464,0,"LR_HiHat Synth Fast.wav",70
+Sample,175828,0,"LR_HiHat Synth Fast.wav",70
+Sample,176191,0,"LR_HiHat Synth Fast.wav",70
+Sample,176555,0,"LR_HiHat Synth Fast.wav",70
+Sample,176737,0,"LR_HiHat Synth Fast.wav",70
+Sample,176919,0,"LR_HiHat Synth Fast.wav",70
+Sample,177100,0,"LR_HiHat Synth Fast.wav",70
+Sample,177282,0,"LR_HiHat Synth Fast.wav",70
+Sample,177373,0,"LR_HiHat Synth Fast.wav",70
+Sample,177646,0,"LR_HiHat Synth Fast.wav",70
+Sample,178010,0,"LR_HiHat Synth Fast.wav",70
+Sample,178373,0,"LR_HiHat Synth Fast.wav",70
+Sample,178737,0,"LR_HiHat Synth Fast.wav",70
+Sample,178919,0,"Jiu1.wav",100
+Sample,179100,0,"LR_HiHat Synth Fast.wav",70
+Sample,179282,0,"Gu1.wav",100
+Sample,179464,0,"LR_HiHat Synth Fast.wav",70
+Sample,179646,0,"LR_HiHat Synth Fast.wav",70
+Sample,179828,0,"LR_HiHat Synth Fast.wav",70
+Sample,180010,0,"Gu1.wav",100
+Sample,180010,0,"LR_HiHat Synth Fast.wav",70
+Sample,180373,0,"Jiu1.wav",100
+Sample,180373,0,"LR_CymbalG.wav",70
+Sample,180555,0,"LR_HiHat Synth Fast.wav",70
+Sample,180919,0,"LR_HiHat Synth Fast.wav",70
+Sample,181282,0,"LR_HiHat Synth Fast.wav",70
+Sample,181646,0,"LR_HiHat Synth Fast.wav",70
+Sample,182010,0,"LR_HiHat Synth Fast.wav",70
+Sample,182191,0,"Gu1.wav",100
+Sample,182373,0,"LR_HiHat Synth Fast.wav",70
+Sample,182555,0,"LR_HiHat Synth Fast.wav",70
+Sample,182737,0,"LR_HiHat Synth Fast.wav",70
+Sample,182919,0,"Gu1.wav",100
+Sample,182919,0,"LR_HiHat Synth Fast.wav",70
+Sample,183100,0,"LR_HiHat Synth Fast.wav",70
+Sample,183191,0,"LR_HiHat Synth Fast.wav",70
+Sample,183464,0,"LR_HiHat Synth Fast.wav",70
+Sample,183828,0,"LR_HiHat Synth Fast.wav",70
+Sample,184191,0,"LR_HiHat Synth Fast.wav",70
+Sample,184373,0,"Gu1.wav",100
+Sample,184555,0,"LR_HiHat Synth Fast.wav",70
+Sample,184919,0,"LR_HiHat Synth Fast.wav",70
+Sample,185282,0,"LR_HiHat Synth Fast.wav",70
+Sample,185464,0,"LR_HiHat Synth Fast.wav",70
+Sample,185555,0,"LR_HiHat Synth Fast.wav",70
+Sample,185646,0,"LR_HiHat Synth Fast.wav",70
+Sample,185737,0,"LR_HiHat Synth Fast.wav",70
+Sample,185828,0,"LR_HiHat Synth Fast.wav",70
+Sample,185919,0,"LR_HiHat Synth Fast.wav",70
+Sample,186010,0,"LR_HiHat Synth Fast.wav",70
+Sample,186100,0,"LR_HiHat Synth Fast.wav",70
+Sample,186191,0,"LR_CymbalG.wav",70
+Sample,186373,0,"LR_HiHat Synth Fast.wav",70
+Sample,186555,0,"Gu1.wav",100
+Sample,186737,0,"LR_HiHat Synth Fast.wav",70
+Sample,187464,0,"LR_HiHat Synth Fast.wav",70
+Sample,187828,0,"LR_HiHat Synth Fast.wav",70
+Sample,188191,0,"LR_HiHat Synth Fast.wav",70
+Sample,188373,0,"LR_HiHat Synth Fast.wav",70
+Sample,188555,0,"LR_HiHat Synth Fast.wav",70
+Sample,188737,0,"Gu1.wav",100
+Sample,188737,0,"LR_HiHat Synth Fast.wav",70
+Sample,188919,0,"LR_HiHat Synth Fast.wav",70
+Sample,189010,0,"LR_HiHat Synth Fast.wav",70
+Sample,189282,0,"LR_HiHat Synth Fast.wav",70
+Sample,189464,0,"Gu1.wav",100
+Sample,189646,0,"LR_HiHat Synth Fast.wav",70
+Sample,189828,0,"Jiu1.wav",100
+Sample,190010,0,"LR_HiHat Synth Fast.wav",70
+Sample,190373,0,"LR_HiHat Synth Fast.wav",70
+Sample,190737,0,"LR_HiHat Synth Fast.wav",70
+Sample,190919,0,"Gu1.wav",100
+Sample,191100,0,"LR_HiHat Synth Fast.wav",70
+Sample,191282,0,"LR_HiHat Synth Fast.wav",70
+Sample,191464,0,"LR_HiHat Synth Fast.wav",70
+Sample,191646,0,"Gu1.wav",100
+Sample,191646,0,"LR_HiHat Synth Fast.wav",70
+Sample,192010,0,"Jiu1.wav",100
+Sample,192010,0,"LR_CymbalG.wav",70
+Sample,192191,0,"LR_HiHat Synth Fast.wav",70
+Sample,192373,0,"Gu1.wav",100
+Sample,192555,0,"LR_HiHat Synth Fast.wav",70
+Sample,192737,0,"Jiu1.wav",100
+Sample,192919,0,"LR_HiHat Synth Fast.wav",70
+Sample,193282,0,"LR_HiHat Synth Fast.wav",70
+Sample,193646,0,"LR_HiHat Synth Fast.wav",70
+Sample,194010,0,"LR_HiHat Synth Fast.wav",70
+Sample,194191,0,"LR_HiHat Synth Fast.wav",70
+Sample,194373,0,"LR_HiHat Synth Fast.wav",70
+Sample,194555,0,"Gu1.wav",100
+Sample,194555,0,"LR_HiHat Synth Fast.wav",70
+Sample,194737,0,"LR_HiHat Synth Fast.wav",70
+Sample,194828,0,"LR_HiHat Synth Fast.wav",70
+Sample,195100,0,"LR_HiHat Synth Fast.wav",70
+Sample,195282,0,"Jiu1.wav",100
+Sample,195464,0,"Gu1.wav",100
+Sample,195464,0,"LR_HiHat Synth Fast.wav",70
+Sample,195646,0,"Jiu1.wav",100
+Sample,195828,0,"Gu1.wav",100
+Sample,195828,0,"LR_HiHat Synth Fast.wav",70
+Sample,196010,0,"Jiu1.wav",100
+Sample,196191,0,"Gu1.wav",100
+Sample,196191,0,"LR_HiHat Synth Fast.wav",70
+Sample,197828,0,"LR_CymbalG.wav",70
+
+[TimingPoints]
+10,363.636363636364,4,3,1,71,1,0
+58191,-100.0,4,3,1,71,0,1
+68373,-100.0,4,3,1,71,0,0
+81464,-100.0,4,3,1,71,0,1
+91646,-100.0,4,3,1,71,0,0
+93100,-100.0,4,3,1,71,0,1
+103282,-100.0,4,3,1,71,0,0
+104737,-100.0,4,3,1,71,0,1
+114919,-100.0,4,3,1,71,0,0
+162919,-100.0,4,3,1,71,0,1
+168010,-100.0,4,3,1,71,0,0
+168737,-100.0,4,3,1,71,0,1
+173464,-100.0,4,3,1,71,0,0
+174555,-100.0,4,3,1,71,0,1
+179646,-100.0,4,3,1,71,0,0
+180373,-100.0,4,3,1,71,0,1
+184737,-100.0,4,3,1,71,0,0
+186191,-100.0,4,3,1,71,0,1
+191282,-100.0,4,3,1,71,0,0
+192010,-100.0,4,3,1,71,0,1
+196373,-100.0,4,3,1,71,0,0
+197828,-100.0,4,3,1,71,0,1
+
+[HitObjects]
+192,192,10,128,0,1464:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,1464,128,0,2919:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,2919,128,0,5828:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,5828,128,0,8555:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,11646,128,0,13100:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,13100,128,0,14555:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,14555,128,0,20191:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,23282,128,0,23646:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,23282,1,0,0:0:0:70:LR_CymbalG.wav
+192,192,23646,128,0,24010:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,24010,128,0,24373:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,24373,128,0,24737:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,24737,128,0,25100:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,25100,128,0,25464:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,25464,128,0,26555:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,26555,128,0,26919:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,26919,128,0,27282:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,27282,128,0,27646:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,27646,128,0,28010:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,28010,128,0,28373:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,28373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,28555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,29464,128,0,29828:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,29828,128,0,30191:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,30191,128,0,30555:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,30555,128,0,30919:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,30919,128,0,31282:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,31282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,31464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,31646,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,31828,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,32010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,32191,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,32373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,32555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,32737,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,34919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,34919,1,0,0:0:0:70:LR_CymbalG.wav
+64,192,35282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,35282,1,0,0:0:0:0:
+192,192,35646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,35646,1,0,0:0:0:0:
+320,192,36010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,36010,1,0,0:0:0:0:
+64,192,36373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,36373,1,0,0:0:0:0:
+320,192,36737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,36737,1,0,0:0:0:0:
+192,192,37100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,37100,1,0,0:0:0:0:
+64,192,37464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,37464,1,0,0:0:0:0:
+320,192,37646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,37646,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,37828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,37828,1,0,0:0:0:0:
+192,192,38191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,38191,1,0,0:0:0:0:
+320,192,38555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,38555,1,0,0:0:0:0:
+64,192,38919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,38919,1,0,0:0:0:0:
+320,192,40737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,40737,1,0,0:0:0:70:LR_CymbalG.wav
+192,192,41100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,41100,1,0,0:0:0:0:
+64,192,41464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,41464,1,0,0:0:0:0:
+320,192,41828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,41828,1,0,0:0:0:0:
+64,192,42191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,42191,1,0,0:0:0:0:
+320,192,42555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,42555,1,0,0:0:0:0:
+192,192,42919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,42919,1,0,0:0:0:0:
+64,192,43282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,43282,1,0,0:0:0:0:
+320,192,43464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,43464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,43646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,43646,1,0,0:0:0:0:
+192,192,44010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,44010,1,0,0:0:0:0:
+320,192,44373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,44373,1,0,0:0:0:0:
+64,192,44737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,44737,1,0,0:0:0:0:
+64,192,46555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,46555,1,0,0:0:0:70:LR_CymbalG.wav
+320,192,46919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,46919,1,0,0:0:0:40:LR4_ClapReverbDPS.wav
+64,192,47100,128,0,47282:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,47282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,47282,128,0,47464:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,47646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,47646,1,0,0:0:0:40:LR4_ClapReverbDPS.wav
+448,192,47828,128,0,48010:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,48010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,48373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,48373,1,0,0:0:0:40:LR4_ClapReverbDPS.wav
+448,192,48555,128,0,48737:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,48737,128,0,48919:0:0:0:70:LR_Kick Hard Bass.wav
+320,192,48737,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,49100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,49100,1,0,0:0:0:40:LR4_ClapReverbDPS.wav
+64,192,49282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,49282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,49464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,49464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,49828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,49828,1,0,0:0:0:40:LR4_ClapReverbDPS.wav
+448,192,50010,128,0,50191:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,50191,128,0,50373:0:0:0:70:LR_Kick Hard Bass.wav
+192,192,50191,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,50555,128,0,50737:0:0:0:70:LR_Kick Hard Bass.wav
+448,192,50555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,52373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,52373,1,0,0:0:0:70:LR_CymbalG.wav
+64,192,52737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,52737,1,0,0:0:0:40:LR4_ClapReverbDPS.wav
+448,192,52919,128,0,53100:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,53100,128,0,53282:0:0:0:70:LR_Kick Hard Bass.wav
+320,192,53100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,53464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,53464,1,0,0:0:0:40:LR4_ClapReverbDPS.wav
+64,192,53646,128,0,53828:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,53828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,54191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,54191,1,0,0:0:0:40:LR4_ClapReverbDPS.wav
+64,192,54373,128,0,54555:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,54555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,54555,128,0,54737:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,54919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,54919,1,0,0:0:0:40:LR4_ClapReverbDPS.wav
+320,192,55100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,55100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,55282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,55282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,58191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,58191,1,0,0:0:0:70:LR_CymbalG.wav
+64,192,58555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,58555,1,0,0:0:0:0:
+320,192,58919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,58919,1,0,0:0:0:0:
+320,192,59282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,59282,1,0,0:0:0:0:
+64,192,59646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,59646,1,0,0:0:0:0:
+64,192,60010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,60010,1,0,0:0:0:0:
+320,192,60373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,60373,1,0,0:0:0:0:
+448,192,60737,1,0,0:0:0:100:Jiu1.wav
+64,192,61100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,61100,1,0,0:0:0:0:
+64,192,61464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,61464,1,0,0:0:0:0:
+320,192,61828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,61828,1,0,0:0:0:0:
+320,192,62191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,62191,1,0,0:0:0:0:
+64,192,62555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,62555,1,0,0:0:0:0:
+448,192,62737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,62919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,63100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,63282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,63282,1,0,0:0:0:0:
+448,192,63646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,63767,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,63888,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,64010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,64373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,64373,1,0,0:0:0:0:
+320,192,64737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,64737,1,0,0:0:0:0:
+64,192,65100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,65100,1,0,0:0:0:0:
+64,192,65464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,65464,1,0,0:0:0:0:
+320,192,65828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,65828,1,0,0:0:0:0:
+64,192,66010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,66010,1,0,0:0:0:0:
+320,192,66191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,66191,1,0,0:0:0:0:
+64,192,66555,1,0,0:0:0:100:Jiu1.wav
+320,192,66919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,66919,1,0,0:0:0:0:
+320,192,67282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,67282,1,0,0:0:0:0:
+64,192,67646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,67646,1,0,0:0:0:0:
+448,192,68010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,68131,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,68252,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,69828,128,0,70191:0:0:0:70:LR_CymbalG.wav
+64,192,70191,1,0,0:0:0:0:
+320,192,70373,1,0,0:0:0:0:
+192,192,70555,1,0,0:0:0:0:
+64,192,70828,1,0,0:0:0:0:
+448,192,71100,1,0,0:0:0:0:
+64,192,71282,1,0,0:0:0:0:
+320,192,71464,1,0,0:0:0:0:
+448,192,71646,1,0,0:0:0:0:
+192,192,71828,1,0,0:0:0:0:
+64,192,72010,1,0,0:0:0:0:
+192,192,72282,1,0,0:0:0:0:
+448,192,72464,128,0,72737:0:0:0:0:
+64,192,72737,128,0,73100:0:0:0:0:
+320,192,73100,1,0,0:0:0:0:
+192,192,73282,1,0,0:0:0:0:
+448,192,73464,1,0,0:0:0:0:
+64,192,73737,1,0,0:0:0:0:
+320,192,74010,1,0,0:0:0:0:
+192,192,74191,1,0,0:0:0:0:
+448,192,74373,1,0,0:0:0:0:
+64,192,74555,1,0,0:0:0:0:
+192,192,74737,1,0,0:0:0:0:
+320,192,74919,1,0,0:0:0:0:
+448,192,75191,128,0,75646:0:0:0:0:
+64,192,75646,128,0,76010:0:0:0:0:
+320,192,76010,1,0,0:0:0:0:
+448,192,76191,1,0,0:0:0:0:
+192,192,76373,1,0,0:0:0:0:
+320,192,76646,1,0,0:0:0:0:
+192,192,76919,1,0,0:0:0:0:
+448,192,77100,128,0,77464:0:0:0:0:
+64,192,77464,1,0,0:0:0:0:
+320,192,77646,1,0,0:0:0:0:
+192,192,77828,1,0,0:0:0:0:
+448,192,78100,128,0,78555:0:0:0:0:
+64,192,78555,128,0,78919:0:0:0:0:
+448,192,78919,1,0,0:0:0:0:
+192,192,79100,1,0,0:0:0:0:
+320,192,79282,1,0,0:0:0:0:
+448,192,79555,1,0,0:0:0:0:
+64,192,79828,1,0,0:0:0:0:
+320,192,81464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,81464,1,0,0:0:0:100:Gu1.wav
+448,192,81646,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,81828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,81828,1,0,0:0:0:100:Jiu1.wav
+64,192,82010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,82191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,82191,1,0,0:0:0:100:Gu1.wav
+320,192,82464,1,0,0:0:0:0:
+64,192,82555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,82737,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,82919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,82919,1,0,0:0:0:100:Gu1.wav
+192,192,83100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,83282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,83282,1,0,0:0:0:100:Jiu1.wav
+320,192,83464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,83646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,83646,1,0,0:0:0:100:Gu1.wav
+320,192,83919,1,0,0:0:0:0:
+64,192,84010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,84191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,84373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,84373,1,0,0:0:0:100:Gu1.wav
+64,192,84555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,84737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,84737,1,0,0:0:0:100:Jiu1.wav
+448,192,84919,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,85100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,85100,1,0,0:0:0:100:Gu1.wav
+320,192,85373,1,0,0:0:0:0:
+64,192,85464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,85646,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,85828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,85828,1,0,0:0:0:100:Gu1.wav
+448,192,86010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,86191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,86191,1,0,0:0:0:100:Jiu1.wav
+64,192,86373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,86555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,86555,1,0,0:0:0:100:Gu1.wav
+448,192,86919,128,0,87282:0:0:0:100:Jiu1.wav
+64,192,87282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,87282,1,0,0:0:0:100:Gu1.wav
+64,192,87464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,87646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,87646,1,0,0:0:0:100:Jiu1.wav
+448,192,87828,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,88010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,88010,1,0,0:0:0:100:Gu1.wav
+192,192,88282,1,0,0:0:0:0:
+448,192,88373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,88555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,88737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,88737,1,0,0:0:0:100:Gu1.wav
+448,192,88919,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,89100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,89100,1,0,0:0:0:100:Jiu1.wav
+64,192,89282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,89464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,89464,1,0,0:0:0:100:Gu1.wav
+320,192,89737,1,0,0:0:0:0:
+64,192,89828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,90010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,90010,1,0,0:0:0:100:Jiu1.wav
+64,192,90191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,90191,1,0,0:0:0:100:Gu1.wav
+64,192,90373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,90555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,90555,1,0,0:0:0:100:Jiu1.wav
+192,192,90737,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,90919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,90919,1,0,0:0:0:100:Gu1.wav
+448,192,91282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,91464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,93100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,93100,1,0,0:0:0:100:Gu1.wav
+448,192,93282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,93464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,93464,1,0,0:0:0:100:Jiu1.wav
+64,192,93646,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,93828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,93828,1,0,0:0:0:100:Gu1.wav
+320,192,94100,1,0,0:0:0:0:
+64,192,94191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,94373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,94555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,94555,1,0,0:0:0:100:Gu1.wav
+448,192,94737,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,94919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,94919,1,0,0:0:0:100:Jiu1.wav
+64,192,95100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,95282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,95282,1,0,0:0:0:100:Gu1.wav
+320,192,95555,1,0,0:0:0:0:
+64,192,95646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,95828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,95828,1,0,0:0:0:100:Jiu1.wav
+64,192,96010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,96010,1,0,0:0:0:100:Gu1.wav
+64,192,96191,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,96373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,96373,1,0,0:0:0:100:Jiu1.wav
+320,192,96555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,96737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,96737,1,0,0:0:0:100:Gu1.wav
+64,192,97010,1,0,0:0:0:0:
+448,192,97100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,97282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,97464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,97464,1,0,0:0:0:100:Gu1.wav
+64,192,97646,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,97828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,97828,1,0,0:0:0:100:Jiu1.wav
+448,192,98010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,98191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,98191,1,0,0:0:0:100:Gu1.wav
+320,192,98464,1,0,0:0:0:0:
+64,192,98555,1,0,0:0:0:100:Jiu1.wav
+448,192,98737,1,0,0:0:0:100:Jiu1.wav
+64,192,98919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,98919,1,0,0:0:0:100:Gu1.wav
+448,192,99100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,99282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,99282,1,0,0:0:0:100:Jiu1.wav
+64,192,99464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,99646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,99646,1,0,0:0:0:100:Gu1.wav
+64,192,99919,1,0,0:0:0:0:
+448,192,100010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,100191,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,100373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,100373,1,0,0:0:0:100:Gu1.wav
+64,192,100555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,100737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,100737,1,0,0:0:0:100:Jiu1.wav
+448,192,100919,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,101100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,101100,1,0,0:0:0:100:Gu1.wav
+320,192,101373,1,0,0:0:0:0:
+64,192,101464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,101646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,101646,1,0,0:0:0:100:Jiu1.wav
+64,192,101828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,101828,1,0,0:0:0:100:Gu1.wav
+64,192,102010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,102191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,102191,1,0,0:0:0:100:Jiu1.wav
+448,192,102373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,102555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,102555,1,0,0:0:0:100:Gu1.wav
+192,192,102828,1,0,0:0:0:0:
+448,192,102919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,103100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,104737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,104737,1,0,0:0:0:70:LR_CymbalG.wav
+448,192,104919,1,0,0:0:0:20:Jiu2.wav
+64,192,105100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,105100,1,0,0:0:0:0:
+64,192,105282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,105464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,105464,1,0,0:0:0:0:
+192,192,105737,1,0,0:0:0:0:
+448,192,105828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,106010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,106191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,106191,1,0,0:0:0:0:
+448,192,106373,1,0,0:0:0:20:Jiu2.wav
+64,192,106555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,106555,1,0,0:0:0:0:
+64,192,106737,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,106919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,106919,1,0,0:0:0:0:
+320,192,107191,1,0,0:0:0:0:
+64,192,107282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,107464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,107464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,107646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,107646,1,0,0:0:0:0:
+64,192,107828,1,0,0:0:0:20:Jiu2.wav
+320,192,108010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,108010,1,0,0:0:0:0:
+448,192,108191,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,108373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,108373,1,0,0:0:0:0:
+192,192,108646,1,0,0:0:0:0:
+448,192,108737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,108919,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,109100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,109100,1,0,0:0:0:0:
+448,192,109282,1,0,0:0:0:20:Jiu2.wav
+64,192,109464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,109464,1,0,0:0:0:0:
+64,192,109646,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,109828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,109828,1,0,0:0:0:0:
+320,192,110100,1,0,0:0:0:0:
+64,192,110191,1,0,0:0:0:100:Jiu1.wav
+320,192,110373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,110373,1,0,0:0:0:0:
+64,192,110555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,110555,1,0,0:0:0:0:
+64,192,110737,1,0,0:0:0:20:Jiu2.wav
+192,192,110919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,110919,1,0,0:0:0:0:
+192,192,111100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,111282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,111282,1,0,0:0:0:0:
+320,192,111555,1,0,0:0:0:0:
+64,192,111646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,111828,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,112010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,112010,1,0,0:0:0:0:
+64,192,112191,1,0,0:0:0:20:Jiu2.wav
+192,192,112373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,112373,1,0,0:0:0:0:
+192,192,112555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,112737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,112737,1,0,0:0:0:0:
+320,192,113010,1,0,0:0:0:0:
+64,192,113100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,113282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,113464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,113464,1,0,0:0:0:0:
+64,192,113646,1,0,0:0:0:20:Jiu2.wav
+320,192,113828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,113828,1,0,0:0:0:0:
+448,192,114010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,114191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,114191,1,0,0:0:0:0:
+192,192,114464,1,0,0:0:0:0:
+448,192,114555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,114737,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,116373,128,0,117828:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,117828,128,0,119282:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,119282,128,0,122191:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,122191,128,0,124828:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,128010,128,0,128373:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,128373,128,0,129100:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,129100,128,0,129828:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,129828,128,0,130555:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,130555,128,0,131282:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,131282,128,0,132010:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,132010,128,0,132737:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,132737,128,0,133464:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,133464,128,0,134191:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,134191,128,0,134919:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,134919,128,0,135646:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,135646,128,0,136373:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,136373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,137100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,137828,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,138555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,139282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,139464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,139646,128,0,140010:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,140010,128,0,140373:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,140373,128,0,140737:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,140737,128,0,141100:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,141100,128,0,141464:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,141464,128,0,141828:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,141828,128,0,142191:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,142191,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,142373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,142555,128,0,142919:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,142919,128,0,143282:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,143282,128,0,143646:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,143646,128,0,144010:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,144010,128,0,144373:0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,144373,128,0,144737:0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,144737,128,0,145100:0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,145100,128,0,145464:0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,145464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,145646,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,145828,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,146010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,146191,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,146373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,146555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,146737,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,146919,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,147100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,147282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,147464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,147646,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,147828,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,148010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,148191,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,151282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,151282,1,0,0:0:0:70:LR_CymbalG.wav
+64,192,151646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,151646,1,0,0:0:0:0:
+320,192,152010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,152010,1,0,0:0:0:0:
+192,192,152373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,152373,1,0,0:0:0:0:
+192,192,152737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,152737,1,0,0:0:0:0:
+64,192,153100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,153100,1,0,0:0:0:0:
+64,192,153464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,153464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,153828,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,154010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,154191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,154191,1,0,0:0:0:0:
+192,192,154555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,154555,1,0,0:0:0:0:
+64,192,154919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,154919,1,0,0:0:0:0:
+64,192,155282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,155282,1,0,0:0:0:0:
+192,192,155646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,155646,1,0,0:0:0:0:
+192,192,156010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,156010,1,0,0:0:0:0:
+320,192,156373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,156373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,156646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,156737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,156919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,157100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,157100,1,0,0:0:0:70:LR_CymbalG.wav
+192,192,157464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,157464,1,0,0:0:0:0:
+64,192,157828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,157828,1,0,0:0:0:0:
+64,192,158191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,158191,1,0,0:0:0:0:
+320,192,158555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,158555,1,0,0:0:0:0:
+192,192,158919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,158919,1,0,0:0:0:0:
+320,192,159282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,159282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,159646,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,159828,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,160010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,160010,1,0,0:0:0:0:
+192,192,160373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,160373,1,0,0:0:0:0:
+320,192,160737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,160737,1,0,0:0:0:0:
+64,192,161100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,161100,1,0,0:0:0:0:
+320,192,162919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,162919,1,0,0:0:0:100:Jiu1.wav
+64,192,163100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,163282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,163282,1,0,0:0:0:0:
+448,192,163464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,163646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,163646,1,0,0:0:0:100:Jiu1.wav
+192,192,163919,1,0,0:0:0:0:
+448,192,164010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,164191,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,164373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,164373,1,0,0:0:0:100:Jiu1.wav
+64,192,164555,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,164737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,164737,1,0,0:0:0:0:
+448,192,164919,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,165100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,165100,1,0,0:0:0:100:Jiu1.wav
+320,192,165373,1,0,0:0:0:0:
+64,192,165464,128,0,165828:0:0:0:70:LR_Kick Hard Bass.wav
+320,192,165828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,165828,1,0,0:0:0:100:Jiu1.wav
+448,192,166010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,166191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,166191,1,0,0:0:0:0:
+64,192,166373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,166555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,166555,1,0,0:0:0:100:Jiu1.wav
+320,192,166828,1,0,0:0:0:0:
+64,192,166919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,167100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,167282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,167282,1,0,0:0:0:100:Jiu1.wav
+448,192,167464,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,167646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,167646,1,0,0:0:0:0:
+64,192,167828,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+448,192,168010,1,0,0:0:0:100:Jiu1.wav
+320,192,168737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,168737,1,0,0:0:0:100:Jiu1.wav
+64,192,168919,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,169100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,169100,1,0,0:0:0:0:
+448,192,169282,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,169464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,169464,1,0,0:0:0:100:Jiu1.wav
+192,192,169737,1,0,0:0:0:0:
+448,192,169828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,170010,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,170191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,170191,1,0,0:0:0:100:Jiu1.wav
+64,192,170373,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+192,192,170555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,170555,1,0,0:0:0:0:
+448,192,170737,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,170919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,170919,1,0,0:0:0:100:Jiu1.wav
+192,192,171191,1,0,0:0:0:0:
+448,192,171282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,171464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,171646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,171646,1,0,0:0:0:100:Jiu1.wav
+320,192,171828,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,172010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,172010,1,0,0:0:0:0:
+192,192,172191,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+320,192,172373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,172373,1,0,0:0:0:100:Jiu1.wav
+320,192,172646,1,0,0:0:0:0:
+64,192,172737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,172919,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,173100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,173100,1,0,0:0:0:100:Jiu1.wav
+320,192,174555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,174555,1,0,0:0:0:100:Jiu1.wav
+320,192,174919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,174919,1,0,0:0:0:100:Gu1.wav
+320,192,175282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,175282,1,0,0:0:0:100:Jiu1.wav
+320,192,175646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,175646,1,0,0:0:0:100:Gu1.wav
+64,192,176010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,176010,1,0,0:0:0:100:Jiu1.wav
+64,192,176373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,176373,1,0,0:0:0:100:Gu1.wav
+64,192,176737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,176737,1,0,0:0:0:100:Jiu1.wav
+192,192,177100,1,0,0:0:0:100:Gu1.wav
+320,192,177464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,177464,1,0,0:0:0:100:Jiu1.wav
+320,192,177828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,177828,1,0,0:0:0:100:Gu1.wav
+320,192,178191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,178191,1,0,0:0:0:100:Jiu1.wav
+320,192,178555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,178555,1,0,0:0:0:100:Gu1.wav
+64,192,178919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,179100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,179282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,179464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,179646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,179646,1,0,0:0:0:100:Jiu1.wav
+448,192,180010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,180131,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,180252,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,180373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,180737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,180737,1,0,0:0:0:100:Gu1.wav
+64,192,181100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,181100,1,0,0:0:0:100:Jiu1.wav
+64,192,181464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,181464,1,0,0:0:0:100:Gu1.wav
+320,192,181828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,181828,1,0,0:0:0:100:Jiu1.wav
+448,192,182191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,182373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,182555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,182555,1,0,0:0:0:100:Jiu1.wav
+192,192,182919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,183282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,183282,1,0,0:0:0:100:Jiu1.wav
+320,192,183646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,183646,1,0,0:0:0:100:Gu1.wav
+320,192,184010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,184010,1,0,0:0:0:100:Jiu1.wav
+64,192,184373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,184494,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,184616,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,186191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,186191,1,0,0:0:0:100:Jiu1.wav
+448,192,186373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,186464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,186555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,186737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,186919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,186919,1,0,0:0:0:100:Jiu1.wav
+320,192,187100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,187100,1,0,0:0:0:70:LR_HiHat Synth Fast.wav
+64,192,187282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,187282,1,0,0:0:0:100:Gu1.wav
+320,192,187646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,187646,1,0,0:0:0:100:Jiu1.wav
+64,192,188010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,188010,1,0,0:0:0:100:Gu1.wav
+448,192,188191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,188373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,188373,1,0,0:0:0:100:Jiu1.wav
+64,192,188737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,189100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,189100,1,0,0:0:0:100:Jiu1.wav
+64,192,189464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,189646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,189737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,189828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,190191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,190191,1,0,0:0:0:100:Gu1.wav
+64,192,190555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,190555,1,0,0:0:0:100:Jiu1.wav
+448,192,190737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,190919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,191100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,191282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,191282,1,0,0:0:0:100:Jiu1.wav
+448,192,191646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,191767,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,191888,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,192010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,192373,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,192555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,192646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,192737,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,193100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,193100,1,0,0:0:0:100:Gu1.wav
+320,192,193464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,193464,1,0,0:0:0:100:Jiu1.wav
+64,192,193828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,193828,1,0,0:0:0:100:Gu1.wav
+448,192,194010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,194191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,194191,1,0,0:0:0:100:Jiu1.wav
+64,192,194555,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,194919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,194919,1,0,0:0:0:100:Jiu1.wav
+64,192,195100,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,195100,1,0,0:0:0:100:Gu1.wav
+448,192,195282,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,195464,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+448,192,195646,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,195828,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+192,192,195919,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,196010,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+64,192,196191,1,0,0:0:0:70:LR_Kick Hard Bass.wav
+320,192,197828,1,0,0:0:0:70:finishef.wav

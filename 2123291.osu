@@ -1,0 +1,94 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.2
+BeatDivisor: 6
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:The Second Paragraph of Autumn and Winter Beauty (ver. Friends)
+TitleUnicode:The Second Paragraph of Autumn and Winter Beauty (ver. Friends)
+Artist:Wang
+ArtistUnicode:Wang
+Creator:York20
+Version:Phobas 1
+Source:Bazinga Conjecture
+Tags:sotarks big pp friends omg guys its shedlord from bazzoka threorum
+BeatmapID:2123291
+BeatmapSetID:1014521
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:9
+SliderMultiplier:2
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+Video,0,"canvas_1.mp4"
+0,0,"Untitled-1.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+420,413.793103448276,4,1,1,100,1,0
+420,-133.333333333333,4,1,1,100,0,0
+1144,-133.333333333333,4,1,1,5,0,0
+1247,-133.333333333333,4,1,1,100,0,0
+1868,-133.333333333333,4,1,1,5,0,0
+2075,-133.333333333333,4,1,1,100,0,0
+5385,-100,4,1,1,100,0,0
+5799,-80,4,1,1,100,0,0
+6144,-80,4,1,1,100,0,0
+6144,-66.6666666666667,4,1,1,100,0,0
+7799,-66.6666666666667,4,1,1,5,0,0
+7868,-66.6666666666667,4,1,1,100,0,0
+9316,-50,4,1,1,100,0,0
+10282,-50,4,1,1,5,0,0
+10351,-50,4,1,1,100,0,0
+12006,-25,4,1,1,100,0,0
+
+
+[HitObjects]
+86,237,420,6,0,P|181:251|298:132,1,275.000010490418
+317,68,1247,2,0,P|302:188|357:277,1,225.000008583069
+196,316,2075,2,0,L|121:309,1,75.0000028610231
+0,184,2488,2,0,L|74:191,1,75.0000028610231
+196,316,2902,2,0,P|263:246|156:286,1,309.37501180172
+337,332,3937,2,0,L|431:323,1,75.0000028610231
+499,316,4557,1,0,0:0:0:0:
+337,332,4764,2,0,L|230:341,1,75.0000028610231
+72,343,5385,2,0,P|71:285|138:239,1,133.333333333333
+170,268,5730,2,0,P|192:219|163:111,1,166.666666666667
+114,132,6144,2,0,P|215:129|125:149,1,300.000011444092
+213,30,7040,2,0,P|112:191|249:58,1,550.000020980836
+170,118,7868,2,0,P|296:159|374:33,1,300.000011444092
+263,55,8488,1,0,0:0:0:0:
+269,270,8695,2,0,P|182:283|113:260,1,150.000005722046
+67,90,9109,1,0,0:0:0:0:
+123,265,9316,2,0,P|168:247|119:263,1,200
+123,265,9937,2,0,P|242:220|134:74,1,333.333333333333
+135,27,10351,2,0,P|162:138|133:243,1,200
+13,378,10764,1,0,0:0:0:0:
+13,378,11178,1,0,0:0:0:0:
+241,62,11385,1,0,0:0:0:0:
+231,340,11592,1,0,0:0:0:0:
+188,283,12006,2,0,P|332:242|194:303,4,400

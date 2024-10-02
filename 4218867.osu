@@ -1,0 +1,157 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 1231
+Countdown: 0
+SampleSet: Drum
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.3
+BeatDivisor: 3
+GridSize: 8
+TimelineZoom: 1.5
+
+[Metadata]
+Title:hi.
+TitleUnicode:hi.
+Artist:Matoloid
+ArtistUnicode:Matoloid
+Creator:Shad0wStar
+Version:Utiba's Easy
+Source:
+Tags:english pop rock novelty meme jazz cover  野良まと noramato tora_v4 torav4 toxic gossip train miranda sings colleen ballinger apology ukelele video hatsune miku 初音ミク vocaloid ボーカロイド zirconescalus averageboi utiba
+BeatmapID:4218867
+BeatmapSetID:2025057
+
+[Difficulty]
+HPDrainRate:6.5
+CircleSize:4
+OverallDifficulty:6.5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"hii.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,11741,0,"ride.wav",70
+Sample,12170,0,"ride.wav",70
+Sample,12598,0,"ride.wav",70
+Sample,13027,0,"ride.wav",70
+
+[TimingPoints]
+170,428.571428571429,4,3,1,50,1,0
+1456,428.571428571429,4,3,1,50,1,0
+
+
+[HitObjects]
+64,192,170,128,0,598:0:0:0:0:
+448,192,598,128,0,1312:0:0:0:0:
+320,192,1312,1,0,0:0:0:0:
+192,192,1456,1,0,0:0:0:70:drum-hitfinish.wav
+64,192,1456,1,0,0:0:0:70:drum-hitwhistle.wav
+320,192,1884,1,0,0:0:0:70:drum-hitclap.wav
+64,192,2313,1,0,0:0:0:0:
+448,192,2741,1,0,0:0:0:70:drum-hitclap.wav
+192,192,3027,1,0,0:0:0:0:
+64,192,3170,128,0,3598:0:0:0:70:drum-hitwhistle.wav
+320,192,3598,128,0,4027:0:0:0:70:drum-hitclap.wav
+192,192,4027,128,0,4456:0:0:0:0:
+448,192,4456,1,0,0:0:0:70:drum-hitclap.wav
+320,192,4741,1,0,0:0:0:0:
+64,192,4884,128,0,5313:0:0:0:70:drum-hitwhistle.wav
+320,192,5313,1,0,0:0:0:70:drum-hitclap.wav
+192,192,5598,1,0,0:0:0:70:drum-hitwhistle.wav
+64,192,5741,128,0,6170:0:0:0:0:
+192,192,6170,1,0,0:0:0:70:drum-hitclap.wav
+448,192,6598,1,0,0:0:0:70:drum-hitwhistle.wav
+64,192,6884,1,0,0:0:0:70:drum-hitwhistle.wav
+320,192,7027,1,0,0:0:0:70:drum-hitclap.wav
+448,192,7313,128,0,7741:0:0:0:70:drum-hitwhistle.wav
+64,192,7741,128,0,8170:0:0:0:70:drum-hitwhistle.wav
+192,192,8170,1,0,0:0:0:0:
+320,192,8313,1,0,0:0:0:70:drum-hitwhistle.wav
+448,192,8313,1,0,0:0:0:0:
+192,192,8741,1,0,0:0:0:70:drum-hitclap.wav
+64,192,9170,1,0,0:0:0:0:
+192,192,9598,1,0,0:0:0:70:drum-hitclap.wav
+448,192,9884,1,0,0:0:0:0:
+320,192,10027,128,0,10456:0:0:0:70:drum-hitwhistle.wav
+192,192,10456,128,0,10884:0:0:0:70:drum-hitclap.wav
+64,192,10884,128,0,11313:0:0:0:0:
+448,192,11313,1,0,0:0:0:70:drum-hitclap.wav
+64,192,11741,128,0,12170:0:0:0:70:drum-hitwhistle.wav
+192,192,12170,128,0,12598:0:0:0:70:drum-hitwhistle.wav
+320,192,12598,128,0,13027:0:0:0:70:drum-hitwhistle.wav
+448,192,13027,128,0,13456:0:0:0:70:drum-hitwhistle.wav
+192,192,13456,1,0,0:0:0:95:drum-hitwhistle.wav
+320,192,13456,1,0,0:0:0:95:ride.wav
+320,192,14456,1,0,0:0:0:70:drum-hitclap.wav
+448,192,14456,1,0,0:0:0:0:
+64,192,14741,1,0,0:0:0:70:drum-hitclap.wav
+192,192,14741,1,0,0:0:0:0:
+320,192,15027,1,0,0:0:0:70:drum-hitclap.wav
+64,192,15170,1,0,0:0:0:70:drum-hitwhistle.wav
+448,192,15170,1,0,0:0:0:70:drum-hitfinish.wav
+320,192,15598,1,0,0:0:0:70:drum-hitclap.wav
+64,192,16027,1,0,0:0:0:0:
+448,192,16456,1,0,0:0:0:70:drum-hitclap.wav
+320,192,16741,128,0,17170:0:0:0:0:
+192,192,17170,1,0,0:0:0:70:drum-hitwhistle.wav
+448,192,17313,128,0,17598:0:0:0:70:drum-hitclap.wav
+64,192,17598,128,0,18027:0:0:0:70:drum-hitwhistle.wav
+320,192,18027,1,0,0:0:0:70:drum-hitwhistle.wav
+192,192,18170,1,0,0:0:0:70:drum-hitclap.wav
+448,192,18598,128,0,19027:0:0:0:70:drum-hitwhistle.wav
+320,192,19027,1,0,0:0:0:70:drum-hitclap.wav
+192,192,19313,1,0,0:0:0:70:drum-hitwhistle.wav
+64,192,19456,128,0,19884:0:0:0:0:
+448,192,19884,1,0,0:0:0:70:drum-hitclap.wav
+192,192,20170,1,0,0:0:0:0:
+320,192,20313,128,0,20741:0:0:0:70:drum-hitwhistle.wav
+64,192,20741,128,0,21170:0:0:0:70:drum-hitclap.wav
+448,192,21170,1,0,0:0:0:0:
+192,192,21456,1,0,0:0:0:70:drum-hitwhistle.wav
+320,192,21598,1,0,0:0:0:70:drum-hitclap.wav
+64,192,21884,1,0,0:0:0:70:drum-hitwhistle.wav
+448,192,22027,128,0,22456:0:0:0:70:drum-hitwhistle.wav
+320,192,22456,1,0,0:0:0:70:drum-hitclap.wav
+192,192,22741,1,0,0:0:0:70:drum-hitwhistle.wav
+448,192,22884,1,0,0:0:0:0:
+64,192,23313,1,0,0:0:0:70:drum-hitclap.wav
+192,192,23598,128,0,24027:0:0:0:0:
+320,192,24027,128,0,24456:0:0:0:70:drum-hitwhistle.wav
+448,192,24456,1,0,0:0:0:70:drum-hitwhistle.wav
+64,192,24598,1,0,0:0:0:0:
+192,192,24884,1,0,0:0:0:70:drum-hitwhistle.wav
+448,192,25027,128,0,25456:0:0:0:70:drum-hitclap.wav
+64,192,25456,128,0,25884:0:0:0:70:drum-hitwhistle.wav
+192,192,25884,1,0,0:0:0:70:drum-hitclap.wav
+320,192,26170,1,0,0:0:0:70:drum-hitwhistle.wav
+448,192,26313,128,0,26598:0:0:0:0:
+192,192,26598,128,0,27170:0:0:0:70:drum-hitwhistle.wav
+64,192,27170,128,0,27598:0:0:0:70:ride.wav
+448,192,27598,1,0,0:0:0:0:
+320,192,28027,1,0,0:0:0:0:
+192,192,28456,1,0,0:0:0:0:
+64,192,28884,1,0,0:0:0:0:
+320,192,29170,1,0,0:0:0:0:
+192,192,29313,1,0,0:0:0:0:
+448,192,29598,1,0,0:0:0:0:
+64,192,29741,128,0,30170:0:0:0:0:
+320,192,30170,1,0,0:0:0:0:
+192,192,30456,128,0,30813:0:0:0:0:

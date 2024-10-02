@@ -1,0 +1,71 @@
+osu file format v9
+
+[General]
+AudioFilename: TERRA - Flowers.mp3
+AudioLeadIn: 1500
+PreviewTime: 35618
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+Bookmarks: 12376,24188,36563,47149,47251,54001,59251,60376,67493,84001,97493
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Hana Ranman ~Flowers~
+Artist:TERRA
+Creator:S h i n e_M e I
+Version:Hana
+Source:
+Tags:.
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:8
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+-401,375,4,1,1,100,1,0
+8532,-100,4,1,1,100,0,0
+36376,-100,4,1,1,100,0,1
+47243,-100,4,1,1,100,0,0
+53251,-100,4,1,1,100,0,0
+60368,-133.333333333333,4,1,1,100,0,0
+73876,-100,4,1,1,100,0,1
+85862,-100,4,1,1,100,0,0
+86063,-100,4,1,1,100,0,1
+86251,-100,4,1,1,100,0,0
+87282,-100,4,1,1,100,0,1
+88032,-100,4,1,1,100,0,0
+91782,-100,4,1,1,100,0,1
+92344,-100,4,1,1,100,0,0
+93349,-100,4,1,1,100,0,1
+93911,-100,4,1,1,100,0,0
+
+
+[Colours]
+Combo1 : 255,255,255
+Combo2 : 255,102,179
+Combo3 : 255,172,214
+
+[HitObjects]

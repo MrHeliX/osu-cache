@@ -1,0 +1,49 @@
+osu file format v6
+
+[General]
+AudioFilename: Vato Gonzalez - Dirty House Mixtape 3 (Februari 2008)(Osu! Cut).mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.800000011920929
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Dirty House Mixtape 3
+Artist:Vato Gonzalez
+Creator:lesjuh
+Version:Pumpin'
+Source:
+Tags:Project Lekkere Batsbeer
+
+[Difficulty]
+HPDrainRate:1
+CircleSize:4
+OverallDifficulty:7
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Background.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,0,0,0
+
+[TimingPoints]
+15080,465.116279069767,4,1,0,60,1,0
+
+[HitObjects]
+256,192,15079,1,4
