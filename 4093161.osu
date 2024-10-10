@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 54169
 Countdown: 0
-SampleSet: None
+SampleSet: Normal
 StackLeniency: 0.7
 Mode: 1
 LetterboxInBreaks: 0
@@ -24,9 +24,9 @@ TitleUnicode:Glooorious!!
 Artist:Hino Isuka vs. s-don
 ArtistUnicode:翡乃イスカ vs. s-don
 Creator:ZTH
-Version:Inner Oni
-Source:osu!
-Tags:twc 2023 semifinals sf fm2 electronic instrumental
+Version:Wooohooo!!
+Source:osu!mania 7K World Cup 2023
+Tags:freemod twc 2023 semifinals sf fm2 electronic instrumental ler1211 hirok tasuke912 glorious fa featured artist
 BeatmapID:4093161
 BeatmapSetID:1972551
 
@@ -50,6 +50,7 @@ SliderTickRate:1
 //Storyboard Sound Samples
 
 [TimingPoints]
+1136,387.096774193548,4,1,0,70,1,8
 1524,387.096774193548,4,1,0,70,1,0
 3359,-95.0159587527621,4,1,0,73,0,0
 3650,-90.4903313302313,4,1,0,76,0,0

@@ -1,0 +1,88 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:Morning (Naruto)
+TitleUnicode:Morning (Naruto)
+Artist:Masashi Kishimoto
+ArtistUnicode:Masashi Kishimoto
+Creator:KyrosKun
+Version:Genin
+Source:Naruto
+Tags:Nostagia
+BeatmapID:1505323
+BeatmapSetID:712047
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+3772.9512195122,292.682926829268,4,1,0,100,1,0
+
+
+[HitObjects]
+192,256,16651,6,0,B|512:256|576:256|576:256,1,280
+416,128,19285,2,0,P|96:128|192:128,1,280
+448,224,20748,2,0,B|256:64|32:160|0:256|0:224,1,420
+64,224,22504,2,0,B|288:320|544:288|480:288,1,420
+256,320,24553,2,0,L|256:32,1,280
+448,96,26602,2,0,P|96:96|128:96,1,280
+64,192,27480,1,0,0:0:0:0:
+224,288,28065,1,0,0:0:0:0:
+320,192,28358,1,0,0:0:0:0:
+448,384,28943,1,0,0:0:0:0:
+480,320,29236,1,0,0:0:0:0:
+224,256,33041,5,0,0:0:0:0:
+320,192,34504,1,0,0:0:0:0:
+192,160,36553,1,0,0:0:0:0:
+448,224,38602,1,0,0:0:0:0:
+416,192,40651,1,0,0:0:0:0:
+352,192,42699,1,0,0:0:0:0:
+224,160,42992,1,0,0:0:0:0:
+64,256,43577,1,0,0:0:0:0:
+352,0,44455,1,0,0:0:0:0:
+288,224,45041,1,0,0:0:0:0:
+352,128,45333,1,0,0:0:0:0:
+352,160,47090,1,0,0:0:0:0:
+288,128,47382,1,0,0:0:0:0:
+192,96,47675,1,0,0:0:0:0:
+96,224,48846,2,0,B|288:160|192:320|192:320|320:224,1,280
+384,192,50602,2,0,P|64:160|160:64,1,700
+320,32,52651,1,0,0:0:0:0:
+448,256,54992,2,0,B|-32:96|0:96|32:96,1,420
+416,64,57626,2,0,P|0:128|-32:64,1,560
+256,96,59382,1,0,0:0:0:0:
+384,160,60260,5,0,0:0:0:0:
+192,192,60846,1,0,0:0:0:0:
+64,96,61138,1,0,0:0:0:0:
+224,96,62894,1,0,0:0:0:0:

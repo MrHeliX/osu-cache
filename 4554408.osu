@@ -27,7 +27,7 @@ ArtistUnicode:SAMString
 Creator:Tailsdk
 Version:4K Extra
 Source:osu!mania 7K World Cup 2023
-Tags:MWC MWC2023 MWC7K2023 Grand Finals LN Long Note Density fa featured artist mappers guild mg mpg osu! original remuring jinjin Roasted Chicken UnluckyCroco Nicknem_ -NoName- Asherz007 Blocko _Kobii Critical_Star Electronic Instrumental
+Tags:MWC MWC2023 MWC7K2023 Grand Finals LN Long Note Density fa featured artist mappers' guild mg mpg osu! original remuring jinjin Roasted Chicken UnluckyCroco Nicknem_ -NoName- Asherz007 Blocko _Kobii Critical_Star Electronic Instrumental
 BeatmapID:4554408
 BeatmapSetID:2159928
 
@@ -561,6 +561,7 @@ SliderTickRate:1
 64,192,45606,128,0,45906:0:0:0:0:
 448,192,45681,1,0,0:0:0:0:
 320,192,45756,128,0,45906:0:0:0:0:
+192,192,45756,1,0,0:0:0:0:
 448,192,45906,128,0,46056:0:0:0:0:
 192,192,45906,1,0,0:0:0:0:
 64,192,46056,128,0,46206:0:0:0:0:
@@ -1532,12 +1533,13 @@ SliderTickRate:1
 320,192,105906,1,0,0:0:0:0:
 192,192,106056,1,0,0:0:0:0:
 448,192,106056,1,0,0:0:0:0:
-320,192,106206,1,0,0:0:0:0:
+320,192,106131,1,0,0:0:0:0:
+192,192,106206,1,0,0:0:0:0:
 64,192,106206,1,0,0:0:0:0:
-192,192,106281,1,0,0:0:0:0:
-320,192,106356,1,0,0:0:0:0:
-448,192,106356,1,0,0:0:0:0:
-64,192,106431,1,0,0:0:0:0:
+320,192,106281,1,0,0:0:0:0:
+448,192,106281,1,0,0:0:0:0:
+64,192,106356,1,0,0:0:0:0:
+192,192,106431,1,0,0:0:0:0:
 448,192,106506,128,0,106581:0:0:0:0:
 320,192,106506,128,0,106656:0:0:0:0:
 192,192,106581,128,0,106731:0:0:0:0:

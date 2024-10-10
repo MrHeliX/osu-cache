@@ -1,0 +1,54 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:Love and Clash
+TitleUnicode:Love and Clash
+Artist:dloomz
+ArtistUnicode:dloomz
+Creator:D_Loomz
+Version:Insane
+Source:
+Tags:soundtrap edm love
+BeatmapID:1848089
+BeatmapSetID:884114
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:3.6
+OverallDifficulty:7
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,472.44094488189,4,1,0,100,1,0
+
+
+[HitObjects]
+137,164,60472,5,0,0:0:0:0:

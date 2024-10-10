@@ -1,0 +1,84 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+Bookmarks: 524
+DistanceSpacing: 1.2
+BeatDivisor: 6
+GridSize: 4
+TimelineZoom: 0.7399999
+
+[Metadata]
+Title:Divers-The_Witch
+TitleUnicode:Аквалазы-Колдунья
+Artist:A_MAN
+ArtistUnicode:Мужег
+Creator:rasimpi
+Version:Hard
+Source:Псковское порно
+Tags:
+BeatmapID:1978274
+BeatmapSetID:947165
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"hqdefault.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+8799.0515394913,370.37037037037,4,1,0,100,1,0
+
+
+[HitObjects]
+305,211,8737,5,0,0:0:0:0:
+382,214,9231,1,0,0:0:0:0:
+382,214,9539,1,0,0:0:0:0:
+415,264,9848,1,0,0:0:0:0:
+450,215,10095,1,0,0:0:0:0:
+451,146,10403,2,0,L|452:78,1,46.6666666666667
+360,77,10897,1,0,0:0:0:0:
+298,96,11453,1,0,0:0:0:0:
+324,166,11700,1,0,0:0:0:0:
+253,166,12070,2,0,L|159:166,1,93.3333333333333
+160,166,12626,5,0,0:0:0:0:
+230,242,12873,1,0,0:0:0:0:
+230,242,12996,1,0,0:0:0:0:
+230,242,13120,2,0,L|336:309,1,116.666666666667
+377,190,13675,1,0,0:0:0:0:
+374,194,13922,1,0,0:0:0:0:
+370,130,14169,2,0,L|300:110,1,70
+238,108,14478,1,0,0:0:0:0:
+238,108,14601,1,0,0:0:0:0:
+238,108,14724,1,0,0:0:0:0:
+253,189,15280,1,0,0:0:0:0:
+319,244,15712,1,0,0:0:0:0:
+319,244,15836,1,0,0:0:0:0:
+307,319,16144,2,0,L|364:319,1,46.6666666666667
+441,318,16391,1,0,0:0:0:0:
+440,257,16638,1,0,0:0:0:0:
+440,257,16762,1,0,0:0:0:0:
+440,257,16947,1,0,0:0:0:0:
+435,182,17194,2,8,L|433:92,1,70

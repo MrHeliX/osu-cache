@@ -1,0 +1,56 @@
+osu file format v10
+
+[General]
+AudioFilename: 02-prinz_pi_-_der_neue_igod-ysp.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 1.5
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Der Neue Igod
+TitleUnicode:Der Neue Igod
+Artist:Prinz Pi
+ArtistUnicode:Prinz Pi
+Creator:
+Version:
+Source:
+Tags:
+BeatmapID:193312
+BeatmapSetID:66222
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+
+[TimingPoints]
+7816.23876852081,624.349635796046,4,1,0,100,1,0
+
+
+[HitObjects]
+80,64,7816,1,0,0:0:0
+240,104,8284,1,0,0:0:0
+448,200,8908,1,0,0:0:0
+224,232,9533,1,0,0:0:0
