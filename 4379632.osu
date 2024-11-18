@@ -1,0 +1,174 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 4169
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 2
+BeatDivisor: 1
+GridSize: 8
+TimelineZoom: 0.6000013
+
+[Metadata]
+Title:Metal Crusher
+TitleUnicode:Metal Crusher
+Artist:toby fox
+ArtistUnicode:toby fox
+Creator:Lumpita
+Version:Worthless's Beginner
+Source:UNDERTALE
+Tags:electronic instrumental vgm videogame video game mettaton box bit pixel robot ost original soundtrack radiation chiptune 8-bit 8bit sillot fabicho chrisse worthlessnut9
+BeatmapID:4379632
+BeatmapSetID:2036645
+
+[Difficulty]
+HPDrainRate:6.5
+CircleSize:4
+OverallDifficulty:6.5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"mettaton.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,32,0,"mus_cymbal.ogg",70
+
+[TimingPoints]
+32,517.241379310345,4,2,1,100,1,0
+20721,-100,4,2,1,100,0,1
+37273,-100,4,2,1,100,0,0
+
+
+[HitObjects]
+448,192,32,5,0,0:0:0:0:
+192,192,1066,1,0,0:0:0:0:
+320,192,1583,1,0,0:0:0:0:
+64,192,2100,1,0,0:0:0:0:
+192,192,2618,1,0,0:0:0:0:
+448,192,3135,1,0,0:0:0:0:
+192,192,4169,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,4687,1,0,0:0:0:70:snare.wav
+64,192,5204,1,0,0:0:0:70:soft-hitwhistle.wav
+448,192,5721,1,0,0:0:0:70:snare.wav
+320,192,6238,1,0,0:0:0:70:soft-hitwhistle.wav
+192,192,6756,1,0,0:0:0:70:snare.wav
+448,192,7273,1,0,0:0:0:70:soft-hitwhistle.wav
+64,192,7790,1,0,0:0:0:70:snare.wav
+320,192,8307,1,0,0:0:0:70:soft-hitwhistle.wav
+192,192,8825,1,0,0:0:0:70:snare.wav
+448,192,9342,1,0,0:0:0:70:soft-hitwhistle.wav
+64,192,9859,1,0,0:0:0:70:snare.wav
+192,192,10376,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,10894,1,0,0:0:0:70:snare.wav
+64,192,11411,1,0,0:0:0:70:soft-hitwhistle.wav
+448,192,11928,1,0,0:0:0:70:snare.wav
+320,192,12445,1,0,0:0:0:70:soft-hitwhistle.wav
+192,192,12963,1,0,0:0:0:70:snare.wav
+448,192,13480,1,0,0:0:0:70:soft-hitwhistle.wav
+64,192,13997,1,0,0:0:0:70:snare.wav
+320,192,14514,1,0,0:0:0:70:soft-hitwhistle.wav
+192,192,15032,1,0,0:0:0:70:snare.wav
+64,192,15549,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,16066,1,0,0:0:0:70:snare.wav
+448,192,16583,1,0,0:0:0:70:soft-hitwhistle.wav
+192,192,17100,1,0,0:0:0:70:snare.wav
+320,192,17618,1,0,0:0:0:70:soft-hitwhistle.wav
+64,192,18135,1,0,0:0:0:70:snare.wav
+192,192,18652,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,19169,1,0,0:0:0:70:snare.wav
+64,192,19687,1,0,0:0:0:70:soft-hitwhistle.wav
+448,192,20204,1,0,0:0:0:70:snare.wav
+192,192,20721,128,0,21238:0:0:0:70:soft-hitwhistle.wav
+320,192,21238,1,0,0:0:0:70:snare.wav
+64,192,21756,128,0,22273:0:0:0:70:soft-hitwhistle.wav
+192,192,22273,1,0,0:0:0:70:snare.wav
+448,192,22790,128,0,23307:0:0:0:70:soft-hitwhistle.wav
+320,192,23307,128,0,23825:0:0:0:70:snare.wav
+192,192,23825,128,0,24342:0:0:0:70:soft-hitwhistle.wav
+64,192,24342,128,0,24859:0:0:0:70:snare.wav
+320,192,24859,128,0,25376:0:0:0:70:soft-hitwhistle.wav
+64,192,25376,1,0,0:0:0:70:snare.wav
+448,192,25894,128,0,26411:0:0:0:70:soft-hitwhistle.wav
+192,192,26411,1,0,0:0:0:70:snare.wav
+320,192,26928,128,0,27445:0:0:0:70:soft-hitwhistle.wav
+64,192,27445,128,0,27963:0:0:0:70:snare.wav
+192,192,27963,128,0,28480:0:0:0:70:soft-hitwhistle.wav
+448,192,28997,128,0,29514:0:0:0:70:soft-hitwhistle.wav
+64,192,29514,1,0,0:0:0:70:snare.wav
+320,192,30032,128,0,30549:0:0:0:70:soft-hitwhistle.wav
+192,192,30549,1,0,0:0:0:70:snare.wav
+64,192,31066,128,0,31583:0:0:0:70:soft-hitwhistle.wav
+448,192,31583,1,0,0:0:0:70:snare.wav
+192,192,32100,128,0,32618:0:0:0:70:soft-hitwhistle.wav
+320,192,32618,1,0,0:0:0:70:snare.wav
+448,192,33135,128,0,33652:0:0:0:70:soft-hitwhistle.wav
+64,192,33652,1,0,0:0:0:70:snare.wav
+320,192,34169,128,0,34687:0:0:0:70:soft-hitwhistle.wav
+192,192,34687,1,0,0:0:0:70:snare.wav
+64,192,35204,128,0,35721:0:0:0:70:soft-hitwhistle.wav
+320,192,35721,1,0,0:0:0:70:snare.wav
+320,192,37273,1,0,0:0:0:70:soft-hitwhistle.wav
+64,192,37790,1,0,0:0:0:70:snare.wav
+192,192,38307,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,38825,1,0,0:0:0:70:snare.wav
+64,192,39342,1,0,0:0:0:70:soft-hitwhistle.wav
+448,192,39859,1,0,0:0:0:70:snare.wav
+320,192,40376,1,0,0:0:0:70:soft-hitwhistle.wav
+192,192,40894,1,0,0:0:0:70:snare.wav
+448,192,41411,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,41928,1,0,0:0:0:70:snare.wav
+64,192,42445,1,0,0:0:0:70:soft-hitwhistle.wav
+192,192,42963,1,0,0:0:0:70:snare.wav
+320,192,43480,1,0,0:0:0:70:soft-hitwhistle.wav
+64,192,43997,1,0,0:0:0:70:snare.wav
+192,192,44514,1,0,0:0:0:70:soft-hitwhistle.wav
+448,192,45032,1,0,0:0:0:70:snare.wav
+192,192,45549,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,46066,1,0,0:0:0:70:snare.wav
+64,192,46583,1,0,0:0:0:70:soft-hitwhistle.wav
+448,192,47100,1,0,0:0:0:70:snare.wav
+320,192,47618,1,0,0:0:0:70:soft-hitwhistle.wav
+192,192,48135,1,0,0:0:0:70:snare.wav
+448,192,48652,1,0,0:0:0:70:soft-hitwhistle.wav
+64,192,49169,1,0,0:0:0:70:snare.wav
+192,192,49687,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,50204,1,0,0:0:0:70:snare.wav
+64,192,50721,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,51238,1,0,0:0:0:70:snare.wav
+192,192,51756,1,0,0:0:0:70:soft-hitwhistle.wav
+448,192,52273,1,0,0:0:0:70:snare.wav
+64,192,52790,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,53307,1,0,0:0:0:70:snare.wav
+192,192,53825,1,0,0:0:0:70:soft-hitwhistle.wav
+448,192,54342,1,0,0:0:0:70:snare.wav
+320,192,54859,1,0,0:0:0:70:soft-hitwhistle.wav
+64,192,55376,1,0,0:0:0:70:snare.wav
+192,192,55894,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,56411,1,0,0:0:0:70:snare.wav
+64,192,56928,1,0,0:0:0:70:soft-hitwhistle.wav
+192,192,57445,1,0,0:0:0:70:snare.wav
+448,192,57963,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,58480,1,0,0:0:0:70:snare.wav
+192,192,58997,1,0,0:0:0:70:soft-hitwhistle.wav
+448,192,59514,1,0,0:0:0:70:snare.wav
+64,192,60032,1,0,0:0:0:70:soft-hitwhistle.wav
+320,192,60549,1,0,0:0:0:70:snare.wav
+192,192,61066,1,0,0:0:0:70:soft-hitwhistle.wav
+448,192,61583,1,0,0:0:0:70:snare.wav

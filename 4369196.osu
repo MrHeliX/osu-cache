@@ -1,0 +1,134 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 2359
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 14930,31577
+DistanceSpacing: 1.2
+BeatDivisor: 2
+GridSize: 32
+TimelineZoom: 0.4999999
+
+[Metadata]
+Title:Syaro ga Nakisakebinagara Brain Power
+TitleUnicode:シャロが泣き叫びながらBrain Power
+Artist:Metrei
+ArtistUnicode:Metrei
+Creator:[-E S I A-]
+Version:Kantan
+Source:CHUNITHM AMAZON
+Tags:O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA ノマ noma Cytus II GROOVE COASTER 4EX INFINITY HIGHWAY Lanota maimai MiLK PLUS Muse Dash MUSYNX Neon FM SEVEN's CODE TAPSONIC TOP WACCA オンゲキ ONGEKI SDVX SOUND VOLTEX II -infinite infection- BEMANI MÚSECA MUSECA 1+1/2 Agetta moratta アゲッタモラッタ PUMP IT UP XX EZ2ON REBOOT:R CHRONO CIRCLE Fab Acapella Techno Trance Essentials 内田真礼 uchida maaya ご注文はうさぎですか？ gochuumon wa usagi desu ka? ごちうさ gochiusa is the order a rabbit? シャロ 桐間紗路 kirima syaro sharo kilimanjaro video game videogame novelty japanese electronic parody ニコニコ動画 niconico douga nnd otomad oto-mad 音mad 音ＭＡＤ remix E_S_I_A [-E_S_I_A-] ESIA [-ESIA-]
+BeatmapID:4369196
+BeatmapSetID:2085611
+
+[Difficulty]
+HPDrainRate:10
+CircleSize:2
+OverallDifficulty:3
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"k.jpg",0,0
+Video,-100,"oooooo.mp4"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1033,350.877192982456,4,1,0,90,1,0
+1033,-98.8439306358382,4,1,0,90,0,0
+2436,348.837209302326,4,1,0,90,1,8
+2436,-99.4219653179189,4,1,0,90,0,8
+2437,348.837209302326,4,1,0,90,1,0
+2437,-99.4219653179189,4,1,0,90,0,0
+3832,346.820809248555,4,1,0,90,1,0
+3832,-100,4,1,0,90,0,0
+26028,-100,4,1,0,90,0,1
+37126,-100,4,1,0,90,0,0
+
+
+[HitObjects]
+371,163,1033,5,0,0:0:0:0:
+322,198,1734,1,0,0:0:0:0:
+335,157,2085,1,0,0:0:0:0:
+335,157,2437,1,12,0:0:0:0:
+151,218,3832,1,12,0:0:0:0:
+248,223,4525,1,0,0:0:0:0:
+251,209,5219,1,8,0:0:0:0:
+343,243,5566,1,0,0:0:0:0:
+321,162,5912,1,8,0:0:0:0:
+283,183,6259,1,8,0:0:0:0:
+450,170,6606,1,4,0:0:0:0:
+370,196,7300,1,0,0:0:0:0:
+199,188,7993,1,8,0:0:0:0:
+308,176,8687,1,0,0:0:0:0:
+308,176,9034,1,0,0:0:0:0:
+227,224,9381,1,12,0:0:0:0:
+494,21,10074,1,0,0:0:0:0:
+276,193,10768,1,8,0:0:0:0:
+304,169,11115,1,8,0:0:0:0:
+385,190,11462,1,0,0:0:0:0:
+276,193,11808,1,8,0:0:0:0:
+312,170,12155,1,4,0:0:0:0:
+365,271,12849,1,8,0:0:0:0:
+334,242,13542,1,0,0:0:0:0:
+151,218,14930,1,12,0:0:0:0:
+248,223,15623,1,0,0:0:0:0:
+251,209,16317,1,8,0:0:0:0:
+343,243,16664,1,0,0:0:0:0:
+321,162,17010,1,0,0:0:0:0:
+450,170,17357,1,8,0:0:0:0:
+283,183,17704,1,4,0:0:0:0:
+370,196,18398,1,0,0:0:0:0:
+199,188,19091,1,8,0:0:0:0:
+308,176,19785,1,8,0:0:0:0:
+308,176,20132,1,0,0:0:0:0:
+227,224,20479,1,12,0:0:0:0:
+276,193,21172,1,8,0:0:0:0:
+494,21,21866,1,0,0:0:0:0:
+385,190,22213,1,0,0:0:0:0:
+304,169,22560,1,8,0:0:0:0:
+276,193,22906,1,8,0:0:0:0:
+312,170,23253,1,4,0:0:0:0:
+365,271,23947,1,8,0:0:0:0:
+334,242,24640,1,0,0:0:0:0:
+151,218,26028,1,12,0:0:0:0:
+248,223,26721,1,0,0:0:0:0:
+251,209,27415,1,8,0:0:0:0:
+343,243,27762,1,8,0:0:0:0:
+321,162,28109,1,0,0:0:0:0:
+283,183,28455,1,8,0:0:0:0:
+450,170,28802,1,4,0:0:0:0:
+370,196,29496,1,0,0:0:0:0:
+199,188,30189,1,8,0:0:0:0:
+308,176,30883,1,0,0:0:0:0:
+308,176,31230,1,0,0:0:0:0:
+227,224,31577,1,12,0:0:0:0:
+494,21,32270,1,8,0:0:0:0:
+276,193,32964,1,4,0:0:0:0:
+385,190,33658,1,8,0:0:0:0:
+276,193,34004,1,8,0:0:0:0:
+312,170,34351,1,4,0:0:0:0:
+365,271,35045,1,4,0:0:0:0:
+334,242,35739,1,4,0:0:0:0:
+254,104,36086,1,4,0:0:0:0:
+148,235,36433,1,12,0:0:0:0:
+294,153,36779,1,12,0:0:0:0:
+470,142,37126,1,4,0:0:0:0:
+256,192,37473,12,0,39901,0:0:0:0:

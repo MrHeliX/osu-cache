@@ -1,0 +1,68 @@
+osu file format v11
+
+[General]
+AudioFilename: Dubstep.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 32
+
+[Metadata]
+Title:Dubstep
+TitleUnicode:Dubstep
+Artist:dubstep
+ArtistUnicode:dubstep
+Creator:47mrnascar
+Version:Easy
+Source:
+Tags:dubstep dub sweat shop techo
+BeatmapID:211174
+BeatmapSetID:74312
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+4,705.840000000002,4,1,0,100,1,0
+
+
+[Colours]
+Combo1 : 255,150,0
+Combo2 : 255,0,0
+Combo3 : 5,5,240
+Combo4 : 255,255,0
+
+[HitObjects]
+256,192,843,1,0,0:0:0
+320,224,2594,1,0,0:0:0
+224,96,4316,1,0,0:0:0
+352,96,4944,1,0,0:0:0
+256,224,5650,1,0,0:0:0
+128,160,7707,1,0,0:0:0
+352,64,9179,1,0,0:0:0
+192,192,10591,1,0,0:0:0
+288,96,12613,1,0,0:0:0

@@ -1,0 +1,67 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 1
+GridSize: 32
+TimelineZoom: 1.2
+
+[Metadata]
+Title:WEIL DER MAXI EINFACH FETT IST - Tim - hardi parodie
+TitleUnicode:WEIL DER MAXI EINFACH FETT IST - Tim - hardi parodie
+Artist:Pete MC
+ArtistUnicode:Pete MC
+Creator:DodomanHD
+Version:for beginners
+Source:https://www.youtube.com/watch?v=-1BWLIEUzhM
+Tags:Maxi,fett.Maxi fett,Dodomaps,PP,easy,noob,
+BeatmapID:2254712
+BeatmapSetID:1076952
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:0.400000005960464
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"Weil der Maxi einfach fett ist.PNG",0,0
+Video,-76,"WEIL DER MAXI  EINFACH FETT IST - Tim - hardi parodie.mp4"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+851,122.448979591837,4,1,0,100,1,0
+1641,122.448979591837,4,1,0,100,1,0
+
+
+[HitObjects]
+130,130,1076,6,2,P|109:331|288:129,1,680.00001013279,4|4,0:0|0:0,0:0:0:0:
+365,227,3402,5,14,0:0:0:0:
+228,191,3892,1,2,0:0:0:0:
+232,157,4014,2,4,B|105:239|319:240|392:68,2,320.000004768371
+471,108,7566,1,2,0:0:0:0:
+316,160,8178,1,2,0:0:0:0:
+228,124,8545,2,2,P|-43:236|263:204,1,840.000012516975
+207,185,11729,1,2,0:0:0:0:
+84,277,12341,1,2,0:0:0:0:
+349,236,12831,2,2,P|108:155|160:259,1,600.000008940697

@@ -1,0 +1,106 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime:309
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.2
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 1.000005
+
+[Metadata]
+Title:Harumachi Clover (TV Size)
+TitleUnicode:春待ちクローバー (TV Size)
+Artist:Hanasaka Yui (CV: M. A. O) feat. SolarCell27
+ArtistUnicode:花坂結衣 (CV：Ｍ・Ａ・Ｏ) feat. SolarCell27
+Creator:Toki Toyosaki
+Version:Regular Clover
+Source:OneRoom
+Tags:iphong xcakepiggie str0mboli deppyforce finallyv thexo 404 aimnotfound luscent taeyang [a]bsolute antoriantori taptapking thequacking666 yeahbennou notabox marota - theya cychloryn nerowo -tynamo wiz khalifa solarcell27 hausenberg kaphat123 trungphineas One Room Opening OP Kantoku ワンルーム カントク one_room  japanese anime
+BeatmapID:2028361
+BeatmapSetID:924406
+
+[Difficulty]
+HPDrainRate:3.5
+CircleSize:2
+OverallDifficulty:3.5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"FVZMjbt.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+362,422.535211267606,4,2,1,35,1,0
+362,-100,4,2,1,35,0,0
+1418,-100,4,2,1,80,0,0
+
+
+[HitObjects]
+264,339,1418,6,0,P|347:347|399:314,1,140
+448,190,2263,2,0,B|469:112|469:112|431:41,1,140
+374,39,2897,1,0,0:0:0:0:
+373,38,3108,2,0,B|317:63|317:63|217:49,1,140
+170,50,3742,2,0,P|92:68|83:192,1,210
+230,343,4798,6,0,L|235:193,1,140
+97,233,5643,2,0,L|106:78,1,140
+155,43,6277,1,0,0:0:0:0:
+155,43,6488,2,0,B|201:32|242:39|210:57|254:69|312:44,1,140
+356,27,7122,2,0,B|415:57|415:57|386:204,1,210
+392,338,7967,1,0,0:0:0:0:
+392,338,8178,6,0,P|326:335|299:267,1,140
+300,133,9023,2,0,P|220:154|204:221,1,140
+153,253,9657,1,0,0:0:0:0:
+153,253,9869,2,0,L|137:98,1,140
+265,53,10714,6,0,L|307:111,1,70
+376,104,11136,2,0,L|405:38,1,70
+474,38,11559,2,0,B|505:140|505:140|464:256,1,210
+437,299,12404,1,0,0:0:0:0:
+310,105,12826,6,0,P|324:158|313:189,1,70
+268,218,13249,2,0,P|256:259|271:304,1,70
+304,341,13671,2,0,L|222:353,1,70
+165,360,14094,2,0,L|83:353,1,70
+25,351,14516,2,0,B|19:312|19:312|46:271,1,70
+26,216,14939,6,0,B|68:198|106:216|71:233|130:240|160:221,1,140
+298,219,15784,2,0,B|340:201|378:219|343:236|402:243|432:224,1,140
+470,166,16418,1,0,0:0:0:0:
+470,166,16629,2,0,B|471:96|471:96|403:43,1,140
+345,56,17263,2,0,B|281:83|224:56|277:30|188:20|143:48,1,210
+34,162,18108,1,0,0:0:0:0:
+34,162,18319,6,0,P|95:204|166:182,1,140
+293,167,19164,2,0,L|282:317,1,140
+283,376,19798,1,0,0:0:0:0:
+283,376,20009,2,0,L|125:363,1,140
+77,340,20643,2,0,P|48:254|145:233,1,210
+260,212,21488,1,0,0:0:0:0:
+260,212,21700,6,0,L|412:221,1,140
+449,89,22545,2,0,L|294:80,1,140
+252,39,23178,2,0,L|108:48,1,140
+51,82,23812,1,0,0:0:0:0:
+132,195,24235,6,0,L|128:270,2,70
+197,170,24869,2,0,P|270:197|337:169,1,140
+380,222,25502,2,0,L|388:64,2,140
+377,291,26559,1,0,0:0:0:0:
+246,341,26981,5,0,0:0:0:0:
+246,341,27192,2,0,L|235:258,1,70
+210,206,27615,2,0,L|215:109,1,70
+245,73,28038,1,0,0:0:0:0:
+256,192,28460,12,0,31840,0:0:0:0:

@@ -1,0 +1,255 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 15469
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.9
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1.9
+
+[Metadata]
+Title:Taiyou to Rainbow (TV Size)
+TitleUnicode:太陽とレインボー (TV Size)
+Artist:Kotokawa Akira (CV: Tomita Miyu)
+ArtistUnicode:琴川晶 (CV: 富田美憂)
+Creator:AndreyChomik
+Version:Normal
+Source:One Room サードシーズン
+Tags:e_s_i_a [-e_s_i_a-] esia [-esia-] yamazo oneroom 3rd third season 3 カントク kantoku ed ending j-rock jpop jrock anime rock pop j-pop japanese
+BeatmapID:4375298
+BeatmapSetID:2087849
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:7
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+Sample,16138,0,"LR_Snare Clap High.wav",70
+Sample,16593,0,"LR_Snare Clap High.wav",70
+Sample,17956,0,"LR_Snare Clap High.wav",70
+Sample,18070,0,"LR_Snare Clap High.wav",70
+Sample,18297,0,"LR_Snare Clap High.wav",70
+Sample,18411,0,"LR_Snare Clap High.wav",70
+Sample,19093,0,"finnish.wav",70
+Sample,19547,0,"LR_Snare Clap High.wav",70
+Sample,19775,0,"LR_Hat Normal.wav",70
+Sample,20002,0,"LR_Hat Normal.wav",70
+Sample,20229,0,"LR_Hat Normal.wav",70
+Sample,20456,0,"LR_Snare Clap High.wav",70
+Sample,20684,0,"LR_Hat Normal.wav",70
+Sample,21138,0,"LR_Hat Normal.wav",70
+Sample,21365,0,"LR_Snare Clap High.wav",70
+Sample,21820,0,"LR_Hat Normal.wav",70
+Sample,22047,0,"LR_Hat Normal.wav",70
+Sample,22275,0,"LR_Snare Clap High.wav",70
+Sample,22502,0,"LR_TomR2.wav",70
+Sample,23411,0,"finnish.wav",70
+Sample,23865,0,"LR_Hat Normal.wav",70
+Sample,24093,0,"LR_Snare Clap High.wav",70
+Sample,24320,0,"finnish.wav",70
+Sample,24775,0,"LR_Hat Normal.wav",70
+Sample,25002,0,"LR_Snare Clap High.wav",70
+Sample,25456,0,"LR_Hat Normal.wav",70
+Sample,25684,0,"LR_Hat Normal.wav",70
+Sample,25911,0,"LR_Snare Clap High.wav",70
+Sample,26138,0,"LR_TomR3.wav",70
+Sample,26365,0,"finnish.wav",70
+Sample,26820,0,"LR_Snare Clap High.wav",70
+Sample,27047,0,"LR_Hat Normal.wav",70
+Sample,27502,0,"LR_Hat Normal.wav",70
+Sample,27729,0,"LR_Snare Clap High.wav",70
+Sample,28184,0,"finnish.wav",70
+Sample,28638,0,"LR_Snare Clap High.wav",70
+Sample,29093,0,"finnish.wav",70
+Sample,30002,0,"LR_Hat Normal.wav",70
+Sample,30229,0,"LR_TomR3.wav",70
+Sample,30456,0,"LR_Snare Clap High.wav",70
+Sample,30684,0,"finnish.wav",70
+Sample,31138,0,"LR_Hat Normal.wav",70
+Sample,31593,0,"finnish.wav",70
+Sample,32047,0,"LR_TomR3.wav",70
+Sample,32275,0,"LR_Snare Clap High.wav",70
+Sample,32729,0,"finnish.wav",70
+Sample,33184,0,"LR_Snare Clap High.wav",70
+
+[TimingPoints]
+-2725,454.545454545455,4,2,1,65,1,0
+
+[HitObjects]
+192,192,1138,128,0,4547:0:0:0:0:
+320,192,4547,128,0,5002:0:0:0:70:finnish.wav
+448,192,4547,1,0,0:0:0:0:
+64,192,5002,1,0,0:0:0:70:LR_Hat Normal.wav
+192,192,5229,128,0,5456:0:0:0:0:
+448,192,5456,128,0,5684:0:0:0:0:
+64,192,5684,128,0,5911:0:0:0:0:
+320,192,5911,1,0,0:0:0:70:LR_Hat Normal.wav
+448,192,6138,128,0,6593:0:0:0:0:
+192,192,6593,128,0,6820:0:0:0:0:
+64,192,6820,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,7047,128,0,7502:0:0:0:0:
+192,192,7502,128,0,7729:0:0:0:0:
+448,192,7729,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,7956,128,0,8184:0:0:0:0:
+64,192,8184,128,0,8638:0:0:0:0:
+192,192,8411,1,0,0:0:0:0:
+448,192,8638,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,8865,128,0,9093:0:0:0:0:
+64,192,9093,128,0,9320:0:0:0:0:
+448,192,9320,128,0,9547:0:0:0:0:
+192,192,9547,1,0,0:0:0:70:LR_Hat Normal.wav
+64,192,9775,128,0,10229:0:0:0:0:
+320,192,10229,128,0,10456:0:0:0:0:
+448,192,10456,1,0,0:0:0:70:LR_Hat Normal.wav
+192,192,10684,128,0,11138:0:0:0:0:
+64,192,11138,1,0,0:0:0:0:
+320,192,11365,1,0,0:0:0:70:LR_Hat Normal.wav
+448,192,11593,1,0,0:0:0:20:LR_Hat Normal.wav
+320,192,11706,1,0,0:0:0:20:LR_Hat Normal.wav
+64,192,11820,1,0,0:0:0:20:LR_Hat Normal.wav
+192,192,11820,128,0,12275:0:0:0:0:
+320,192,12275,1,0,0:0:0:70:LR_Hat Normal.wav
+64,192,12502,128,0,12956:0:0:0:70:LR_Hat Normal.wav
+448,192,12502,1,0,0:0:0:0:
+192,192,12956,128,0,13184:0:0:0:70:LR_Hat Normal.wav
+320,192,13184,1,0,0:0:0:70:LR_Hat Normal.wav
+448,192,13411,128,0,13638:0:0:0:0:
+64,192,13638,1,0,0:0:0:0:
+320,192,13638,128,0,14093:0:0:0:0:
+448,192,14093,1,0,0:0:0:70:LR_Hat Normal.wav
+64,192,14320,128,0,14547:0:0:0:0:
+320,192,14320,1,0,0:0:0:0:
+320,192,14775,128,0,15002:0:0:0:0:
+192,192,15002,128,0,15229:0:0:0:70:LR_Hat Normal.wav
+448,192,15229,1,0,0:0:0:0:
+320,192,15343,1,0,0:0:0:70:LR_Hat Normal.wav
+64,192,15456,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,15456,1,0,0:0:0:70:finnish.wav
+448,192,15684,1,0,0:0:0:70:LR_Snare Clap High.wav
+64,192,15911,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,16138,1,0,0:0:0:70:LR_Kick Normal Med.wav
+320,192,16365,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,16365,1,0,0:0:0:70:LR_Snare Clap High.wav
+64,192,16593,1,0,0:0:0:70:LR_Kick Normal Med.wav
+320,192,16820,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,16820,1,0,0:0:0:70:LR_Snare Clap High.wav
+64,192,17047,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,17047,1,0,0:0:0:70:finnish.wav
+64,192,17502,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,17502,1,0,0:0:0:70:LR_Snare Clap High.wav
+320,192,17729,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,17729,1,0,0:0:0:70:LR_Snare Clap High.wav
+64,192,17956,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,18070,1,0,0:0:0:70:LR_Kick Normal Med.wav
+320,192,18297,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,18411,1,0,0:0:0:70:LR_Kick Normal Med.wav
+64,192,18638,1,0,0:0:0:70:LR_Snare Clap High.wav
+192,192,18752,1,0,0:0:0:70:LR_Snare Clap High.wav
+448,192,18865,1,0,0:0:0:70:LR_TomR2.wav
+320,192,18979,1,0,0:0:0:70:LR_TomR1.wav
+64,192,19093,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,19093,128,0,19547:0:0:0:70:LR_Hat Normal.wav
+320,192,19547,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,19547,1,0,0:0:0:70:LR_Hat Normal.wav
+64,192,19775,128,0,20229:0:0:0:70:LR_Kick Normal Med.wav
+192,192,20002,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,20229,128,0,20456:0:0:0:70:LR_Kick Normal Med.wav
+64,192,20456,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,20456,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,20684,128,0,21138:0:0:0:70:LR_Kick Normal Med.wav
+448,192,21138,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,21365,128,0,21820:0:0:0:70:LR_Kick Normal Med.wav
+320,192,21365,1,0,0:0:0:70:LR_Hat Normal.wav
+64,192,21593,1,0,0:0:0:70:LR_Hat Normal.wav
+448,192,21820,1,0,0:0:0:70:LR_Kick Normal Med.wav
+320,192,21934,1,0,0:0:0:70:LR_Kick Normal Med.wav
+64,192,22047,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,22275,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,22275,1,0,0:0:0:70:LR_TomR3.wav
+448,192,22502,1,0,0:0:0:70:LR_Hat Normal.wav
+64,192,22729,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,22729,128,0,23184:0:0:0:70:finnish.wav
+64,192,23184,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,23184,1,0,0:0:0:70:LR_Snare Clap High.wav
+192,192,23411,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,23411,128,0,23865:0:0:0:70:LR_Hat Normal.wav
+64,192,23865,1,0,0:0:0:70:LR_Kick Normal Med.wav
+320,192,24093,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,24093,1,0,0:0:0:70:LR_Hat Normal.wav
+64,192,24320,128,0,24775:0:0:0:70:LR_Kick Normal Med.wav
+320,192,24320,1,0,0:0:0:70:LR_Hat Normal.wav
+192,192,24775,1,0,0:0:0:70:LR_Kick Normal Med.wav
+64,192,25002,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,25002,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,25229,128,0,25456:0:0:0:70:LR_Hat Normal.wav
+192,192,25456,128,0,25684:0:0:0:70:LR_Kick Normal Med.wav
+448,192,25684,128,0,25911:0:0:0:70:LR_Kick Normal Med.wav
+64,192,25911,1,0,0:0:0:70:LR_Kick Normal Med.wav
+320,192,25911,1,0,0:0:0:70:LR_Hat Normal.wav
+192,192,26138,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,26252,1,0,0:0:0:70:LR_TomR2.wav
+64,192,26365,128,0,26820:0:0:0:70:LR_Kick Normal Med.wav
+448,192,26365,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,26820,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,26820,1,0,0:0:0:70:LR_Hat Normal.wav
+192,192,27047,128,0,27275:0:0:0:70:LR_Kick Normal Med.wav
+320,192,27275,128,0,27502:0:0:0:70:LR_Hat Normal.wav
+64,192,27502,128,0,27729:0:0:0:70:LR_Kick Normal Med.wav
+192,192,27729,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,27729,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,27956,1,0,0:0:0:70:LR_Hat Normal.wav
+192,192,28070,1,0,0:0:0:70:LR_Hat Normal.wav
+64,192,28184,128,0,28638:0:0:0:70:LR_Kick Normal Med.wav
+448,192,28184,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,28638,128,0,29093:0:0:0:70:LR_Hat Normal.wav
+448,192,28638,1,0,0:0:0:70:finnish.wav
+64,192,29093,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,29093,128,0,29547:0:0:0:70:LR_Hat Normal.wav
+64,192,29547,1,0,0:0:0:70:finnish.wav
+448,192,29547,128,0,30002:0:0:0:70:LR_Snare Clap High.wav
+320,192,30002,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,30229,128,0,30456:0:0:0:70:LR_Hat Normal.wav
+64,192,30456,1,0,0:0:0:70:LR_Kick Normal Med.wav
+320,192,30456,128,0,30684:0:0:0:70:LR_Hat Normal.wav
+192,192,30684,1,0,0:0:0:70:LR_Kick Normal Med.wav
+448,192,30684,128,0,31138:0:0:0:70:LR_Hat Normal.wav
+64,192,31138,1,0,0:0:0:70:LR_Kick Normal Med.wav
+192,192,31365,1,0,0:0:0:70:LR_Hat Normal.wav
+320,192,31365,1,0,0:0:0:70:LR_Snare Clap High.wav
+64,192,31593,128,0,32047:0:0:0:70:LR_Kick Normal Med.wav
+448,192,31593,1,0,0:0:0:70:LR_Hat Normal.wav
+448,192,32047,1,0,0:0:0:70:LR_Hat Normal.wav
+192,192,32275,128,0,32729:0:0:0:70:LR_Kick Normal Med.wav
+320,192,32275,1,0,0:0:0:70:LR_Hat Normal.wav
+64,192,32729,1,0,0:0:0:70:LR_Kick Normal Med.wav
+320,192,32729,128,0,33184:0:0:0:70:LR_Hat Normal.wav
+64,192,33184,1,0,0:0:0:70:LR_Hat Normal.wav
+448,192,33184,1,0,0:0:0:70:finnish.wav
+192,192,33638,128,0,34093:0:0:0:0:
+64,192,34093,128,0,34320:0:0:0:0:
+320,192,34320,128,0,35911:0:0:0:0:

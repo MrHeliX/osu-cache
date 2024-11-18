@@ -1,0 +1,198 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 26200
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 0.9
+
+[Metadata]
+Title:Oduvanchiki (TV Size)
+TitleUnicode:Одуванчики (TV Size)
+Artist:Mariya Vasnetsova (CV: Miroslava Karpovich)
+ArtistUnicode:Мария Васнецова (CV: Мирослава Карпович)
+Creator:[-E S I A-]
+Version:Easy
+Source:Папины дочки
+Tags:Daddy's Daughters dandelion maria papiny dochki russian русский novelty pop поп маша masha vasnecova одуванчик любят девочки мальчики lyubyat devochki devachki malchiki zyletinee AndreyChomik E_S_I_A [-E_S_I_A-] ESIA [-ESIA-]
+BeatmapID:4639906
+BeatmapSetID:2187480
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:6
+ApproachRate:10
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.png",0,0
+Video,0,"video.avi"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+Sample,11380,0,"Hat Open.wav",15
+Sample,12580,0,"Hat Open.wav",15
+Sample,13060,0,"Hat Open.wav",15
+Sample,13540,0,"Hat Open.wav",15
+Sample,14020,0,"Hat Open.wav",15
+Sample,14500,0,"Hat Open.wav",15
+Sample,14980,0,"Hat Open.wav",15
+Sample,15460,0,"Hat Open.wav",15
+Sample,15940,0,"Hat Open.wav",15
+Sample,16420,0,"Hat Open.wav",15
+Sample,16900,0,"Hat Open.wav",15
+Sample,17380,0,"Hat Open.wav",15
+Sample,17860,0,"Hat Open.wav",15
+Sample,18340,0,"Hat Open.wav",15
+Sample,18820,0,"Hat Open.wav",15
+Sample,19780,0,"Hat Open.wav",15
+Sample,20260,0,"Hat Open.wav",15
+Sample,20740,0,"Hat Open.wav",15
+Sample,21700,0,"Hat Open.wav",15
+Sample,22180,0,"Hat Open.wav",15
+Sample,22660,0,"Hat Open.wav",15
+Sample,23620,0,"Hat Open.wav",15
+Sample,24100,0,"Hat Open.wav",15
+Sample,24580,0,"Hat Open.wav",15
+Sample,26740,0,"Hat Open.wav",15
+Sample,27460,0,"Hat Open.wav",15
+Sample,28900,0,"Hat Open.wav",15
+Sample,29380,0,"Hat Open.wav",15
+Sample,30340,0,"Hat Open.wav",15
+Sample,30820,0,"Hat Open.wav",15
+Sample,31300,0,"Hat Open.wav",15
+Sample,31780,0,"Hat Open.wav",15
+Sample,32260,0,"Hat Open.wav",15
+Sample,32740,0,"Hat Open.wav",15
+Sample,33220,0,"Hat Open.wav",15
+Sample,34660,0,"Hat Open.wav",15
+Sample,35140,0,"Hat Open.wav",15
+Sample,36580,0,"Hat Open.wav",15
+Sample,37060,0,"Hat Open.wav",15
+Sample,38020,0,"Hat Open.wav",15
+Sample,38500,0,"Hat Open.wav",15
+Sample,38980,0,"Hat Open.wav",15
+Sample,40420,0,"Hat Open.wav",15
+Sample,40900,0,"Hat Open.wav",15
+
+[TimingPoints]
+11140,480,4,2,1,60,1,8
+11620,480,4,2,1,60,1,0
+26980,-100,4,2,1,60,0,1
+41380,-100,4,2,1,60,0,0
+
+
+[HitObjects]
+64,192,11140,5,0,0:0:0:50:kick01.wav
+192,192,11380,1,0,0:0:0:50:kick01.wav
+320,192,11620,128,0,12100:0:0:0:50:kick01.wav
+448,192,11620,1,0,0:0:0:50:crash.wav
+192,192,12100,1,0,0:0:0:50:kick01.wav
+64,192,12340,1,0,0:0:0:70:snare2.wav
+448,192,12580,128,0,13060:0:0:0:50:kick01.wav
+192,192,13060,1,0,0:0:0:50:kick01.wav
+320,192,13300,1,0,0:0:0:70:snare2.wav
+64,192,13540,128,0,14020:0:0:0:50:kick01.wav
+320,192,14020,1,0,0:0:0:50:kick01.wav
+192,192,14260,1,0,0:0:0:70:snare2.wav
+448,192,14500,1,0,0:0:0:50:kick01.wav
+320,192,14980,1,0,0:0:0:50:kick01.wav
+192,192,15220,1,0,0:0:0:70:snare2.wav
+64,192,15460,128,0,15940:0:0:0:50:kick01.wav
+192,192,15940,1,0,0:0:0:50:kick01.wav
+320,192,16180,1,0,0:0:0:70:snare2.wav
+448,192,16420,128,0,16900:0:0:0:50:kick01.wav
+64,192,16900,1,0,0:0:0:50:kick01.wav
+192,192,17140,1,0,0:0:0:70:snare2.wav
+320,192,17380,128,0,17860:0:0:0:50:kick01.wav
+192,192,17860,1,0,0:0:0:50:kick01.wav
+64,192,18100,1,0,0:0:0:70:snare2.wav
+448,192,18340,1,0,0:0:0:50:kick01.wav
+192,192,18820,1,0,0:0:0:50:kick01.wav
+448,192,19060,1,0,0:0:0:70:snare2.wav
+64,192,19300,128,0,19780:0:0:0:50:kick01.wav
+192,192,19300,1,0,0:0:0:15:Hat Open.wav
+320,192,19780,1,0,0:0:0:50:kick01.wav
+448,192,20260,1,0,0:0:0:50:kick01.wav
+64,192,20740,1,0,0:0:0:50:kick01.wav
+448,192,20980,1,0,0:0:0:70:snare2.wav
+64,192,21220,1,0,0:0:0:50:kick01.wav
+192,192,21220,128,0,22180:0:0:0:15:Hat Open.wav
+320,192,21700,1,0,0:0:0:50:kick01.wav
+64,192,22180,1,0,0:0:0:50:kick01.wav
+320,192,22660,1,0,0:0:0:50:kick01.wav
+192,192,22900,1,0,0:0:0:70:snare2.wav
+320,192,23140,1,0,0:0:0:50:kick01.wav
+448,192,23140,128,0,25060:0:0:0:15:Hat Open.wav
+64,192,23620,1,0,0:0:0:50:kick01.wav
+320,192,24100,1,0,0:0:0:50:kick01.wav
+192,192,24580,1,0,0:0:0:50:kick01.wav
+64,192,25060,1,0,0:0:0:50:kick01.wav
+320,192,25060,1,0,0:0:0:15:Hat Open.wav
+192,192,25540,1,0,0:0:0:50:kick01.wav
+448,192,25540,1,0,0:0:0:15:Hat Open.wav
+64,192,25780,1,0,0:0:0:70:snare2.wav
+192,192,26260,1,0,0:0:0:40:snare2.wav
+320,192,26500,1,0,0:0:0:50:snare2.wav
+448,192,26740,1,0,0:0:0:50:kick01.wav
+64,192,26980,128,0,27460:0:0:0:50:kick01.wav
+192,192,26980,1,0,0:0:0:50:crash.wav
+320,192,27460,1,0,0:0:0:50:kick01.wav
+448,192,27700,1,0,0:0:0:70:snare2.wav
+192,192,28180,128,0,28660:0:0:0:70:snare2.wav
+64,192,28660,1,0,0:0:0:70:snare2.wav
+320,192,28900,128,0,29380:0:0:0:50:kick01.wav
+448,192,29380,1,0,0:0:0:50:kick01.wav
+192,192,29620,1,0,0:0:0:70:snare2.wav
+448,192,30100,1,0,0:0:0:70:snare2.wav
+64,192,30340,1,0,0:0:0:50:kick01.wav
+192,192,30580,1,0,0:0:0:70:snare2.wav
+320,192,30820,128,0,31300:0:0:0:50:kick01.wav
+192,192,31300,128,0,31780:0:0:0:50:kick01.wav
+64,192,31780,1,0,0:0:0:50:kick01.wav
+448,192,32260,1,0,0:0:0:50:kick01.wav
+320,192,32500,1,0,0:0:0:70:snare2.wav
+64,192,32740,128,0,33220:0:0:0:50:kick01.wav
+192,192,33220,1,0,0:0:0:50:kick01.wav
+320,192,33460,1,0,0:0:0:70:snare2.wav
+448,192,33940,128,0,34420:0:0:0:70:snare2.wav
+64,192,34420,1,0,0:0:0:70:snare2.wav
+192,192,34660,128,0,35140:0:0:0:50:kick01.wav
+448,192,35140,1,0,0:0:0:50:kick01.wav
+320,192,35380,1,0,0:0:0:70:snare2.wav
+64,192,35860,128,0,36340:0:0:0:70:snare2.wav
+192,192,36340,1,0,0:0:0:70:snare2.wav
+448,192,36580,128,0,37060:0:0:0:50:kick01.wav
+320,192,37060,1,0,0:0:0:50:kick01.wav
+64,192,37300,1,0,0:0:0:70:snare2.wav
+448,192,37780,1,0,0:0:0:70:snare2.wav
+192,192,38020,1,0,0:0:0:50:kick01.wav
+320,192,38260,1,0,0:0:0:70:snare2.wav
+448,192,38500,128,0,38980:0:0:0:50:kick01.wav
+64,192,38980,1,0,0:0:0:50:kick01.wav
+320,192,39220,128,0,39700:0:0:0:70:snare2.wav
+192,192,39700,1,0,0:0:0:70:snare2.wav
+64,192,40180,1,0,0:0:0:70:snare2.wav
+192,192,40420,128,0,40900:0:0:0:50:kick01.wav
+448,192,40900,1,0,0:0:0:50:kick01.wav
+64,192,41140,1,0,0:0:0:70:snare2.wav
+320,192,41380,1,0,0:0:0:50:kick01.wav

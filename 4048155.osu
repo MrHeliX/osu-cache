@@ -1,0 +1,1147 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.ogg
+AudioLeadIn: 0
+PreviewTime: 117044
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 270,10592,20915,26076,31237,36399,41560,62205,67366,72528,77689,82850,88011,93173,103495,111237,112528,117689,158979,169302
+DistanceSpacing: 0.5
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1.8
+
+[Metadata]
+Title:Summoning 101
+TitleUnicode:Summoning 101
+Artist:Mili
+ArtistUnicode:Mili
+Creator:- Inui Toko -
+Version:Ihram's Beginner
+Source:
+Tags:Slowpoke104 Ihram Ihram-San SuzumeAyase  pop rock english piano female vocal Millennium Mother SNCL-00016 Cassie Wei momocashew Yamato Kasai 葛西大和 Yukihito Mitomo 三友行人 Shoto Yoshida 吉田翔人 Ao Fujimori 藤森蒼 Featured Artist FA piano keysound mpg mg mappers' guild
+BeatmapID:4048155
+BeatmapSetID:1954482
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:6
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+Sample,270,0,"LR_CymbalG_R.wav",50
+Sample,753,0,"LR_CymbalG_L.wav",50
+Sample,1237,0,"LR_CymbalG_R.wav",50
+Sample,5431,0,"LR_CymbalG_L.wav",50
+Sample,5915,0,"LR_CymbalG_L.wav",50
+Sample,6399,0,"LR_CymbalG_L.wav",50
+Sample,10592,0,"LR_Hat Synth.wav",70
+Sample,10915,0,"LR_Hat Synth.wav",70
+Sample,11237,0,"LR_Hat Synth.wav",70
+Sample,11560,0,"LR_Hat Synth.wav",70
+Sample,11882,0,"LR_Hat Synth.wav",70
+Sample,12205,0,"LR_Hat Synth.wav",70
+Sample,12850,0,"LR_Hat Synth.wav",70
+Sample,13173,0,"LR_Hat Synth.wav",70
+Sample,13495,0,"LR_Hat Synth.wav",70
+Sample,13818,0,"LR_Hat Synth.wav",70
+Sample,14140,0,"LR_Hat Synth.wav",70
+Sample,14463,0,"LR_Hat Synth.wav",70
+Sample,14786,0,"LR_Hat Synth.wav",70
+Sample,15431,0,"LR_Hat Synth.wav",70
+Sample,17044,0,"LR_Drum Hit Drop High.wav",30
+Sample,19624,0,"LR_Drum Hit Drop High.wav",30
+Sample,20269,0,"tom01.wav",30
+Sample,29463,0,"LR_Hat Synth.wav",70
+Sample,31560,0,"LR_Hat Synth.wav",70
+Sample,32205,0,"LR_Hat Synth.wav",70
+Sample,32850,0,"LR_Hat Synth.wav",70
+Sample,33495,0,"LR_Hat Synth.wav",70
+Sample,34140,0,"LR_Hat Synth.wav",70
+Sample,34463,0,"LR_Hat Synth.wav",70
+Sample,34786,0,"LR_Hat Synth.wav",70
+Sample,35753,0,"B5S_s.wav",60
+Sample,37689,0,"E6S.wav",70
+Sample,38979,0,"B5S.wav",70
+Sample,40915,0,"E5S_s.wav",62
+Sample,40915,0,"A3S_s.wav",56
+Sample,41560,0,"A5S_s.wav",62
+Sample,41560,0,"E5S_s.wav",62
+Sample,41560,0,"C5S_s.wav",62
+Sample,41560,0,"F3S_s.wav",56
+Sample,41882,0,"F4S_s.wav",56
+Sample,41882,0,"C4S_s.wav",56
+Sample,42044,0,"E5S_s.wav",62
+Sample,42044,0,"C5S_s.wav",62
+Sample,42044,0,"F3S_s.wav",56
+Sample,42528,0,"G5S_s.wav",62
+Sample,42528,0,"F4S_s.wav",56
+Sample,42528,0,"C4S_s.wav",56
+Sample,42850,0,"A5S_s.wav",62
+Sample,42850,0,"D5S_s.wav",62
+Sample,42850,0,"B4S_s.wav",62
+Sample,42850,0,"G3S_s.wav",56
+Sample,43173,0,"G4S_s.wav",56
+Sample,43173,0,"D4S_s.wav",56
+Sample,43334,0,"A5S_s.wav",62
+Sample,43334,0,"E5S_s.wav",62
+Sample,43334,0,"G3S_s.wav",56
+Sample,43818,0,"C6S_s.wav",62
+Sample,43818,0,"E5S_s.wav",62
+Sample,43818,0,"G4S_s.wav",56
+Sample,43818,0,"D4S_s.wav",56
+Sample,44140,0,"B5S_s.wav",62
+Sample,44140,0,"G5S_s.wav",62
+Sample,44140,0,"D5S_s.wav",62
+Sample,44140,0,"A3S_s.wav",56
+Sample,44463,0,"LR_Hat Synth.wav",70
+Sample,44463,0,"C6S_s.wav",62
+Sample,44463,0,"A4S_s.wav",56
+Sample,44463,0,"E4S_s.wav",56
+Sample,44786,0,"LR_Hat Synth.wav",70
+Sample,44786,0,"B5S_s.wav",62
+Sample,44786,0,"D5S_s.wav",62
+Sample,44786,0,"G3S_s.wav",56
+Sample,45108,0,"LR_Hat Synth.wav",70
+Sample,45108,0,"G5S_s.wav",62
+Sample,45108,0,"G4S_s.wav",56
+Sample,45108,0,"D4S_s.wav",56
+Sample,45431,0,"LR_Hat Synth.wav",70
+Sample,45431,0,"E5S.wav",62
+Sample,45431,0,"C5S.wav",62
+Sample,45431,0,"C3S_s.wav",56
+Sample,46399,0,"LR_Hat Synth.wav",60
+Sample,46399,0,"D5S_s.wav",62
+Sample,46721,0,"E5S_s.wav",62
+Sample,46721,0,"C5S_s.wav",62
+Sample,46721,0,"F3S_s.wav",56
+Sample,47044,0,"LR_Hat Synth.wav",70
+Sample,47044,0,"A5S_s.wav",62
+Sample,47044,0,"F4S_s.wav",56
+Sample,47044,0,"C4S_s.wav",56
+Sample,47366,0,"LR_Hat Synth.wav",70
+Sample,47366,0,"G5S_s.wav",62
+Sample,48011,0,"LR_Hat Synth.wav",70
+Sample,48011,0,"E5S_s.wav",62
+Sample,48011,0,"G3S_s.wav",56
+Sample,48334,0,"LR_Hat Synth.wav",70
+Sample,48334,0,"A5S_s.wav",62
+Sample,48334,0,"G4S_s.wav",56
+Sample,48334,0,"D4S_s.wav",56
+Sample,48657,0,"LR_Hat Synth.wav",70
+Sample,48657,0,"B5S_s.wav",62
+Sample,48657,0,"E5S_s.wav",62
+Sample,49302,0,"LR_Hat Synth.wav",70
+Sample,49302,0,"A5S_s.wav",62
+Sample,49302,0,"E5S_s.wav",62
+Sample,49302,0,"C5S_s.wav",62
+Sample,49302,0,"A3S_s.wav",56
+Sample,49624,0,"A4S_s.wav",56
+Sample,49624,0,"E4S_s.wav",56
+Sample,49947,0,"LR_Hat Synth.wav",70
+Sample,49947,0,"G5S_s.wav",62
+Sample,49947,0,"D5S_s.wav",62
+Sample,49947,0,"G3S_s.wav",56
+Sample,50269,0,"LR_Hat Synth.wav",70
+Sample,50269,0,"D5S_s.wav",62
+Sample,50269,0,"D4S_s.wav",56
+Sample,50269,0,"G4S_s.wav",56
+Sample,50592,0,"LR_Hat Synth.wav",70
+Sample,50592,0,"E5S_s.wav",62
+Sample,50592,0,"B4S_s.wav",62
+Sample,50592,0,"C3S_s.wav",56
+Sample,50915,0,"D5S_s.wav",62
+Sample,50915,0,"C4S_s.wav",56
+Sample,50915,0,"G3S_s.wav",56
+Sample,51237,0,"LR_Hat Synth.wav",70
+Sample,51237,0,"E5S_s.wav",62
+Sample,51237,0,"B4S_s.wav",62
+Sample,51560,0,"LR_Hat Synth.wav",70
+Sample,51560,0,"B4S_s.wav",62
+Sample,51560,0,"C4S_s.wav",56
+Sample,51560,0,"G3S_s.wav",56
+Sample,51882,0,"A5S_s.wav",62
+Sample,51882,0,"E5S_s.wav",62
+Sample,51882,0,"C5S_s.wav",62
+Sample,51882,0,"F3S_s.wav",56
+Sample,52366,0,"E5S_s.wav",62
+Sample,52366,0,"C5S_s.wav",62
+Sample,52366,0,"F3S_s.wav",56
+Sample,52850,0,"G5S_s.wav",62
+Sample,52850,0,"F4S_s.wav",56
+Sample,52850,0,"C4S_s.wav",56
+Sample,53173,0,"A5S_s.wav",62
+Sample,53173,0,"D5S_s.wav",62
+Sample,53173,0,"B4S_s.wav",62
+Sample,53173,0,"G3S_s.wav",56
+Sample,53657,0,"A5S_s.wav",62
+Sample,53657,0,"D5S_s.wav",62
+Sample,53657,0,"B4S_s.wav",62
+Sample,53657,0,"G3S_s.wav",56
+Sample,54140,0,"C6S_s.wav",62
+Sample,54140,0,"A5S_s.wav",62
+Sample,54140,0,"G4S_s.wav",56
+Sample,54140,0,"D4S_s.wav",56
+Sample,54463,0,"B5S_s.wav",62
+Sample,54463,0,"G5S_s.wav",62
+Sample,54463,0,"D5S_s.wav",62
+Sample,54463,0,"A3S_s.wav",56
+Sample,54786,0,"LR_Hat Synth.wav",70
+Sample,54786,0,"C6S_s.wav",62
+Sample,54786,0,"A4S_s.wav",56
+Sample,54786,0,"E4S_s.wav",56
+Sample,55108,0,"LR_Hat Synth.wav",70
+Sample,55108,0,"D6S_s.wav",62
+Sample,55108,0,"G5S_s.wav",62
+Sample,55108,0,"G3S_s.wav",56
+Sample,55431,0,"LR_Hat Synth.wav",70
+Sample,55431,0,"C6S_s.wav",62
+Sample,55431,0,"G4S_s.wav",56
+Sample,55431,0,"D4S_s.wav",56
+Sample,55753,0,"LR_Hat Synth.wav",70
+Sample,55753,0,"B5S.wav",62
+Sample,55753,0,"G5S.wav",62
+Sample,55753,0,"E5S.wav",62
+Sample,55753,0,"C3S_s.wav",56
+Sample,56399,0,"E4S_s.wav",56
+Sample,56721,0,"C5S_s.wav",56
+Sample,57044,0,"A5S_s.wav",62
+Sample,57044,0,"E5S_s.wav",62
+Sample,57044,0,"C5S_s.wav",62
+Sample,57044,0,"F3S_s.wav",56
+Sample,57850,0,"D5S_s.wav",62
+Sample,57850,0,"D4S_s.wav",56
+Sample,58334,0,"LR_Hat Synth.wav",70
+Sample,58334,0,"E5S_s.wav",62
+Sample,58334,0,"A3S_s.wav",56
+Sample,58657,0,"LR_Hat Synth.wav",70
+Sample,58657,0,"C6S_s.wav",62
+Sample,58657,0,"A4S_s.wav",56
+Sample,58979,0,"LR_Hat Synth.wav",70
+Sample,58979,0,"B5S_s.wav",62
+Sample,58979,0,"G5S_s.wav",62
+Sample,58979,0,"E5S_s.wav",62
+Sample,58979,0,"E3S_s.wav",56
+Sample,59302,0,"LR_Hat Synth.wav",70
+Sample,59302,0,"E4S_s.wav",56
+Sample,59624,0,"LR_Hat Synth.wav",70
+Sample,59624,0,"A5S_s.wav",62
+Sample,59624,0,"F5S_s.wav",62
+Sample,59624,0,"F3S_s.wav",56
+Sample,60269,0,"LR_Hat Synth.wav",70
+Sample,60269,0,"D6S_s.wav",62
+Sample,60269,0,"G3S_s.wav",56
+Sample,60915,0,"LR_Hat Synth.wav",70
+Sample,60915,0,"A5S.wav",62
+Sample,60915,0,"E5S.wav",62
+Sample,60915,0,"A3S_s.wav",56
+Sample,61399,0,"LR_Hat Synth.wav",70
+Sample,61882,0,"LR_Hat Synth.wav",70
+Sample,62850,0,"LR_HiHat Click2.wav",20
+Sample,63495,0,"LR_HiHat Click2.wav",20
+Sample,63495,0,"LR_Drum Hit Drop High.wav",20
+Sample,64140,0,"LR_HiHat Click2.wav",20
+Sample,64786,0,"LR_HiHat Click2.wav",20
+Sample,65431,0,"LR_HiHat Click2.wav",20
+Sample,66076,0,"LR_HiHat Click2.wav",20
+Sample,66076,0,"LR_Drum Hit Drop High.wav",20
+Sample,66721,0,"tom01.wav",30
+Sample,67366,0,"C6S.wav",50
+Sample,67366,0,"A5S.wav",50
+Sample,67366,0,"F4S_s.wav",50
+Sample,68011,0,"LR_Drum EDge.wav",60
+Sample,68011,0,"A5S_s.wav",50
+Sample,68657,0,"LR_HiHat Click2.wav",20
+Sample,68657,0,"E6S.wav",50
+Sample,68657,0,"C6S.wav",50
+Sample,68657,0,"G5S.wav",50
+Sample,68657,0,"E4S_s.wav",50
+Sample,69302,0,"LR_Drum EDge.wav",60
+Sample,69302,0,"G5S_s.wav",50
+Sample,69947,0,"LR_HiHat Click2.wav",20
+Sample,69947,0,"D6S_s.wav",50
+Sample,69947,0,"A5S_s.wav",50
+Sample,69947,0,"F5S_s.wav",50
+Sample,69947,0,"D4S_s.wav",50
+Sample,70592,0,"LR_Drum EDge.wav",60
+Sample,70592,0,"B5S_s.wav",50
+Sample,70592,0,"G5S_s.wav",50
+Sample,70592,0,"G4S_s.wav",50
+Sample,71237,0,"LR_HiHat Click2.wav",20
+Sample,71237,0,"E6S.wav",50
+Sample,71237,0,"B5S.wav",50
+Sample,71237,0,"G5S.wav",50
+Sample,71237,0,"C4S_s.wav",50
+Sample,71882,0,"LR_Drum EDge.wav",60
+Sample,71882,0,"E5S_s.wav",50
+Sample,71882,0,"C5S_s.wav",50
+Sample,72528,0,"LR_HiHat Click2.wav",20
+Sample,72528,0,"F6S.wav",50
+Sample,72528,0,"C6S.wav",50
+Sample,72528,0,"A5S_s.wav",50
+Sample,72528,0,"F4S_s.wav",50
+Sample,73818,0,"E6S.wav",50
+Sample,73818,0,"C6S.wav",50
+Sample,73818,0,"G5S_s.wav",50
+Sample,73818,0,"E4S_s.wav",50
+Sample,75108,0,"LR_CymbalG_R.wav",50
+Sample,75108,0,"D6S_s.wav",50
+Sample,75108,0,"A5S_s.wav",50
+Sample,75108,0,"F5S_s.wav",50
+Sample,75108,0,"D4S_s.wav",50
+Sample,75753,0,"LR_CymbalG_L.wav",50
+Sample,75753,0,"C6S_s.wav",50
+Sample,75753,0,"G5S_s.wav",50
+Sample,75753,0,"G4S_s.wav",50
+Sample,76399,0,"LR_CymbalG_R.wav",50
+Sample,76399,0,"G5S_s.wav",50
+Sample,76399,0,"C5S_s.wav",50
+Sample,77044,0,"E7S_s.wav",62
+Sample,77044,0,"B6S_s.wav",62
+Sample,77044,0,"A6S_s.wav",62
+Sample,77044,0,"C4S_s.wav",62
+Sample,81076,0,"LR_Hat Synth.wav",70
+Sample,83495,0,"LR_HiHat Click2.wav",20
+Sample,84140,0,"LR_HiHat Click2.wav",20
+Sample,84786,0,"LR_HiHat Click2.wav",20
+Sample,85431,0,"LR_HiHat Click2.wav",20
+Sample,86076,0,"LR_HiHat Click2.wav",20
+Sample,86721,0,"LR_HiHat Click2.wav",20
+Sample,87366,0,"tom01.wav",30
+Sample,87366,0,"B5S_s.wav",50
+Sample,88011,0,"D6S.wav",54
+Sample,89302,0,"E6S.wav",57
+Sample,90592,0,"B5S.wav",54
+Sample,93173,0,"C6S.wav",50
+Sample,93173,0,"E5S.wav",50
+Sample,93173,0,"C5S.wav",50
+Sample,93173,0,"F4S.wav",50
+Sample,94463,0,"E6S.wav",50
+Sample,94463,0,"B5S.wav",50
+Sample,94463,0,"G5S.wav",50
+Sample,94463,0,"D5S.wav",50
+Sample,94463,0,"E4S.wav",50
+Sample,95753,0,"A5S_s.wav",50
+Sample,95753,0,"F5S_s.wav",50
+Sample,95753,0,"D4S_s.wav",50
+Sample,96399,0,"G5S_s.wav",50
+Sample,96399,0,"G4S_s.wav",50
+Sample,97044,0,"B5S.wav",50
+Sample,97044,0,"G5S.wav",50
+Sample,97044,0,"C4S_s.wav",50
+Sample,98334,0,"C6S.wav",50
+Sample,98334,0,"A5S_s.wav",50
+Sample,98334,0,"F4S_s.wav",50
+Sample,99624,0,"C6S.wav",50
+Sample,99624,0,"G5S_s.wav",50
+Sample,99624,0,"E4S_s.wav",50
+Sample,100915,0,"A5S_s.wav",50
+Sample,100915,0,"D4S_s.wav",50
+Sample,101560,0,"C6S_s.wav",50
+Sample,101560,0,"G4S_s.wav",50
+Sample,102205,0,"C4S_s.wav",50
+Sample,102850,0,"G6S_s.wav",50
+Sample,102850,0,"F6S_s.wav",50
+Sample,103495,0,"LR_Drum EDge.wav",60
+Sample,103495,0,"F7S.wav",50
+Sample,103495,0,"F5S_s.wav",50
+Sample,104786,0,"LR_Drum EDge.wav",60
+Sample,104786,0,"F7S.wav",50
+Sample,104786,0,"C7S.wav",50
+Sample,104786,0,"E5S_s.wav",50
+Sample,106076,0,"LR_HiHat Click2.wav",20
+Sample,106076,0,"LR_Drum EDge.wav",60
+Sample,106076,0,"D7S_s.wav",50
+Sample,106076,0,"F6S_s.wav",50
+Sample,106076,0,"D5S_s.wav",50
+Sample,106721,0,"LR_Drum EDge.wav",60
+Sample,106721,0,"D7S_s.wav",50
+Sample,106721,0,"G6S_s.wav",50
+Sample,106721,0,"G5S_s.wav",50
+Sample,107366,0,"LR_Drum EDge.wav",60
+Sample,107366,0,"E7S.wav",50
+Sample,107366,0,"G6S.wav",50
+Sample,107366,0,"C5S_s.wav",50
+Sample,108657,0,"LR_HiHat Click2.wav",20
+Sample,108657,0,"LR_Drum EDge.wav",60
+Sample,108657,0,"F6S_s.wav",50
+Sample,108657,0,"C6S.wav",50
+Sample,108657,0,"F4S.wav",50
+Sample,109947,0,"LR_Drum EDge.wav",60
+Sample,109947,0,"E7S.wav",50
+Sample,109947,0,"E5S_s.wav",50
+Sample,111237,0,"C6S_s.wav",62
+Sample,111237,0,"A5S_s.wav",62
+Sample,111237,0,"A3S_s.wav",62
+Sample,111882,0,"B5S_s.wav",69
+Sample,111882,0,"G5S_s.wav",69
+Sample,111882,0,"G3S_s.wav",69
+Sample,112528,0,"F6S_s.wav",75
+Sample,112528,0,"D6S_s.wav",75
+Sample,112528,0,"B5S_s.wav",75
+Sample,112528,0,"F3S_s.wav",67
+Sample,113818,0,"LR_HiHat Click2.wav",40
+Sample,113818,0,"G6S_s.wav",75
+Sample,113818,0,"G5S_s.wav",75
+Sample,113818,0,"F3S_s.wav",67
+Sample,115108,0,"LR_HiHat Click2.wav",40
+Sample,115108,0,"E6S_s.wav",75
+Sample,115108,0,"C6S_s.wav",75
+Sample,115108,0,"E5S_s.wav",75
+Sample,115108,0,"F3S_s.wav",67
+Sample,116399,0,"LR_HiHat Click2.wav",40
+Sample,116399,0,"D6S_s.wav",75
+Sample,116399,0,"D5S_s.wav",75
+Sample,116399,0,"F3S_s.wav",67
+Sample,117044,0,"E5S_s.wav",70
+Sample,117044,0,"A3S_s.wav",64
+Sample,117689,0,"A5S_s.wav",62
+Sample,117689,0,"E5S_s.wav",62
+Sample,117689,0,"C5S_s.wav",62
+Sample,117689,0,"F3S_s.wav",56
+Sample,118011,0,"F4S_s.wav",56
+Sample,118011,0,"C4S_s.wav",56
+Sample,118173,0,"E5S_s.wav",62
+Sample,118173,0,"C5S_s.wav",62
+Sample,118173,0,"F3S_s.wav",56
+Sample,118657,0,"G5S_s.wav",62
+Sample,118657,0,"F4S_s.wav",56
+Sample,118657,0,"C4S_s.wav",56
+Sample,118979,0,"A5S_s.wav",62
+Sample,118979,0,"D5S_s.wav",62
+Sample,118979,0,"B4S_s.wav",62
+Sample,118979,0,"G3S_s.wav",56
+Sample,119302,0,"G4S_s.wav",56
+Sample,119302,0,"D4S_s.wav",56
+Sample,119463,0,"A5S_s.wav",62
+Sample,119463,0,"E5S_s.wav",62
+Sample,119463,0,"G3S_s.wav",56
+Sample,119947,0,"C6S_s.wav",62
+Sample,119947,0,"E5S_s.wav",62
+Sample,119947,0,"G4S_s.wav",56
+Sample,119947,0,"D4S_s.wav",56
+Sample,120269,0,"B5S_s.wav",62
+Sample,120269,0,"G5S_s.wav",62
+Sample,120269,0,"D5S_s.wav",62
+Sample,120269,0,"A3S_s.wav",56
+Sample,120592,0,"LR_Hat Synth.wav",70
+Sample,120592,0,"C6S_s.wav",62
+Sample,120592,0,"A4S_s.wav",56
+Sample,120592,0,"E4S_s.wav",56
+Sample,120915,0,"LR_Hat Synth.wav",70
+Sample,120915,0,"B5S_s.wav",62
+Sample,120915,0,"D5S_s.wav",62
+Sample,120915,0,"G3S_s.wav",56
+Sample,121237,0,"LR_Hat Synth.wav",70
+Sample,121237,0,"G5S_s.wav",62
+Sample,121237,0,"G4S_s.wav",56
+Sample,121237,0,"D4S_s.wav",56
+Sample,121560,0,"LR_Hat Synth.wav",70
+Sample,121560,0,"E5S.wav",62
+Sample,121560,0,"C5S.wav",62
+Sample,121560,0,"C3S_s.wav",56
+Sample,122528,0,"LR_Hat Synth.wav",60
+Sample,122528,0,"D5S_s.wav",62
+Sample,122850,0,"E5S_s.wav",62
+Sample,122850,0,"C5S_s.wav",62
+Sample,122850,0,"F3S_s.wav",56
+Sample,123173,0,"LR_Hat Synth.wav",70
+Sample,123173,0,"A5S_s.wav",62
+Sample,123173,0,"F4S_s.wav",56
+Sample,123173,0,"C4S_s.wav",56
+Sample,123495,0,"LR_Hat Synth.wav",70
+Sample,123495,0,"G5S_s.wav",62
+Sample,124140,0,"LR_Hat Synth.wav",70
+Sample,124140,0,"E5S_s.wav",62
+Sample,124140,0,"G3S_s.wav",56
+Sample,124463,0,"LR_Hat Synth.wav",70
+Sample,124463,0,"A5S_s.wav",62
+Sample,124463,0,"G4S_s.wav",56
+Sample,124463,0,"D4S_s.wav",56
+Sample,124786,0,"LR_Hat Synth.wav",70
+Sample,124786,0,"B5S_s.wav",62
+Sample,124786,0,"E5S_s.wav",62
+Sample,125431,0,"LR_Hat Synth.wav",70
+Sample,125431,0,"A5S_s.wav",62
+Sample,125431,0,"E5S_s.wav",62
+Sample,125431,0,"C5S_s.wav",62
+Sample,125431,0,"A3S_s.wav",56
+Sample,125753,0,"A4S_s.wav",56
+Sample,125753,0,"E4S_s.wav",56
+Sample,126076,0,"LR_Hat Synth.wav",70
+Sample,126076,0,"G5S_s.wav",62
+Sample,126076,0,"D5S_s.wav",62
+Sample,126076,0,"G3S_s.wav",56
+Sample,126399,0,"LR_Hat Synth.wav",70
+Sample,126399,0,"D5S_s.wav",62
+Sample,126399,0,"G4S_s.wav",56
+Sample,126399,0,"D4S_s.wav",56
+Sample,126721,0,"LR_Hat Synth.wav",70
+Sample,126721,0,"E5S_s.wav",62
+Sample,126721,0,"B4S_s.wav",62
+Sample,126721,0,"C3S_s.wav",56
+Sample,127044,0,"D5S_s.wav",62
+Sample,127044,0,"C4S_s.wav",56
+Sample,127044,0,"G3S_s.wav",56
+Sample,127366,0,"LR_Hat Synth.wav",70
+Sample,127366,0,"E5S_s.wav",62
+Sample,127366,0,"B4S_s.wav",62
+Sample,127689,0,"LR_Hat Synth.wav",70
+Sample,127689,0,"B4S_s.wav",62
+Sample,127689,0,"C4S_s.wav",56
+Sample,127689,0,"G3S_s.wav",56
+Sample,128011,0,"A5S_s.wav",62
+Sample,128011,0,"E5S_s.wav",62
+Sample,128011,0,"C5S_s.wav",62
+Sample,128011,0,"F3S_s.wav",56
+Sample,128495,0,"E5S_s.wav",62
+Sample,128495,0,"C5S_s.wav",62
+Sample,128495,0,"F3S_s.wav",56
+Sample,128979,0,"G5S_s.wav",62
+Sample,128979,0,"F4S_s.wav",56
+Sample,128979,0,"C4S_s.wav",56
+Sample,129302,0,"A5S_s.wav",62
+Sample,129302,0,"D5S_s.wav",62
+Sample,129302,0,"B4S_s.wav",62
+Sample,129302,0,"G3S_s.wav",56
+Sample,129786,0,"A5S_s.wav",62
+Sample,129786,0,"D5S_s.wav",62
+Sample,129786,0,"B4S_s.wav",62
+Sample,129786,0,"G3S_s.wav",56
+Sample,130269,0,"C6S_s.wav",62
+Sample,130269,0,"A5S_s.wav",62
+Sample,130269,0,"G4S_s.wav",56
+Sample,130269,0,"D4S_s.wav",56
+Sample,130592,0,"G5S_s.wav",62
+Sample,130592,0,"D5S_s.wav",62
+Sample,130592,0,"B5S_s.wav",62
+Sample,130592,0,"A3S_s.wav",56
+Sample,130915,0,"LR_Hat Synth.wav",70
+Sample,130915,0,"C6S_s.wav",62
+Sample,130915,0,"A4S_s.wav",56
+Sample,130915,0,"E4S_s.wav",56
+Sample,131237,0,"LR_Hat Synth.wav",70
+Sample,131237,0,"D6S_s.wav",62
+Sample,131237,0,"G5S_s.wav",62
+Sample,131237,0,"G3S_s.wav",56
+Sample,131560,0,"LR_Hat Synth.wav",70
+Sample,131560,0,"C6S_s.wav",62
+Sample,131560,0,"D4S_s.wav",56
+Sample,131560,0,"G4S_s.wav",56
+Sample,131882,0,"LR_Hat Synth.wav",70
+Sample,131882,0,"B5S.wav",69
+Sample,131882,0,"G5S.wav",62
+Sample,131882,0,"E5S.wav",62
+Sample,131882,0,"C3S_s.wav",56
+Sample,132528,0,"E4S_s.wav",56
+Sample,133173,0,"A5S_s.wav",62
+Sample,133173,0,"E5S_s.wav",62
+Sample,133173,0,"C5S_s.wav",62
+Sample,133173,0,"F3S_s.wav",56
+Sample,133979,0,"D5S_s.wav",62
+Sample,133979,0,"D4S_s.wav",56
+Sample,134463,0,"LR_Hat Synth.wav",70
+Sample,134463,0,"E5S_s.wav",62
+Sample,134463,0,"A3S_s.wav",56
+Sample,134786,0,"LR_Hat Synth.wav",70
+Sample,134786,0,"C6S_s.wav",62
+Sample,134786,0,"A4S_s.wav",56
+Sample,135108,0,"LR_Hat Synth.wav",70
+Sample,135108,0,"B5S_s.wav",62
+Sample,135108,0,"G5S_s.wav",62
+Sample,135108,0,"E5S_s.wav",62
+Sample,135108,0,"E3S_s.wav",56
+Sample,135431,0,"LR_Hat Synth.wav",70
+Sample,135431,0,"E4S_s.wav",56
+Sample,135753,0,"LR_Hat Synth.wav",70
+Sample,135753,0,"A5S_s.wav",62
+Sample,135753,0,"F5S_s.wav",62
+Sample,135753,0,"F3S_s.wav",62
+Sample,136399,0,"LR_Hat Synth.wav",70
+Sample,136399,0,"D6S_s.wav",62
+Sample,136399,0,"G3S_s.wav",62
+Sample,137044,0,"LR_Hat Synth.wav",70
+Sample,137044,0,"A5S_s.wav",62
+Sample,137044,0,"E5S_s.wav",62
+Sample,137044,0,"A3S_s.wav",62
+Sample,137689,0,"LR_Hat Synth.wav",70
+Sample,137689,0,"E6S_s.wav",69
+Sample,137689,0,"E4S_s.wav",69
+Sample,138334,0,"A6S_s.wav",75
+Sample,138334,0,"E6S_s.wav",75
+Sample,138334,0,"C6S_s.wav",75
+Sample,138334,0,"F3S_s.wav",67
+Sample,138657,0,"F4S_s.wav",67
+Sample,138657,0,"C4S_s.wav",67
+Sample,138818,0,"E6S_s.wav",75
+Sample,138818,0,"C6S_s.wav",75
+Sample,138818,0,"F3S_s.wav",67
+Sample,139302,0,"G6S_s.wav",75
+Sample,139302,0,"F4S_s.wav",67
+Sample,139302,0,"C4S_s.wav",67
+Sample,139624,0,"A6S_s.wav",75
+Sample,139624,0,"D6S_s.wav",75
+Sample,139624,0,"B5S_s.wav",75
+Sample,139624,0,"G3S_s.wav",67
+Sample,139947,0,"G4S_s.wav",67
+Sample,139947,0,"D4S_s.wav",67
+Sample,140108,0,"A6S_s.wav",75
+Sample,140108,0,"D6S_s.wav",75
+Sample,140108,0,"B5S_s.wav",75
+Sample,140108,0,"G3S_s.wav",67
+Sample,140592,0,"C7S_s.wav",75
+Sample,140592,0,"A6S_s.wav",75
+Sample,140592,0,"G4S_s.wav",67
+Sample,140592,0,"D4S_s.wav",67
+Sample,140915,0,"B6S_s.wav",75
+Sample,140915,0,"G6S_s.wav",75
+Sample,140915,0,"D6S_s.wav",75
+Sample,140915,0,"A3S_s.wav",67
+Sample,141237,0,"LR_Hat Synth.wav",70
+Sample,141237,0,"C7S_s.wav",75
+Sample,141237,0,"A4S_s.wav",67
+Sample,141237,0,"E4S_s.wav",67
+Sample,141560,0,"LR_Hat Synth.wav",70
+Sample,141560,0,"B6S_s.wav",75
+Sample,141560,0,"E6S_s.wav",75
+Sample,141560,0,"G3S_s.wav",67
+Sample,141882,0,"LR_Hat Synth.wav",70
+Sample,141882,0,"G6S_s.wav",75
+Sample,141882,0,"G4S_s.wav",67
+Sample,141882,0,"D4S_s.wav",67
+Sample,142205,0,"LR_Hat Synth.wav",70
+Sample,142205,0,"E6S.wav",75
+Sample,142205,0,"C6S.wav",75
+Sample,142205,0,"C3S_s.wav",67
+Sample,143173,0,"LR_Hat Synth.wav",60
+Sample,143173,0,"D6S_s.wav",75
+Sample,143173,0,"G4S_s.wav",67
+Sample,143495,0,"E6S_s.wav",75
+Sample,143495,0,"C6S_s.wav",75
+Sample,143495,0,"F3S_s.wav",67
+Sample,143818,0,"LR_Hat Synth.wav",70
+Sample,143818,0,"A6S_s.wav",75
+Sample,143818,0,"F4S_s.wav",67
+Sample,143818,0,"C4S_s.wav",67
+Sample,144140,0,"LR_Hat Synth.wav",70
+Sample,144140,0,"G6S_s.wav",75
+Sample,144140,0,"D6S_s.wav",75
+Sample,144786,0,"LR_Hat Synth.wav",70
+Sample,144786,0,"E6S_s.wav",75
+Sample,144786,0,"C6S_s.wav",75
+Sample,144786,0,"G3S_s.wav",67
+Sample,145108,0,"LR_Hat Synth.wav",70
+Sample,145108,0,"A6S_s.wav",75
+Sample,145108,0,"D4S_s.wav",67
+Sample,145108,0,"G4S_s.wav",67
+Sample,145431,0,"LR_Hat Synth.wav",70
+Sample,145431,0,"B6S_s.wav",75
+Sample,145431,0,"E6S_s.wav",75
+Sample,146076,0,"LR_Hat Synth.wav",70
+Sample,146076,0,"A6S_s.wav",75
+Sample,146076,0,"E6S_s.wav",75
+Sample,146076,0,"C6S_s.wav",75
+Sample,146076,0,"A3S_s.wav",67
+Sample,146399,0,"A4S_s.wav",67
+Sample,146399,0,"E4S_s.wav",67
+Sample,146721,0,"LR_Hat Synth.wav",70
+Sample,146721,0,"G6S_s.wav",75
+Sample,146721,0,"D6S_s.wav",75
+Sample,146721,0,"G3S_s.wav",67
+Sample,147044,0,"LR_Hat Synth.wav",70
+Sample,147044,0,"D6S_s.wav",75
+Sample,147044,0,"G4S_s.wav",67
+Sample,147044,0,"D4S_s.wav",67
+Sample,147366,0,"LR_Hat Synth.wav",70
+Sample,147366,0,"E6S_s.wav",75
+Sample,147366,0,"B5S_s.wav",75
+Sample,147366,0,"C3S_s.wav",67
+Sample,147689,0,"D6S_s.wav",75
+Sample,147689,0,"C4S_s.wav",67
+Sample,147689,0,"G3S_s.wav",67
+Sample,148011,0,"LR_Hat Synth.wav",70
+Sample,148011,0,"E6S_s.wav",75
+Sample,148011,0,"B5S_s.wav",75
+Sample,148334,0,"LR_Hat Synth.wav",70
+Sample,148334,0,"B5S_s.wav",75
+Sample,148334,0,"C4S_s.wav",67
+Sample,148334,0,"G3S_s.wav",67
+Sample,148657,0,"A6S_s.wav",75
+Sample,148657,0,"E6S_s.wav",75
+Sample,148657,0,"C6S_s.wav",75
+Sample,148657,0,"F3S_s.wav",67
+Sample,149140,0,"E6S_s.wav",75
+Sample,149140,0,"C6S_s.wav",75
+Sample,149140,0,"F3S_s.wav",67
+Sample,149624,0,"G6S_s.wav",75
+Sample,149624,0,"F4S_s.wav",67
+Sample,149624,0,"C4S_s.wav",67
+Sample,149947,0,"A6S_s.wav",75
+Sample,149947,0,"D6S_s.wav",75
+Sample,149947,0,"B5S_s.wav",75
+Sample,149947,0,"G3S_s.wav",67
+Sample,150431,0,"A6S_s.wav",75
+Sample,150431,0,"D6S_s.wav",75
+Sample,150431,0,"B5S_s.wav",75
+Sample,150431,0,"G3S_s.wav",67
+Sample,150915,0,"C7S_s.wav",75
+Sample,150915,0,"A6S_s.wav",75
+Sample,150915,0,"G4S_s.wav",67
+Sample,150915,0,"D4S_s.wav",67
+Sample,151237,0,"B6S_s.wav",75
+Sample,151237,0,"G6S_s.wav",75
+Sample,151237,0,"D6S_s.wav",75
+Sample,151237,0,"A3S_s.wav",67
+Sample,151560,0,"LR_Hat Synth.wav",70
+Sample,151560,0,"C7S_s.wav",75
+Sample,151560,0,"G6S_s.wav",75
+Sample,151560,0,"A4S_s.wav",67
+Sample,151560,0,"E4S_s.wav",67
+Sample,151882,0,"LR_Hat Synth.wav",70
+Sample,151882,0,"D7S_s.wav",75
+Sample,151882,0,"G6S_s.wav",75
+Sample,151882,0,"G3S_s.wav",67
+Sample,152205,0,"LR_Hat Synth.wav",70
+Sample,152205,0,"C7S_s.wav",75
+Sample,152205,0,"G6S_s.wav",75
+Sample,152205,0,"G4S_s.wav",67
+Sample,152205,0,"D4S_s.wav",67
+Sample,152528,0,"LR_Hat Synth.wav",70
+Sample,152528,0,"B6S.wav",75
+Sample,152528,0,"G6S.wav",75
+Sample,152528,0,"E6S.wav",75
+Sample,152528,0,"C3S_s.wav",67
+Sample,153173,0,"E4S_s.wav",67
+Sample,153495,0,"G6S_s.wav",75
+Sample,153495,0,"C5S_s.wav",67
+Sample,153818,0,"A6S_s.wav",75
+Sample,153818,0,"E6S_s.wav",75
+Sample,153818,0,"C6S_s.wav",75
+Sample,153818,0,"F3S_s.wav",67
+Sample,154624,0,"D6S_s.wav",75
+Sample,154624,0,"D4S_s.wav",67
+Sample,155108,0,"LR_Hat Synth.wav",70
+Sample,155108,0,"E6S_s.wav",75
+Sample,155108,0,"C6S_s.wav",75
+Sample,155108,0,"A3S_s.wav",67
+Sample,155431,0,"LR_Hat Synth.wav",70
+Sample,155431,0,"C7S_s.wav",75
+Sample,155431,0,"A6S_s.wav",75
+Sample,155431,0,"A4S_s.wav",67
+Sample,155753,0,"LR_Hat Synth.wav",70
+Sample,155753,0,"B6S_s.wav",75
+Sample,155753,0,"G6S_s.wav",75
+Sample,155753,0,"E6S_s.wav",75
+Sample,155753,0,"E3S_s.wav",67
+Sample,156076,0,"LR_Hat Synth.wav",70
+Sample,156076,0,"G6S_s.wav",75
+Sample,156076,0,"E6S_s.wav",75
+Sample,156076,0,"E4S_s.wav",67
+Sample,156399,0,"LR_Hat Synth.wav",70
+Sample,156399,0,"A6S_s.wav",75
+Sample,156399,0,"E6S_s.wav",75
+Sample,156399,0,"F3S_s.wav",67
+Sample,157044,0,"A6S_s.wav",75
+Sample,157044,0,"E6S_s.wav",75
+Sample,157044,0,"G3S_s.wav",67
+Sample,157689,0,"A6S.wav",75
+Sample,157689,0,"E6S.wav",75
+Sample,157689,0,"A3S_s.wav",75
+Sample,158979,0,"E6S_s.wav",50
+Sample,158979,0,"C6S_s.wav",50
+Sample,158979,0,"F4S_s.wav",50
+Sample,159624,0,"G4S_s.wav",50
+Sample,160269,0,"A4S_s.wav",50
+Sample,160915,0,"G6S_s.wav",50
+Sample,160915,0,"E6S_s.wav",50
+Sample,160915,0,"E4S_s.wav",50
+Sample,161560,0,"F6S_s.wav",50
+Sample,161560,0,"F4S_s.wav",50
+Sample,161882,0,"F5S_s.wav",50
+Sample,162205,0,"G4S_s.wav",50
+Sample,162850,0,"E6S_s.wav",50
+Sample,162850,0,"A4S_s.wav",50
+
+[TimingPoints]
+270,322.58064516129,4,2,1,60,1,0
+8495,-100.0,4,2,1,25,0,0
+8657,-100.0,4,2,1,30,0,0
+8818,-100.0,4,2,1,35,0,0
+8979,-100.0,4,2,1,40,0,0
+9140,-100.0,4,2,1,50,0,0
+9302,-100.0,4,2,1,60,0,0
+15753,-100.0,4,2,1,50,0,0
+20915,-100.0,4,2,1,40,0,0
+26076,-100.0,4,2,1,50,0,0
+31237,-100.0,4,2,1,60,0,0
+36399,-100.0,4,2,1,50,0,0
+40269,-100.0,4,2,1,60,0,0
+41560,-100.0,4,2,1,70,0,1
+60915,-100.0,4,2,1,60,0,0
+67366,-100.0,4,2,1,50,0,0
+72528,-100.0,4,2,1,40,0,0
+77689,-100.0,4,2,1,50,0,0
+88011,-100.0,4,2,1,40,0,0
+93173,-100.0,4,2,1,30,0,0
+102205,-100.0,4,2,1,35,0,0
+103495,-100.0,4,2,1,40,0,0
+111237,-100.0,4,2,1,60,0,0
+117689,-100.0,4,2,1,70,0,1
+137689,-100.0,4,2,1,70,0,0
+138334,-100.0,4,2,1,70,0,1
+157689,-100.0,4,2,1,50,0,0
+158979,-100.0,4,2,1,40,0,0
+162850,-100.0,4,2,1,30,0,0
+169302,-100.0,4,2,1,20,0,0
+
+[HitObjects]
+320,192,270,1,2,0:0:0:0:
+192,192,753,1,2,0:0:0:0:
+64,192,1237,128,2,2528:0:0:0:0:
+448,192,2528,1,0,0:0:0:0:
+192,192,2850,1,6,0:0:0:0:
+320,192,3334,1,6,0:0:0:0:
+448,192,3818,128,6,4786:0:0:0:0:
+64,192,4786,128,0,5431:0:0:0:40:LR_Drum Kick Low.wav
+320,192,5431,1,2,0:0:0:0:
+192,192,5915,1,2,0:0:0:0:
+448,192,6399,128,2,7366:0:0:0:0:
+64,192,7366,1,0,0:0:0:55:LR_HiHat Click2.wav
+192,192,7689,1,0,0:0:0:0:
+320,192,8011,128,6,9302:0:0:0:0:
+192,192,9302,128,12,10592:0:0:0:0:
+448,192,10592,1,6,0:0:0:0:
+64,192,10915,1,8,0:0:0:0:
+320,192,11237,1,2,0:0:0:0:
+192,192,11560,1,8,0:0:0:0:
+448,192,11882,1,2,0:0:0:0:
+64,192,12205,1,8,0:0:0:0:
+320,192,12850,1,8,0:0:0:0:
+64,192,13173,1,2,0:0:0:0:
+448,192,13495,1,8,0:0:0:0:
+192,192,13818,1,2,0:0:0:0:
+320,192,14140,1,8,0:0:0:0:
+64,192,14463,1,2,0:0:0:0:
+448,192,14786,1,8,0:0:0:0:
+64,192,15431,1,8,0:0:0:0:
+320,192,15753,1,2,0:0:0:0:
+448,192,15753,1,4,0:0:0:0:
+192,192,16399,1,8,0:0:0:0:
+320,192,17044,1,2,0:0:0:0:
+192,192,17366,1,2,0:0:0:0:
+64,192,17689,1,8,0:0:0:0:
+192,192,18334,1,2,0:0:0:0:
+448,192,18979,1,8,0:0:0:0:
+64,192,19624,1,2,0:0:0:0:
+192,192,19947,1,2,0:0:0:0:
+320,192,20269,1,8,0:0:0:0:
+448,192,20915,128,6,22205:0:0:0:0:
+320,192,22205,128,0,23495:0:0:0:0:
+64,192,23495,128,0,24140:0:0:0:70:LR_Hat Synth.wav
+192,192,24140,128,0,24786:0:0:0:70:LR_Hat Synth.wav
+320,192,24786,128,0,25431:0:0:0:70:LR_Hat Synth.wav
+448,192,25431,1,0,0:0:0:70:LR_Hat Synth.wav
+64,192,26076,128,4,26882:0:0:0:0:
+192,192,26076,1,2,0:0:0:0:
+448,192,26882,1,6,0:0:0:0:
+320,192,27366,128,6,28173:0:0:0:0:
+192,192,28173,1,6,0:0:0:0:
+64,192,28657,128,4,29463:0:0:0:0:
+448,192,28657,1,2,0:0:0:0:
+192,192,29463,1,8,0:0:0:0:
+320,192,29947,128,6,30431:0:0:0:0:
+64,192,30431,128,6,30753:0:0:0:0:
+448,192,30753,128,0,31237:0:0:0:20:LR_Drum Hit Drop High.wav
+64,192,31237,1,6,0:0:0:0:
+192,192,31237,1,0,0:0:0:30:LR_Drum Hit Drop High.wav
+320,192,31560,1,8,0:0:0:0:
+448,192,32205,1,8,0:0:0:0:
+192,192,32528,1,6,0:0:0:0:
+320,192,32850,1,8,0:0:0:0:
+64,192,33495,1,8,0:0:0:0:
+192,192,33818,1,12,0:0:0:0:
+320,192,34140,1,8,0:0:0:0:
+448,192,34463,1,8,0:0:0:0:
+64,192,34786,1,8,0:0:0:0:
+448,192,35108,128,12,35753:0:0:0:0:
+192,192,35753,128,0,36399:0:0:0:20:LR_Drum Hit Drop High.wav
+320,192,36399,1,6,0:0:0:0:
+448,192,36399,1,0,0:0:0:68:D6S.wav
+192,192,37689,1,2,0:0:0:0:
+320,192,37689,1,0,0:0:0:50:LR_CymbalG_R.wav
+64,192,38979,1,2,0:0:0:0:
+192,192,38979,1,0,0:0:0:50:LR_CymbalG_L.wav
+448,192,40269,128,0,40915:0:0:0:70:LR_Hat Synth.wav
+64,192,40915,128,8,41560:0:0:0:0:
+320,192,41560,1,6,0:0:0:0:
+192,192,41882,1,8,0:0:0:0:
+448,192,42044,128,6,42528:0:0:0:0:
+64,192,42528,1,8,0:0:0:0:
+192,192,42850,1,6,0:0:0:0:
+320,192,43173,1,8,0:0:0:0:
+64,192,43334,128,6,43818:0:0:0:0:
+448,192,43818,1,8,0:0:0:0:
+192,192,44140,1,6,0:0:0:0:
+448,192,44463,1,8,0:0:0:0:
+64,192,44786,1,2,0:0:0:0:
+320,192,45108,1,8,0:0:0:0:
+192,192,45431,128,2,46399:0:0:0:0:
+448,192,46399,128,8,46721:0:0:0:0:
+64,192,46721,1,6,0:0:0:0:
+320,192,47044,1,8,0:0:0:0:
+192,192,47366,1,2,0:0:0:0:
+448,192,48011,1,2,0:0:0:0:
+192,192,48334,1,8,0:0:0:0:
+320,192,48657,1,2,0:0:0:0:
+64,192,49302,128,2,49624:0:0:0:0:
+448,192,49624,1,12,0:0:0:0:
+320,192,49947,128,2,50269:0:0:0:0:
+192,192,50269,1,8,0:0:0:0:
+448,192,50592,128,2,50915:0:0:0:0:
+64,192,50915,1,12,0:0:0:0:
+192,192,51237,128,2,51560:0:0:0:0:
+320,192,51560,1,8,0:0:0:0:
+448,192,51882,128,6,52366:0:0:0:0:
+64,192,52366,1,6,0:0:0:0:
+320,192,52850,1,8,0:0:0:0:
+64,192,53173,128,6,53657:0:0:0:0:
+448,192,53657,1,6,0:0:0:0:
+320,192,54140,1,8,0:0:0:0:
+64,192,54463,1,6,0:0:0:0:
+320,192,54786,1,8,0:0:0:0:
+192,192,55108,1,2,0:0:0:0:
+448,192,55431,1,8,0:0:0:0:
+64,192,55753,128,2,56399:0:0:0:0:
+448,192,56399,128,2,56721:0:0:0:0:
+64,192,56721,128,0,57044:0:0:0:40:LR_Drum Hit Drop High.wav
+320,192,57044,128,6,57528:0:0:0:0:
+64,192,57528,1,0,0:0:0:62:A5S_s.wav
+192,192,57850,128,2,58334:0:0:0:0:
+448,192,58334,1,2,0:0:0:0:
+64,192,58657,1,8,0:0:0:0:
+320,192,58979,1,2,0:0:0:0:
+192,192,59302,1,8,0:0:0:0:
+64,192,59624,128,2,60269:0:0:0:0:
+448,192,60269,128,2,60915:0:0:0:0:
+64,192,60915,128,2,61399:0:0:0:0:
+320,192,61399,1,2,0:0:0:0:
+192,192,61721,1,2,0:0:0:0:
+448,192,61882,1,0,0:0:0:40:LR_Drum Hit Drop High.wav
+64,192,62205,128,6,62850:0:0:0:0:
+192,192,62850,128,8,63495:0:0:0:0:
+448,192,63495,128,2,64140:0:0:0:0:
+320,192,64140,1,8,0:0:0:0:
+64,192,64463,128,0,64786:0:0:0:20:LR_HiHat Click2.wav
+448,192,64786,1,2,0:0:0:0:
+192,192,65108,1,0,0:0:0:20:LR_HiHat Click2.wav
+320,192,65431,1,8,0:0:0:0:
+64,192,65753,1,0,0:0:0:20:LR_HiHat Click2.wav
+448,192,66076,128,2,66721:0:0:0:0:
+192,192,66721,1,8,0:0:0:0:
+320,192,67044,1,0,0:0:0:30:tom03.wav
+64,192,67366,1,6,0:0:0:0:
+192,192,67366,1,0,0:0:0:50:F6S.wav
+320,192,68011,1,0,0:0:0:20:LR_HiHat Click2.wav
+192,192,68657,1,2,0:0:0:0:
+448,192,69302,1,0,0:0:0:20:LR_HiHat Click2.wav
+64,192,69947,1,2,0:0:0:0:
+192,192,70592,1,0,0:0:0:20:LR_HiHat Click2.wav
+320,192,71237,1,2,0:0:0:0:
+448,192,71882,1,0,0:0:0:20:LR_HiHat Click2.wav
+64,192,72528,128,6,73818:0:0:0:0:
+192,192,73818,128,0,75108:0:0:0:20:LR_HiHat Click2.wav
+448,192,75108,128,2,75753:0:0:0:0:
+320,192,75753,128,2,76399:0:0:0:0:
+192,192,76399,128,2,77044:0:0:0:0:
+64,192,77044,1,0,0:0:0:70:LR_Hat Synth.wav
+320,192,77689,1,4,0:0:0:0:
+448,192,77689,128,2,78495:0:0:0:0:
+64,192,78495,1,6,0:0:0:0:
+192,192,78979,128,6,79786:0:0:0:0:
+320,192,79786,1,6,0:0:0:0:
+64,192,80269,1,4,0:0:0:0:
+448,192,80269,128,2,81076:0:0:0:0:
+320,192,81076,1,8,0:0:0:0:
+192,192,81560,128,6,82044:0:0:0:0:
+448,192,82044,128,6,82366:0:0:0:0:
+64,192,82366,128,0,82850:0:0:0:0:
+320,192,82850,1,4,0:0:0:0:
+448,192,82850,1,2,0:0:0:0:
+192,192,83495,1,8,0:0:0:0:
+64,192,84140,1,2,0:0:0:0:
+448,192,84786,1,8,0:0:0:0:
+192,192,85431,1,2,0:0:0:0:
+320,192,86076,1,8,0:0:0:0:
+448,192,86721,1,2,0:0:0:0:
+64,192,87366,1,8,0:0:0:0:
+320,192,88011,1,2,0:0:0:0:
+448,192,88011,1,0,0:0:0:50:LR_CymbalG_R.wav
+192,192,89302,1,2,0:0:0:0:
+320,192,89302,1,0,0:0:0:50:LR_CymbalG_L.wav
+64,192,90592,1,2,0:0:0:0:
+192,192,90592,1,0,0:0:0:50:LR_CymbalG_R.wav
+448,192,91882,128,0,93173:0:0:0:20:LR_HiHat Click2.wav
+64,192,93173,1,0,0:0:0:50:F6S.wav
+320,192,94463,1,0,0:0:0:51:G6S.wav
+192,192,95753,1,0,0:0:0:50:D6S_s.wav
+448,192,96399,1,0,0:0:0:50:B5S_s.wav
+320,192,97044,128,0,97689:0:0:0:50:E6S.wav
+64,192,97689,128,0,98334:0:0:0:50:G5S_s.wav
+448,192,98334,1,0,0:0:0:50:F6S.wav
+192,192,99624,1,0,0:0:0:50:E6S.wav
+320,192,100915,1,0,0:0:0:50:D6S_s.wav
+64,192,101560,1,0,0:0:0:50:F6S_s.wav
+192,192,102205,1,0,0:0:0:50:E6S_s.wav
+320,192,102850,1,0,0:0:0:70:LR_Hat Synth.wav
+448,192,102850,1,0,0:0:0:50:D7S_s.wav
+64,192,103495,1,6,0:0:0:0:
+320,192,104786,1,0,0:0:0:20:LR_HiHat Click2.wav
+192,192,106076,1,2,0:0:0:0:
+448,192,106721,1,0,0:0:0:20:LR_HiHat Click2.wav
+64,192,107366,1,0,0:0:0:20:LR_HiHat Click2.wav
+448,192,108657,1,2,0:0:0:0:
+192,192,109947,1,0,0:0:0:30:LR_HiHat Click2.wav
+320,192,111237,128,6,111882:0:0:0:0:
+64,192,111882,128,6,112528:0:0:0:0:
+448,192,112528,128,10,113818:0:0:0:0:
+192,192,113818,128,10,115108:0:0:0:0:
+320,192,115108,128,2,116399:0:0:0:0:
+64,192,116399,128,10,117044:0:0:0:0:
+448,192,117044,128,0,117689:0:0:0:20:LR_Drum Hit Drop High.wav
+192,192,117689,1,6,0:0:0:0:
+320,192,118011,1,8,0:0:0:0:
+64,192,118173,128,6,118657:0:0:0:0:
+448,192,118657,1,8,0:0:0:0:
+320,192,118979,1,6,0:0:0:0:
+192,192,119302,1,8,0:0:0:0:
+448,192,119463,128,6,119947:0:0:0:0:
+64,192,119947,1,8,0:0:0:0:
+320,192,120269,1,6,0:0:0:0:
+64,192,120592,1,8,0:0:0:0:
+448,192,120915,1,2,0:0:0:0:
+192,192,121237,1,8,0:0:0:0:
+320,192,121560,128,2,122528:0:0:0:0:
+64,192,122528,128,8,122850:0:0:0:0:
+448,192,122850,1,6,0:0:0:0:
+192,192,123173,1,8,0:0:0:0:
+320,192,123495,1,2,0:0:0:0:
+64,192,124140,1,2,0:0:0:0:
+320,192,124463,1,8,0:0:0:0:
+192,192,124786,1,2,0:0:0:0:
+448,192,125431,128,2,125753:0:0:0:0:
+64,192,125753,1,12,0:0:0:0:
+320,192,126076,128,2,126399:0:0:0:0:
+192,192,126399,1,8,0:0:0:0:
+64,192,126721,128,2,127044:0:0:0:0:
+448,192,127044,1,12,0:0:0:0:
+192,192,127366,128,2,127689:0:0:0:0:
+320,192,127689,1,8,0:0:0:0:
+448,192,128011,128,6,128495:0:0:0:0:
+64,192,128495,1,6,0:0:0:0:
+320,192,128979,1,8,0:0:0:0:
+64,192,129302,128,6,129786:0:0:0:0:
+448,192,129786,1,6,0:0:0:0:
+192,192,130269,1,8,0:0:0:0:
+448,192,130592,1,6,0:0:0:0:
+192,192,130915,1,8,0:0:0:0:
+320,192,131237,1,2,0:0:0:0:
+64,192,131560,1,8,0:0:0:0:
+448,192,131882,128,2,132528:0:0:0:0:
+64,192,132528,128,2,133173:0:0:0:0:
+320,192,133173,128,6,133657:0:0:0:0:
+64,192,133657,1,0,0:0:0:62:A5S_s.wav
+192,192,133979,128,2,134463:0:0:0:0:
+448,192,134463,1,2,0:0:0:0:
+64,192,134786,1,8,0:0:0:0:
+320,192,135108,1,2,0:0:0:0:
+192,192,135431,1,8,0:0:0:0:
+448,192,135753,128,2,136399:0:0:0:0:
+64,192,136399,128,2,137044:0:0:0:0:
+448,192,137044,128,2,137689:0:0:0:0:
+64,192,137689,128,0,138334:0:0:0:20:LR_Drum Hit Drop High.wav
+448,192,138334,1,6,0:0:0:0:
+320,192,138657,1,8,0:0:0:0:
+192,192,138818,128,6,139302:0:0:0:0:
+448,192,139302,1,8,0:0:0:0:
+64,192,139624,1,6,0:0:0:0:
+192,192,139947,1,8,0:0:0:0:
+320,192,140108,128,6,140592:0:0:0:0:
+64,192,140592,1,8,0:0:0:0:
+192,192,140915,1,6,0:0:0:0:
+448,192,141237,1,8,0:0:0:0:
+64,192,141560,1,2,0:0:0:0:
+320,192,141882,1,8,0:0:0:0:
+192,192,142205,128,2,143173:0:0:0:0:
+448,192,143173,128,8,143495:0:0:0:0:
+64,192,143495,1,6,0:0:0:0:
+192,192,143818,1,8,0:0:0:0:
+320,192,144140,1,2,0:0:0:0:
+448,192,144786,1,2,0:0:0:0:
+320,192,145108,1,8,0:0:0:0:
+192,192,145431,1,2,0:0:0:0:
+320,192,146076,128,2,146399:0:0:0:0:
+192,192,146399,1,12,0:0:0:0:
+64,192,146721,128,2,147044:0:0:0:0:
+448,192,147044,1,8,0:0:0:0:
+192,192,147366,128,2,147689:0:0:0:0:
+320,192,147689,1,12,0:0:0:0:
+448,192,148011,128,2,148334:0:0:0:0:
+64,192,148334,1,8,0:0:0:0:
+192,192,148657,128,6,149140:0:0:0:0:
+448,192,149140,1,6,0:0:0:0:
+64,192,149624,1,8,0:0:0:0:
+320,192,149947,128,6,150431:0:0:0:0:
+64,192,150431,1,6,0:0:0:0:
+448,192,150915,1,8,0:0:0:0:
+192,192,151237,1,6,0:0:0:0:
+448,192,151560,1,8,0:0:0:0:
+64,192,151882,1,2,0:0:0:0:
+320,192,152205,1,8,0:0:0:0:
+192,192,152528,128,2,153173:0:0:0:0:
+448,192,153173,128,2,153495:0:0:0:0:
+64,192,153495,128,0,153818:0:0:0:40:LR_Drum Hit Drop High.wav
+320,192,153818,128,6,154302:0:0:0:0:
+192,192,154302,1,0,0:0:0:75:A6S_s.wav
+64,192,154624,128,2,155108:0:0:0:0:
+448,192,155108,1,2,0:0:0:0:
+192,192,155431,1,8,0:0:0:0:
+320,192,155753,1,2,0:0:0:0:
+64,192,156076,1,8,0:0:0:0:
+448,192,156399,128,2,157044:0:0:0:0:
+192,192,157044,128,8,157689:0:0:0:0:
+320,192,157689,128,2,158979:0:0:0:0:
+64,192,158979,128,0,159624:0:0:0:50:A6S_s.wav
+448,192,159624,1,0,0:0:0:50:G6S_s.wav
+192,192,160108,1,0,0:0:0:0:
+320,192,160269,128,0,160915:0:0:0:50:E6S_s.wav
+64,192,160915,128,0,161560:0:0:0:50:B6S_s.wav
+448,192,161560,1,0,0:0:0:50:A6S_s.wav
+192,192,161882,1,0,0:0:0:50:C7S_s.wav
+320,192,162205,1,0,0:0:0:50:D7S_s.wav
+64,192,162528,1,0,0:0:0:50:G5S_s.wav
+448,192,162850,128,0,164140:0:0:0:50:A6S_s.wav
+64,192,164140,1,0,0:0:0:50:D7S.wav
+64,192,165431,128,0,169302:0:0:0:48:E7S.wav
+192,192,165431,1,0,0:0:0:0:
+448,192,169302,1,2,0:0:0:0:

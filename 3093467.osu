@@ -1,0 +1,100 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 90
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:sus
+TitleUnicode:sus
+Artist:Mostima.mp4
+ArtistUnicode:Mostima.mp4
+Creator:Deppyforce
+Version:easy
+Source:
+Tags:floral circlet bloom bloom, bouquet outtakes volume 4 among us amogus suspect theme song original sound track ost electronic trap remix japanese vtuber virtual youtuber ホロライブ hololive production ロライブプロダクション idol project ඞ ロボ子さん roboco-san アキ・ローゼンタール akiroze akirose aki rosenthal 百鬼あやめ nakiri ayame xidorn gfmrt
+BeatmapID:3093467
+BeatmapSetID:1510644
+
+[Difficulty]
+HPDrainRate:3
+CircleSize:3
+OverallDifficulty:3
+ApproachRate:3
+SliderMultiplier:1
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"ayamus.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+110,468.75,4,2,1,50,1,0
+7610,-100,4,2,1,65,0,0
+15110,-100,4,2,1,55,0,0
+22141,-100,4,2,1,75,0,1
+22610,-100,4,2,1,65,0,0
+30110,-100,4,2,1,55,0,0
+
+
+[Colours]
+Combo1 : 240,230,151
+Combo2 : 244,159,166
+Combo3 : 240,191,142
+
+[HitObjects]
+124,192,110,5,4,3:0:0:0:
+124,192,3625,2,0,L|180:187,1,50,4|4,3:0|3:0,0:0:0:0:
+360,242,7141,1,6,3:2:0:0:
+450,200,7610,6,0,P|468:156|440:99,1,100,4|10,3:0|0:0,0:0:0:0:
+353,85,8547,2,0,L|344:34,2,50,2|6|10,0:0|3:2|0:0,0:0:0:0:
+276,149,9485,1,6,3:2:0:0:
+179,126,9953,1,8,0:0:0:0:
+95,250,10656,6,0,P|77:294|79:314,2,50,4|8|4,3:0|0:0|3:0,0:0:0:0:
+65,209,11360,1,4,3:0:0:0:
+80,111,11828,2,0,L|179:126,1,100,10|2,0:0|0:0,0:0:0:0:
+260,184,12766,2,0,L|331:173,1,50,10|2,0:0|0:0,0:0:0:0:
+352,203,13235,5,6,3:2:0:0:
+406,286,13703,1,12,3:2:0:0:
+344,363,14172,1,2,0:0:0:0:
+252,327,14641,1,14,3:2:0:0:
+256,229,15110,6,0,B|265:179|265:179|239:130,2,100,4|10|2,3:0|0:0|0:0,0:0:0:0:
+170,275,16516,1,10,0:0:0:0:
+77,241,16985,2,0,B|56:194|56:194|79:142,2,100,2|8|2,0:0|0:0|0:0,0:0:0:0:
+170,275,18391,2,0,L|225:263,1,50,8|4,0:0|3:0,0:0:0:0:
+256,229,18860,5,4,3:0:0:0:
+352,257,19328,1,10,0:0:0:0:
+380,161,19797,1,2,0:0:0:0:
+476,189,20266,2,0,P|511:133|505:102,1,100,14|2,3:2|0:0,0:0:0:0:
+256,8,22141,5,8,1:0:0:0:
+166,52,22610,6,0,L|181:151,1,100,4|10,3:0|0:0,0:0:0:0:
+134,239,23547,2,0,L|75:247,2,50,2|6|10,0:0|3:2|0:0,0:0:0:0:
+219,290,24485,1,6,3:2:0:0:
+305,240,24953,1,8,0:0:0:0:
+389,291,25422,2,0,P|400:315|406:338,2,50,2|4|8,0:0|3:0|0:0,0:0:0:0:
+305,240,26360,6,0,B|276:202|276:202|281:151,1,100,4|10,3:0|0:0,0:0:0:0:
+394,51,27531,2,0,L|398:-3,2,50,6|10|2,3:2|0:0|0:0,0:0:0:0:
+435,78,28235,1,6,3:2:0:0:
+410,174,28703,1,12,3:2:0:0:
+485,240,29172,1,2,0:0:0:0:
+460,335,29641,2,0,P|490:376|534:383,1,100,14|2,3:2|0:3,0:0:0:0:

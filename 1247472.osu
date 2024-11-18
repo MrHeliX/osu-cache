@@ -1,0 +1,93 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 6
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:By The Seaside
+TitleUnicode:By The Seaside
+Artist:Apple
+ArtistUnicode:Apple
+Creator:PotatoStation
+Version:Oni
+Source:
+Tags:
+BeatmapID:1247472
+BeatmapSetID:589330
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:7
+OverallDifficulty:10
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+550,416.666666666667,4,1,0,100,1,0
+
+
+[HitObjects]
+256,192,549,1,0,0:0:0:0:
+256,192,966,1,8,0:0:0:0:
+256,192,1244,1,8,0:0:0:0:
+256,192,1800,1,8,0:0:0:0:
+256,192,2494,1,0,0:0:0:0:
+256,192,2633,1,8,0:0:0:0:
+256,192,2911,1,0,0:0:0:0:
+256,192,3050,1,8,0:0:0:0:
+256,192,3327,1,8,0:0:0:0:
+256,192,3466,1,0,0:0:0:0:
+256,192,3744,1,0,0:0:0:0:
+256,192,3883,1,0,0:0:0:0:
+256,192,4300,1,8,0:0:0:0:
+256,192,4577,1,8,0:0:0:0:
+256,192,5133,1,8,0:0:0:0:
+256,192,5966,1,0,0:0:0:0:
+256,192,6244,1,0,0:0:0:0:
+256,192,6800,1,8,0:0:0:0:
+256,192,7077,1,4,0:0:0:0:
+256,192,7216,1,12,0:0:0:0:
+256,192,9161,1,12,0:0:0:0:
+256,192,9300,1,12,0:0:0:0:
+256,192,9577,1,12,0:0:0:0:
+256,192,9716,1,12,0:0:0:0:
+256,192,9994,1,0,0:0:0:0:
+256,192,10133,1,0,0:0:0:0:
+256,192,10411,1,0,0:0:0:0:
+256,192,10550,1,0,0:0:0:0:
+256,192,10966,1,0,0:0:0:0:
+256,192,11244,1,0,0:0:0:0:
+256,192,11800,1,8,0:0:0:0:
+256,192,12633,1,8,0:0:0:0:
+256,192,12911,1,8,0:0:0:0:
+256,192,13466,1,0,0:0:0:0:
+256,192,13744,1,12,0:0:0:0:
+256,192,13883,1,12,0:0:0:0:
+256,192,14577,1,0,0:0:0:0:
+256,192,14716,1,0,0:0:0:0:
+256,192,15411,1,4,0:0:0:0:
+256,192,15550,1,14,0:0:0:0:

@@ -1,0 +1,58 @@
+osu file format v9
+
+[General]
+AudioFilename: Wotamin - Kurikaeshi Hitotsubu.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 4
+
+[Metadata]
+Title:Kurikaeshi Hitotsubu
+Artist:Wotamin
+Creator:Fuuko
+Version:Hard
+Source:NekomushiP
+Tags:Vocaloid Cover Hatsune Miku
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:3
+OverallDifficulty:7
+ApproachRate:8
+SliderMultiplier:2.3
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"One.Of.Repetition.full.868322.jpg"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+1202,508.474576271186,4,2,1,80,1,0
+
+
+[HitObjects]
+256,192,2473,12,0,8320
+132,352,9083,6,0,B|288:352,1,115,0|4
+320,276,9591,1,0
+320,276,9718,1,0
+320,276,9846,2,0,B|310:214|320:160,1,115,8|0
+388,84,10354,5,0
+388,84,10481,1,0
+388,84,10608,2,0,B|448:68|516:64,1,115

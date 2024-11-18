@@ -1,0 +1,137 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.ogg
+AudioLeadIn: 0
+PreviewTime:45954
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.6
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 815,6161,18043,27547,37052,46409,55914,65419,75072,85913
+DistanceSpacing: 0.9
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 0.1
+
+[Metadata]
+Title:Sekai o Inuite (TV Size)
+TitleUnicode:世界を射抜いて (TV Size)
+Artist:Sou
+ArtistUnicode:Sou
+Creator:Ryuusei Aika
+Version:bluirre's Beginner
+Tags:Xiirn Phynta LotsOfBagel SUISEI69 TheBushy Fufla arekk GalaxyGaming THAT_otaku killian Tesla173 Fall nettspend The Fart Lord fieryrage HomingLesi TsumugiP Jennifer Syph wyit Ralkinson Stupid Femboy SupaV Armada kxlman Kyairie Wispy Kudou Chitose __Ag Ducknorriss wiwit Nijika Ijichi Chompy wyrio archie melleganol ShinyBraixen Cellina pnky Molybdenum Nakazawa Emgeul Reiszen Auriga Izzeee payney EnderCraft AruOtta chaser01 perc70cuhz OnyxAje ajmosca Mahiru Shiina Basherman deppyforce Noob_Oni Kataryn Renumi THAT_blazord Vince7778 v0x Delta_ TritoBandito bluirre Nachmark -kevincela- olsonn Aakki sayucat_ Urition Mekadon Stompy_ Tuffiii Cytusine LightIn RealDeathmatch ArXe an3 KaiserWeebs Xadreco Roupus Yumenexa -Yua KnightC0re Defectum Gaz bnmc Yuri Enjoyer SourMongoose yary Kuroise MonsieurSebas Germanrekk Len tor Syodou EnuHQ im chill asf japanese rock wo mizto jennglebells Mikelito069 kolman potatodew Kenterz9 farq Orange_ hanabyte finnish bn Koyorin-sama sydnmc -Magic- O_K_U -_alex
+BeatmapSetID:2167008
+Source:THE NEW GATE
+BeatmapID:4574919
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:0
+OverallDifficulty:0
+ApproachRate:0
+SliderMultiplier:0.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+2,6361,13866
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+-3343,297.029702970297,4,2,1,80,1,0
+-3343,-100,4,2,1,80,0,0
+1260,-100,4,2,1,70,0,0
+3785,-100,4,2,1,80,0,0
+5567,-100,4,2,1,70,0,0
+5864,-100,4,2,1,80,0,0
+16855,-100,4,2,1,70,0,0
+18043,297.029702970297,4,2,1,60,1,0
+18043,-100,4,2,1,60,0,0
+26359,-100,4,2,1,65,0,0
+26953,-100,4,2,1,70,0,0
+27102,-100,4,2,1,50,0,0
+27250,-100,4,2,1,70,0,0
+27547,-100,4,2,1,75,0,0
+36310,-100,4,2,1,55,0,0
+36384,-100,4,2,1,75,0,0
+37052,-100,4,2,1,70,0,0
+41805,-100,4,2,1,80,0,0
+43884,288.461538461538,4,2,1,80,1,0
+44172,297.029702970297,4,2,1,80,1,0
+46399,304.568527918782,4,2,1,80,1,0
+46399,-97.0873786407767,4,2,1,90,0,1
+46551,304.568527918782,4,2,1,90,1,1
+46855,297.029702970297,4,2,1,90,1,1
+47746,297.029702970297,4,2,1,90,1,1
+50790,-100,4,2,1,60,0,1
+51013,-100,4,2,1,90,0,1
+55914,-100,4,2,1,100,0,1
+60295,-100,4,2,1,60,0,1
+60369,-100,4,2,1,70,0,1
+60444,-100,4,2,1,80,0,1
+60518,-100,4,2,1,90,0,1
+60666,-100,4,2,1,100,0,1
+63191,-100,4,2,1,90,0,1
+72696,300,4,2,1,90,1,1
+72696,-100,4,2,1,90,0,1
+74496,288.461538461538,4,2,1,75,1,1
+74496,-100,4,2,1,75,0,1
+74784,-100,4,2,1,85,0,1
+75072,297.029702970297,4,2,1,85,1,0
+75072,-100,4,2,1,85,0,0
+84576,-100,4,2,1,90,0,0
+87992,-100,4,2,1,10,0,0
+
+
+[Colours]
+Combo1 : 173,255,95
+Combo2 : 193,132,255
+Combo3 : 17,254,176
+Combo4 : 255,138,108
+
+[HitObjects]
+256,192,1260,12,4,6161,3:2:0:0:
+130,46,15666,6,0,B|86:76|86:76|104:183,1,160,0|4,3:0|3:2,0:0:0:0:
+216,268,18043,22,0,B|318:208|359:311|355:312|349:311|387:407|484:359,1,320,4|0,3:2|3:2,0:0:0:0:
+497,218,21607,1,2,3:3:0:0:
+408,104,22795,22,0,P|332:95|306:24,1,160,4|0,3:2|3:2,0:0:0:0:
+180,48,25171,2,0,P|104:57|78:122,1,140,0|0,3:2|3:2,0:0:0:0:
+37,249,27547,22,0,B|139:309|180:206|176:205|170:206|208:110|305:158,1,320,0|0,3:0|3:0,0:0:0:0:
+408,254,31112,1,0,3:0:0:0:
+498,142,32300,22,0,B|454:112|454:112|472:5,2,160,2|0|2,3:0|3:0|3:0,0:0:0:0:
+408,231,35716,1,2,3:0:0:0:
+269,314,37052,6,0,B|214:336|214:336|164:295,1,120,4|4,3:2|3:2,0:0:0:0:
+203,123,39429,2,0,B|257:100|257:100|307:141,1,120,4|12,3:2|0:0,0:0:0:0:
+380,301,41805,22,0,P|451:278|519:276,2,140,4|4|10,3:2|3:2|0:2,0:0:0:0:
+432,35,46399,38,0,P|356:44|330:115,1,162.232666666667,6|4,3:2|3:2,0:0:0:0:
+410,234,48785,2,0,P|486:243|512:314,1,160,2|4,3:0|3:2,0:0:0:0:
+373,353,51161,2,0,B|214:324,2,160,0|10|14,3:0|0:3|0:3,0:0:0:0:
+350,210,54726,1,10,0:3:0:0:
+325,68,55914,6,0,B|251:36|251:36|182:92,1,160,6|2,3:1|3:1,0:0:0:0:
+214,227,58290,2,0,B|152:277|152:277|78:245,1,160,2|2,3:1|3:1,0:0:0:0:
+123,108,60666,1,2,3:1:0:0:
+233,199,61854,1,2,3:0:0:0:
+370,285,63191,38,0,B|421:224|421:224|332:17,1,300,2|4,0:3|3:2,0:0:0:0:
+226,117,66607,1,4,3:2:0:0:
+116,210,67795,2,0,P|40:201|14:130,1,160,4|4,3:2|3:2,0:0:0:0:
+127,41,70171,5,0,3:2:0:0:
+257,104,71359,1,2,3:0:0:0:
+385,202,72696,2,0,P|443:200|482:243,1,120,8|8,0:2|0:2,0:0:0:0:
+348,363,75072,6,0,B|408:261|305:220|304:224|305:230|209:192|257:95,1,320,4|0,3:2|3:2,0:0:0:0:
+154,22,78487,1,0,3:0:0:0:
+111,176,79824,2,0,P|35:185|10:240,1,140,2|0,3:3|3:0,0:0:0:0:
+140,314,82200,22,0,B|157:304|157:304|256:333,2,120,8|8|0,0:0|0:0|3:0,0:0:0:0:
+76,347,84576,2,0,B|66:330|66:330|114:168,1,180,8|8,0:0|1:2,0:0:0:0:

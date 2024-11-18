@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 43493
 Countdown: 0
-SampleSet: None
+SampleSet: Normal
 StackLeniency: 0.7
 Mode: 1
 LetterboxInBreaks: 0
@@ -19,14 +19,14 @@ GridSize: 32
 TimelineZoom: 3.799999
 
 [Metadata]
-Title:Danrit
-TitleUnicode:Danrit
-Artist:DJ Witch Girl MIR4CLEN
-ArtistUnicode:DJ魔女っ娘ミラクるん
+Title:Dumb Lit (ANX House Remix) (Nightcore Mix)
+TitleUnicode:Dumb Lit (ANX House Remix) (Nightcore Mix)
+Artist:Herobust
+ArtistUnicode:Herobust
 Creator:Gamelan4
-Version:F*CK!!
-Source:Expert Global Taiko Showdown
-Tags:EGTS 2022 ﾅﾆ″─ω丶)っー⊂ʚ ♥ɞ electronic instrumental
+Version:DANRIT!
+Source:
+Tags:cynplytholowazy cynp-zy HiroK Expert Global Taiko Showdown EGTS 2022 electronic instrumental
 BeatmapID:3784993
 BeatmapSetID:1842746
 
@@ -500,6 +500,7 @@ SliderTickRate:1
 74518,-83.39812,4,1,0,100,0,0
 74690,-82.30863,4,1,0,100,0,0
 74747,-81.93637,4,1,0,100,0,0
+74779,-81.6326530612245,4,1,0,100,0,0
 74861,-81.17626,4,1,0,100,0,0
 75029,-80,4,1,0,100,0,0
 75033,-80,4,1,0,100,0,0
@@ -518,6 +519,7 @@ SliderTickRate:1
 76744,-87.67926,4,1,0,100,0,0
 76787,-88.33396,4,1,0,100,0,0
 76915,-90.5508,4,1,0,100,0,0
+76979,-92.3076923077207,4,1,0,100,0,0
 77087,-94.27655,4,1,0,100,0,0
 77144,-95.73728,4,1,0,100,0,0
 77202,-97.358086,4,1,0,100,0,0
@@ -1291,6 +1293,7 @@ SliderTickRate:1
 376,151,74522,1,0,0:0:0:0:
 340,158,74694,1,8,0:0:0:0:
 218,141,74751,1,0,0:0:0:0:
+160,64,74807,1,0,0:0:0:0:
 356,160,74865,1,8,0:0:0:0:
 283,156,75037,1,0,0:0:0:0:
 340,158,75380,1,8,0:0:0:0:
@@ -1308,11 +1311,12 @@ SliderTickRate:1
 363,146,76750,1,8,0:0:0:0:
 223,88,76793,1,8,0:0:0:0:
 222,160,76921,1,0,0:0:0:0:
+320,96,77036,1,0,0:0:0:0:
 390,131,77093,1,8,0:0:0:0:
-390,131,77150,1,8,0:0:0:0:
-390,131,77208,1,8,0:0:0:0:
-382,179,77265,1,0,0:0:0:0:
-382,179,77350,1,0,0:0:0:0:
+390,131,77150,1,0,0:0:0:0:
+390,131,77208,1,0,0:0:0:0:
+382,179,77264,1,8,0:0:0:0:
+320,96,77350,1,0,0:0:0:0:
 360,154,77436,1,8,0:0:0:0:
 244,157,77478,1,8,0:0:0:0:
 333,209,77608,1,0,0:0:0:0:
